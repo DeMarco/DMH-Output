@@ -1108,6 +1108,16 @@
 	)
 	(wire
 		(pts
+			(xy 152.4 29.21) (xy 152.4 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "9ecd466d-4b69-48e8-894f-08c2c99dcae8")
+	)
+	(wire
+		(pts
 			(xy 25.4 101.6) (xy 34.29 101.6)
 		)
 		(stroke
@@ -1205,6 +1215,16 @@
 			(type default)
 		)
 		(uuid "b65bf21c-9814-4ed9-a50a-52f1a4c355f7")
+	)
+	(wire
+		(pts
+			(xy 152.4 31.75) (xy 120.65 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "cb12008a-c4bc-4ec9-9944-0b14051e1cc0")
 	)
 	(wire
 		(pts
@@ -1362,7 +1382,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "SynthStuff:Pot_Cutout_Medium"
+		(property "Footprint" "SynthStuff:Pot_Cutout_Medium_v2"
 			(at 50.8 57.15 0)
 			(effects
 				(font
@@ -1738,6 +1758,76 @@
 			(project ""
 				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
 					(reference "H16")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:MountingHole_Pot")
+		(at 152.4 26.67 0)
+		(unit 1)
+		(exclude_from_sim yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "30e8070b-0b7d-4339-87f2-81b2b7363642")
+		(property "Reference" "H18"
+			(at 154.94 22.8599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Ext In"
+			(at 154.94 25.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "SynthStuff:Pot_Cutout_Tiny"
+			(at 152.4 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 152.4 26.67 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Pot Mounting Hole"
+			(at 154.94 27.9399 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "1"
+			(uuid "7bbf354f-00ab-421f-9627-661a3d6aa0d5")
+		)
+		(instances
+			(project "DMH_Output_PANEL"
+				(path "/a552705f-a9fe-462e-9913-5cfcc08b233c"
+					(reference "H18")
 					(unit 1)
 				)
 			)
@@ -2433,10 +2523,10 @@
 		(lib_id "SynthStuff:Panel_GND_Solder_Wire_Pad")
 		(at 45.72 278.13 270)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(fields_autoplaced yes)
 		(uuid "ed5f3b92-462f-4574-b5e9-7850038d93bd")
 		(property "Reference" "J0"
