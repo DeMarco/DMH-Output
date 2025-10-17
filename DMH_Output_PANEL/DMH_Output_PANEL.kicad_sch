@@ -1270,10 +1270,10 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 139.7 50.8 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "0382bb13-94ce-42f7-b890-6666dd6509b9")
 		(property "Reference" "H17"
 			(at 142.24 49.5299 0)
@@ -1682,10 +1682,10 @@
 		(lib_id "Mechanical:MountingHole")
 		(at 101.6 50.8 0)
 		(unit 1)
-		(exclude_from_sim no)
+		(exclude_from_sim yes)
 		(in_bom no)
-		(on_board yes)
-		(dnp no)
+		(on_board no)
+		(dnp yes)
 		(uuid "281808eb-77e6-49de-81b2-de96a77bea85")
 		(property "Reference" "H16"
 			(at 104.14 49.5299 0)
@@ -1898,7 +1898,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Ext In R"
+		(property "Value" "Ext R"
 			(at 129.54 25.4 0)
 			(effects
 				(font
@@ -1968,7 +1968,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "Ext In L"
+		(property "Value" "Ext L"
 			(at 104.14 25.4 0)
 			(effects
 				(font
@@ -2174,7 +2174,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HP Volume"
+		(property "Value" "HP"
 			(at 66.04 88.9 0)
 			(effects
 				(font
