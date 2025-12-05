@@ -675,20 +675,28 @@
       "Root"
     ],
     [
-      "ce3fef8b-9f1d-4178-b50b-4a046c030679",
-      "Inputs and Outputs"
+      "45b3c00a-420e-4349-b096-199706c640d6",
+      "Headphone Amplifier"
     ],
     [
-      "7ad2d702-dfb7-4d49-a82d-34430dd5948f",
-      "Core Circuit"
+      "0b1658b3-ac7b-4692-8043-3e4b42d6c671",
+      "Pre-Gain Stage"
     ],
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
       "Power"
     ],
     [
+      "9adc9203-60fe-4942-b6ff-2cd29597aa58",
+      "Gain Trimmer"
+    ],
+    [
       "91d96a83-7777-458d-a0c8-9961efcb16a5",
       "Meter"
+    ],
+    [
+      "824fc238-5889-4012-a2b6-493f2edfd718",
+      "Balanced Line Driver"
     ]
   ],
   "text_variables": {}

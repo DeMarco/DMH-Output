@@ -9,9 +9,1986 @@
 		(company "DMH Instruments")
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
 	)
-	(lib_symbols)
+	(lib_symbols
+		(symbol "Connector_Audio:AudioJack3"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "AudioJack3"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "audio jack receptacle stereo headphones phones TRS connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jack*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "AudioJack3_0_1"
+				(rectangle
+					(start -5.08 -5.08)
+					(end -6.35 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy -1.905 -2.54) (xy -1.27 -3.175) (xy -0.635 -2.54) (xy -0.635 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 -2.54) (xy 0.635 -3.175) (xy 1.27 -2.54) (xy 2.54 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 3.81)
+					(end -5.08 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy -2.54 2.54) (xy -2.54 -2.54) (xy -3.175 -3.175) (xy -3.81 -2.54)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "AudioJack3_1_1"
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "R"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SynthStuff:BackBone_Connector_10Pin"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at 0 -10.922 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "IDC_02x05"
+				(at 0 -8.382 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_BackBone"
+				(at -1.27 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at -1.27 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "IDC jack, 2x5 pins, row a carries same signals as row b."
+				(at -1.27 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_2x??_*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "BackBone_Connector_10Pin_1_1"
+				(rectangle
+					(start -2.54 6.35)
+					(end 2.54 -6.35)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(rectangle
+					(start -2.54 5.207)
+					(end -1.27 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 2.667)
+					(end -1.27 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 0.127)
+					(end -1.27 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 -2.413)
+					(end -1.27 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start -2.54 -4.953)
+					(end -1.27 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 5.207)
+					(end 1.27 4.953)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 2.667)
+					(end 1.27 2.413)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 0.127)
+					(end 1.27 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -2.413)
+					(end 1.27 -2.667)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 -4.953)
+					(end 1.27 -5.207)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at -6.35 5.08 0)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 2.54 0)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 0 0)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 -2.54 0)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at -6.35 -5.08 0)
+					(length 3.81)
+					(name "Pin_5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "5"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 5.08 180)
+					(length 3.81)
+					(name "Pin_6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "6"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 2.54 180)
+					(length 3.81)
+					(name "Pin_7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "7"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 0 180)
+					(length 3.81)
+					(name "Pin_8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "8"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -2.54 180)
+					(length 3.81)
+					(name "Pin_9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "9"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 6.35 -5.08 180)
+					(length 3.81)
+					(name "Pin_10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "10"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "SynthStuff:TS_Jack_6.35mm_Sw"
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "J"
+				(at -0.635 8.89 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TS_Jack_6.35mm_Sw"
+				(at -0.635 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" "~"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "mono audio jack receptacle 6.35mm TS connector tip switch"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_fp_filters" "Jack*"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "TS_Jack_6.35mm_Sw_0_1"
+				(rectangle
+					(start -2.54 0)
+					(end -3.81 -2.54)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0.635 -0.635) (xy 1.27 0) (xy 2.54 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.778 -0.254) (xy 2.032 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(rectangle
+					(start 2.54 3.81)
+					(end -2.54 -5.08)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type background)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 2.54) (xy -0.635 2.54) (xy -0.635 0) (xy -1.27 -0.635) (xy -1.905 0)
+					)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 2.54 -2.54) (xy 1.778 -2.54) (xy 1.778 -0.254) (xy 1.524 -0.762)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TS_Jack_6.35mm_Sw_1_1"
+				(pin passive line
+					(at 5.08 2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "S"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "T"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+				(pin passive line
+					(at 5.08 -2.54 180)
+					(length 2.54)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "TN"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+		(symbol "power:GND"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "GND"
+				(at 0 -3.81 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "GND_0_1"
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 -1.27) (xy 1.27 -1.27) (xy 0 -2.54) (xy -1.27 -1.27) (xy 0 -1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "GND_1_1"
+				(pin power_in line
+					(at 0 0 270)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
+	)
+	(wire
+		(pts
+			(xy 241.3 77.47) (xy 260.35 77.47)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "00c9b793-8a1e-4d79-80b9-2fd07828ca5e")
+	)
+	(wire
+		(pts
+			(xy 241.3 29.21) (xy 260.35 29.21)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "013b03f9-3875-4e4c-9769-2a13a5ffd323")
+	)
+	(wire
+		(pts
+			(xy 260.35 80.01) (xy 257.81 80.01)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "182846e2-ca85-468c-b07d-250a12a1a548")
+	)
+	(wire
+		(pts
+			(xy 33.02 43.18) (xy 33.02 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1b545744-442a-4878-b88c-1c93851019e5")
+	)
+	(wire
+		(pts
+			(xy 33.02 40.64) (xy 30.48 40.64)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "31cca0d0-6158-4d30-a5b6-9f1aa0d66b64")
+	)
+	(wire
+		(pts
+			(xy 257.81 34.29) (xy 260.35 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "378d6293-4083-43f8-8215-4fc90f980ec8")
+	)
+	(wire
+		(pts
+			(xy 33.02 66.04) (xy 30.48 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "4f15a60c-64ad-482e-bf54-3bc5171b62d6")
+	)
+	(wire
+		(pts
+			(xy 241.3 31.75) (xy 260.35 31.75)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "5c8e9d0f-dd48-473b-962f-af62cdf974c1")
+	)
+	(wire
+		(pts
+			(xy 30.48 63.5) (xy 50.8 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78f91818-b52d-4942-b5da-f0e97aeb9adb")
+	)
+	(wire
+		(pts
+			(xy 257.81 49.53) (xy 260.35 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "8a8fed1e-fd42-46b8-8182-b74ad7543be9")
+	)
+	(wire
+		(pts
+			(xy 241.3 74.93) (xy 260.35 74.93)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "91ad672d-a6d1-469b-80d6-872f5fb63f20")
+	)
+	(wire
+		(pts
+			(xy 241.3 44.45) (xy 260.35 44.45)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "94e768c1-5fbb-4da1-8a2c-7c9a5df9bcca")
+	)
+	(wire
+		(pts
+			(xy 33.02 68.58) (xy 33.02 66.04)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b90b8615-e70a-4cc5-9b75-2cf8b17485bf")
+	)
+	(wire
+		(pts
+			(xy 257.81 52.07) (xy 257.81 49.53)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b91914a3-da50-4288-bd3a-3a90894f0217")
+	)
+	(wire
+		(pts
+			(xy 30.48 38.1) (xy 50.8 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dbd6abeb-4bc5-447f-be93-98fe02d3cda2")
+	)
+	(wire
+		(pts
+			(xy 88.9 63.5) (xy 114.3 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "dcd3967a-91f1-449e-a174-4f2cbfba2eb2")
+	)
+	(wire
+		(pts
+			(xy 257.81 80.01) (xy 257.81 82.55)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e0fedf34-fc85-451e-a3d7-9efb9043a647")
+	)
+	(wire
+		(pts
+			(xy 88.9 38.1) (xy 114.3 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "e1291904-2c0a-42e5-934c-b6379005003c")
+	)
+	(wire
+		(pts
+			(xy 241.3 46.99) (xy 260.35 46.99)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f3d48af3-b1cb-4602-8de5-fdf0b5de31cb")
+	)
+	(wire
+		(pts
+			(xy 257.81 36.83) (xy 257.81 34.29)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5d66394-966f-4e07-ae6c-b45d5f0f354d")
+	)
+	(symbol
+		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
+		(at 25.4 63.5 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "270731ba-cd3b-4815-bd78-11a57c3c5992")
+		(property "Reference" "J2"
+			(at 25.4 56.642 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS_Jack_6.35mm_Sw"
+			(at 24.765 69.85 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+			(at 25.4 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Input R"
+			(at 25.4 69.088 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "be9e453e-31ef-4fc0-95a2-30d5d424c362")
+		)
+		(pin "T"
+			(uuid "fe099e98-bad8-4fba-996f-49632b4d16a8")
+		)
+		(pin "TN"
+			(uuid "79aace20-a5db-4fc7-a4da-31244f32c40e")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J2")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 257.81 82.55 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "61dece11-2758-49c9-ac79-849d9d3e0026")
+		(property "Reference" "#PWR039"
+			(at 257.81 88.9 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 257.81 82.55 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "a6746abe-74f6-464c-9e84-4d5740ba7d2e")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "#PWR039")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:BackBone_Connector_10Pin")
+		(at 34.29 101.6 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "66e740ab-de03-4589-917d-ee14d3ad66de")
+		(property "Reference" "J200"
+			(at 34.29 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "IDC_02x05"
+			(at 34.29 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_BackBone"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "IDC jack, 2x5 pins, row a carries same signals as row b."
+			(at 33.02 104.14 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "10"
+			(uuid "498c0e93-3993-4744-9af7-0e2c73d59817")
+		)
+		(pin "5"
+			(uuid "e00b30b7-8c2a-446f-9e2d-9db291f2fb11")
+		)
+		(pin "1"
+			(uuid "78842939-266b-411a-8128-a80cb97a3a95")
+		)
+		(pin "3"
+			(uuid "5fdacb41-a641-4524-98a6-aa1b71c3502e")
+		)
+		(pin "4"
+			(uuid "216c8eb6-3937-402d-82c5-b55ecef99a42")
+		)
+		(pin "6"
+			(uuid "41f1cd70-0563-426d-8ba9-f2a32e124151")
+		)
+		(pin "7"
+			(uuid "2c92b2a6-545f-4918-81e4-4f4c61983c03")
+		)
+		(pin "2"
+			(uuid "26e50caf-c036-4579-bc88-6530c2d5e4d9")
+		)
+		(pin "8"
+			(uuid "72a22a60-d642-452c-81e9-7e69937a998f")
+		)
+		(pin "9"
+			(uuid "bdd76700-4e1a-411a-8838-ceb3becd9758")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J200")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 257.81 36.83 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "6a8db4d1-102d-4c42-8e35-484247a0a90b")
+		(property "Reference" "#PWR034"
+			(at 257.81 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 257.81 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "e79571e3-bb8b-49ba-a463-fee51d8c1acf")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "#PWR034")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 257.81 52.07 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8988e8a2-75fa-4772-bdc0-a1ad3947c654")
+		(property "Reference" "#PWR033"
+			(at 257.81 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 257.81 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 257.81 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 257.81 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 257.81 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "685fa426-b155-4db4-b4eb-5e2ffdb8dede")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "#PWR033")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 33.02 43.18 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "8e535868-c715-4e3d-b855-ddee50c013e4")
+		(property "Reference" "#PWR027"
+			(at 33.02 49.53 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 43.18 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "f02969a0-65f5-4a2b-92a7-856bfc60e3b1")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "#PWR027")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack3")
+		(at 265.43 46.99 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "95823f83-4d31-447e-85c2-c00367d414a1")
+		(property "Reference" "J4"
+			(at 273.05 45.0849 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AudioJack3"
+			(at 273.05 47.6249 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 265.43 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Out R"
+			(at 276.098 46.99 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "7bf3dedd-9294-452a-a3d6-94e328ba32d2")
+		)
+		(pin "T"
+			(uuid "fa8f5de6-556a-4ddc-9350-49f2a8451cba")
+		)
+		(pin "R"
+			(uuid "b930ed0a-4cf3-4a62-897a-19b0d59c4e5d")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "power:GND")
+		(at 33.02 68.58 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "aaa8933b-fc54-4dc4-852c-a6832396aad8")
+		(property "Reference" "#PWR028"
+			(at 33.02 74.93 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 33.02 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 33.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 33.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 33.02 68.58 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "81de3912-270c-4772-8aef-14ed097e8406")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "#PWR028")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
+		(at 25.4 38.1 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "cd01f2df-e58e-4e41-ae4f-75acfb39389b")
+		(property "Reference" "J1"
+			(at 25.4 31.242 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS_Jack_6.35mm_Sw"
+			(at 24.765 44.45 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+			(at 25.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+			(at 25.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Input L"
+			(at 25.4 43.688 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "325204c4-f6dd-4d2d-b380-d7224485e09c")
+		)
+		(pin "T"
+			(uuid "e3b2e9d7-e5a1-4f01-badf-5b9f87689c6d")
+		)
+		(pin "TN"
+			(uuid "06d6de4f-fbd4-4b57-a078-5070f3b2de5e")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J1")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack3")
+		(at 265.43 77.47 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "d4a5f4fd-467c-4f94-b61c-8c625d5eb6cb")
+		(property "Reference" "J5"
+			(at 273.05 75.5649 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AudioJack3"
+			(at 273.05 78.1049 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 265.43 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Out HP"
+			(at 276.098 77.47 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "S"
+			(uuid "c126be9a-a227-4cd1-b16c-f0984b08a866")
+		)
+		(pin "T"
+			(uuid "1dcb7741-61f4-4e8b-b3be-a0583b6e0bc1")
+		)
+		(pin "R"
+			(uuid "4fed953b-6477-4ce8-8af7-481b8e7b7174")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J5")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Audio:AudioJack3")
+		(at 265.43 31.75 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "f75e7634-5dda-46c9-9416-3bda3ab7969e")
+		(property "Reference" "J3"
+			(at 273.05 29.8449 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "AudioJack3"
+			(at 273.05 32.3849 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+		(property "Footprint" ""
+			(at 265.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 265.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
+			(at 265.43 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Out L"
+			(at 275.844 31.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
+		)
+		(pin "T"
+			(uuid "be3f0046-b60e-407e-bd60-c6d569e4f800")
+		)
+		(pin "S"
+			(uuid "942d9acf-4963-4cba-afbc-b58df6b79659")
+		)
+		(pin "R"
+			(uuid "21d8da32-28aa-4a00-8381-9b3b679b8683")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J3")
+					(unit 1)
+				)
+			)
+		)
+	)
 	(sheet
-		(at 121.92 36.83)
+		(at 50.8 25.4)
+		(size 38.1 50.8)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "0b1658b3-ac7b-4692-8043-3e4b42d6c671")
+		(property "Sheetname" "Pre-Gain Stage"
+			(at 50.8 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Pregain_stage.kicad_sch"
+			(at 50.8 76.7846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "Left_In" input
+			(at 50.8 38.1 180)
+			(uuid "59baae00-de1f-41d0-90a1-1a493b5f5ded")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "L_Monitor" output
+			(at 88.9 38.1 0)
+			(uuid "ba944c62-43d7-4c07-907d-10bdc6d99856")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "Right In" input
+			(at 50.8 63.5 180)
+			(uuid "e7d02b3d-35db-4723-b180-2cfa52a8adf4")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_Monitor" output
+			(at 88.9 63.5 0)
+			(uuid "7728f3ce-92e5-4ef5-800c-e90e7f97dfe3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "4")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 144.78 166.37)
 		(size 25.4 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -27,7 +2004,7 @@
 		)
 		(uuid "0cdf34b2-39cd-4d9e-981a-97cd34791509")
 		(property "Sheetname" "Power"
-			(at 121.92 36.1184 0)
+			(at 144.78 165.6584 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -36,7 +2013,7 @@
 			)
 		)
 		(property "Sheetfile" "Power.kicad_sch"
-			(at 121.92 62.8146 0)
+			(at 144.78 192.3546 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -54,8 +2031,8 @@
 		)
 	)
 	(sheet
-		(at 58.42 24.13)
-		(size 50.8 50.8)
+		(at 190.5 63.5)
+		(size 50.8 25.4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -68,9 +2045,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "7ad2d702-dfb7-4d49-a82d-34430dd5948f")
-		(property "Sheetname" "Core Circuit"
-			(at 58.42 23.4184 0)
+		(uuid "45b3c00a-420e-4349-b096-199706c640d6")
+		(property "Sheetname" "Headphone Amplifier"
+			(at 190.5 62.7884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -78,8 +2055,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Core_Circuit.kicad_sch"
-			(at 58.42 75.5146 0)
+		(property "Sheetfile" "Headphone_amplifier.kicad_sch"
+			(at 190.5 89.4846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -88,16 +2065,159 @@
 				(hide yes)
 			)
 		)
+		(pin "L_HP_OUT" output
+			(at 241.3 74.93 0)
+			(uuid "0b4f418c-e6bb-4b58-ace0-71a2475ad175")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "L_Monitor" input
+			(at 190.5 69.85 180)
+			(uuid "cffd4cab-363e-4b06-9664-9dc0193d4969")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_Monitor" input
+			(at 190.5 82.55 180)
+			(uuid "782e7175-69cb-4db3-a105-cf38ced9fe0b")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_HP_OUT" output
+			(at 241.3 77.47 0)
+			(uuid "63cd9db1-09c0-4c1e-a29f-03cc89219460")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "3")
+					(page "2")
 				)
 			)
 		)
 	)
 	(sheet
-		(at 58.42 91.44)
+		(at 190.5 25.4)
+		(size 50.8 25.4)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(stroke
+			(width 0.1524)
+			(type solid)
+		)
+		(fill
+			(color 0 0 0 0.0000)
+		)
+		(uuid "824fc238-5889-4012-a2b6-493f2edfd718")
+		(property "Sheetname" "Balanced Line Driver"
+			(at 190.5 24.6884 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left bottom)
+			)
+		)
+		(property "Sheetfile" "Balanced_line_driver.kicad_sch"
+			(at 190.5 51.3846 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left top)
+				(hide yes)
+			)
+		)
+		(pin "L_Bal_OUT_N" output
+			(at 241.3 31.75 0)
+			(uuid "58228ec4-595c-4f47-98ae-727ae93b5f2d")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "L_Bal_OUT_P" output
+			(at 241.3 29.21 0)
+			(uuid "e669f0bb-c213-4281-b38a-7050bc6d5412")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "L_Ch_OUT" input
+			(at 190.5 31.75 180)
+			(uuid "460fea31-ed91-4289-8269-b337b4360dce")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_Bal_OUT_N" output
+			(at 241.3 46.99 0)
+			(uuid "37fb4138-4a02-4c2c-a772-1ca9fb8d074c")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Bal_OUT_P" output
+			(at 241.3 44.45 0)
+			(uuid "2f61ac4e-9f02-4041-ba8f-49bab32d0a0f")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Ch_OUT" input
+			(at 190.5 44.45 180)
+			(uuid "3189da82-4afa-447e-9ade-3f7346dc68ed")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(page "6")
+				)
+			)
+		)
+	)
+	(sheet
+		(at 220.98 116.84)
 		(size 50.8 40.64)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -113,7 +2233,7 @@
 		)
 		(uuid "91d96a83-7777-458d-a0c8-9961efcb16a5")
 		(property "Sheetname" "Meter"
-			(at 58.42 90.7284 0)
+			(at 220.98 116.1284 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -122,7 +2242,7 @@
 			)
 		)
 		(property "Sheetfile" "Meter.kicad_sch"
-			(at 58.42 132.6646 0)
+			(at 220.98 158.0646 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -140,8 +2260,8 @@
 		)
 	)
 	(sheet
-		(at 20.32 24.13)
-		(size 25.4 50.8)
+		(at 114.3 25.4)
+		(size 38.1 50.8)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -154,9 +2274,9 @@
 		(fill
 			(color 0 0 0 0.0000)
 		)
-		(uuid "ce3fef8b-9f1d-4178-b50b-4a046c030679")
-		(property "Sheetname" "Inputs and Outputs"
-			(at 20.32 23.4184 0)
+		(uuid "9adc9203-60fe-4942-b6ff-2cd29597aa58")
+		(property "Sheetname" "Gain Trimmer"
+			(at 114.3 24.6884 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -164,8 +2284,8 @@
 				(justify left bottom)
 			)
 		)
-		(property "Sheetfile" "Inputs_and_Outputs.kicad_sch"
-			(at 20.32 75.5146 0)
+		(property "Sheetfile" "Gain_trimmer.kicad_sch"
+			(at 114.3 76.7846 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -174,10 +2294,50 @@
 				(hide yes)
 			)
 		)
+		(pin "L_Gain_IN" input
+			(at 114.3 38.1 180)
+			(uuid "d171f968-49cb-4ead-8d44-a8db9b273e0a")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "L_Gain_OUT" output
+			(at 152.4 38.1 0)
+			(uuid "703f612c-4199-4383-a7ea-c7a37bc4aae9")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(pin "R_Gain_IN" input
+			(at 114.3 63.5 180)
+			(uuid "93c9e5da-5f76-4df5-9af9-ec26fd0db0f1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(pin "R_Gain_OUT" output
+			(at 152.4 63.5 0)
+			(uuid "2b7c94bf-f2d4-41c8-b198-61124cd928c7")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(page "2")
+					(page "5")
 				)
 			)
 		)
