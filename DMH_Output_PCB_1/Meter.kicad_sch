@@ -4565,7 +4565,7 @@
 		)
 		(uuid "9a057b86-866b-4b98-bee8-9f527ff24d1b")
 	)
-	(hierarchical_label "Meter Left"
+	(hierarchical_label "Meter_Left"
 		(shape input)
 		(at 25.4 48.26 180)
 		(effects
@@ -4576,7 +4576,7 @@
 		)
 		(uuid "6bc5015d-fc05-402d-b0b0-4e357f87cfc2")
 	)
-	(hierarchical_label "Meter Right"
+	(hierarchical_label "Meter_Right"
 		(shape input)
 		(at 25.4 99.06 180)
 		(effects
