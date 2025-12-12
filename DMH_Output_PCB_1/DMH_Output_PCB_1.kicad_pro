@@ -692,11 +692,15 @@
     ],
     [
       "91d96a83-7777-458d-a0c8-9961efcb16a5",
-      "Meter"
+      "Output Meter"
     ],
     [
       "2bf49d64-899a-4cd6-98ee-a1cb99869b23",
       "PreAmp"
+    ],
+    [
+      "55c0022e-9ebc-4247-b070-6524df6af06d",
+      "Input Meter"
     ],
     [
       "0cdf34b2-39cd-4d9e-981a-97cd34791509",
