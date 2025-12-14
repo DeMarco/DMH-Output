@@ -932,26 +932,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 154.94) (xy 50.8 154.94)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "01ca6dce-2f00-47f1-8001-41e867a49f2e")
-	)
-	(wire
-		(pts
-			(xy 35.56 175.26) (xy 50.8 175.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "06fa1641-b19d-426a-b2cf-a2af55160c35")
-	)
-	(wire
-		(pts
 			(xy 177.8 63.5) (xy 177.8 44.45)
 		)
 		(stroke
@@ -1042,7 +1022,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 180.34) (xy 35.56 180.34)
+			(xy 33.02 180.34) (xy 30.48 180.34)
 		)
 		(stroke
 			(width 0)
@@ -1092,6 +1072,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 152.4) (xy 50.8 152.4)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "53ce9745-4740-4e10-84c6-e728da8695b6")
+	)
+	(wire
+		(pts
 			(xy 133.35 158.75) (xy 133.35 167.64)
 		)
 		(stroke
@@ -1102,7 +1092,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 160.02) (xy 38.1 157.48)
+			(xy 33.02 157.48) (xy 33.02 154.94)
 		)
 		(stroke
 			(width 0)
@@ -1212,7 +1202,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 157.48) (xy 35.56 157.48)
+			(xy 33.02 154.94) (xy 30.48 154.94)
 		)
 		(stroke
 			(width 0)
@@ -1252,6 +1242,16 @@
 	)
 	(wire
 		(pts
+			(xy 30.48 177.8) (xy 50.8 177.8)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "95099664-b91c-42ea-a06a-aa4b6770bd5e")
+	)
+	(wire
+		(pts
 			(xy 190.5 69.85) (xy 165.1 69.85)
 		)
 		(stroke
@@ -1262,7 +1262,7 @@
 	)
 	(wire
 		(pts
-			(xy 38.1 182.88) (xy 38.1 180.34)
+			(xy 33.02 182.88) (xy 33.02 180.34)
 		)
 		(stroke
 			(width 0)
@@ -1442,16 +1442,6 @@
 	)
 	(wire
 		(pts
-			(xy 35.56 177.8) (xy 50.8 177.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f594f764-f870-4cce-b0a3-8ed3ebfac2ec")
-	)
-	(wire
-		(pts
 			(xy 257.81 36.83) (xy 257.81 34.29)
 		)
 		(stroke
@@ -1479,16 +1469,6 @@
 			(type default)
 		)
 		(uuid "f6efbb77-84a6-4961-9e37-ee67a683e431")
-	)
-	(wire
-		(pts
-			(xy 35.56 152.4) (xy 50.8 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "f7894f8e-c381-4379-881f-0eee4eb0b8e6")
 	)
 	(wire
 		(pts
@@ -1584,7 +1564,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 182.88 0)
+		(at 33.02 182.88 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1593,7 +1573,7 @@
 		(dnp no)
 		(uuid "087870f8-f800-413b-b95a-4e283fb843e8")
 		(property "Reference" "#PWR041"
-			(at 38.1 189.23 0)
+			(at 33.02 189.23 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1602,7 +1582,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 187.96 0)
+			(at 33.02 187.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1610,7 +1590,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 182.88 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1619,7 +1599,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 182.88 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1628,7 +1608,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 182.88 0)
+			(at 33.02 182.88 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1732,36 +1712,34 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Audio:AudioJack3")
-		(at 30.48 154.94 0)
+		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
+		(at 25.4 177.8 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
-		(uuid "5bad974b-5b71-4382-9f92-b5e83adbbc3c")
-		(property "Reference" "J6"
-			(at 22.86 153.0349 0)
+		(uuid "4da19b32-b4a1-423a-9934-2beca09c79e2")
+		(property "Reference" "J7"
+			(at 25.4 170.942 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 			)
 		)
-		(property "Value" "AudioJack3"
-			(at 22.86 155.5749 0)
+		(property "Value" "TS_Jack_6.35mm_Sw"
+			(at 24.765 184.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
-				(justify right)
 				(hide yes)
 			)
 		)
-		(property "Footprint" ""
-			(at 30.48 154.94 0)
+		(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+			(at 25.4 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1770,7 +1748,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 30.48 154.94 0)
+			(at 25.4 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1778,8 +1756,8 @@
 				(hide yes)
 			)
 		)
-		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
-			(at 30.48 154.94 0)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+			(at 25.4 177.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1787,8 +1765,8 @@
 				(hide yes)
 			)
 		)
-		(property "Function" "Ext L"
-			(at 20.066 154.94 0)
+		(property "Function" "Ext R"
+			(at 25.4 183.388 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1798,14 +1776,97 @@
 				)
 			)
 		)
+		(pin "S"
+			(uuid "ade0e0ff-94a3-4aa5-a372-0ee29582d442")
+		)
 		(pin "T"
-			(uuid "1710acd6-2d9a-4200-b9ef-633e93b58bbd")
+			(uuid "1cdc9690-6724-42d5-af75-3076dd4f7ee2")
+		)
+		(pin "TN"
+			(uuid "6c55df54-940e-40fe-8e07-7a1c81470712")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
+		(at 25.4 152.4 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "5a649c96-b004-463b-a5e1-f393a6b90aa6")
+		(property "Reference" "J6"
+			(at 25.4 145.542 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TS_Jack_6.35mm_Sw"
+			(at 24.765 158.75 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "SynthStuff:CUI_MJ-63052A"
+			(at 25.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 25.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Audio Jack, 2 Poles (Mono / TS), Switched T Pole (Normalling), 6.35mm, 1/4inch"
+			(at 25.4 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" "Ext L"
+			(at 25.4 157.988 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
+				)
+			)
 		)
 		(pin "S"
-			(uuid "deeee2da-a692-49b3-85b8-6947047453a4")
+			(uuid "8d8e70bb-ee61-48f1-9a04-b8248219a8b1")
 		)
-		(pin "R"
-			(uuid "b34a1377-41f9-4980-98cb-798f75527945")
+		(pin "T"
+			(uuid "eaa92bcd-e656-4aac-940f-d5edaca9aad2")
+		)
+		(pin "TN"
+			(uuid "3c13c342-2b4a-4985-a91f-953e8742311b")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -2471,91 +2532,6 @@
 		)
 	)
 	(symbol
-		(lib_id "Connector_Audio:AudioJack3")
-		(at 30.48 177.8 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "ae410a02-fb0f-45d7-81a7-33eac797e9cc")
-		(property "Reference" "J7"
-			(at 22.86 175.8949 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "AudioJack3"
-			(at 22.86 178.4349 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-				(hide yes)
-			)
-		)
-		(property "Footprint" ""
-			(at 30.48 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 30.48 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Audio Jack, 3 Poles (Stereo / TRS)"
-			(at 30.48 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Function" "Ext R"
-			(at 19.812 177.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-					(thickness 0.254)
-					(bold yes)
-					(italic yes)
-				)
-			)
-		)
-		(pin "S"
-			(uuid "a69899eb-94bb-4281-ac85-9cd9cd0dfd8b")
-		)
-		(pin "T"
-			(uuid "bc0ab91e-7584-4de0-ac94-8c3497dc0a9f")
-		)
-		(pin "R"
-			(uuid "2e6311e0-9788-43ac-825e-92a3c11b39f5")
-		)
-		(instances
-			(project "DMH_Output_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
-					(reference "J7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
 		(at 25.4 38.1 0)
 		(mirror x)
@@ -2724,7 +2700,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 38.1 160.02 0)
+		(at 33.02 157.48 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -2734,7 +2710,7 @@
 		(fields_autoplaced yes)
 		(uuid "d559ee5d-cf95-404d-bc07-75789256a118")
 		(property "Reference" "#PWR040"
-			(at 38.1 166.37 0)
+			(at 33.02 163.83 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2743,7 +2719,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 38.1 165.1 0)
+			(at 33.02 162.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2751,7 +2727,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 38.1 160.02 0)
+			(at 33.02 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2760,7 +2736,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 38.1 160.02 0)
+			(at 33.02 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2769,7 +2745,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 38.1 160.02 0)
+			(at 33.02 157.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3111,19 +3087,9 @@
 				(justify right)
 			)
 		)
-		(pin "L_Ext_IN+" input
+		(pin "L_Ext_IN" input
 			(at 50.8 152.4 180)
 			(uuid "36712d7e-cd7d-4aa6-8da2-81e4e8eb40c9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "L_Ext_IN-" input
-			(at 50.8 154.94 180)
-			(uuid "344f3bb4-eb3d-4c52-aa2c-34f79c3dc975")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3141,19 +3107,9 @@
 				(justify right)
 			)
 		)
-		(pin "R_Ext_IN+" input
-			(at 50.8 175.26 180)
-			(uuid "d3d0c485-d7e5-418b-a462-e24e3b131686")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(pin "R_Ext_IN-" input
+		(pin "R_Ext_IN" input
 			(at 50.8 177.8 180)
-			(uuid "205bf025-2c0c-48c6-ad59-925b2aa012db")
+			(uuid "d3d0c485-d7e5-418b-a462-e24e3b131686")
 			(effects
 				(font
 					(size 1.27 1.27)

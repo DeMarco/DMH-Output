@@ -1804,6 +1804,46 @@
 			(embedded_fonts no)
 		)
 	)
+	(text "3 = Green"
+		(exclude_from_sim no)
+		(at 91.44 121.158 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "063a1cf0-96d5-4306-a7fe-ef80c0ee86ed")
+	)
+	(text "3 = Green"
+		(exclude_from_sim no)
+		(at 225.552 120.904 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "200c1b03-9b07-4803-8586-0f5f1f1d15b6")
+	)
+	(text "1 = Red"
+		(exclude_from_sim no)
+		(at 110.998 121.158 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "3d7cf3ae-0cb2-4754-b283-8a9fd655bc98")
+	)
+	(text "1 = Red"
+		(exclude_from_sim no)
+		(at 205.994 120.904 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "590d6a95-de9c-4915-a6b7-8118281dca69")
+	)
 	(junction
 		(at 151.13 137.16)
 		(diameter 0)

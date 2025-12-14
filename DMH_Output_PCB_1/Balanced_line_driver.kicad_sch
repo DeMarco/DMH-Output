@@ -2798,11 +2798,14 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
-			(at 152.4 76.2 0)
+		(property "Function" "L Bal Trim"
+			(at 165.862 75.946 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 			)
 		)
@@ -4339,11 +4342,14 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
-			(at 152.4 190.5 0)
+		(property "Function" "R Bal Trim"
+			(at 165.608 190.754 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
 			)
 		)

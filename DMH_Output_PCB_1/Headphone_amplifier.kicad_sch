@@ -4492,7 +4492,7 @@
 				)
 			)
 		)
-		(property "Value" "B100k_Dual"
+		(property "Value" "B10k_Dual"
 			(at 35.56 104.14 90)
 			(effects
 				(font
@@ -4782,7 +4782,7 @@
 				)
 			)
 		)
-		(property "Value" "B100k_Dual"
+		(property "Value" "B10k_Dual"
 			(at 35.56 21.59 90)
 			(effects
 				(font

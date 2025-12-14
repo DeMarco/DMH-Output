@@ -1089,6 +1089,82 @@
 		(uuid "ee0fbe62-65d6-4cc0-bf80-280aa24510a8")
 	)
 	(symbol
+		(lib_id "Device:C")
+		(at 107.95 63.5 90)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "06263645-e0f7-418c-8062-c29e8d8b8d89")
+		(property "Reference" "C7"
+			(at 107.95 55.88 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "47uF 35V"
+			(at 107.95 58.42 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm"
+			(at 111.76 62.5348 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 107.95 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Unpolarized capacitor"
+			(at 107.95 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 107.95 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "213b4b8d-cfbf-46f7-a62e-f5c30e9ef786")
+		)
+		(pin "2"
+			(uuid "e6f05d1c-cf62-425e-a15f-c96eac6863fa")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "C7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 88.9 50.8 90)
 		(unit 1)
@@ -1378,74 +1454,6 @@
 	)
 	(symbol
 		(lib_id "Device:C")
-		(at 107.95 63.5 90)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5103f96a-aae0-4270-90c7-10769526eeb0")
-		(property "Reference" "C7"
-			(at 107.95 55.88 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "47uF"
-			(at 107.95 58.42 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
-			(at 111.76 62.5348 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 107.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Unpolarized capacitor"
-			(at 107.95 63.5 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "8ca495b0-aeda-40db-9a1d-39aaf723f70d")
-		)
-		(pin "1"
-			(uuid "23859ec3-1678-4de8-8525-0a333c8a9eb7")
-		)
-		(instances
-			(project "DMH_Output_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
-					(reference "C7")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:C")
 		(at 107.95 127 90)
 		(unit 1)
 		(exclude_from_sim no)
@@ -1453,7 +1461,7 @@
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "b5a2ca5e-36e8-45bc-b3d1-5b0f1fb1a1aa")
+		(uuid "a02a7dd9-a33d-47b3-be57-629b8610c18b")
 		(property "Reference" "C10"
 			(at 107.95 119.38 90)
 			(effects
@@ -1462,7 +1470,7 @@
 				)
 			)
 		)
-		(property "Value" "47uF"
+		(property "Value" "47uF 35V"
 			(at 107.95 121.92 90)
 			(effects
 				(font
@@ -1470,7 +1478,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm"
+		(property "Footprint" "Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm"
 			(at 111.76 126.0348 0)
 			(effects
 				(font
@@ -1497,11 +1505,19 @@
 				(hide yes)
 			)
 		)
-		(pin "2"
-			(uuid "3a0fde24-3127-4384-a212-4fd0caa37f29")
+		(property "Function" ""
+			(at 107.95 127 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
 		)
 		(pin "1"
-			(uuid "7e11ff39-0b85-43ea-9ede-fd0eb7f3933a")
+			(uuid "c4ee632c-23fa-4b2a-a1da-3f7d0b53403b")
+		)
+		(pin "2"
+			(uuid "0748332d-1395-44d0-b4ad-c54171a895ca")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
