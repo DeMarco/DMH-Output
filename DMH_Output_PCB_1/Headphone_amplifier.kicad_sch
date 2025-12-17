@@ -4216,7 +4216,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "1k"
 			(at 69.85 57.15 90)
 			(effects
 				(font
@@ -5548,7 +5548,7 @@
 				)
 			)
 		)
-		(property "Value" "2k"
+		(property "Value" "1k"
 			(at 69.85 139.7 90)
 			(effects
 				(font
@@ -5581,6 +5581,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 69.85 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "2"
