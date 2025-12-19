@@ -2978,7 +2978,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 132.08 0)
 			(effects
 				(font
@@ -3064,7 +3064,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 127 66.04 0)
 			(effects
 				(font
@@ -3254,7 +3254,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 110.49 0)
 			(effects
 				(font
@@ -3340,7 +3340,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 27.94 0)
 			(effects
 				(font
@@ -3426,7 +3426,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 49.53 0)
 			(effects
 				(font
@@ -3648,7 +3648,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 127 148.59 0)
 			(effects
 				(font
@@ -3935,7 +3935,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 161.29 0)
 			(effects
 				(font
@@ -5470,7 +5470,7 @@
 				)
 			)
 		)
-		(property "Footprint" ""
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
 			(at 152.4 78.74 0)
 			(effects
 				(font

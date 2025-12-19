@@ -1845,7 +1845,7 @@
 		(uuid "590d6a95-de9c-4915-a6b7-8118281dca69")
 	)
 	(junction
-		(at 151.13 137.16)
+		(at 149.86 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0594c744-69fe-4446-af76-361d1004ce68")
@@ -1929,7 +1929,7 @@
 		(uuid "844b7695-a2a4-4335-a295-fd96a132169f")
 	)
 	(junction
-		(at 166.37 124.46)
+		(at 167.64 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "855f3df8-164e-4391-b09b-bde31134f1b4")
@@ -1941,7 +1941,7 @@
 		(uuid "9461f331-6b5b-402c-8b8b-e6a699511b44")
 	)
 	(junction
-		(at 166.37 137.16)
+		(at 167.64 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96e4075f-1cbb-439b-b65d-cd5469d0aa14")
@@ -1995,7 +1995,7 @@
 		(uuid "e01f1ace-bc08-47d1-bf95-ccd156db33ca")
 	)
 	(junction
-		(at 151.13 124.46)
+		(at 149.86 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eaafb8db-a071-4af0-9d4a-bc4b1dad2619")
@@ -2180,7 +2180,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 124.46) (xy 166.37 137.16)
+			(xy 167.64 124.46) (xy 167.64 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2200,7 +2200,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 124.46) (xy 151.13 137.16)
+			(xy 149.86 124.46) (xy 149.86 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2350,7 +2350,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 137.16) (xy 170.18 137.16)
+			(xy 167.64 137.16) (xy 170.18 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2440,7 +2440,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 124.46) (xy 170.18 124.46)
+			(xy 167.64 124.46) (xy 170.18 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2540,7 +2540,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 137.16) (xy 151.13 149.86)
+			(xy 149.86 137.16) (xy 149.86 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2550,7 +2550,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 114.3) (xy 166.37 114.3)
+			(xy 170.18 114.3) (xy 167.64 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2760,7 +2760,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 149.86) (xy 147.32 149.86)
+			(xy 149.86 149.86) (xy 147.32 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2830,7 +2830,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 149.86) (xy 170.18 149.86)
+			(xy 167.64 149.86) (xy 170.18 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2860,7 +2860,7 @@
 	)
 	(wire
 		(pts
-			(xy 151.13 114.3) (xy 151.13 124.46)
+			(xy 149.86 114.3) (xy 149.86 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2900,7 +2900,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 137.16) (xy 166.37 149.86)
+			(xy 167.64 137.16) (xy 167.64 149.86)
 		)
 		(stroke
 			(width 0)
@@ -2910,7 +2910,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 137.16) (xy 151.13 137.16)
+			(xy 147.32 137.16) (xy 149.86 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2920,7 +2920,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 114.3) (xy 151.13 114.3)
+			(xy 147.32 114.3) (xy 149.86 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3060,7 +3060,7 @@
 	)
 	(wire
 		(pts
-			(xy 166.37 114.3) (xy 166.37 124.46)
+			(xy 167.64 114.3) (xy 167.64 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3140,7 +3140,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 124.46) (xy 151.13 124.46)
+			(xy 147.32 124.46) (xy 149.86 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4692,7 +4692,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "8k2"
 			(at 161.29 137.1599 0)
 			(effects
 				(font
@@ -5589,7 +5589,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "39k"
 			(at 161.29 149.8599 0)
 			(effects
 				(font
@@ -7006,7 +7006,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "56k"
 			(at 161.29 124.4599 0)
 			(effects
 				(font
@@ -7076,7 +7076,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2K"
+		(property "Value" "1k3"
 			(at 161.29 162.5599 0)
 			(effects
 				(font
