@@ -3042,7 +3042,7 @@
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 127 66.04 0)
 		(mirror x)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3091,6 +3091,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 127 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5a62d973-1bd4-4472-8c35-3cfeb4159178")
 		)
@@ -3119,7 +3127,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
-					(unit 2)
+					(unit 1)
 				)
 			)
 		)
@@ -3128,7 +3136,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 50.8 143.51 0)
 		(mirror x)
-		(unit 2)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3177,6 +3185,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 50.8 143.51 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "b9dd24ce-5658-479d-a71c-e33758eb829b")
 		)
@@ -3223,7 +3239,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
-					(unit 2)
+					(unit 4)
 				)
 			)
 		)
@@ -3626,7 +3642,7 @@
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 127 148.59 0)
 		(mirror x)
-		(unit 2)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3675,6 +3691,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 127 148.59 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "5a62d973-1bd4-4472-8c35-3cfeb415917b")
 		)
@@ -3703,7 +3727,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
-					(unit 2)
+					(unit 1)
 				)
 			)
 		)
@@ -3913,7 +3937,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 152.4 161.29 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -3962,6 +3986,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 152.4 161.29 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "cd35719c-4818-48e3-890f-f2c8b27f8cc5")
 		)
@@ -3990,7 +4022,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
@@ -4270,7 +4302,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 88.9 63.5 0)
 		(mirror x)
-		(unit 4)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -4319,6 +4351,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 88.9 63.5 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "1b45f3b9-75d0-483e-ae59-4f5821b87718")
 		)
@@ -4365,7 +4405,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
-					(unit 4)
+					(unit 2)
 				)
 			)
 		)
@@ -4421,6 +4461,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -5049,6 +5097,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 88.9 146.05 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "7"
 			(uuid "1b45f3b9-75d0-483e-ae59-4f5821b87717")
 		)
@@ -5448,7 +5504,7 @@
 	(symbol
 		(lib_id "Amplifier_Operational:NE5532")
 		(at 152.4 78.74 0)
-		(unit 1)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -5497,6 +5553,14 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 152.4 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
 		(pin "2"
 			(uuid "89a482ee-4a32-49f1-a0ff-964355707edb")
 		)
@@ -5525,7 +5589,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
-					(unit 1)
+					(unit 2)
 				)
 			)
 		)
