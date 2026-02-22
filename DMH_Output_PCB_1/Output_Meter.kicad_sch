@@ -1444,6 +1444,24 @@
 					(hide yes)
 				)
 			)
+			(property "Sim.Device" "PNP"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Sim.Pins" "1=C 2=B 3=E"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
 			(property "ki_keywords" "PNP Transistor"
 				(at 0 0 0)
 				(effects
@@ -7361,6 +7379,24 @@
 				(hide yes)
 			)
 		)
+		(property "Sim.Device" "PNP"
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
+			(at 256.54 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "0ed7045e-9c0b-4f3e-aaee-912a99908a6d")
 		)
@@ -8002,6 +8038,24 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 30V Vce, PNP Small Signal Transistor, TO-92"
+			(at 86.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Device" "PNP"
+			(at 86.36 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Sim.Pins" "1=C 2=B 3=E"
 			(at 86.36 139.7 0)
 			(effects
 				(font
