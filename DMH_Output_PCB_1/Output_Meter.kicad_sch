@@ -4607,7 +4607,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 127 0)
+		(at 152.4 114.3 0)
+		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4615,7 +4616,7 @@
 		(dnp no)
 		(uuid "02e95fd3-7884-4e63-ac36-c82dcbcc5736")
 		(property "Reference" "U5"
-			(at 188.976 125.476 0)
+			(at 153.924 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4623,7 +4624,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 128.016 0)
+			(at 153.924 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4631,7 +4632,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 124.46 0)
+			(at 153.67 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4640,7 +4641,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 121.92 0)
+			(at 151.13 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4649,7 +4650,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 127 0)
+			(at 152.4 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4710,7 +4711,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 101.6 0)
+		(at 152.4 88.9 0)
+		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4718,7 +4720,7 @@
 		(dnp no)
 		(uuid "07a6e9c4-73d1-480c-ae88-cbc914da8792")
 		(property "Reference" "U4"
-			(at 188.976 100.076 0)
+			(at 153.924 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4726,7 +4728,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 102.616 0)
+			(at 153.924 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4734,7 +4736,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 99.06 0)
+			(at 153.67 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4743,7 +4745,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 96.52 0)
+			(at 151.13 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4752,7 +4754,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 101.6 0)
+			(at 152.4 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4813,8 +4815,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 63.5 0)
-		(mirror y)
+		(at 190.5 76.2 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4822,7 +4823,7 @@
 		(dnp no)
 		(uuid "0c4db40a-19b6-47ac-b4d3-0e3d56e40f13")
 		(property "Reference" "U3"
-			(at 153.924 61.976 0)
+			(at 188.976 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4830,7 +4831,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 64.516 0)
+			(at 188.976 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4838,7 +4839,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 60.96 0)
+			(at 189.23 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4847,7 +4848,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 58.42 0)
+			(at 191.77 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4856,7 +4857,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 63.5 0)
+			(at 190.5 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6085,7 +6086,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 88.9 0)
+		(at 152.4 101.6 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6093,7 +6095,7 @@
 		(dnp no)
 		(uuid "3ad6903d-2b1b-4f3d-8c37-c2931528bae1")
 		(property "Reference" "U4"
-			(at 188.976 87.376 0)
+			(at 153.924 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6101,7 +6103,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 89.916 0)
+			(at 153.924 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6109,7 +6111,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 86.36 0)
+			(at 153.67 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6118,7 +6120,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 83.82 0)
+			(at 151.13 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6127,7 +6129,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 88.9 0)
+			(at 152.4 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6424,8 +6426,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 101.6 0)
-		(mirror y)
+		(at 190.5 88.9 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6433,7 +6434,7 @@
 		(dnp no)
 		(uuid "443d98f8-793f-4997-9f79-6ff4e4d80672")
 		(property "Reference" "U4"
-			(at 153.924 100.076 0)
+			(at 188.976 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6441,7 +6442,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 102.616 0)
+			(at 188.976 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6449,7 +6450,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 99.06 0)
+			(at 189.23 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6458,7 +6459,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 96.52 0)
+			(at 191.77 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6467,7 +6468,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 101.6 0)
+			(at 190.5 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6800,8 +6801,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 50.8 0)
-		(mirror y)
+		(at 190.5 38.1 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6809,7 +6809,7 @@
 		(dnp no)
 		(uuid "55b92764-b5f5-4c0a-b2fb-dfcceb69a544")
 		(property "Reference" "U2"
-			(at 153.924 49.276 0)
+			(at 188.976 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6817,7 +6817,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 51.816 0)
+			(at 188.976 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6825,7 +6825,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 48.26 0)
+			(at 189.23 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,7 +6834,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 45.72 0)
+			(at 191.77 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6843,7 +6843,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 50.8 0)
+			(at 190.5 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6904,7 +6904,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 63.5 0)
+		(at 152.4 76.2 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6912,7 +6913,7 @@
 		(dnp no)
 		(uuid "561a7c57-64da-4497-bade-a470774f622c")
 		(property "Reference" "U3"
-			(at 188.976 61.976 0)
+			(at 153.924 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6920,7 +6921,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 64.516 0)
+			(at 153.924 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6928,7 +6929,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 60.96 0)
+			(at 153.67 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6937,7 +6938,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 58.42 0)
+			(at 151.13 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6946,7 +6947,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 63.5 0)
+			(at 152.4 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7394,7 +7395,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 152.4 0)
+		(at 152.4 139.7 0)
+		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7402,7 +7404,7 @@
 		(dnp no)
 		(uuid "616ea256-4ca6-4434-be8c-01225f860152")
 		(property "Reference" "U6"
-			(at 188.976 150.876 0)
+			(at 153.924 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7410,7 +7412,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 153.416 0)
+			(at 153.924 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7418,7 +7420,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 149.86 0)
+			(at 153.67 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7427,7 +7429,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 147.32 0)
+			(at 151.13 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7436,7 +7438,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 152.4 0)
+			(at 152.4 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7497,8 +7499,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 139.7 0)
-		(mirror y)
+		(at 190.5 152.4 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7506,7 +7507,7 @@
 		(dnp no)
 		(uuid "635f03ac-4eac-46d8-a36c-6fe96529a396")
 		(property "Reference" "U6"
-			(at 153.924 138.176 0)
+			(at 188.976 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7514,7 +7515,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 140.716 0)
+			(at 188.976 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7522,7 +7523,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 137.16 0)
+			(at 189.23 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7531,7 +7532,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 134.62 0)
+			(at 191.77 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7540,7 +7541,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 139.7 0)
+			(at 190.5 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7601,8 +7602,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 127 0)
-		(mirror y)
+		(at 190.5 114.3 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7610,7 +7610,7 @@
 		(dnp no)
 		(uuid "65a1ae60-d085-4fba-9061-98a2c4c87582")
 		(property "Reference" "U5"
-			(at 153.924 125.476 0)
+			(at 188.976 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7618,7 +7618,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 128.016 0)
+			(at 188.976 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7626,7 +7626,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 124.46 0)
+			(at 189.23 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7635,7 +7635,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 121.92 0)
+			(at 191.77 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7644,7 +7644,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 127 0)
+			(at 190.5 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7784,7 +7784,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 76.2 0)
+		(at 152.4 63.5 0)
+		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7792,7 +7793,7 @@
 		(dnp no)
 		(uuid "66e6533b-95ec-4648-ab45-624016136f57")
 		(property "Reference" "U3"
-			(at 188.976 74.676 0)
+			(at 153.924 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7800,7 +7801,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 77.216 0)
+			(at 153.924 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7808,7 +7809,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 73.66 0)
+			(at 153.67 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7817,7 +7818,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 71.12 0)
+			(at 151.13 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7826,7 +7827,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 76.2 0)
+			(at 152.4 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8148,8 +8149,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 88.9 0)
-		(mirror y)
+		(at 190.5 101.6 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8157,7 +8157,7 @@
 		(dnp no)
 		(uuid "740084e9-04bb-4567-b3b4-7b8aa24130e0")
 		(property "Reference" "U4"
-			(at 153.924 87.376 0)
+			(at 188.976 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8165,7 +8165,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 89.916 0)
+			(at 188.976 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8173,7 +8173,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 86.36 0)
+			(at 189.23 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8182,7 +8182,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 83.82 0)
+			(at 191.77 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8191,7 +8191,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 88.9 0)
+			(at 190.5 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8630,7 +8630,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 38.1 0)
+		(at 152.4 50.8 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8638,7 +8639,7 @@
 		(dnp no)
 		(uuid "7b036d8e-f6d2-44b3-b3ce-19d8ca1dfb2f")
 		(property "Reference" "U2"
-			(at 188.976 36.576 0)
+			(at 153.924 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8646,7 +8647,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 39.116 0)
+			(at 153.924 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8654,7 +8655,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 35.56 0)
+			(at 153.67 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8663,7 +8664,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 33.02 0)
+			(at 151.13 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8672,7 +8673,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 38.1 0)
+			(at 152.4 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8733,8 +8734,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 76.2 0)
-		(mirror y)
+		(at 190.5 63.5 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8742,7 +8742,7 @@
 		(dnp no)
 		(uuid "7b5ee882-e4c3-4ad2-be8b-a481f4f2d83a")
 		(property "Reference" "U3"
-			(at 153.924 74.676 0)
+			(at 188.976 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8750,7 +8750,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 77.216 0)
+			(at 188.976 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8758,7 +8758,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 73.66 0)
+			(at 189.23 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8767,7 +8767,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 71.12 0)
+			(at 191.77 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8776,7 +8776,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 76.2 0)
+			(at 190.5 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10039,8 +10039,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 114.3 0)
-		(mirror y)
+		(at 190.5 127 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10048,7 +10047,7 @@
 		(dnp no)
 		(uuid "b68c2553-b3b5-4d29-803a-a66f64130ccf")
 		(property "Reference" "U5"
-			(at 153.924 112.776 0)
+			(at 188.976 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10056,7 +10055,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 115.316 0)
+			(at 188.976 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10064,7 +10063,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 111.76 0)
+			(at 189.23 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10073,7 +10072,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 109.22 0)
+			(at 191.77 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10082,7 +10081,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 114.3 0)
+			(at 190.5 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10278,7 +10277,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 50.8 0)
+		(at 152.4 38.1 0)
+		(mirror y)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10286,7 +10286,7 @@
 		(dnp no)
 		(uuid "c61da55e-8080-4bcd-bead-793a26eea10f")
 		(property "Reference" "U2"
-			(at 188.976 49.276 0)
+			(at 153.924 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10294,7 +10294,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 51.816 0)
+			(at 153.924 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10302,7 +10302,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 48.26 0)
+			(at 153.67 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10311,7 +10311,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 45.72 0)
+			(at 151.13 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10320,7 +10320,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 50.8 0)
+			(at 152.4 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11354,7 +11354,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 114.3 0)
+		(at 152.4 127 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11362,7 +11363,7 @@
 		(dnp no)
 		(uuid "f0636945-1277-42cb-a6b4-009b43077f25")
 		(property "Reference" "U5"
-			(at 188.976 112.776 0)
+			(at 153.924 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11370,7 +11371,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 115.316 0)
+			(at 153.924 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11378,7 +11379,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 111.76 0)
+			(at 153.67 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11387,7 +11388,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 109.22 0)
+			(at 151.13 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11396,7 +11397,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 114.3 0)
+			(at 152.4 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11742,8 +11743,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 38.1 0)
-		(mirror y)
+		(at 190.5 50.8 0)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11751,7 +11751,7 @@
 		(dnp no)
 		(uuid "f6e7a34e-8a0b-4ed9-ada6-cb39b62f56e9")
 		(property "Reference" "U2"
-			(at 153.924 36.576 0)
+			(at 188.976 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11759,7 +11759,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 39.116 0)
+			(at 188.976 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11767,7 +11767,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 35.56 0)
+			(at 189.23 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11776,7 +11776,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 33.02 0)
+			(at 191.77 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11785,7 +11785,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 38.1 0)
+			(at 190.5 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11846,8 +11846,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 152.4 0)
-		(mirror y)
+		(at 190.5 139.7 0)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11855,7 +11854,7 @@
 		(dnp no)
 		(uuid "f8a78143-718b-4b80-9073-5c6a162f7991")
 		(property "Reference" "U6"
-			(at 153.924 150.876 0)
+			(at 188.976 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11863,7 +11862,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 153.416 0)
+			(at 188.976 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11871,7 +11870,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 149.86 0)
+			(at 189.23 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11880,7 +11879,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 147.32 0)
+			(at 191.77 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11889,7 +11888,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 152.4 0)
+			(at 190.5 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12002,28 +12001,28 @@
 			)
 		)
 		(pin "7"
-			(uuid "fae5b22c-7a9f-4450-bc99-ea29e5710db8")
+			(uuid "fae5b22c-7a9f-4450-bc99-ea29e5710db9")
 		)
 		(pin "2"
-			(uuid "1352914f-ee34-40ea-b2e1-f540bb3b69a4")
+			(uuid "1352914f-ee34-40ea-b2e1-f540bb3b69a5")
 		)
 		(pin "6"
-			(uuid "e47cbdbc-c440-4192-8fe4-b9459db35393")
+			(uuid "e47cbdbc-c440-4192-8fe4-b9459db35394")
 		)
 		(pin "3"
-			(uuid "79ce9f5b-fcfd-43e6-a633-99b0d54a0dd0")
+			(uuid "79ce9f5b-fcfd-43e6-a633-99b0d54a0dd1")
 		)
 		(pin "8"
-			(uuid "aabaeb8f-938d-4a31-8dbf-dce0d4c735a6")
+			(uuid "aabaeb8f-938d-4a31-8dbf-dce0d4c735a7")
 		)
 		(pin "4"
-			(uuid "05398abc-d340-4482-b1eb-03419b564cf7")
+			(uuid "05398abc-d340-4482-b1eb-03419b564cf8")
 		)
 		(pin "1"
-			(uuid "5c454f60-5eff-48e9-920c-864822729fe1")
+			(uuid "5c454f60-5eff-48e9-920c-864822729fe2")
 		)
 		(pin "5"
-			(uuid "a80fa665-686c-457a-84ff-8ae643f97b11")
+			(uuid "a80fa665-686c-457a-84ff-8ae643f97b12")
 		)
 		(instances
 			(project ""
@@ -12036,7 +12035,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 139.7 0)
+		(at 152.4 152.4 0)
+		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12044,7 +12044,7 @@
 		(dnp no)
 		(uuid "fccaed5e-d5e2-42bd-9699-8993c155a890")
 		(property "Reference" "U6"
-			(at 188.976 138.176 0)
+			(at 153.924 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12052,7 +12052,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 140.716 0)
+			(at 153.924 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12060,7 +12060,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 137.16 0)
+			(at 153.67 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12069,7 +12069,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 134.62 0)
+			(at 151.13 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12078,7 +12078,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 139.7 0)
+			(at 152.4 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
