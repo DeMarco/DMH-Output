@@ -1939,6 +1939,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 173.99 162.56)
+		(radius 6.4758)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid f79a39a3-fd24-4a5f-9a99-f6b04d54d4d7)
+	)
+	(text "Need 470R here, otherwise the first LED\non the left will never switch off"
+		(exclude_from_sim no)
+		(at 200.66 164.338 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "dd9699de-9182-483e-9e2d-136dd29ed06f")
+	)
 	(junction
 		(at 139.7 139.7)
 		(diameter 0)
@@ -6544,7 +6566,7 @@
 				)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "470R"
 			(at 247.65 156.21 90)
 			(effects
 				(font
@@ -6614,7 +6636,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "180R"
+		(property "Value" "100R"
 			(at 251.46 128.2699 0)
 			(effects
 				(font
@@ -6683,7 +6705,7 @@
 				)
 			)
 		)
-		(property "Value" "3k3"
+		(property "Value" "470R"
 			(at 95.25 156.21 90)
 			(effects
 				(font
@@ -8934,7 +8956,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "180R"
+		(property "Value" "100R"
 			(at 91.44 128.2699 0)
 			(effects
 				(font
