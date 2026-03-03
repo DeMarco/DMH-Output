@@ -1444,24 +1444,6 @@
 					(hide yes)
 				)
 			)
-			(property "Sim.Device" "PNP"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
-			(property "Sim.Pins" "1=C 2=B 3=E"
-				(at 0 0 0)
-				(effects
-					(font
-						(size 1.27 1.27)
-					)
-					(hide yes)
-				)
-			)
 			(property "ki_keywords" "PNP Transistor"
 				(at 0 0 0)
 				(effects
@@ -1940,25 +1922,25 @@
 		)
 	)
 	(junction
-		(at 139.7 139.7)
+		(at 127 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "02edd5dc-f1a7-471e-b32a-42fb26084a0a")
 	)
 	(junction
-		(at 203.2 114.3)
+		(at 190.5 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "03c354eb-75f7-48d2-8d48-e74bb40deeec")
 	)
 	(junction
-		(at 163.83 137.16)
+		(at 151.13 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "0594c744-69fe-4446-af76-361d1004ce68")
 	)
 	(junction
-		(at 171.45 116.84)
+		(at 158.75 116.84)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "09c15ffd-0151-443e-a452-a5fad68ca793")
@@ -1976,121 +1958,115 @@
 		(uuid "1124fc47-4214-434a-84fe-271b5b164b61")
 	)
 	(junction
-		(at 88.9 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "1403f714-ab09-4940-bf7a-c146f209a7a2")
-	)
-	(junction
-		(at 179.07 86.36)
+		(at 166.37 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "17ce05d0-66a5-416d-9b99-e92c6c1675e7")
 	)
 	(junction
-		(at 139.7 88.9)
+		(at 101.6 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "193dfc3d-1953-4fdb-a296-8a192c916e2f")
+	)
+	(junction
+		(at 127 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "1a20ff77-5d57-43ba-9993-a76164ec78b7")
 	)
 	(junction
-		(at 203.2 101.6)
+		(at 190.5 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "278e6a89-fd73-4fb3-8b55-c0b6c4183b19")
 	)
 	(junction
-		(at 179.07 73.66)
+		(at 166.37 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "27d067c9-bdd0-4414-abfb-0aa6d4861e40")
 	)
 	(junction
-		(at 179.07 111.76)
+		(at 166.37 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2b4228bd-33f1-47bf-80f6-37ed072ffc8b")
 	)
 	(junction
-		(at 101.6 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "2eef3cfb-1bcc-4ed5-b3ca-ca177bb789da")
-	)
-	(junction
-		(at 139.7 38.1)
+		(at 127 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "2f4c54ca-3f33-46d9-81cb-cb75bc357c41")
 	)
 	(junction
-		(at 203.2 38.1)
+		(at 190.5 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "30ba407d-f06f-4587-a14e-c679c75f6e8c")
 	)
 	(junction
-		(at 203.2 139.7)
+		(at 190.5 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3375eb07-92cd-4b41-8ad4-4eb9a255114c")
 	)
 	(junction
-		(at 203.2 63.5)
+		(at 190.5 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3769d284-5a6d-486c-8ef5-f57bcb099d33")
 	)
 	(junction
-		(at 139.7 63.5)
+		(at 127 63.5)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "3954be4a-4e58-4ef2-96e1-5f1ff65a695c")
 	)
 	(junction
-		(at 179.07 60.96)
+		(at 166.37 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b1aeb66-ba62-4af7-8020-607d0cad175e")
 	)
 	(junction
-		(at 139.7 101.6)
+		(at 127 101.6)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4b8b5f1b-b084-4bf2-8e0b-f3cee2461e12")
 	)
 	(junction
-		(at 163.83 73.66)
+		(at 151.13 73.66)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4c482e82-3be1-4235-b7a3-41f185a38d4c")
 	)
 	(junction
-		(at 179.07 35.56)
+		(at 166.37 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "4d786cd8-8898-439c-bb88-e988f01ac7e9")
 	)
 	(junction
-		(at 203.2 76.2)
+		(at 190.5 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "59815874-978a-40fd-8c85-b230c4bc7d38")
 	)
 	(junction
-		(at 179.07 99.06)
+		(at 166.37 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5c5e78fb-035d-4657-8cbd-2f94cff4e361")
 	)
 	(junction
-		(at 163.83 60.96)
+		(at 151.13 60.96)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "5f7e66f3-eb11-4a9b-aa4b-747568c9b8ec")
 	)
 	(junction
-		(at 203.2 127)
+		(at 190.5 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6223af08-32ef-4277-ab34-acb79d03cda9")
@@ -2102,55 +2078,55 @@
 		(uuid "63b23d99-29d0-4de0-adba-84435bf96c90")
 	)
 	(junction
-		(at 171.45 78.74)
+		(at 158.75 78.74)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6a898b4c-adc6-4caa-bab4-28b216267825")
 	)
 	(junction
-		(at 139.7 76.2)
+		(at 127 76.2)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "6f3c2dd3-a1d3-40a7-9b73-b6a713038cde")
 	)
 	(junction
-		(at 139.7 152.4)
+		(at 127 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "74ed0348-c769-48ee-b344-dc1ad50f5314")
 	)
 	(junction
-		(at 171.45 129.54)
+		(at 158.75 129.54)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "758f89aa-8d13-4c12-a875-e33a8ab061d5")
 	)
 	(junction
-		(at 163.83 86.36)
+		(at 151.13 86.36)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "7601f4c6-2114-4677-b3ad-8043dc29a279")
 	)
 	(junction
-		(at 179.07 124.46)
+		(at 166.37 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "855f3df8-164e-4391-b09b-bde31134f1b4")
 	)
 	(junction
-		(at 171.45 40.64)
+		(at 158.75 40.64)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8c9820df-daf3-4572-9cce-6a6d3c27cfb2")
 	)
 	(junction
-		(at 171.45 53.34)
+		(at 158.75 53.34)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "8dcf67e2-11d8-4600-88c1-c4a0f7ec38cd")
 	)
 	(junction
-		(at 163.83 48.26)
+		(at 151.13 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "929b4c70-3edd-416a-b6f8-32fdc33270dc")
@@ -2162,22 +2138,22 @@
 		(uuid "9461f331-6b5b-402c-8b8b-e6a699511b44")
 	)
 	(junction
-		(at 179.07 137.16)
+		(at 166.37 137.16)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "96e4075f-1cbb-439b-b65d-cd5469d0aa14")
 	)
 	(junction
-		(at 171.45 91.44)
+		(at 88.9 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "9a1fd7fb-4ea9-4e0e-a4c4-920ae1e0e485")
+	)
+	(junction
+		(at 158.75 91.44)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "9ab977ae-c3d2-42d6-b9d6-851ecc4f9595")
-	)
-	(junction
-		(at 88.9 88.9)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "9ae57df0-978f-4a64-9300-79360a62fabd")
 	)
 	(junction
 		(at 76.2 114.3)
@@ -2198,19 +2174,19 @@
 		(uuid "a216fb64-26cb-426d-9aef-6cfe543ff1d5")
 	)
 	(junction
-		(at 203.2 50.8)
+		(at 190.5 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "a3ae3b37-dbac-4943-8131-84c91d41a840")
 	)
 	(junction
-		(at 139.7 127)
+		(at 127 127)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b1ee4768-b692-4cd1-ad82-a699982aea7d")
 	)
 	(junction
-		(at 171.45 142.24)
+		(at 158.75 142.24)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "b22c02d4-63e4-4db8-90a9-3af80432bd8f")
@@ -2222,34 +2198,34 @@
 		(uuid "bdefa299-73ce-4292-8963-65013e291dc7")
 	)
 	(junction
-		(at 171.45 66.04)
+		(at 88.9 88.9)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "c344f27e-d198-41f8-85ba-0cc76fc2219e")
+	)
+	(junction
+		(at 158.75 66.04)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c7de3fd6-0d20-43ee-b71e-03a36d3e49ab")
 	)
 	(junction
-		(at 266.7 139.7)
+		(at 241.3 139.7)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c87c04ab-47fe-4edd-b844-e559fb0390bc")
 	)
 	(junction
-		(at 171.45 154.94)
+		(at 158.75 154.94)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "cedd5e90-7b59-48e4-8eb7-67e7a4a09819")
 	)
 	(junction
-		(at 139.7 114.3)
+		(at 127 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "d0d72323-2e8b-4a58-b129-825c31201fca")
-	)
-	(junction
-		(at 101.6 38.1)
-		(diameter 0)
-		(color 0 0 0 0)
-		(uuid "dfab8343-0052-48e1-8484-31102fc82ca2")
 	)
 	(junction
 		(at 40.64 99.06)
@@ -2258,49 +2234,49 @@
 		(uuid "e01f1ace-bc08-47d1-bf95-ccd156db33ca")
 	)
 	(junction
-		(at 203.2 88.9)
+		(at 190.5 88.9)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "e7711f89-9fc7-40f0-9620-6e3a380f756a")
 	)
 	(junction
-		(at 163.83 124.46)
+		(at 151.13 124.46)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eaafb8db-a071-4af0-9d4a-bc4b1dad2619")
 	)
 	(junction
-		(at 179.07 48.26)
+		(at 166.37 48.26)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "eff9d819-6307-4068-add2-7dff0b23e0ff")
 	)
 	(junction
-		(at 266.7 114.3)
+		(at 241.3 114.3)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f618d9fa-af53-4486-94f4-12ce369b45ee")
 	)
 	(junction
-		(at 163.83 99.06)
+		(at 151.13 99.06)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f6e1cdc3-7bfe-41b6-b37b-08e498539326")
 	)
 	(junction
-		(at 163.83 35.56)
+		(at 151.13 35.56)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7562311-8a5a-414a-b67c-c19c181aadee")
 	)
 	(junction
-		(at 139.7 50.8)
+		(at 127 50.8)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f7ecd4ce-b1d5-419a-a6de-f1c33226fe66")
 	)
 	(junction
-		(at 171.45 104.14)
+		(at 158.75 104.14)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "f8196655-379d-4a04-9198-efb57d02514a")
@@ -2312,20 +2288,26 @@
 		(uuid "fb0625dd-f08e-4248-a027-bfe3b3b26966")
 	)
 	(junction
-		(at 203.2 152.4)
+		(at 190.5 152.4)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fc1e49c2-6811-4730-b7c0-b3d515731406")
 	)
 	(junction
-		(at 163.83 111.76)
+		(at 101.6 38.1)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "fdad5f26-e660-4f75-9fda-5b3d9c463c82")
+	)
+	(junction
+		(at 151.13 111.76)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "fdc3fb7a-8543-4f63-b2fc-a7a114333346")
 	)
 	(wire
 		(pts
-			(xy 179.07 73.66) (xy 182.88 73.66)
+			(xy 166.37 73.66) (xy 170.18 73.66)
 		)
 		(stroke
 			(width 0)
@@ -2365,7 +2347,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 116.84) (xy 171.45 116.84)
+			(xy 147.32 116.84) (xy 158.75 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2375,7 +2357,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 99.06) (xy 203.2 101.6)
+			(xy 190.5 99.06) (xy 190.5 101.6)
 		)
 		(stroke
 			(width 0)
@@ -2385,7 +2367,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 152.4) (xy 198.12 152.4)
+			(xy 190.5 152.4) (xy 185.42 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2395,7 +2377,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 86.36) (xy 163.83 86.36)
+			(xy 147.32 86.36) (xy 151.13 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2405,7 +2387,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 139.7) (xy 203.2 142.24)
+			(xy 190.5 139.7) (xy 190.5 142.24)
 		)
 		(stroke
 			(width 0)
@@ -2415,7 +2397,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 114.3) (xy 171.45 116.84)
+			(xy 158.75 114.3) (xy 158.75 116.84)
 		)
 		(stroke
 			(width 0)
@@ -2435,7 +2417,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 35.56) (xy 163.83 35.56)
+			(xy 147.32 35.56) (xy 151.13 35.56)
 		)
 		(stroke
 			(width 0)
@@ -2455,7 +2437,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 152.4) (xy 243.84 152.4)
+			(xy 190.5 152.4) (xy 218.44 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2465,7 +2447,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 63.5) (xy 139.7 66.04)
+			(xy 127 63.5) (xy 127 66.04)
 		)
 		(stroke
 			(width 0)
@@ -2485,7 +2467,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 25.4) (xy 171.45 30.48)
+			(xy 158.75 25.4) (xy 158.75 30.48)
 		)
 		(stroke
 			(width 0)
@@ -2495,7 +2477,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 104.14) (xy 171.45 106.68)
+			(xy 158.75 104.14) (xy 158.75 106.68)
 		)
 		(stroke
 			(width 0)
@@ -2515,7 +2497,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 78.74) (xy 171.45 81.28)
+			(xy 158.75 78.74) (xy 158.75 81.28)
 		)
 		(stroke
 			(width 0)
@@ -2525,7 +2507,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 40.64) (xy 171.45 43.18)
+			(xy 158.75 40.64) (xy 158.75 43.18)
 		)
 		(stroke
 			(width 0)
@@ -2535,7 +2517,27 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 104.14) (xy 182.88 104.14)
+			(xy 25.4 48.26) (xy 27.94 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "20bdfca9-3c82-44ec-81f0-6b248e367178")
+	)
+	(wire
+		(pts
+			(xy 88.9 88.9) (xy 101.6 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "23b07c15-814b-490a-b665-75f9d465c8a7")
+	)
+	(wire
+		(pts
+			(xy 158.75 104.14) (xy 170.18 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2545,7 +2547,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 19.05) (xy 203.2 27.94)
+			(xy 190.5 19.05) (xy 190.5 27.94)
 		)
 		(stroke
 			(width 0)
@@ -2555,7 +2557,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 116.84) (xy 171.45 119.38)
+			(xy 158.75 116.84) (xy 158.75 119.38)
 		)
 		(stroke
 			(width 0)
@@ -2565,7 +2567,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 91.44) (xy 171.45 93.98)
+			(xy 158.75 91.44) (xy 158.75 93.98)
 		)
 		(stroke
 			(width 0)
@@ -2585,7 +2587,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 124.46) (xy 179.07 137.16)
+			(xy 166.37 124.46) (xy 166.37 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2595,17 +2597,7 @@
 	)
 	(wire
 		(pts
-			(xy 25.4 48.26) (xy 27.94 48.26)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "2fdb69df-79f5-4e9a-bf47-7a21bedbd29c")
-	)
-	(wire
-		(pts
-			(xy 163.83 124.46) (xy 163.83 137.16)
+			(xy 151.13 124.46) (xy 151.13 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2625,7 +2617,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 129.54) (xy 171.45 132.08)
+			(xy 158.75 129.54) (xy 158.75 132.08)
 		)
 		(stroke
 			(width 0)
@@ -2635,7 +2627,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 73.66) (xy 179.07 86.36)
+			(xy 166.37 73.66) (xy 166.37 86.36)
 		)
 		(stroke
 			(width 0)
@@ -2655,7 +2647,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 63.5) (xy 144.78 63.5)
+			(xy 127 63.5) (xy 132.08 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2665,7 +2657,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 76.2) (xy 139.7 78.74)
+			(xy 127 76.2) (xy 127 78.74)
 		)
 		(stroke
 			(width 0)
@@ -2675,7 +2667,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 25.4) (xy 196.85 19.05)
+			(xy 184.15 25.4) (xy 184.15 19.05)
 		)
 		(stroke
 			(width 0)
@@ -2685,7 +2677,7 @@
 	)
 	(wire
 		(pts
-			(xy 144.78 152.4) (xy 139.7 152.4)
+			(xy 132.08 152.4) (xy 127 152.4)
 		)
 		(stroke
 			(width 0)
@@ -2695,7 +2687,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 104.14) (xy 171.45 104.14)
+			(xy 147.32 104.14) (xy 158.75 104.14)
 		)
 		(stroke
 			(width 0)
@@ -2715,7 +2707,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 50.8) (xy 203.2 50.8)
+			(xy 185.42 50.8) (xy 190.5 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2725,7 +2717,27 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 149.86) (xy 266.7 154.94)
+			(xy 101.6 38.1) (xy 105.41 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3d5cd698-defe-4d28-ada7-228bd18d7d22")
+	)
+	(wire
+		(pts
+			(xy 88.9 38.1) (xy 86.36 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "3e7931ad-20b7-4b86-a52f-4378adc51d15")
+	)
+	(wire
+		(pts
+			(xy 241.3 149.86) (xy 241.3 154.94)
 		)
 		(stroke
 			(width 0)
@@ -2755,7 +2767,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 139.7) (xy 203.2 139.7)
+			(xy 185.42 139.7) (xy 190.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2765,7 +2777,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 48.26) (xy 163.83 48.26)
+			(xy 147.32 48.26) (xy 151.13 48.26)
 		)
 		(stroke
 			(width 0)
@@ -2775,7 +2787,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 137.16) (xy 182.88 137.16)
+			(xy 166.37 137.16) (xy 170.18 137.16)
 		)
 		(stroke
 			(width 0)
@@ -2785,17 +2797,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 38.1) (xy 114.3 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "422d4fb2-8b83-4353-af8a-d3c027b9e979")
-	)
-	(wire
-		(pts
-			(xy 139.7 111.76) (xy 139.7 114.3)
+			(xy 127 111.76) (xy 127 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2805,7 +2807,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 111.76) (xy 203.2 114.3)
+			(xy 190.5 111.76) (xy 190.5 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2815,7 +2817,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 123.19) (xy 254 114.3)
+			(xy 228.6 123.19) (xy 228.6 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2825,23 +2827,13 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 48.26) (xy 179.07 60.96)
+			(xy 166.37 48.26) (xy 166.37 60.96)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "483f9185-145c-4e5c-b542-e30d6e474a4a")
-	)
-	(wire
-		(pts
-			(xy 88.9 88.9) (xy 101.6 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "489ede87-ed35-43eb-8d15-2f82e607278a")
 	)
 	(wire
 		(pts
@@ -2855,7 +2847,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 88.9) (xy 144.78 88.9)
+			(xy 127 88.9) (xy 132.08 88.9)
 		)
 		(stroke
 			(width 0)
@@ -2865,7 +2857,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 137.16) (xy 203.2 139.7)
+			(xy 190.5 137.16) (xy 190.5 139.7)
 		)
 		(stroke
 			(width 0)
@@ -2875,7 +2867,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 60.96) (xy 163.83 60.96)
+			(xy 147.32 60.96) (xy 151.13 60.96)
 		)
 		(stroke
 			(width 0)
@@ -2885,7 +2877,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 99.06) (xy 163.83 99.06)
+			(xy 147.32 99.06) (xy 151.13 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2905,7 +2897,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 38.1) (xy 144.78 38.1)
+			(xy 127 38.1) (xy 132.08 38.1)
 		)
 		(stroke
 			(width 0)
@@ -2915,7 +2907,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 111.76) (xy 266.7 114.3)
+			(xy 241.3 111.76) (xy 241.3 114.3)
 		)
 		(stroke
 			(width 0)
@@ -2925,7 +2917,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 124.46) (xy 182.88 124.46)
+			(xy 166.37 124.46) (xy 170.18 124.46)
 		)
 		(stroke
 			(width 0)
@@ -2935,7 +2927,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 73.66) (xy 139.7 76.2)
+			(xy 127 73.66) (xy 127 76.2)
 		)
 		(stroke
 			(width 0)
@@ -2945,7 +2937,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 48.26) (xy 203.2 50.8)
+			(xy 190.5 48.26) (xy 190.5 50.8)
 		)
 		(stroke
 			(width 0)
@@ -2955,17 +2947,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 48.26) (xy 101.6 50.8)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "5774bc0f-6543-45dd-a446-dcc022213aed")
-	)
-	(wire
-		(pts
-			(xy 171.45 154.94) (xy 182.88 154.94)
+			(xy 158.75 154.94) (xy 170.18 154.94)
 		)
 		(stroke
 			(width 0)
@@ -2975,7 +2957,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 60.96) (xy 203.2 63.5)
+			(xy 190.5 60.96) (xy 190.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -2985,7 +2967,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 86.36) (xy 179.07 99.06)
+			(xy 166.37 86.36) (xy 166.37 99.06)
 		)
 		(stroke
 			(width 0)
@@ -2995,7 +2977,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 124.46) (xy 139.7 127)
+			(xy 127 124.46) (xy 127 127)
 		)
 		(stroke
 			(width 0)
@@ -3005,7 +2987,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 48.26) (xy 163.83 60.96)
+			(xy 151.13 48.26) (xy 151.13 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3015,7 +2997,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 99.06) (xy 88.9 101.6)
+			(xy 88.9 99.06) (xy 88.9 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3025,7 +3007,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 149.86) (xy 203.2 152.4)
+			(xy 190.5 149.86) (xy 190.5 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3035,7 +3017,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 25.4) (xy 163.83 35.56)
+			(xy 151.13 25.4) (xy 151.13 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3045,7 +3027,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 111.76) (xy 163.83 111.76)
+			(xy 147.32 111.76) (xy 151.13 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3055,7 +3037,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 40.64) (xy 171.45 40.64)
+			(xy 147.32 40.64) (xy 158.75 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3065,7 +3047,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 154.94) (xy 171.45 154.94)
+			(xy 147.32 154.94) (xy 158.75 154.94)
 		)
 		(stroke
 			(width 0)
@@ -3075,23 +3057,13 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 101.6) (xy 139.7 104.14)
+			(xy 127 101.6) (xy 127 104.14)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "69990eb1-1d4d-4370-8eb2-7d6db4a2e517")
-	)
-	(wire
-		(pts
-			(xy 101.6 88.9) (xy 114.3 88.9)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b2013fe-f645-4947-a031-65498e56a399")
 	)
 	(wire
 		(pts
@@ -3105,7 +3077,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 142.24) (xy 171.45 142.24)
+			(xy 147.32 142.24) (xy 158.75 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3115,7 +3087,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 139.7) (xy 261.62 139.7)
+			(xy 241.3 139.7) (xy 236.22 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3125,7 +3097,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 76.2) (xy 203.2 78.74)
+			(xy 190.5 76.2) (xy 190.5 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3135,7 +3107,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 137.16) (xy 163.83 149.86)
+			(xy 151.13 137.16) (xy 151.13 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3145,7 +3117,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 101.6) (xy 203.2 101.6)
+			(xy 185.42 101.6) (xy 190.5 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3155,7 +3127,7 @@
 	)
 	(wire
 		(pts
-			(xy 184.15 25.4) (xy 179.07 25.4)
+			(xy 171.45 25.4) (xy 166.37 25.4)
 		)
 		(stroke
 			(width 0)
@@ -3165,7 +3137,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 19.05) (xy 146.05 19.05)
+			(xy 127 19.05) (xy 133.35 19.05)
 		)
 		(stroke
 			(width 0)
@@ -3175,7 +3147,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 124.46) (xy 266.7 129.54)
+			(xy 241.3 124.46) (xy 241.3 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3205,7 +3177,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 111.76) (xy 179.07 124.46)
+			(xy 166.37 111.76) (xy 166.37 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3215,7 +3187,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 88.9) (xy 139.7 91.44)
+			(xy 127 88.9) (xy 127 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3225,7 +3197,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 66.04) (xy 171.45 68.58)
+			(xy 158.75 66.04) (xy 158.75 68.58)
 		)
 		(stroke
 			(width 0)
@@ -3235,7 +3207,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 152.4) (xy 171.45 154.94)
+			(xy 158.75 152.4) (xy 158.75 154.94)
 		)
 		(stroke
 			(width 0)
@@ -3245,7 +3217,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 137.16) (xy 266.7 139.7)
+			(xy 241.3 137.16) (xy 241.3 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3255,7 +3227,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 139.7 116.84)
+			(xy 127 114.3) (xy 127 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3265,23 +3237,13 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 142.24) (xy 182.88 142.24)
+			(xy 158.75 142.24) (xy 170.18 142.24)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "8178689a-13a4-4cc6-b2a6-7097143d978c")
-	)
-	(wire
-		(pts
-			(xy 86.36 38.1) (xy 88.9 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "838018b0-5e02-4c22-a95d-aa18723669c9")
 	)
 	(wire
 		(pts
@@ -3295,7 +3257,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 101.6) (xy 171.45 104.14)
+			(xy 158.75 101.6) (xy 158.75 104.14)
 		)
 		(stroke
 			(width 0)
@@ -3305,7 +3267,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 129.54) (xy 182.88 129.54)
+			(xy 158.75 129.54) (xy 170.18 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3315,7 +3277,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 50.8) (xy 171.45 53.34)
+			(xy 158.75 50.8) (xy 158.75 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3325,7 +3287,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 73.66) (xy 163.83 86.36)
+			(xy 151.13 73.66) (xy 151.13 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3365,7 +3327,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 48.26) (xy 139.7 50.8)
+			(xy 127 48.26) (xy 127 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3375,7 +3337,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 86.36) (xy 182.88 86.36)
+			(xy 166.37 86.36) (xy 170.18 86.36)
 		)
 		(stroke
 			(width 0)
@@ -3385,7 +3347,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 139.7) (xy 139.7 142.24)
+			(xy 127 139.7) (xy 127 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3395,7 +3357,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 27.94) (xy 139.7 19.05)
+			(xy 127 27.94) (xy 127 19.05)
 		)
 		(stroke
 			(width 0)
@@ -3425,7 +3387,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 114.3) (xy 254 114.3)
+			(xy 241.3 114.3) (xy 228.6 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3435,7 +3397,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 142.24) (xy 171.45 144.78)
+			(xy 158.75 142.24) (xy 158.75 144.78)
 		)
 		(stroke
 			(width 0)
@@ -3445,7 +3407,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 50.8) (xy 203.2 53.34)
+			(xy 190.5 50.8) (xy 190.5 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3455,7 +3417,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 60.96) (xy 179.07 73.66)
+			(xy 166.37 60.96) (xy 166.37 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3465,7 +3427,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 38.1) (xy 171.45 40.64)
+			(xy 158.75 38.1) (xy 158.75 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3475,7 +3437,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 149.86) (xy 160.02 149.86)
+			(xy 151.13 149.86) (xy 147.32 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3485,7 +3447,7 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 114.3) (xy 266.7 116.84)
+			(xy 241.3 114.3) (xy 241.3 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3505,7 +3467,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 50.8) (xy 139.7 53.34)
+			(xy 127 50.8) (xy 127 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3515,7 +3477,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 35.56) (xy 182.88 35.56)
+			(xy 166.37 35.56) (xy 170.18 35.56)
 		)
 		(stroke
 			(width 0)
@@ -3535,7 +3497,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 101.6) (xy 144.78 101.6)
+			(xy 127 101.6) (xy 132.08 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3545,7 +3507,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 99.06) (xy 179.07 111.76)
+			(xy 166.37 99.06) (xy 166.37 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3555,7 +3517,7 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 152.4) (xy 139.7 152.4)
+			(xy 99.06 152.4) (xy 127 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3565,7 +3527,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 60.96) (xy 182.88 60.96)
+			(xy 166.37 60.96) (xy 170.18 60.96)
 		)
 		(stroke
 			(width 0)
@@ -3575,7 +3537,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 144.78) (xy 254 152.4)
+			(xy 228.6 144.78) (xy 228.6 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3585,7 +3547,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 114.3) (xy 144.78 114.3)
+			(xy 127 114.3) (xy 132.08 114.3)
 		)
 		(stroke
 			(width 0)
@@ -3595,7 +3557,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 139.7) (xy 144.78 139.7)
+			(xy 127 139.7) (xy 132.08 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3605,7 +3567,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 165.1) (xy 171.45 170.18)
+			(xy 158.75 165.1) (xy 158.75 170.18)
 		)
 		(stroke
 			(width 0)
@@ -3625,7 +3587,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 88.9) (xy 203.2 91.44)
+			(xy 190.5 88.9) (xy 190.5 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3635,7 +3597,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 78.74) (xy 171.45 78.74)
+			(xy 147.32 78.74) (xy 158.75 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3645,7 +3607,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 63.5) (xy 203.2 63.5)
+			(xy 185.42 63.5) (xy 190.5 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3655,7 +3617,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 63.5) (xy 203.2 66.04)
+			(xy 190.5 63.5) (xy 190.5 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3665,7 +3627,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 60.96) (xy 163.83 73.66)
+			(xy 151.13 60.96) (xy 151.13 73.66)
 		)
 		(stroke
 			(width 0)
@@ -3675,7 +3637,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 116.84) (xy 182.88 116.84)
+			(xy 158.75 116.84) (xy 170.18 116.84)
 		)
 		(stroke
 			(width 0)
@@ -3685,7 +3647,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 149.86) (xy 182.88 149.86)
+			(xy 166.37 149.86) (xy 170.18 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3695,7 +3657,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 111.76) (xy 182.88 111.76)
+			(xy 166.37 111.76) (xy 170.18 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3705,7 +3667,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 88.9) (xy 171.45 91.44)
+			(xy 158.75 88.9) (xy 158.75 91.44)
 		)
 		(stroke
 			(width 0)
@@ -3715,7 +3677,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 48.26) (xy 88.9 50.8)
+			(xy 88.9 48.26) (xy 88.9 53.34)
 		)
 		(stroke
 			(width 0)
@@ -3725,7 +3687,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 99.06) (xy 163.83 111.76)
+			(xy 151.13 99.06) (xy 151.13 111.76)
 		)
 		(stroke
 			(width 0)
@@ -3745,7 +3707,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 86.36) (xy 139.7 88.9)
+			(xy 127 86.36) (xy 127 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3755,7 +3717,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 130.81) (xy 254 134.62)
+			(xy 228.6 130.81) (xy 228.6 134.62)
 		)
 		(stroke
 			(width 0)
@@ -3775,7 +3737,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 88.9) (xy 203.2 88.9)
+			(xy 185.42 88.9) (xy 190.5 88.9)
 		)
 		(stroke
 			(width 0)
@@ -3785,7 +3747,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 137.16) (xy 179.07 149.86)
+			(xy 166.37 137.16) (xy 166.37 149.86)
 		)
 		(stroke
 			(width 0)
@@ -3795,7 +3757,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 137.16) (xy 163.83 137.16)
+			(xy 147.32 137.16) (xy 151.13 137.16)
 		)
 		(stroke
 			(width 0)
@@ -3805,7 +3767,7 @@
 	)
 	(wire
 		(pts
-			(xy 158.75 25.4) (xy 163.83 25.4)
+			(xy 146.05 25.4) (xy 151.13 25.4)
 		)
 		(stroke
 			(width 0)
@@ -3825,7 +3787,7 @@
 	)
 	(wire
 		(pts
-			(xy 196.85 19.05) (xy 203.2 19.05)
+			(xy 184.15 19.05) (xy 190.5 19.05)
 		)
 		(stroke
 			(width 0)
@@ -3835,7 +3797,27 @@
 	)
 	(wire
 		(pts
-			(xy 266.7 139.7) (xy 266.7 142.24)
+			(xy 101.6 40.64) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba3c81a8-da5a-4fd0-9e20-8d6621335e8c")
+	)
+	(wire
+		(pts
+			(xy 88.9 38.1) (xy 101.6 38.1)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "ba6f2d17-dcdc-44ad-a332-626cfc5507d4")
+	)
+	(wire
+		(pts
+			(xy 241.3 139.7) (xy 241.3 142.24)
 		)
 		(stroke
 			(width 0)
@@ -3845,7 +3827,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 66.04) (xy 171.45 66.04)
+			(xy 147.32 66.04) (xy 158.75 66.04)
 		)
 		(stroke
 			(width 0)
@@ -3875,7 +3857,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 127) (xy 139.7 129.54)
+			(xy 127 127) (xy 127 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3885,17 +3867,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 40.64) (xy 101.6 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "befb70bf-a11e-4abc-aa32-9ade827303dc")
-	)
-	(wire
-		(pts
-			(xy 139.7 50.8) (xy 144.78 50.8)
+			(xy 127 50.8) (xy 132.08 50.8)
 		)
 		(stroke
 			(width 0)
@@ -3905,7 +3877,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 78.74) (xy 182.88 78.74)
+			(xy 158.75 78.74) (xy 170.18 78.74)
 		)
 		(stroke
 			(width 0)
@@ -3915,7 +3887,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 137.16) (xy 139.7 139.7)
+			(xy 127 137.16) (xy 127 139.7)
 		)
 		(stroke
 			(width 0)
@@ -3935,7 +3907,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 127) (xy 171.45 129.54)
+			(xy 158.75 127) (xy 158.75 129.54)
 		)
 		(stroke
 			(width 0)
@@ -3945,7 +3917,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 99.06) (xy 139.7 101.6)
+			(xy 127 99.06) (xy 127 101.6)
 		)
 		(stroke
 			(width 0)
@@ -3955,7 +3927,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 111.76) (xy 163.83 124.46)
+			(xy 151.13 111.76) (xy 151.13 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3965,7 +3937,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 38.1) (xy 203.2 40.64)
+			(xy 190.5 38.1) (xy 190.5 40.64)
 		)
 		(stroke
 			(width 0)
@@ -3985,7 +3957,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 60.96) (xy 139.7 63.5)
+			(xy 127 60.96) (xy 127 63.5)
 		)
 		(stroke
 			(width 0)
@@ -3995,7 +3967,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 91.44) (xy 171.45 91.44)
+			(xy 147.32 91.44) (xy 158.75 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4015,7 +3987,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 124.46) (xy 203.2 127)
+			(xy 190.5 124.46) (xy 190.5 127)
 		)
 		(stroke
 			(width 0)
@@ -4025,17 +3997,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 38.1) (xy 101.6 38.1)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "cca83b9e-763d-4cd1-ad9e-834e68b5ffb6")
-	)
-	(wire
-		(pts
-			(xy 198.12 38.1) (xy 203.2 38.1)
+			(xy 185.42 38.1) (xy 190.5 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4045,7 +4007,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 154.94) (xy 171.45 157.48)
+			(xy 158.75 154.94) (xy 158.75 157.48)
 		)
 		(stroke
 			(width 0)
@@ -4065,7 +4027,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 114.3) (xy 203.2 116.84)
+			(xy 190.5 114.3) (xy 190.5 116.84)
 		)
 		(stroke
 			(width 0)
@@ -4085,7 +4047,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 129.54) (xy 171.45 129.54)
+			(xy 147.32 129.54) (xy 158.75 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4105,7 +4067,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 152.4) (xy 139.7 149.86)
+			(xy 127 152.4) (xy 127 149.86)
 		)
 		(stroke
 			(width 0)
@@ -4135,7 +4097,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 76.2) (xy 203.2 76.2)
+			(xy 185.42 76.2) (xy 190.5 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4145,7 +4107,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 35.56) (xy 139.7 38.1)
+			(xy 127 35.56) (xy 127 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4155,7 +4117,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 35.56) (xy 179.07 48.26)
+			(xy 166.37 35.56) (xy 166.37 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4165,7 +4127,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 101.6) (xy 203.2 104.14)
+			(xy 190.5 101.6) (xy 190.5 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4175,7 +4137,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 66.04) (xy 182.88 66.04)
+			(xy 158.75 66.04) (xy 170.18 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4185,7 +4147,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 171.45 55.88)
+			(xy 158.75 53.34) (xy 158.75 55.88)
 		)
 		(stroke
 			(width 0)
@@ -4195,7 +4157,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 38.1) (xy 139.7 40.64)
+			(xy 127 38.1) (xy 127 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4205,7 +4167,7 @@
 	)
 	(wire
 		(pts
-			(xy 101.6 99.06) (xy 101.6 101.6)
+			(xy 101.6 99.06) (xy 101.6 104.14)
 		)
 		(stroke
 			(width 0)
@@ -4235,7 +4197,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 127) (xy 203.2 127)
+			(xy 185.42 127) (xy 190.5 127)
 		)
 		(stroke
 			(width 0)
@@ -4255,7 +4217,7 @@
 	)
 	(wire
 		(pts
-			(xy 254 152.4) (xy 251.46 152.4)
+			(xy 228.6 152.4) (xy 226.06 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4265,7 +4227,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 63.5) (xy 171.45 66.04)
+			(xy 158.75 63.5) (xy 158.75 66.04)
 		)
 		(stroke
 			(width 0)
@@ -4275,7 +4237,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 53.34) (xy 182.88 53.34)
+			(xy 158.75 53.34) (xy 170.18 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4285,7 +4247,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 53.34) (xy 171.45 53.34)
+			(xy 147.32 53.34) (xy 158.75 53.34)
 		)
 		(stroke
 			(width 0)
@@ -4295,7 +4257,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 76.2) (xy 144.78 76.2)
+			(xy 127 76.2) (xy 132.08 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4305,7 +4267,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 139.7) (xy 171.45 142.24)
+			(xy 158.75 139.7) (xy 158.75 142.24)
 		)
 		(stroke
 			(width 0)
@@ -4325,7 +4287,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 73.66) (xy 163.83 73.66)
+			(xy 147.32 73.66) (xy 151.13 73.66)
 		)
 		(stroke
 			(width 0)
@@ -4335,7 +4297,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 86.36) (xy 203.2 88.9)
+			(xy 190.5 86.36) (xy 190.5 88.9)
 		)
 		(stroke
 			(width 0)
@@ -4345,7 +4307,7 @@
 	)
 	(wire
 		(pts
-			(xy 160.02 124.46) (xy 163.83 124.46)
+			(xy 147.32 124.46) (xy 151.13 124.46)
 		)
 		(stroke
 			(width 0)
@@ -4355,7 +4317,7 @@
 	)
 	(wire
 		(pts
-			(xy 198.12 114.3) (xy 203.2 114.3)
+			(xy 185.42 114.3) (xy 190.5 114.3)
 		)
 		(stroke
 			(width 0)
@@ -4385,7 +4347,7 @@
 	)
 	(wire
 		(pts
-			(xy 139.7 127) (xy 144.78 127)
+			(xy 127 127) (xy 132.08 127)
 		)
 		(stroke
 			(width 0)
@@ -4395,7 +4357,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 99.06) (xy 182.88 99.06)
+			(xy 166.37 99.06) (xy 170.18 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4405,13 +4367,23 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 25.4) (xy 179.07 35.56)
+			(xy 166.37 25.4) (xy 166.37 35.56)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
 		(uuid "eead9504-837f-4712-8006-68a2d8c2196f")
+	)
+	(wire
+		(pts
+			(xy 101.6 48.26) (xy 101.6 53.34)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "eeeb398f-3ea5-42db-bf50-f0e3009f3f3a")
 	)
 	(wire
 		(pts
@@ -4425,7 +4397,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 73.66) (xy 203.2 76.2)
+			(xy 190.5 73.66) (xy 190.5 76.2)
 		)
 		(stroke
 			(width 0)
@@ -4435,7 +4407,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 35.56) (xy 163.83 48.26)
+			(xy 151.13 35.56) (xy 151.13 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4445,7 +4417,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 127) (xy 203.2 129.54)
+			(xy 190.5 127) (xy 190.5 129.54)
 		)
 		(stroke
 			(width 0)
@@ -4455,7 +4427,7 @@
 	)
 	(wire
 		(pts
-			(xy 146.05 19.05) (xy 146.05 25.4)
+			(xy 133.35 19.05) (xy 133.35 25.4)
 		)
 		(stroke
 			(width 0)
@@ -4475,6 +4447,16 @@
 	)
 	(wire
 		(pts
+			(xy 101.6 88.9) (xy 105.41 88.9)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f4074be1-efb5-4c22-99a4-6ad160710b94")
+	)
+	(wire
+		(pts
 			(xy 88.9 123.19) (xy 88.9 114.3)
 		)
 		(stroke
@@ -4485,7 +4467,7 @@
 	)
 	(wire
 		(pts
-			(xy 179.07 48.26) (xy 182.88 48.26)
+			(xy 166.37 48.26) (xy 170.18 48.26)
 		)
 		(stroke
 			(width 0)
@@ -4495,7 +4477,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 35.56) (xy 203.2 38.1)
+			(xy 190.5 35.56) (xy 190.5 38.1)
 		)
 		(stroke
 			(width 0)
@@ -4505,7 +4487,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 40.64) (xy 182.88 40.64)
+			(xy 158.75 40.64) (xy 170.18 40.64)
 		)
 		(stroke
 			(width 0)
@@ -4515,7 +4497,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 76.2) (xy 171.45 78.74)
+			(xy 158.75 76.2) (xy 158.75 78.74)
 		)
 		(stroke
 			(width 0)
@@ -4525,7 +4507,7 @@
 	)
 	(wire
 		(pts
-			(xy 163.83 86.36) (xy 163.83 99.06)
+			(xy 151.13 86.36) (xy 151.13 99.06)
 		)
 		(stroke
 			(width 0)
@@ -4535,7 +4517,7 @@
 	)
 	(wire
 		(pts
-			(xy 171.45 91.44) (xy 182.88 91.44)
+			(xy 158.75 91.44) (xy 170.18 91.44)
 		)
 		(stroke
 			(width 0)
@@ -4544,7 +4526,7 @@
 		(uuid "fff3925a-a057-438b-a38f-6cf5298bd16f")
 	)
 	(label "L_Meter"
-		(at 158.75 25.4 180)
+		(at 146.05 25.4 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4554,7 +4536,7 @@
 		(uuid "1b373cd8-8819-405a-8730-5b7064f870c8")
 	)
 	(label "R_Meter"
-		(at 114.3 88.9 0)
+		(at 105.41 88.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4564,7 +4546,7 @@
 		(uuid "30fffcb4-0896-48c7-bbbb-a2b6e61b2831")
 	)
 	(label "L_Meter"
-		(at 114.3 38.1 0)
+		(at 105.41 38.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4574,7 +4556,7 @@
 		(uuid "553d257f-af57-41cd-afc9-d1193ee4203b")
 	)
 	(label "R_Meter"
-		(at 184.15 25.4 0)
+		(at 171.45 25.4 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -4607,8 +4589,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 114.3 0)
-		(mirror y)
+		(at 177.8 127 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4616,7 +4597,7 @@
 		(dnp no)
 		(uuid "02e95fd3-7884-4e63-ac36-c82dcbcc5736")
 		(property "Reference" "U5"
-			(at 153.924 112.776 0)
+			(at 176.276 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4624,7 +4605,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 115.316 0)
+			(at 176.276 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4632,7 +4613,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 111.76 0)
+			(at 176.53 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4641,7 +4622,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 109.22 0)
+			(at 179.07 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4650,7 +4631,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 114.3 0)
+			(at 177.8 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4662,7 +4643,7 @@
 			(uuid "06cd3a35-a0da-41b3-92a1-cf852af4c3b6")
 		)
 		(pin "1"
-			(uuid "b7ed0dac-a20f-4c05-8449-ddde5799127e")
+			(uuid "2486c836-1c04-45b0-b631-dbd464ddb471")
 		)
 		(pin "4"
 			(uuid "0f1a91e8-b506-42b9-b663-602aa5de9427")
@@ -4680,7 +4661,7 @@
 			(uuid "e25332b7-ef4e-4146-a593-31d986601630")
 		)
 		(pin "6"
-			(uuid "ea1d3eaf-748f-4c44-81d2-12d2313f4010")
+			(uuid "e10fe98d-5d86-4ca7-8561-65690f8b86d5")
 		)
 		(pin "9"
 			(uuid "0ff93ea1-918c-4d64-8c39-85474e968b45")
@@ -4692,7 +4673,7 @@
 			(uuid "582b973c-d5af-419d-82a1-e2e2acc29cc0")
 		)
 		(pin "7"
-			(uuid "8accafa8-a0d7-412b-92a3-ddf3c6c362f9")
+			(uuid "b295bad9-4c2f-4e0b-93fe-78a77826d24d")
 		)
 		(pin "11"
 			(uuid "42100427-a03e-49e4-a9ba-c0d20e01a140")
@@ -4701,7 +4682,7 @@
 			(uuid "cc7e84c9-dcf3-4458-b057-b8ca9b29eae9")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
 					(unit 2)
@@ -4711,8 +4692,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 88.9 0)
-		(mirror y)
+		(at 177.8 101.6 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4720,7 +4700,7 @@
 		(dnp no)
 		(uuid "07a6e9c4-73d1-480c-ae88-cbc914da8792")
 		(property "Reference" "U4"
-			(at 153.924 87.376 0)
+			(at 176.276 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4728,7 +4708,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 89.916 0)
+			(at 176.276 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4736,7 +4716,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 86.36 0)
+			(at 176.53 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4745,7 +4725,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 83.82 0)
+			(at 179.07 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4754,7 +4734,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 88.9 0)
+			(at 177.8 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4766,13 +4746,13 @@
 			(uuid "62be86bc-ab94-437a-8b04-b153d687c4e4")
 		)
 		(pin "7"
-			(uuid "c8dd9915-6944-4f29-9a2d-b4a4234b1766")
+			(uuid "df0ba7fc-6af9-4ed3-8dab-8b09609bdd7e")
 		)
 		(pin "11"
 			(uuid "7903eb93-2a35-473c-91c6-197264acfdf0")
 		)
 		(pin "6"
-			(uuid "951a9b51-2ee1-4f55-bd00-572f5bdf2350")
+			(uuid "3c50e9ad-98ee-45fd-9bc2-d62c06bc5e1c")
 		)
 		(pin "13"
 			(uuid "c9671439-4a14-4f78-94f7-b6389a9a8c58")
@@ -4793,7 +4773,7 @@
 			(uuid "6166a4a1-30c9-4305-93ea-c68902797737")
 		)
 		(pin "1"
-			(uuid "cd247ff7-5655-47db-88b9-8210e0c18db3")
+			(uuid "c3a7a47d-ccdc-4069-b2bb-00556c3c2d5f")
 		)
 		(pin "8"
 			(uuid "7ce85ad4-0b1e-4d71-a26e-635c0c19734f")
@@ -4805,7 +4785,7 @@
 			(uuid "a2a0fd48-b7e5-4127-9569-21e638257798")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U4")
 					(unit 2)
@@ -4815,7 +4795,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 76.2 0)
+		(at 139.7 63.5 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -4823,7 +4804,7 @@
 		(dnp no)
 		(uuid "0c4db40a-19b6-47ac-b4d3-0e3d56e40f13")
 		(property "Reference" "U3"
-			(at 188.976 74.676 0)
+			(at 141.224 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4831,7 +4812,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 77.216 0)
+			(at 141.224 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4839,7 +4820,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 73.66 0)
+			(at 140.97 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4848,7 +4829,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 71.12 0)
+			(at 138.43 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4857,7 +4838,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 76.2 0)
+			(at 139.7 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4869,7 +4850,7 @@
 			(uuid "f076f25d-588d-4551-b969-8d4596ec2ea8")
 		)
 		(pin "10"
-			(uuid "338e7daa-5350-4684-88c1-023f221e4400")
+			(uuid "46323f05-45d5-4966-8ee0-b001827877b7")
 		)
 		(pin "5"
 			(uuid "1e2aed0e-cb69-429a-a3c9-bfd4618ebcf9")
@@ -4893,7 +4874,7 @@
 			(uuid "5b6e8957-c734-4870-ad49-6e8c22232d88")
 		)
 		(pin "13"
-			(uuid "cee86172-c515-4d77-acfd-edaa40d4d3a4")
+			(uuid "defd24ea-3db6-4df2-850f-52679b68dbfb")
 		)
 		(pin "1"
 			(uuid "75aa5d8b-5103-4e80-a644-d5a6a5ba7474")
@@ -4905,10 +4886,10 @@
 			(uuid "74958c62-3047-4a4e-a912-94452217af71")
 		)
 		(pin "11"
-			(uuid "19b85aae-2c1e-401b-bb46-667c81e4000b")
+			(uuid "f6c86396-aecf-4818-aeb4-fbc0c68567d9")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U3")
 					(unit 3)
@@ -4918,7 +4899,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 146.05 90)
+		(at 190.5 146.05 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -4928,7 +4909,7 @@
 		(fields_autoplaced yes)
 		(uuid "0f540540-70a1-4340-95c8-b197fd4af533")
 		(property "Reference" "D7"
-			(at 207.01 143.1924 90)
+			(at 194.31 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4936,8 +4917,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 145.7324 90)
+		(property "Value" "LED"
+			(at 194.31 145.7324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4946,7 +4927,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 146.05 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4955,7 +4936,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 146.05 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4964,7 +4945,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 146.05 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4973,7 +4954,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 146.05 0)
+			(at 190.5 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4982,15 +4963,109 @@
 			)
 		)
 		(pin "2"
-			(uuid "6c55ae55-1860-44c6-8de6-5189374c7135")
+			(uuid "f5cce867-e868-48f9-850a-b088ae51681b")
 		)
 		(pin "1"
-			(uuid "c8c8040f-3492-4c97-9adc-6112d38a2520")
+			(uuid "d7e3c17f-51f2-4a25-bbbc-cd8e81cf7ffb")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "D7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:TL072")
+		(at 50.8 50.8 0)
+		(mirror x)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "10dece67-c0cc-4b1c-ad0d-498a46ffdf2d")
+		(property "Reference" "U1"
+			(at 50.8 60.96 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TL072"
+			(at 50.8 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 50.8 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "2a94aab0-0f5c-46b3-a799-0c58af449129")
+		)
+		(pin "2"
+			(uuid "6efaec56-9474-4c2e-9ff2-cf0123c5f9ba")
+		)
+		(pin "4"
+			(uuid "652ca242-f566-4b85-adcf-71f2ef321275")
+		)
+		(pin "3"
+			(uuid "70382b01-ab77-457d-8072-e3d8c1d6b6c6")
+		)
+		(pin "1"
+			(uuid "8fc6f621-fb30-43cb-82fe-152d7a41e38f")
+		)
+		(pin "6"
+			(uuid "9c191a76-935f-4b93-9cd8-764007eeb3c4")
+		)
+		(pin "7"
+			(uuid "46aa625b-3f6a-41b3-9bf9-c5ea279ee4a6")
+		)
+		(pin "8"
+			(uuid "92d1cdf6-6204-4dbc-b5e0-0b892e428a99")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
+					(reference "U1")
 					(unit 1)
 				)
 			)
@@ -5051,7 +5126,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "df62b4e0-5318-4204-a715-88de9fcbb291")
+			(uuid "25cc7c30-73da-47eb-ba81-759bf94eba5c")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5064,7 +5139,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 120.65 270)
+		(at 127 120.65 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5073,7 +5148,7 @@
 		(fields_autoplaced yes)
 		(uuid "155757d4-c169-400b-aeb4-7296f6cfe361")
 		(property "Reference" "D24"
-			(at 135.89 117.7924 90)
+			(at 123.19 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5081,8 +5156,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 120.3324 90)
+		(property "Value" "LED"
+			(at 123.19 120.3324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5091,7 +5166,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 120.65 0)
+			(at 127 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5100,7 +5175,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 120.65 0)
+			(at 127 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5109,7 +5184,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 120.65 0)
+			(at 127 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5118,7 +5193,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 120.65 0)
+			(at 127 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5127,10 +5202,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "73f74e16-5905-42f3-bee2-f00558504a3e")
+			(uuid "47911838-e1ef-4e3e-8174-86f754090287")
 		)
 		(pin "1"
-			(uuid "b153109a-f053-40cb-88a0-c2652091ef75")
+			(uuid "8d4070f0-8a3f-432d-b93b-d067faebaef6")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5159,7 +5234,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "100K"
 			(at 57.15 72.39 90)
 			(effects
 				(font
@@ -5195,10 +5270,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "3ed43f61-dcd4-4910-b569-d4b54c0c2091")
+			(uuid "44f1f1d4-4a9e-4ad9-8652-ab610637c491")
 		)
 		(pin "1"
-			(uuid "14c6a316-28f9-4c58-9a21-47fde8298735")
+			(uuid "bcbc2378-ff92-4874-847a-dbcf319f89ea")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5283,10 +5358,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "cb6a019c-5cd6-47ce-99f0-eeaf47487ec9")
+			(uuid "d7fe6dc4-f314-4fae-b87d-cfbec1da7b21")
 		)
 		(pin "1"
-			(uuid "6aa9eac3-a8c2-48e8-a4c8-9da5b3c381bd")
+			(uuid "76703954-beca-43c0-8937-7ad66c29170f")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5298,78 +5373,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Device:R_US")
-		(at 101.6 44.45 180)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "191b4148-1092-4f44-b912-c54906eb2bef")
-		(property "Reference" "R80"
-			(at 104.14 43.1799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Value" "68k"
-			(at 104.14 45.7199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify right)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 100.584 44.196 90)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "~"
-			(at 101.6 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 101.6 44.45 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "6116b77e-a47e-4f67-8477-13d4a3f64939")
-		)
-		(pin "1"
-			(uuid "97b248b4-4875-4aef-9719-4a13abb1cbf4")
-		)
-		(instances
-			(project "DMH_Output_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "R80")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "power:-12V")
-		(at 196.85 25.4 180)
+		(at 184.15 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5378,7 +5383,7 @@
 		(fields_autoplaced yes)
 		(uuid "20f01fe3-c489-4b98-9d05-41a277918a11")
 		(property "Reference" "#PWR011"
-			(at 196.85 21.59 0)
+			(at 184.15 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5387,7 +5392,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 196.85 30.48 0)
+			(at 184.15 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5395,7 +5400,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 196.85 25.4 0)
+			(at 184.15 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5404,7 +5409,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 196.85 25.4 0)
+			(at 184.15 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5413,7 +5418,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 196.85 25.4 0)
+			(at 184.15 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5422,10 +5427,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "1211d20a-73ba-423e-8e88-315b247daf9d")
+			(uuid "eabdbd33-63c9-44fb-8620-1f3591d1d00f")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "#PWR011")
 					(unit 1)
@@ -5507,10 +5512,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "b337963a-1bf9-49b8-9eb1-9bc15d4c6230")
+			(uuid "3eb5d81c-d4cc-4623-a2ad-03b461235db0")
 		)
 		(pin "1"
-			(uuid "feb40101-07cf-43f3-af6d-c3ae1a6a7709")
+			(uuid "7cb2b609-2c3c-4198-b035-c38123ca3caa")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5523,7 +5528,7 @@
 	)
 	(symbol
 		(lib_id "power:-12V")
-		(at 146.05 25.4 180)
+		(at 133.35 25.4 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5532,7 +5537,7 @@
 		(fields_autoplaced yes)
 		(uuid "27afda0f-ee80-40b2-b20a-2a38be71e8a4")
 		(property "Reference" "#PWR012"
-			(at 146.05 21.59 0)
+			(at 133.35 21.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5541,7 +5546,7 @@
 			)
 		)
 		(property "Value" "-12V"
-			(at 146.05 30.48 0)
+			(at 133.35 30.48 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5549,7 +5554,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 146.05 25.4 0)
+			(at 133.35 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5558,7 +5563,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 146.05 25.4 0)
+			(at 133.35 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5567,7 +5572,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"-12V\""
-			(at 146.05 25.4 0)
+			(at 133.35 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5576,10 +5581,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7824bccc-8688-41c7-a3ae-ef801eb7f967")
+			(uuid "6173368a-0d4b-491c-bd19-edfe7b8e0257")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "#PWR012")
 					(unit 1)
@@ -5589,7 +5594,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 69.85 270)
+		(at 127 69.85 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5598,7 +5603,7 @@
 		(fields_autoplaced yes)
 		(uuid "2e55c966-9091-4d09-b03e-7cd605620a48")
 		(property "Reference" "D20"
-			(at 135.89 66.9924 90)
+			(at 123.19 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5606,8 +5611,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 69.5324 90)
+		(property "Value" "LED"
+			(at 123.19 69.5324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5616,7 +5621,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 69.85 0)
+			(at 127 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5625,7 +5630,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 69.85 0)
+			(at 127 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5634,7 +5639,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 69.85 0)
+			(at 127 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5643,7 +5648,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 69.85 0)
+			(at 127 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5652,10 +5657,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "c199d947-d66c-48e1-9fb5-272a668de1f4")
+			(uuid "91005c0a-03e1-42a7-9092-541efb91b7c8")
 		)
 		(pin "1"
-			(uuid "ffdcdf6f-f57a-4296-bb79-56a675125246")
+			(uuid "c11a279f-0f6a-4d20-a578-87617fd71f29")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5668,7 +5673,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 101.6 101.6 0)
+		(at 101.6 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5677,7 +5682,7 @@
 		(fields_autoplaced yes)
 		(uuid "2fb86594-db98-4e11-8d3a-438248037da7")
 		(property "Reference" "#PWR09"
-			(at 101.6 107.95 0)
+			(at 101.6 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5686,7 +5691,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 101.6 106.68 0)
+			(at 101.6 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5694,7 +5699,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 101.6 101.6 0)
+			(at 101.6 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5703,7 +5708,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 101.6 101.6 0)
+			(at 101.6 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5712,7 +5717,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 101.6 0)
+			(at 101.6 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5721,7 +5726,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "793664cb-38b3-44ba-a0ab-39302960af53")
+			(uuid "de1e9700-e946-4799-9b96-2318cb9d26bf")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5787,10 +5792,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e9ecf443-9e0b-4653-a7c4-70db6605acaa")
+			(uuid "30d96545-bfac-4864-9ed9-97c1f450b0ca")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "#PWR022")
 					(unit 1)
@@ -5800,7 +5805,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 59.69 180)
+		(at 158.75 59.69 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -5809,7 +5814,7 @@
 		(fields_autoplaced yes)
 		(uuid "3374b738-7dd1-4346-8acf-da4dc9f6e1a0")
 		(property "Reference" "R11"
-			(at 173.99 58.4199 0)
+			(at 161.29 58.4199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5817,8 +5822,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "3k9"
-			(at 173.99 60.9599 0)
+		(property "Value" "2K"
+			(at 161.29 60.9599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5827,7 +5832,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 59.436 90)
+			(at 157.734 59.436 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5836,7 +5841,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 59.69 0)
+			(at 158.75 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5845,7 +5850,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 59.69 0)
+			(at 158.75 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5854,10 +5859,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1fad5c0e-6b41-4106-a8c8-897d6e755b02")
+			(uuid "d9584ca0-d0be-4d14-8767-9d70c43fb2fd")
 		)
 		(pin "1"
-			(uuid "aacd9907-fffc-432d-a2d7-f9fd61b82e7c")
+			(uuid "96c80908-0075-4b95-9131-9045f0e4bf0f")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -5869,74 +5874,8 @@
 		)
 	)
 	(symbol
-		(lib_id "power:GND")
-		(at 101.6 50.8 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "346f30ad-840f-4a5a-9a15-25cb6830dbcd")
-		(property "Reference" "#PWR072"
-			(at 101.6 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 101.6 55.88 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 101.6 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 101.6 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 101.6 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "69d5019c-bf38-403d-afcd-91640af3079f")
-		)
-		(instances
-			(project "DMH_Output_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "#PWR072")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 133.35 90)
+		(at 190.5 133.35 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -5946,7 +5885,7 @@
 		(fields_autoplaced yes)
 		(uuid "34c1058a-993d-4e0b-b018-6c4c52a6317e")
 		(property "Reference" "D8"
-			(at 207.01 130.4924 90)
+			(at 194.31 130.4924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5954,8 +5893,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 133.0324 90)
+		(property "Value" "LED"
+			(at 194.31 133.0324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5964,7 +5903,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 133.35 0)
+			(at 190.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5973,7 +5912,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 133.35 0)
+			(at 190.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5982,7 +5921,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 133.35 0)
+			(at 190.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5991,7 +5930,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 133.35 0)
+			(at 190.5 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6000,10 +5939,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "479e4d5f-4066-4ea8-aa23-91a6fc703078")
+			(uuid "70ee8f96-283f-4965-b9da-00fa334c8c4f")
 		)
 		(pin "1"
-			(uuid "27f9301b-15cf-4856-b47b-e62f21da3ace")
+			(uuid "c9db767f-3f3c-43df-aa65-6d0e19849d8f")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6070,10 +6009,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "f02a4436-cc6d-4341-abbf-072ba6a5708d")
+			(uuid "a5a0775e-dbb3-4177-a9bc-1ebec466daf0")
 		)
 		(pin "1"
-			(uuid "1558680b-56ea-4679-b686-fab747c558d4")
+			(uuid "04a25bd5-08e6-4bd9-8d71-cb7e65fbf3c2")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6086,8 +6025,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 101.6 0)
-		(mirror y)
+		(at 177.8 88.9 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6095,7 +6033,7 @@
 		(dnp no)
 		(uuid "3ad6903d-2b1b-4f3d-8c37-c2931528bae1")
 		(property "Reference" "U4"
-			(at 153.924 100.076 0)
+			(at 176.276 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6103,7 +6041,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 102.616 0)
+			(at 176.276 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6111,7 +6049,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 99.06 0)
+			(at 176.53 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6120,7 +6058,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 96.52 0)
+			(at 179.07 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6129,7 +6067,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 101.6 0)
+			(at 177.8 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6153,19 +6091,19 @@
 			(uuid "c9671439-4a14-4f78-94f7-b6389a9a8c59")
 		)
 		(pin "2"
-			(uuid "64c1d56a-dcfb-4b4e-893e-1ccf272d7f61")
+			(uuid "9bb0bee8-0503-404f-b1a6-d2babe9ff6e9")
 		)
 		(pin "3"
 			(uuid "fcdbac50-d643-40e5-b51b-14e5892b910e")
 		)
 		(pin "4"
-			(uuid "f84d3f2d-de5f-4f06-ae8a-a37fdecea51c")
+			(uuid "ad5636da-e85b-45de-9e50-6f2b32788ad6")
 		)
 		(pin "10"
 			(uuid "fa4e4226-caca-4888-8654-b89b921a3081")
 		)
 		(pin "5"
-			(uuid "ab33c421-87f9-4575-881a-5849b5a59a06")
+			(uuid "6166a4a1-30c9-4305-93ea-c68902797738")
 		)
 		(pin "1"
 			(uuid "c3a7a47d-ccdc-4069-b2bb-00556c3c2d60")
@@ -6180,10 +6118,104 @@
 			(uuid "a2a0fd48-b7e5-4127-9569-21e638257799")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U4")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:TL072")
+		(at 50.8 101.6 0)
+		(mirror x)
+		(unit 2)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(uuid "3b48458d-21d1-4862-8153-ae0199690f63")
+		(property "Reference" "U1"
+			(at 50.8 111.76 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "TL072"
+			(at 50.8 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 50.8 101.6 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "5"
+			(uuid "2a94aab0-0f5c-46b3-a799-0c58af44912a")
+		)
+		(pin "2"
+			(uuid "bfb31adb-2f86-4de5-a21d-e56d85ee1a92")
+		)
+		(pin "4"
+			(uuid "652ca242-f566-4b85-adcf-71f2ef321276")
+		)
+		(pin "3"
+			(uuid "b3d6bfd7-c8dd-459d-b892-258d083ac141")
+		)
+		(pin "1"
+			(uuid "8dec6629-f0d7-4178-9ac2-8e2c70aab198")
+		)
+		(pin "6"
+			(uuid "9c191a76-935f-4b93-9cd8-764007eeb3c5")
+		)
+		(pin "7"
+			(uuid "46aa625b-3f6a-41b3-9bf9-c5ea279ee4a7")
+		)
+		(pin "8"
+			(uuid "92d1cdf6-6204-4dbc-b5e0-0b892e428a9a")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
+					(reference "U1")
+					(unit 2)
 				)
 			)
 		)
@@ -6198,7 +6230,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3baa3b58-e014-44eb-b009-8f2d94add63c")
-		(property "Reference" "R81"
+		(property "Reference" "R7"
 			(at 104.14 93.9799 0)
 			(effects
 				(font
@@ -6207,7 +6239,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "68k"
+		(property "Value" "100K"
 			(at 104.14 96.5199 0)
 			(effects
 				(font
@@ -6244,101 +6276,15 @@
 			)
 		)
 		(pin "2"
-			(uuid "e560f646-32c8-4f14-a5bf-60881723e923")
+			(uuid "ad0f30ef-c2ca-4f7c-9e88-ae28b67dd750")
 		)
 		(pin "1"
-			(uuid "0a8c8ecb-515d-4563-9627-c7d2ba00207e")
+			(uuid "f4857aff-52c9-4576-8aed-62fc09c61a65")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "R81")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:TL072")
-		(at 50.8 50.8 0)
-		(mirror x)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "3c1c9292-77e9-4a52-8232-a8b6e4f93a48")
-		(property "Reference" "U1"
-			(at 50.8 60.96 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TL072"
-			(at 50.8 58.42 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 50.8 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 50.8 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 50.8 50.8 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "fae5b22c-7a9f-4450-bc99-ea29e5710db8")
-		)
-		(pin "2"
-			(uuid "1352914f-ee34-40ea-b2e1-f540bb3b69a4")
-		)
-		(pin "6"
-			(uuid "e47cbdbc-c440-4192-8fe4-b9459db35393")
-		)
-		(pin "3"
-			(uuid "79ce9f5b-fcfd-43e6-a633-99b0d54a0dd0")
-		)
-		(pin "8"
-			(uuid "aabaeb8f-938d-4a31-8dbf-dce0d4c735a6")
-		)
-		(pin "4"
-			(uuid "05398abc-d340-4482-b1eb-03419b564cf7")
-		)
-		(pin "1"
-			(uuid "5c454f60-5eff-48e9-920c-864822729fe1")
-		)
-		(pin "5"
-			(uuid "a80fa665-686c-457a-84ff-8ae643f97b11")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U1")
+					(reference "R7")
 					(unit 1)
 				)
 			)
@@ -6346,7 +6292,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 69.85 90)
+		(at 190.5 69.85 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6356,7 +6302,7 @@
 		(fields_autoplaced yes)
 		(uuid "4217c35b-260d-4dad-af74-d0e0134ec740")
 		(property "Reference" "D15"
-			(at 207.01 66.9924 90)
+			(at 194.31 66.9924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6364,8 +6310,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 69.5324 90)
+		(property "Value" "LED"
+			(at 194.31 69.5324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6374,7 +6320,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 69.85 0)
+			(at 190.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6383,7 +6329,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 69.85 0)
+			(at 190.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6392,7 +6338,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 69.85 0)
+			(at 190.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6401,7 +6347,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 69.85 0)
+			(at 190.5 69.85 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6410,10 +6356,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "4e847ff7-348d-4d12-bf31-d455c5504989")
+			(uuid "8c870851-89fc-48cc-870b-9e619362b471")
 		)
 		(pin "1"
-			(uuid "e64920d4-163e-450c-9a94-b8ab1317b59b")
+			(uuid "3bb0adc4-6ffe-4f52-bd99-23b47a527f55")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6426,7 +6372,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 88.9 0)
+		(at 139.7 101.6 0)
+		(mirror y)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6434,7 +6381,7 @@
 		(dnp no)
 		(uuid "443d98f8-793f-4997-9f79-6ff4e4d80672")
 		(property "Reference" "U4"
-			(at 188.976 87.376 0)
+			(at 141.224 100.076 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6442,7 +6389,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 89.916 0)
+			(at 141.224 102.616 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6450,7 +6397,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 86.36 0)
+			(at 140.97 99.06 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6459,7 +6406,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 83.82 0)
+			(at 138.43 96.52 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6468,7 +6415,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 88.9 0)
+			(at 139.7 101.6 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6477,7 +6424,7 @@
 			)
 		)
 		(pin "9"
-			(uuid "bf14412e-3569-4345-8e9a-79b417f7d3e5")
+			(uuid "62be86bc-ab94-437a-8b04-b153d687c4e6")
 		)
 		(pin "7"
 			(uuid "df0ba7fc-6af9-4ed3-8dab-8b09609bdd80")
@@ -6510,16 +6457,16 @@
 			(uuid "c3a7a47d-ccdc-4069-b2bb-00556c3c2d61")
 		)
 		(pin "8"
-			(uuid "0a905760-5ca4-45c2-b0a6-5ed083394f81")
+			(uuid "7ce85ad4-0b1e-4d71-a26e-635c0c197351")
 		)
 		(pin "14"
-			(uuid "4d4cce13-f4ba-4e03-821c-ff30276cc337")
+			(uuid "e2613bf1-a283-43fb-8f70-569d51dba2e0")
 		)
 		(pin "12"
 			(uuid "a2a0fd48-b7e5-4127-9569-21e63825779a")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U4")
 					(unit 4)
@@ -6529,7 +6476,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 247.65 152.4 270)
+		(at 222.25 152.4 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6537,15 +6484,15 @@
 		(dnp no)
 		(uuid "452eb505-fb76-41b7-b8bf-d5e5b89a20a5")
 		(property "Reference" "R25"
-			(at 247.65 158.75 90)
+			(at 222.25 158.75 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "470R"
-			(at 247.65 156.21 90)
+		(property "Value" "3k3"
+			(at 222.25 156.21 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6553,7 +6500,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 247.396 153.416 90)
+			(at 221.996 153.416 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6562,7 +6509,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 247.65 152.4 0)
+			(at 222.25 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6571,7 +6518,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 247.65 152.4 0)
+			(at 222.25 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6580,10 +6527,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a87877cd-b302-4ca4-8fd4-c75ae20628ae")
+			(uuid "7334dfed-2859-4a84-be56-77ac7874a34c")
 		)
 		(pin "1"
-			(uuid "5ddf047b-a1c7-4638-807e-5a215d2610db")
+			(uuid "e34e0912-7361-4aeb-ad78-463f49c5f9b8")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6596,7 +6543,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 254 127 0)
+		(at 228.6 127 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -6606,7 +6553,7 @@
 		(fields_autoplaced yes)
 		(uuid "456960f9-719e-4547-b85f-755fde14dddc")
 		(property "Reference" "R23"
-			(at 251.46 125.7299 0)
+			(at 226.06 125.7299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6614,8 +6561,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
-			(at 251.46 128.2699 0)
+		(property "Value" "180R"
+			(at 226.06 128.2699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6624,7 +6571,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 255.016 126.746 90)
+			(at 229.616 126.746 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6633,7 +6580,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 254 127 0)
+			(at 228.6 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6642,7 +6589,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 254 127 0)
+			(at 228.6 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6651,10 +6598,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1cf28349-4831-4bb6-96f0-afebab8b9517")
+			(uuid "6d361343-21f8-412b-9312-3725bc98ebfc")
 		)
 		(pin "1"
-			(uuid "c42c3dd4-fa46-451c-b0c0-c1c78d8eb0e0")
+			(uuid "05119937-d3c3-4d70-b236-fdcd595f2697")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6683,7 +6630,7 @@
 				)
 			)
 		)
-		(property "Value" "470R"
+		(property "Value" "3k3"
 			(at 95.25 156.21 90)
 			(effects
 				(font
@@ -6719,10 +6666,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e50901b7-c9d6-45ec-bd03-681528e049a9")
+			(uuid "0703b2d4-1cb8-4d80-a31c-589cf8c156cf")
 		)
 		(pin "1"
-			(uuid "43c7eb66-b006-4e68-aad0-b7392715351f")
+			(uuid "cedbe544-e1de-4d42-988c-551194843319")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6735,7 +6682,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 88.9 50.8 0)
+		(at 88.9 53.34 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6744,7 +6691,7 @@
 		(fields_autoplaced yes)
 		(uuid "4de6effc-8003-48aa-8323-d47bceffd8ea")
 		(property "Reference" "#PWR03"
-			(at 88.9 57.15 0)
+			(at 88.9 59.69 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6753,7 +6700,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 55.88 0)
+			(at 88.9 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6761,7 +6708,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 50.8 0)
+			(at 88.9 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6770,7 +6717,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 50.8 0)
+			(at 88.9 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6779,7 +6726,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 88.9 50.8 0)
+			(at 88.9 53.34 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6788,7 +6735,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "780e456c-1ddb-414b-ab60-7f43cc63af91")
+			(uuid "fe1e83fa-5824-44e4-8c31-adaa774ee166")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -6801,7 +6748,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 38.1 0)
+		(at 139.7 50.8 0)
+		(mirror y)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6809,7 +6757,7 @@
 		(dnp no)
 		(uuid "55b92764-b5f5-4c0a-b2fb-dfcceb69a544")
 		(property "Reference" "U2"
-			(at 188.976 36.576 0)
+			(at 141.224 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6817,7 +6765,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 39.116 0)
+			(at 141.224 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6825,7 +6773,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 35.56 0)
+			(at 140.97 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6834,7 +6782,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 33.02 0)
+			(at 138.43 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6843,7 +6791,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 38.1 0)
+			(at 139.7 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6870,10 +6818,10 @@
 			(uuid "bafe5b9e-c35e-4ff1-8b6c-feea570a8c49")
 		)
 		(pin "14"
-			(uuid "78397ff9-916d-41f6-91a0-716fed24970f")
+			(uuid "fb14f3e1-0d15-4404-9827-675a6ab9c8a4")
 		)
 		(pin "8"
-			(uuid "57fde340-acad-41aa-881d-9b63f2096b50")
+			(uuid "e85d2265-a5e4-4eac-b61d-24084272ded2")
 		)
 		(pin "4"
 			(uuid "ad75efa0-2cac-4379-8987-7bd2eeffc982")
@@ -6885,7 +6833,7 @@
 			(uuid "867ca38e-e14c-48db-8b23-74e3dcd57043")
 		)
 		(pin "9"
-			(uuid "511822ae-44a0-4924-982a-cccef8b53ada")
+			(uuid "121ba4c0-3235-4d72-a215-f82445695310")
 		)
 		(pin "5"
 			(uuid "23dc41f1-9495-4d93-af1a-e765ffee77a5")
@@ -6894,7 +6842,7 @@
 			(uuid "c3cbab2f-a10a-4595-a940-28da5bb3c42c")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U2")
 					(unit 4)
@@ -6904,8 +6852,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 76.2 0)
-		(mirror y)
+		(at 177.8 63.5 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -6913,7 +6860,7 @@
 		(dnp no)
 		(uuid "561a7c57-64da-4497-bade-a470774f622c")
 		(property "Reference" "U3"
-			(at 153.924 74.676 0)
+			(at 176.276 61.976 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6921,7 +6868,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 77.216 0)
+			(at 176.276 64.516 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6929,7 +6876,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 73.66 0)
+			(at 176.53 60.96 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6938,7 +6885,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 71.12 0)
+			(at 179.07 58.42 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6947,7 +6894,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 76.2 0)
+			(at 177.8 63.5 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6956,13 +6903,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "00953b85-ea40-45e0-b6ff-97327e764619")
+			(uuid "f076f25d-588d-4551-b969-8d4596ec2ea9")
 		)
 		(pin "10"
 			(uuid "46323f05-45d5-4966-8ee0-b001827877b8")
 		)
 		(pin "5"
-			(uuid "659b580a-4a8f-4ceb-ab1d-2ae8e8e0c520")
+			(uuid "1e2aed0e-cb69-429a-a3c9-bfd4618ebcfa")
 		)
 		(pin "8"
 			(uuid "71b4afc7-bee5-4ec5-9b8d-08114bd22e88")
@@ -6980,7 +6927,7 @@
 			(uuid "bdf69108-373a-4356-b384-8276235576af")
 		)
 		(pin "4"
-			(uuid "6e178b08-83f0-42bc-84ae-2e45dd57a5d7")
+			(uuid "5b6e8957-c734-4870-ad49-6e8c22232d89")
 		)
 		(pin "13"
 			(uuid "defd24ea-3db6-4df2-850f-52679b68dbfc")
@@ -6998,7 +6945,7 @@
 			(uuid "f6c86396-aecf-4818-aeb4-fbc0c68567da")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U3")
 					(unit 1)
@@ -7024,7 +6971,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "100K"
 			(at 57.15 21.59 90)
 			(effects
 				(font
@@ -7059,19 +7006,11 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
-			(at 57.15 25.4 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
-			(uuid "f9205219-2faa-4aec-b977-b85ed0232903")
+			(uuid "331a5fc2-9b6d-4fba-bb3e-ce88e5f73f73")
 		)
 		(pin "1"
-			(uuid "3bbe2b6c-4110-4548-8006-32b78f7fd13f")
+			(uuid "060f92ba-67db-4fa4-ad49-d389aa293b73")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7084,7 +7023,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 135.89 180)
+		(at 158.75 135.89 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7093,7 +7032,7 @@
 		(fields_autoplaced yes)
 		(uuid "5c1fd708-cd4f-4860-aecd-bba803df6e96")
 		(property "Reference" "R17"
-			(at 173.99 134.6199 0)
+			(at 161.29 134.6199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7101,8 +7040,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "560R"
-			(at 173.99 137.1599 0)
+		(property "Value" "2K"
+			(at 161.29 137.1599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7111,7 +7050,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 135.636 90)
+			(at 157.734 135.636 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7120,7 +7059,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 135.89 0)
+			(at 158.75 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7129,7 +7068,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 135.89 0)
+			(at 158.75 135.89 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7138,10 +7077,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e55ecde1-7710-4427-a69d-8783dc9cebe3")
+			(uuid "c6a836ac-b62a-46e9-a336-17152d997563")
 		)
 		(pin "1"
-			(uuid "3a85697e-4712-46ee-af87-bd928c8ca563")
+			(uuid "3a8fcfbf-76bb-4d88-a4b4-0ec09fe68bb7")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7170,7 +7109,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "20K"
 			(at 31.75 95.25 90)
 			(effects
 				(font
@@ -7206,10 +7145,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "04b93b45-a30d-4441-8009-c376047b76db")
+			(uuid "155da7a4-8983-48ab-83ab-ae547050b49c")
 		)
 		(pin "1"
-			(uuid "f30ade08-9b82-4153-8b9b-349ba8fa4dbe")
+			(uuid "ef61bbcf-7baa-489b-92d8-b7d890cc78da")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7222,7 +7161,7 @@
 	)
 	(symbol
 		(lib_id "Transistor_BJT:BC558")
-		(at 256.54 139.7 180)
+		(at 231.14 139.7 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7231,7 +7170,7 @@
 		(fields_autoplaced yes)
 		(uuid "5deacfd2-52a6-4e2b-912c-f884a5c7ac63")
 		(property "Reference" "Q2"
-			(at 251.46 138.4299 0)
+			(at 226.06 138.4299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7240,7 +7179,7 @@
 			)
 		)
 		(property "Value" "BC558"
-			(at 251.46 140.9699 0)
+			(at 226.06 140.9699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7249,7 +7188,7 @@
 			)
 		)
 		(property "Footprint" "Package_TO_SOT_THT:TO-92L_Inline_Wide"
-			(at 251.46 137.795 0)
+			(at 226.06 137.795 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7260,7 +7199,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.onsemi.com/pub/Collateral/BC556BTA-D.pdf"
-			(at 256.54 139.7 0)
+			(at 231.14 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7270,25 +7209,7 @@
 			)
 		)
 		(property "Description" "0.1A Ic, 30V Vce, PNP Small Signal Transistor, TO-92"
-			(at 256.54 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Device" "PNP"
-			(at 256.54 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 256.54 139.7 0)
+			(at 231.14 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7297,13 +7218,13 @@
 			)
 		)
 		(pin "3"
-			(uuid "0ed7045e-9c0b-4f3e-aaee-912a99908a6d")
+			(uuid "bda81317-364e-4910-9cb2-4f74e20af4f8")
 		)
 		(pin "2"
-			(uuid "7e7bfcc9-3975-4484-9b00-2306954154aa")
+			(uuid "8363a63d-b13b-476d-92e8-0bd45465636e")
 		)
 		(pin "1"
-			(uuid "6dad7cdb-b095-42d6-9675-fd67b57927dd")
+			(uuid "dd220dbb-30ed-47f1-b5e4-97879d9c697b")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7316,7 +7237,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 82.55 270)
+		(at 127 82.55 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7325,7 +7246,7 @@
 		(fields_autoplaced yes)
 		(uuid "5eea51fb-3f70-4759-905e-6fa057a2bb6e")
 		(property "Reference" "D21"
-			(at 135.89 79.6924 90)
+			(at 123.19 79.6924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7333,8 +7254,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 82.2324 90)
+		(property "Value" "LED"
+			(at 123.19 82.2324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7343,7 +7264,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 82.55 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7352,7 +7273,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 82.55 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7361,7 +7282,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 82.55 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7370,7 +7291,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 82.55 0)
+			(at 127 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7379,10 +7300,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2c5725e8-a902-437b-9e2d-632dd3e11b00")
+			(uuid "25ba847f-87ca-4777-8dc7-a24b2e430e78")
 		)
 		(pin "1"
-			(uuid "4fe35d5f-475c-4a11-93a9-2e59dd6d13ac")
+			(uuid "8c885521-801c-404b-8a3c-ed2c2d7493b5")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7395,8 +7316,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 139.7 0)
-		(mirror y)
+		(at 177.8 152.4 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7404,7 +7324,7 @@
 		(dnp no)
 		(uuid "616ea256-4ca6-4434-be8c-01225f860152")
 		(property "Reference" "U6"
-			(at 153.924 138.176 0)
+			(at 176.276 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7412,7 +7332,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 140.716 0)
+			(at 176.276 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7420,7 +7340,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 137.16 0)
+			(at 176.53 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7429,7 +7349,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 134.62 0)
+			(at 179.07 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7438,7 +7358,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 139.7 0)
+			(at 177.8 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7471,16 +7391,16 @@
 			(uuid "db901ae4-79ec-4b33-a031-cb08e7ea0822")
 		)
 		(pin "7"
-			(uuid "645d7a42-21a1-4d2a-af98-3f47afe1e798")
+			(uuid "438f7a7c-b834-4dac-ad74-bb0cd3038806")
 		)
 		(pin "4"
 			(uuid "1dbbb0e4-f3bf-49db-a931-7dd9686762fb")
 		)
 		(pin "6"
-			(uuid "69580f41-572e-4f2a-bbbd-434845320b1b")
+			(uuid "74e89d1c-6e2a-49f7-a19f-5d1fe5830b5b")
 		)
 		(pin "1"
-			(uuid "57b5c0ae-9723-45dc-8ed8-db355cd7f625")
+			(uuid "d1e933fb-04c3-4ff2-a8e0-d9d0f480d651")
 		)
 		(pin "11"
 			(uuid "5b557cc3-7586-4b68-8afc-689608c56b18")
@@ -7489,7 +7409,7 @@
 			(uuid "022f727f-3e49-4f64-a3a3-23eecf98e506")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U6")
 					(unit 2)
@@ -7499,7 +7419,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 152.4 0)
+		(at 139.7 139.7 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7507,7 +7428,7 @@
 		(dnp no)
 		(uuid "635f03ac-4eac-46d8-a36c-6fe96529a396")
 		(property "Reference" "U6"
-			(at 188.976 150.876 0)
+			(at 141.224 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7515,7 +7436,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 153.416 0)
+			(at 141.224 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7523,7 +7444,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 149.86 0)
+			(at 140.97 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7532,7 +7453,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 147.32 0)
+			(at 138.43 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7541,7 +7462,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 152.4 0)
+			(at 139.7 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7562,7 +7483,7 @@
 			(uuid "a1962fbb-ce35-45f2-8465-d15deea28efe")
 		)
 		(pin "10"
-			(uuid "d698acb1-341e-457d-8725-2fa4e3fb3c65")
+			(uuid "c47ae0c0-e8e7-4250-8a03-d5e3a2402b2a")
 		)
 		(pin "2"
 			(uuid "f7d308a8-ec09-4d8a-8c7b-d34cf8c0313a")
@@ -7586,13 +7507,13 @@
 			(uuid "d1e933fb-04c3-4ff2-a8e0-d9d0f480d652")
 		)
 		(pin "11"
-			(uuid "8b1a5fb7-6084-4b4a-96c2-005fb976422d")
+			(uuid "5b557cc3-7586-4b68-8afc-689608c56b19")
 		)
 		(pin "13"
-			(uuid "e9e61281-ba85-462b-8b22-2410034f8f61")
+			(uuid "022f727f-3e49-4f64-a3a3-23eecf98e507")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U6")
 					(unit 3)
@@ -7602,7 +7523,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 114.3 0)
+		(at 139.7 127 0)
+		(mirror y)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7610,7 +7532,7 @@
 		(dnp no)
 		(uuid "65a1ae60-d085-4fba-9061-98a2c4c87582")
 		(property "Reference" "U5"
-			(at 188.976 112.776 0)
+			(at 141.224 125.476 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7618,7 +7540,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 115.316 0)
+			(at 141.224 128.016 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7626,7 +7548,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 111.76 0)
+			(at 140.97 124.46 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7635,7 +7557,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 109.22 0)
+			(at 138.43 121.92 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7644,7 +7566,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 114.3 0)
+			(at 139.7 127 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7668,7 +7590,7 @@
 			(uuid "29389278-9f6f-49e8-9e0f-09d5bf5eb3d8")
 		)
 		(pin "14"
-			(uuid "9838a54c-1323-44eb-84df-f0170a8fd337")
+			(uuid "fba867a3-aa8c-4578-a0f0-6c24529d5103")
 		)
 		(pin "10"
 			(uuid "e25332b7-ef4e-4146-a593-31d986601631")
@@ -7677,13 +7599,13 @@
 			(uuid "e10fe98d-5d86-4ca7-8561-65690f8b86d6")
 		)
 		(pin "9"
-			(uuid "47eefdb6-e333-4510-aa2c-c0427991089e")
+			(uuid "0ff93ea1-918c-4d64-8c39-85474e968b46")
 		)
 		(pin "5"
 			(uuid "f8a2c0d1-54c6-4ae0-9ae5-94bca0d8302e")
 		)
 		(pin "8"
-			(uuid "b1432c64-16d7-42dc-b917-27f685903302")
+			(uuid "582b973c-d5af-419d-82a1-e2e2acc29cc1")
 		)
 		(pin "7"
 			(uuid "b295bad9-4c2f-4e0b-93fe-78a77826d24e")
@@ -7695,7 +7617,7 @@
 			(uuid "cc7e84c9-dcf3-4458-b057-b8ca9b29eaea")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
 					(unit 4)
@@ -7705,7 +7627,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 44.45 270)
+		(at 127 44.45 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7714,7 +7636,7 @@
 		(fields_autoplaced yes)
 		(uuid "661a0bf6-ac22-49a9-a5df-808e126ca414")
 		(property "Reference" "D18"
-			(at 135.89 41.5924 90)
+			(at 123.19 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7722,8 +7644,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_Y"
-			(at 135.89 44.1324 90)
+		(property "Value" "LED"
+			(at 123.19 44.1324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7732,7 +7654,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 44.45 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7741,7 +7663,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 44.45 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7750,7 +7672,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 44.45 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7759,7 +7681,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 44.45 0)
+			(at 127 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7768,10 +7690,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "362a6326-0a51-4250-ade4-520c095c9d28")
+			(uuid "3135bfa6-5891-4ae7-b7f1-81b677410da9")
 		)
 		(pin "1"
-			(uuid "9c579aa1-619b-4bb9-b969-c64f15297974")
+			(uuid "59bca8e9-3b05-40cf-a024-c12ad4ca29a6")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -7784,8 +7706,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 63.5 0)
-		(mirror y)
+		(at 177.8 76.2 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -7793,7 +7714,7 @@
 		(dnp no)
 		(uuid "66e6533b-95ec-4648-ab45-624016136f57")
 		(property "Reference" "U3"
-			(at 153.924 61.976 0)
+			(at 176.276 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7801,7 +7722,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 64.516 0)
+			(at 176.276 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7809,7 +7730,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 60.96 0)
+			(at 176.53 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7818,7 +7739,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 58.42 0)
+			(at 179.07 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7827,7 +7748,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 63.5 0)
+			(at 177.8 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7854,7 +7775,7 @@
 			(uuid "a9f3fc90-1718-43c2-b714-9214dda5f7f0")
 		)
 		(pin "7"
-			(uuid "26e1d2fd-fa9e-43dc-a337-f94908af6351")
+			(uuid "a2edc50e-5e05-4c00-b2bb-3cff9e7b2155")
 		)
 		(pin "9"
 			(uuid "bdf69108-373a-4356-b384-8276235576b0")
@@ -7866,10 +7787,10 @@
 			(uuid "defd24ea-3db6-4df2-850f-52679b68dbfd")
 		)
 		(pin "1"
-			(uuid "d7604cd3-77b6-4c75-bfc2-7a00ddfc3ab9")
+			(uuid "75aa5d8b-5103-4e80-a644-d5a6a5ba7476")
 		)
 		(pin "6"
-			(uuid "fb0510c5-7020-4ece-8501-6d90436e0fbe")
+			(uuid "ea74fdc4-cf8e-47ec-a148-e137d7b6d43d")
 		)
 		(pin "3"
 			(uuid "74958c62-3047-4a4e-a912-94452217af73")
@@ -7878,7 +7799,7 @@
 			(uuid "f6c86396-aecf-4818-aeb4-fbc0c68567db")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U3")
 					(unit 2)
@@ -7945,35 +7866,17 @@
 				(hide yes)
 			)
 		)
-		(property "Sim.Device" "PNP"
-			(at 86.36 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Sim.Pins" "1=C 2=B 3=E"
-			(at 86.36 139.7 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
 		(pin "3"
-			(uuid "1f4a8df1-06da-46a7-bd65-3175b86cbdc6")
+			(uuid "b7a67636-4cda-473b-bf9a-f952e155ee59")
 		)
 		(pin "2"
-			(uuid "aaff3472-fdcd-4d55-9865-eab33f2eda86")
+			(uuid "e6fa038a-5c39-4f21-bbc6-acf7ed7c2ffc")
 		)
 		(pin "1"
-			(uuid "d59e2aeb-4aba-48c6-abbb-842f7780fce2")
+			(uuid "d5aedb65-14f7-4e88-9238-ebde0310457b")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "Q1")
 					(unit 1)
@@ -8053,10 +7956,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5a6f3f0d-32fe-4590-b15d-3831a69edff9")
+			(uuid "38d0034a-3bc6-4ccd-9d17-76fbdce55ffa")
 		)
 		(pin "1"
-			(uuid "79ea1b10-c8ef-4e5c-abf2-5ac8c0290e7a")
+			(uuid "7c480298-e5d9-4e92-bfcf-08d59357985b")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8069,7 +7972,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 107.95 90)
+		(at 190.5 107.95 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8079,7 +7982,7 @@
 		(fields_autoplaced yes)
 		(uuid "73e2ecaf-4615-4dce-8fb6-340257b383b9")
 		(property "Reference" "D12"
-			(at 207.01 105.0924 90)
+			(at 194.31 105.0924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8087,8 +7990,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 107.6324 90)
+		(property "Value" "LED"
+			(at 194.31 107.6324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8097,7 +8000,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 107.95 0)
+			(at 190.5 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8106,7 +8009,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 107.95 0)
+			(at 190.5 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8115,7 +8018,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 107.95 0)
+			(at 190.5 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8124,7 +8027,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 107.95 0)
+			(at 190.5 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8133,10 +8036,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "cec28c2a-b5d4-4398-af1e-79b4cd91ec2d")
+			(uuid "acd1ab7d-9a75-42a7-9e7f-898f77dc82d6")
 		)
 		(pin "1"
-			(uuid "68ad2056-503a-4b1c-8ae9-e238c8f0ea1a")
+			(uuid "fb35a1e9-4058-4d32-a6c3-71795f5b5c5e")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8149,7 +8052,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 101.6 0)
+		(at 139.7 88.9 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8157,7 +8061,7 @@
 		(dnp no)
 		(uuid "740084e9-04bb-4567-b3b4-7b8aa24130e0")
 		(property "Reference" "U4"
-			(at 188.976 100.076 0)
+			(at 141.224 87.376 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8165,7 +8069,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 102.616 0)
+			(at 141.224 89.916 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8173,7 +8077,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 99.06 0)
+			(at 140.97 86.36 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8182,7 +8086,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 96.52 0)
+			(at 138.43 83.82 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8191,7 +8095,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 101.6 0)
+			(at 139.7 88.9 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8206,13 +8110,13 @@
 			(uuid "df0ba7fc-6af9-4ed3-8dab-8b09609bdd81")
 		)
 		(pin "11"
-			(uuid "c86e9415-b316-4605-aea8-f577ad48d673")
+			(uuid "7903eb93-2a35-473c-91c6-197264acfdf3")
 		)
 		(pin "6"
 			(uuid "3c50e9ad-98ee-45fd-9bc2-d62c06bc5e1f")
 		)
 		(pin "13"
-			(uuid "95edd38f-b828-4c43-8669-e24938e07c7d")
+			(uuid "c9671439-4a14-4f78-94f7-b6389a9a8c5b")
 		)
 		(pin "2"
 			(uuid "9bb0bee8-0503-404f-b1a6-d2babe9ff6eb")
@@ -8224,7 +8128,7 @@
 			(uuid "ad5636da-e85b-45de-9e50-6f2b32788ad8")
 		)
 		(pin "10"
-			(uuid "73d10296-d6d7-4579-b113-6a1719307c1b")
+			(uuid "fa4e4226-caca-4888-8654-b89b921a3083")
 		)
 		(pin "5"
 			(uuid "6166a4a1-30c9-4305-93ea-c6890279773a")
@@ -8242,7 +8146,7 @@
 			(uuid "a2a0fd48-b7e5-4127-9569-21e63825779b")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U4")
 					(unit 3)
@@ -8252,7 +8156,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 120.65 90)
+		(at 190.5 120.65 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8262,7 +8166,7 @@
 		(fields_autoplaced yes)
 		(uuid "740d02f4-156b-40e3-8353-83e1045985e3")
 		(property "Reference" "D9"
-			(at 207.01 117.7924 90)
+			(at 194.31 117.7924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8270,8 +8174,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 120.3324 90)
+		(property "Value" "LED"
+			(at 194.31 120.3324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8280,7 +8184,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 120.65 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8289,7 +8193,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 120.65 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8298,7 +8202,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 120.65 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8307,7 +8211,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 120.65 0)
+			(at 190.5 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8316,10 +8220,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a22ff515-5f7a-46f8-b422-0f9ea0876bcf")
+			(uuid "9e4413d3-f2ee-43b7-9070-7fa0ee5658be")
 		)
 		(pin "1"
-			(uuid "eef94c8d-c500-4521-81fb-993e00b60e4f")
+			(uuid "59f16b2d-5bcc-421a-8fa4-9d1f5e88e332")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8332,7 +8236,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 82.55 90)
+		(at 190.5 82.55 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8342,7 +8246,7 @@
 		(fields_autoplaced yes)
 		(uuid "77bd0c5d-9488-4a7a-a00e-a4c2ddaad822")
 		(property "Reference" "D10"
-			(at 207.01 79.6924 90)
+			(at 194.31 79.6924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8350,8 +8254,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 82.2324 90)
+		(property "Value" "LED"
+			(at 194.31 82.2324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8360,7 +8264,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 82.55 0)
+			(at 190.5 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8369,7 +8273,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 82.55 0)
+			(at 190.5 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8378,7 +8282,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 82.55 0)
+			(at 190.5 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8387,7 +8291,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 82.55 0)
+			(at 190.5 82.55 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8396,10 +8300,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "24f8b867-35b3-46ce-b415-5f49cd3b69ef")
+			(uuid "70a84e33-138c-46a6-bb80-7170247ee9fb")
 		)
 		(pin "1"
-			(uuid "230d2728-5af5-4d52-bf64-a4b3208ba4f3")
+			(uuid "fbcf1ed4-cd3f-4415-86fb-b578e0215f7e")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8412,7 +8316,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 266.7 146.05 0)
+		(at 241.3 146.05 0)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8422,7 +8326,7 @@
 		(fields_autoplaced yes)
 		(uuid "78357359-0f8e-46b8-b244-394e439b3500")
 		(property "Reference" "R24"
-			(at 264.16 144.7799 0)
+			(at 238.76 144.7799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8430,8 +8334,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22k"
-			(at 264.16 147.3199 0)
+		(property "Value" "22K"
+			(at 238.76 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8440,7 +8344,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 267.716 145.796 90)
+			(at 242.316 145.796 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8449,7 +8353,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 266.7 146.05 0)
+			(at 241.3 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8458,7 +8362,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 266.7 146.05 0)
+			(at 241.3 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8467,10 +8371,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "944c2126-f453-4cd4-9348-4226b6c7b9e5")
+			(uuid "99880d9d-e102-46e7-ab68-b3c5be01a274")
 		)
 		(pin "1"
-			(uuid "b57ed7cc-5760-4835-92bd-b911ce27a254")
+			(uuid "a6ecd866-95f0-47ba-bed8-3d05ed90b4ef")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8482,8 +8386,74 @@
 		)
 	)
 	(symbol
+		(lib_id "power:GND")
+		(at 101.6 53.34 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "78e96076-1c1b-4d3d-b699-0c4572ee9ebc")
+		(property "Reference" "#PWR04"
+			(at 101.6 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "GND"
+			(at 101.6 58.42 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 101.6 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 101.6 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
+			(at 101.6 53.34 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "b18014d6-33b8-4a51-beb8-bbdb69ed4b67")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
+					(reference "#PWR04")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 95.25 90)
+		(at 190.5 95.25 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8493,7 +8463,7 @@
 		(fields_autoplaced yes)
 		(uuid "79377c56-e38b-430d-9bc7-2ff78efca7fc")
 		(property "Reference" "D11"
-			(at 207.01 92.3924 90)
+			(at 194.31 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8501,8 +8471,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 207.01 94.9324 90)
+		(property "Value" "LED"
+			(at 194.31 94.9324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8511,7 +8481,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 95.25 0)
+			(at 190.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8520,7 +8490,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 95.25 0)
+			(at 190.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8529,7 +8499,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 95.25 0)
+			(at 190.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8538,7 +8508,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 95.25 0)
+			(at 190.5 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8547,10 +8517,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "cd4411cc-2dcc-4e87-a80b-6437f959b406")
+			(uuid "cac2b15f-d377-454e-bcd1-e57c85db09f3")
 		)
 		(pin "1"
-			(uuid "a0788668-8e62-4c21-8868-e0e19853a9cc")
+			(uuid "bd1a051b-7239-4142-a96e-0bf3b907013f")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8563,7 +8533,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 266.7 111.76 0)
+		(at 241.3 111.76 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8573,7 +8543,7 @@
 		(fields_autoplaced yes)
 		(uuid "7a0fcf2f-f5b1-48f2-9b7f-5a6877054082")
 		(property "Reference" "#PWR025"
-			(at 266.7 115.57 0)
+			(at 241.3 115.57 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8582,7 +8552,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 266.7 106.68 0)
+			(at 241.3 106.68 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8590,7 +8560,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 111.76 0)
+			(at 241.3 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8599,7 +8569,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 111.76 0)
+			(at 241.3 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8608,7 +8578,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 266.7 111.76 0)
+			(at 241.3 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8617,7 +8587,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "fc19a1b6-513f-415e-89cb-2504dd5d7bb4")
+			(uuid "e3610a4a-6b31-40b1-9623-ab06bbbb5019")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8630,8 +8600,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 50.8 0)
-		(mirror y)
+		(at 177.8 38.1 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8639,7 +8608,7 @@
 		(dnp no)
 		(uuid "7b036d8e-f6d2-44b3-b3ce-19d8ca1dfb2f")
 		(property "Reference" "U2"
-			(at 153.924 49.276 0)
+			(at 176.276 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8647,7 +8616,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 51.816 0)
+			(at 176.276 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8655,7 +8624,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 48.26 0)
+			(at 176.53 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8664,7 +8633,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 45.72 0)
+			(at 179.07 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8673,7 +8642,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 50.8 0)
+			(at 177.8 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8694,7 +8663,7 @@
 			(uuid "c207c1d3-930c-4254-a038-2eed2759513d")
 		)
 		(pin "2"
-			(uuid "b53d7b0e-567b-43dd-8000-48e51b8560e9")
+			(uuid "8f26bc58-70df-496a-a66a-713c765c8ccf")
 		)
 		(pin "13"
 			(uuid "bafe5b9e-c35e-4ff1-8b6c-feea570a8c4a")
@@ -8706,7 +8675,7 @@
 			(uuid "e85d2265-a5e4-4eac-b61d-24084272ded3")
 		)
 		(pin "4"
-			(uuid "ae2c348a-bcab-46b8-ab84-a9e1700170d2")
+			(uuid "ad75efa0-2cac-4379-8987-7bd2eeffc983")
 		)
 		(pin "1"
 			(uuid "38f76dcc-5475-4e1f-b3e3-f225f541c570")
@@ -8718,13 +8687,13 @@
 			(uuid "121ba4c0-3235-4d72-a215-f82445695311")
 		)
 		(pin "5"
-			(uuid "7397fde4-2b6e-4863-afbe-e54e7c467fd5")
+			(uuid "23dc41f1-9495-4d93-af1a-e765ffee77a6")
 		)
 		(pin "6"
 			(uuid "c3cbab2f-a10a-4595-a940-28da5bb3c42d")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U2")
 					(unit 1)
@@ -8734,7 +8703,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 63.5 0)
+		(at 139.7 76.2 0)
+		(mirror y)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -8742,7 +8712,7 @@
 		(dnp no)
 		(uuid "7b5ee882-e4c3-4ad2-be8b-a481f4f2d83a")
 		(property "Reference" "U3"
-			(at 188.976 61.976 0)
+			(at 141.224 74.676 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8750,7 +8720,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 64.516 0)
+			(at 141.224 77.216 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8758,7 +8728,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 60.96 0)
+			(at 140.97 73.66 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8767,7 +8737,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 58.42 0)
+			(at 138.43 71.12 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8776,7 +8746,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 63.5 0)
+			(at 139.7 76.2 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8794,10 +8764,10 @@
 			(uuid "1e2aed0e-cb69-429a-a3c9-bfd4618ebcfc")
 		)
 		(pin "8"
-			(uuid "b3bb8a52-9e50-4a82-bbc4-67418e14b282")
+			(uuid "71b4afc7-bee5-4ec5-9b8d-08114bd22e8a")
 		)
 		(pin "14"
-			(uuid "08467e6c-28d8-4c16-b5e2-1f188b6864e3")
+			(uuid "40428cb3-f855-42dd-9642-7bf9f25d3a40")
 		)
 		(pin "12"
 			(uuid "a9f3fc90-1718-43c2-b714-9214dda5f7f1")
@@ -8806,7 +8776,7 @@
 			(uuid "a2edc50e-5e05-4c00-b2bb-3cff9e7b2156")
 		)
 		(pin "9"
-			(uuid "2fd6b313-07c7-43ac-b7f4-bfb3806a81f8")
+			(uuid "bdf69108-373a-4356-b384-8276235576b1")
 		)
 		(pin "4"
 			(uuid "5b6e8957-c734-4870-ad49-6e8c22232d8b")
@@ -8827,7 +8797,7 @@
 			(uuid "f6c86396-aecf-4818-aeb4-fbc0c68567dc")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U3")
 					(unit 4)
@@ -8837,7 +8807,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 57.15 90)
+		(at 190.5 57.15 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -8847,7 +8817,7 @@
 		(fields_autoplaced yes)
 		(uuid "7d07001a-e7f5-4f2e-a6d1-382cab4826be")
 		(property "Reference" "D14"
-			(at 207.01 54.2924 90)
+			(at 194.31 54.2924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8855,8 +8825,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_Y"
-			(at 207.01 56.8324 90)
+		(property "Value" "LED"
+			(at 194.31 56.8324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8865,7 +8835,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 57.15 0)
+			(at 190.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8874,7 +8844,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 57.15 0)
+			(at 190.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8883,7 +8853,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 57.15 0)
+			(at 190.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8892,7 +8862,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 57.15 0)
+			(at 190.5 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8901,10 +8871,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "41b5101e-38ea-4447-a6fc-a014b3cce561")
+			(uuid "088d7a07-b73e-4954-bce9-414de31b337c")
 		)
 		(pin "1"
-			(uuid "d14eef28-114d-41e3-be71-64baf2646379")
+			(uuid "d774f4e9-9df7-455d-95fc-49b602cb607b")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -8934,7 +8904,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "180R"
 			(at 91.44 128.2699 0)
 			(effects
 				(font
@@ -8971,10 +8941,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5ccfcf40-7cc4-4408-8c93-a2848873e46c")
+			(uuid "54cdf8cd-d974-4aa0-b367-a710760c0bc4")
 		)
 		(pin "1"
-			(uuid "8972e878-2e65-44ca-8ca9-dff037c4ee50")
+			(uuid "6f12a7db-5d10-4e37-8a67-691ae2fe06c8")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9040,10 +9010,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "83d6414e-1880-4e45-b529-ff76febe7a99")
+			(uuid "12f528ca-f76a-4ae1-8033-174292dbc7a7")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "#PWR01")
 					(unit 1)
@@ -9053,7 +9023,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 266.7 133.35 90)
+		(at 241.3 133.35 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9061,7 +9031,7 @@
 		(dnp no)
 		(uuid "9020c079-681b-4c8c-8348-116f2218ed10")
 		(property "Reference" "D30"
-			(at 269.24 132.0799 90)
+			(at 243.84 132.0799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9070,7 +9040,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 269.24 134.6199 90)
+			(at 243.84 134.6199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9079,7 +9049,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 266.7 133.35 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9088,7 +9058,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 266.7 133.35 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9097,7 +9067,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 266.7 133.35 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9106,7 +9076,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 266.7 133.35 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9115,7 +9085,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 266.7 133.35 0)
+			(at 241.3 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9124,10 +9094,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "6f305551-b023-44e4-bcb9-5f2b7207b3de")
+			(uuid "dafcf1a4-0412-462b-8c2f-48394b65593a")
 		)
 		(pin "1"
-			(uuid "b2b937de-de29-4fc4-97b7-a4f9e8b57a3c")
+			(uuid "a976a020-1e2c-42a5-b929-1083f7b464e6")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9140,7 +9110,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 146.05 270)
+		(at 127 146.05 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9149,7 +9119,7 @@
 		(fields_autoplaced yes)
 		(uuid "919871ae-a2fc-46f3-a938-8e301898c9c6")
 		(property "Reference" "D26"
-			(at 135.89 143.1924 90)
+			(at 123.19 143.1924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9157,8 +9127,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 145.7324 90)
+		(property "Value" "LED"
+			(at 123.19 145.7324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9167,7 +9137,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 146.05 0)
+			(at 127 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9176,7 +9146,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 146.05 0)
+			(at 127 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9185,7 +9155,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 146.05 0)
+			(at 127 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9194,7 +9164,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 146.05 0)
+			(at 127 146.05 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9203,10 +9173,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "952da091-9bfa-45ce-ac2b-208f05985293")
+			(uuid "c2f3760a-21d0-43a3-959a-4accd9d75ddc")
 		)
 		(pin "1"
-			(uuid "f1bb2a2b-fbdb-4b36-85f4-50c6b1b78739")
+			(uuid "9eb279a0-a290-47a6-8db4-841201bc1dc4")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9273,10 +9243,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "3a52eab8-fa73-4ba0-accf-9ce5a6f9d58a")
+			(uuid "ed0d2bcd-1ec2-44a1-8653-95f9c9fd1c68")
 		)
 		(pin "1"
-			(uuid "4864be30-b5d3-45c1-9cfa-c807ab138938")
+			(uuid "86a10ebc-386b-4f2b-b193-5d6fd2a838a7")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9289,7 +9259,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 31.75 270)
+		(at 127 31.75 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9298,7 +9268,7 @@
 		(fields_autoplaced yes)
 		(uuid "9a1f6d9f-b3ec-4b5c-8d92-adee8fce5bb9")
 		(property "Reference" "D17"
-			(at 135.89 28.8924 90)
+			(at 123.19 28.8924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9306,8 +9276,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_R"
-			(at 135.89 31.4324 90)
+		(property "Value" "LED"
+			(at 123.19 31.4324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9316,7 +9286,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 31.75 0)
+			(at 127 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9325,7 +9295,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 31.75 0)
+			(at 127 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9334,7 +9304,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 31.75 0)
+			(at 127 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9343,7 +9313,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 31.75 0)
+			(at 127 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9352,10 +9322,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "1949a485-db5d-487f-9b3d-b497c7271317")
+			(uuid "e6c26f7c-fb47-4349-9a84-e0f1e25d4955")
 		)
 		(pin "1"
-			(uuid "e0181c81-9f58-45a2-a15b-f335121a9a0a")
+			(uuid "4cdc9648-97a6-4884-92ad-9c4d8ca09eb8")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9438,13 +9408,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "a2b90b9a-497f-44e9-8ab1-d41fee2c635a")
+			(uuid "86ec1d6e-fc22-46c9-b350-ceebd11d10c5")
 		)
 		(pin "1"
-			(uuid "acbd9b3b-5eb4-4032-a648-9f1cba5bc355")
+			(uuid "95bdc5c9-4f76-4553-bce9-732e64c98b1f")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "D4")
 					(unit 1)
@@ -9454,7 +9424,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 148.59 180)
+		(at 158.75 148.59 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9463,7 +9433,7 @@
 		(fields_autoplaced yes)
 		(uuid "a134dfb3-036e-49e7-9847-13dec3655dfc")
 		(property "Reference" "R18"
-			(at 173.99 147.3199 0)
+			(at 161.29 147.3199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9471,8 +9441,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "330R"
-			(at 173.99 149.8599 0)
+		(property "Value" "2K"
+			(at 161.29 149.8599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9481,7 +9451,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 148.336 90)
+			(at 157.734 148.336 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9490,7 +9460,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 148.59 0)
+			(at 158.75 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9499,7 +9469,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 148.59 0)
+			(at 158.75 148.59 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9508,10 +9478,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2355d836-0497-445b-b66f-3bd03cebae44")
+			(uuid "4ff31250-a5d6-4ac0-acb9-360e7d89c83d")
 		)
 		(pin "1"
-			(uuid "189c18f8-d242-4108-80c9-59d6160b4994")
+			(uuid "c36e71ed-5e0e-47f5-b0bc-938185c1f9ce")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9524,7 +9494,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 110.49 180)
+		(at 158.75 110.49 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9533,7 +9503,7 @@
 		(fields_autoplaced yes)
 		(uuid "a1dacbe0-8aad-4379-baa5-dc3d3ba49d57")
 		(property "Reference" "R15"
-			(at 173.99 109.2199 0)
+			(at 161.29 109.2199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9541,8 +9511,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k"
-			(at 173.99 111.7599 0)
+		(property "Value" "2K"
+			(at 161.29 111.7599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9551,7 +9521,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 110.236 90)
+			(at 157.734 110.236 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9560,7 +9530,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 110.49 0)
+			(at 158.75 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9569,7 +9539,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 110.49 0)
+			(at 158.75 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9578,10 +9548,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "e680e656-c09b-4a13-9036-1027516fa71b")
+			(uuid "2976f51c-92eb-4acc-b059-b1ff5a5e1e05")
 		)
 		(pin "1"
-			(uuid "4ea085f1-e793-4ac9-8c90-e381af96884e")
+			(uuid "deedd856-44f3-428a-a70e-bec28135f6d8")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9594,7 +9564,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 46.99 180)
+		(at 158.75 46.99 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9603,7 +9573,7 @@
 		(fields_autoplaced yes)
 		(uuid "a396cae2-2252-4243-ab14-6a2355250b6f")
 		(property "Reference" "R10"
-			(at 173.99 45.7199 0)
+			(at 161.29 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9611,8 +9581,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "5k6"
-			(at 173.99 48.2599 0)
+		(property "Value" "2K"
+			(at 161.29 48.2599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9621,7 +9591,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 46.736 90)
+			(at 157.734 46.736 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9630,7 +9600,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 46.99 0)
+			(at 158.75 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9639,7 +9609,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 46.99 0)
+			(at 158.75 46.99 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9648,10 +9618,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "fcd0feef-9c92-46fa-90e2-5f7af6a21351")
+			(uuid "e982e94c-31bb-4fe3-bab1-dc40285c465c")
 		)
 		(pin "1"
-			(uuid "70f17824-2318-4e5d-9928-cbd9b4f0362a")
+			(uuid "bd11474d-875e-4ea5-8c3e-1a36a3551783")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9664,7 +9634,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 57.15 270)
+		(at 127 57.15 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9673,7 +9643,7 @@
 		(fields_autoplaced yes)
 		(uuid "a4734894-f604-4cae-b126-058da67d5381")
 		(property "Reference" "D19"
-			(at 135.89 54.2924 90)
+			(at 123.19 54.2924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9681,8 +9651,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_Y"
-			(at 135.89 56.8324 90)
+		(property "Value" "LED"
+			(at 123.19 56.8324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9691,7 +9661,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 57.15 0)
+			(at 127 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9700,7 +9670,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 57.15 0)
+			(at 127 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9709,7 +9679,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 57.15 0)
+			(at 127 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9718,7 +9688,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 57.15 0)
+			(at 127 57.15 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9726,19 +9696,11 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
-			(at 139.7 57.15 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
-			(uuid "30386b7d-cf8b-42f1-a4e4-cb99648cf531")
+			(uuid "4da9bd54-bbcd-45b8-9578-b35e7276aeae")
 		)
 		(pin "1"
-			(uuid "046f6c3f-fbb6-4b62-8b32-f40e54e4e656")
+			(uuid "50a53d33-8b05-42c1-9723-bf91985e888c")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9804,7 +9766,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "b5a4902f-6964-4a52-9409-4a98137bf063")
+			(uuid "3dd75ff2-065a-4241-bb8e-02feac14bef6")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9817,7 +9779,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 44.45 90)
+		(at 190.5 44.45 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9827,7 +9789,7 @@
 		(fields_autoplaced yes)
 		(uuid "ae1bc7b9-da5e-4de8-8ee7-1f1b475f6e68")
 		(property "Reference" "D13"
-			(at 207.01 41.5924 90)
+			(at 194.31 41.5924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9835,8 +9797,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_Y"
-			(at 207.01 44.1324 90)
+		(property "Value" "LED"
+			(at 194.31 44.1324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9845,7 +9807,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 44.45 0)
+			(at 190.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9854,7 +9816,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 44.45 0)
+			(at 190.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9863,7 +9825,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 44.45 0)
+			(at 190.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9872,7 +9834,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 44.45 0)
+			(at 190.5 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9881,10 +9843,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "7d150b42-0f32-48f5-a14b-ebc78f8e3c24")
+			(uuid "1c0007ce-5d2a-4dd0-956b-38513c2fff41")
 		)
 		(pin "1"
-			(uuid "8d15ecb0-8cb4-4859-8fa3-83f5d666ba56")
+			(uuid "2b621285-c75b-4448-9898-dae2718535bc")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9897,7 +9859,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 203.2 31.75 90)
+		(at 190.5 31.75 90)
 		(mirror x)
 		(unit 1)
 		(exclude_from_sim no)
@@ -9907,7 +9869,7 @@
 		(fields_autoplaced yes)
 		(uuid "af503003-db2c-49a3-902a-2030bd1b4ecb")
 		(property "Reference" "D16"
-			(at 207.01 28.8924 90)
+			(at 194.31 28.8924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9915,8 +9877,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_R"
-			(at 207.01 31.4324 90)
+		(property "Value" "LED"
+			(at 194.31 31.4324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9925,7 +9887,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 203.2 31.75 0)
+			(at 190.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9934,7 +9896,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 203.2 31.75 0)
+			(at 190.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9943,7 +9905,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 203.2 31.75 0)
+			(at 190.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9952,7 +9914,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 203.2 31.75 0)
+			(at 190.5 31.75 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9961,10 +9923,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "da6f8a62-61e7-481e-96a3-a1aa99287cb2")
+			(uuid "bf167c99-c6f1-49df-b18d-8118c5d545ae")
 		)
 		(pin "1"
-			(uuid "36ebe657-8096-4ed6-b98d-92710ef23a47")
+			(uuid "fc8392b1-4e93-4468-a4ce-7c405d80242b")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -9977,7 +9939,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 97.79 180)
+		(at 158.75 97.79 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -9986,7 +9948,7 @@
 		(fields_autoplaced yes)
 		(uuid "b56d697e-31d3-499b-8f1b-964e1b91bf92")
 		(property "Reference" "R14"
-			(at 173.99 96.5199 0)
+			(at 161.29 96.5199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9994,8 +9956,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k39"
-			(at 173.99 99.0599 0)
+		(property "Value" "2K"
+			(at 161.29 99.0599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10004,7 +9966,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 97.536 90)
+			(at 157.734 97.536 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10013,7 +9975,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 97.79 0)
+			(at 158.75 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10022,7 +9984,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 97.79 0)
+			(at 158.75 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10031,10 +9993,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5f94aaa5-4860-41e1-9220-bc71dc62e509")
+			(uuid "f80deaa8-2efd-4f7c-860d-eaa3d911413f")
 		)
 		(pin "1"
-			(uuid "d36332a6-8f04-4d90-8e9c-c02dd514dd4b")
+			(uuid "21878779-95d4-4ca7-ba1a-9774f5b67e7d")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10047,7 +10009,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 127 0)
+		(at 139.7 114.3 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10055,7 +10018,7 @@
 		(dnp no)
 		(uuid "b68c2553-b3b5-4d29-803a-a66f64130ccf")
 		(property "Reference" "U5"
-			(at 188.976 125.476 0)
+			(at 141.224 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10063,7 +10026,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 128.016 0)
+			(at 141.224 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10071,7 +10034,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 124.46 0)
+			(at 140.97 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10080,7 +10043,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 121.92 0)
+			(at 138.43 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,7 +10052,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 127 0)
+			(at 139.7 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10107,7 +10070,7 @@
 			(uuid "0f1a91e8-b506-42b9-b663-602aa5de9429")
 		)
 		(pin "13"
-			(uuid "936ca906-0bf6-4812-958a-83aab69eafe5")
+			(uuid "da7bf557-048d-4b1b-a48a-8f0596a29cbe")
 		)
 		(pin "12"
 			(uuid "29389278-9f6f-49e8-9e0f-09d5bf5eb3d9")
@@ -10116,7 +10079,7 @@
 			(uuid "fba867a3-aa8c-4578-a0f0-6c24529d5104")
 		)
 		(pin "10"
-			(uuid "dd56b0c5-cc89-4b16-b71b-82e0c46cf4ce")
+			(uuid "e25332b7-ef4e-4146-a593-31d986601632")
 		)
 		(pin "6"
 			(uuid "e10fe98d-5d86-4ca7-8561-65690f8b86d7")
@@ -10134,13 +10097,13 @@
 			(uuid "b295bad9-4c2f-4e0b-93fe-78a77826d24f")
 		)
 		(pin "11"
-			(uuid "42d5c260-403b-4d21-bf31-5a151bd41793")
+			(uuid "42100427-a03e-49e4-a9ba-c0d20e01a142")
 		)
 		(pin "3"
 			(uuid "cc7e84c9-dcf3-4458-b057-b8ca9b29eaeb")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
 					(unit 3)
@@ -10202,10 +10165,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "3511725c-ff31-4981-9e73-de49c064ddcf")
+			(uuid "930c4e42-7df3-4853-aefc-e63264f23c0a")
 		)
 		(pin "1"
-			(uuid "9d0b09f9-59cf-46c7-8d25-a96d22633ab7")
+			(uuid "88ec0025-d64e-48de-a99c-f9e2e55b3237")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10218,7 +10181,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 266.7 154.94 0)
+		(at 241.3 154.94 0)
 		(mirror y)
 		(unit 1)
 		(exclude_from_sim no)
@@ -10228,7 +10191,7 @@
 		(fields_autoplaced yes)
 		(uuid "bb44addb-7140-4bbe-af5e-e638029dcd3b")
 		(property "Reference" "#PWR026"
-			(at 266.7 161.29 0)
+			(at 241.3 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10237,7 +10200,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 266.7 160.02 0)
+			(at 241.3 160.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10245,7 +10208,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 266.7 154.94 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10254,7 +10217,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 266.7 154.94 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10263,7 +10226,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 266.7 154.94 0)
+			(at 241.3 154.94 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10272,7 +10235,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "e82e693f-ee50-453b-8901-dac42f5e9fd3")
+			(uuid "3f6f214f-4fe9-44a9-8c8f-3f1e9733ffa5")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10285,8 +10248,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 38.1 0)
-		(mirror y)
+		(at 177.8 50.8 0)
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10294,7 +10256,7 @@
 		(dnp no)
 		(uuid "c61da55e-8080-4bcd-bead-793a26eea10f")
 		(property "Reference" "U2"
-			(at 153.924 36.576 0)
+			(at 176.276 49.276 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10302,7 +10264,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 39.116 0)
+			(at 176.276 51.816 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10310,7 +10272,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 35.56 0)
+			(at 176.53 48.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10319,7 +10281,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 33.02 0)
+			(at 179.07 45.72 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10328,7 +10290,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 38.1 0)
+			(at 177.8 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10337,7 +10299,7 @@
 			)
 		)
 		(pin "7"
-			(uuid "418997e0-65d9-4f95-8d39-ca5f3f4c0b58")
+			(uuid "83d06f18-1eaa-42b6-a4ab-724eaf746a74")
 		)
 		(pin "3"
 			(uuid "83f3134d-e1dc-46ef-b754-b8491d31dc40")
@@ -10364,7 +10326,7 @@
 			(uuid "ad75efa0-2cac-4379-8987-7bd2eeffc984")
 		)
 		(pin "1"
-			(uuid "d61ec3b1-f5d0-4cc6-a04a-89ff40521a8d")
+			(uuid "38f76dcc-5475-4e1f-b3e3-f225f541c571")
 		)
 		(pin "11"
 			(uuid "867ca38e-e14c-48db-8b23-74e3dcd57045")
@@ -10376,10 +10338,10 @@
 			(uuid "23dc41f1-9495-4d93-af1a-e765ffee77a7")
 		)
 		(pin "6"
-			(uuid "0f11dda3-056d-436e-8ab6-913346d9901b")
+			(uuid "c3cbab2f-a10a-4595-a940-28da5bb3c42e")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U2")
 					(unit 2)
@@ -10389,7 +10351,7 @@
 	)
 	(symbol
 		(lib_id "Diode:1N4148")
-		(at 266.7 120.65 90)
+		(at 241.3 120.65 90)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10397,7 +10359,7 @@
 		(dnp no)
 		(uuid "c7c61a1a-cb11-45e2-897a-b9d04dd89676")
 		(property "Reference" "D29"
-			(at 269.24 119.3799 90)
+			(at 243.84 119.3799 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10406,7 +10368,7 @@
 			)
 		)
 		(property "Value" "1N4148"
-			(at 269.24 121.9199 90)
+			(at 243.84 121.9199 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10415,7 +10377,7 @@
 			)
 		)
 		(property "Footprint" "Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal"
-			(at 266.7 120.65 0)
+			(at 241.3 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10424,7 +10386,7 @@
 			)
 		)
 		(property "Datasheet" "https://assets.nexperia.com/documents/data-sheet/1N4148_1N4448.pdf"
-			(at 266.7 120.65 0)
+			(at 241.3 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10433,7 +10395,7 @@
 			)
 		)
 		(property "Description" "100V 0.15A standard switching diode, DO-35"
-			(at 266.7 120.65 0)
+			(at 241.3 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10442,7 +10404,7 @@
 			)
 		)
 		(property "Sim.Device" "D"
-			(at 266.7 120.65 0)
+			(at 241.3 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10451,7 +10413,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 266.7 120.65 0)
+			(at 241.3 120.65 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10460,10 +10422,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "5fe19759-f932-414b-8f6a-be1c5af2ef1c")
+			(uuid "fe211c06-2059-4530-a425-dfd6b612727f")
 		)
 		(pin "1"
-			(uuid "f082002b-e495-4816-9e38-379dc131b0d7")
+			(uuid "ea6e84c6-e39a-4415-add3-e7b056660e81")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10546,13 +10508,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "2dda547c-0325-465b-beeb-25af4afcb543")
+			(uuid "75acf9b2-764f-4824-a52a-aa2f2798aebc")
 		)
 		(pin "1"
-			(uuid "83c30386-591a-4b20-aea7-7fcfd2f3229e")
+			(uuid "4093d9af-6838-4435-a7c4-448caff36ea3")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "D3")
 					(unit 1)
@@ -10562,7 +10524,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 107.95 270)
+		(at 127 107.95 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10571,7 +10533,7 @@
 		(fields_autoplaced yes)
 		(uuid "d0958291-a939-442b-9656-570d5d2c94ac")
 		(property "Reference" "D23"
-			(at 135.89 105.0924 90)
+			(at 123.19 105.0924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10579,8 +10541,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 107.6324 90)
+		(property "Value" "LED"
+			(at 123.19 107.6324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10589,7 +10551,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 107.95 0)
+			(at 127 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10598,7 +10560,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 107.95 0)
+			(at 127 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10607,7 +10569,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 107.95 0)
+			(at 127 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10616,7 +10578,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 107.95 0)
+			(at 127 107.95 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10625,10 +10587,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "968dc1dc-7b66-48d4-8ffd-43043d007f24")
+			(uuid "3183e100-1c86-4dff-a103-a65cd855b64f")
 		)
 		(pin "1"
-			(uuid "230db56a-fad4-45fa-95b9-f870e6cd1aef")
+			(uuid "0cf62c80-49ac-4701-9d24-4393a1ab911d")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10641,7 +10603,7 @@
 	)
 	(symbol
 		(lib_id "power:+12V")
-		(at 171.45 25.4 0)
+		(at 158.75 25.4 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10650,7 +10612,7 @@
 		(fields_autoplaced yes)
 		(uuid "d09c8208-64b4-43db-b223-c4605e603981")
 		(property "Reference" "#PWR019"
-			(at 171.45 29.21 0)
+			(at 158.75 29.21 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10659,7 +10621,7 @@
 			)
 		)
 		(property "Value" "+12V"
-			(at 171.45 20.32 0)
+			(at 158.75 20.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10667,7 +10629,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 25.4 0)
+			(at 158.75 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10676,7 +10638,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 25.4 0)
+			(at 158.75 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10685,7 +10647,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 171.45 25.4 0)
+			(at 158.75 25.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10694,10 +10656,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "2a604a9e-b35b-438e-877c-5c1c91b58a02")
+			(uuid "e3ecfecb-350d-45e4-bd3a-7969a278e107")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "#PWR019")
 					(unit 1)
@@ -10723,7 +10685,7 @@
 				)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "20K"
 			(at 31.75 44.45 90)
 			(effects
 				(font
@@ -10758,22 +10720,14 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
-			(at 31.75 48.26 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
 		(pin "2"
-			(uuid "c9d70183-b43d-4180-9a85-96d96fa69896")
+			(uuid "75dce6f0-2fbc-489b-80b8-d7425d9d39cc")
 		)
 		(pin "1"
-			(uuid "516bede2-607a-4c1c-bbb4-0c625c137078")
+			(uuid "7977cf6a-16f4-49cf-9486-a9394415c059")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "R1")
 					(unit 1)
@@ -10783,16 +10737,16 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 72.39 180)
+		(at 101.6 44.45 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(fields_autoplaced yes)
-		(uuid "d4fb67f7-a3b5-4401-ba8e-847c40c16eb9")
-		(property "Reference" "R12"
-			(at 173.99 71.1199 0)
+		(uuid "d241be29-2fb5-4677-a9ca-2437f2ce3a2b")
+		(property "Reference" "R4"
+			(at 104.14 43.1799 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10800,8 +10754,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2k7"
-			(at 173.99 73.6599 0)
+		(property "Value" "100K"
+			(at 104.14 45.7199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10810,7 +10764,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 72.136 90)
+			(at 100.584 44.196 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10819,7 +10773,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 72.39 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10828,7 +10782,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 72.39 0)
+			(at 101.6 44.45 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10837,10 +10791,80 @@
 			)
 		)
 		(pin "2"
-			(uuid "729ab03e-6261-4f5b-b5ca-bc9fb71d874a")
+			(uuid "7367fde3-0b9c-42a3-b667-95342fe0472c")
 		)
 		(pin "1"
-			(uuid "9bbe0b84-92a9-4220-903c-c9f037b14f41")
+			(uuid "fcb0ef02-ae04-4204-8558-b48afb2397d3")
+		)
+		(instances
+			(project "DMH_Output_PCB_1"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
+					(reference "R4")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Device:R_US")
+		(at 158.75 72.39 180)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "d4fb67f7-a3b5-4401-ba8e-847c40c16eb9")
+		(property "Reference" "R12"
+			(at 161.29 71.1199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "2K"
+			(at 161.29 73.6599 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
+			(at 157.734 72.136 90)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 158.75 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Resistor, US symbol"
+			(at 158.75 72.39 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "1f0ba2bd-dd30-4dd9-b463-3d2cdb9f623a")
+		)
+		(pin "1"
+			(uuid "24755866-d2f9-420d-90ef-e864a08cd934")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10853,7 +10877,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 95.25 270)
+		(at 127 95.25 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -10862,7 +10886,7 @@
 		(fields_autoplaced yes)
 		(uuid "d9e64d4f-4d2e-44b3-85f5-9ec803c32507")
 		(property "Reference" "D22"
-			(at 135.89 92.3924 90)
+			(at 123.19 92.3924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10870,8 +10894,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 94.9324 90)
+		(property "Value" "LED"
+			(at 123.19 94.9324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10880,7 +10904,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 95.25 0)
+			(at 127 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10889,7 +10913,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 95.25 0)
+			(at 127 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10898,7 +10922,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 95.25 0)
+			(at 127 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10907,7 +10931,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 95.25 0)
+			(at 127 95.25 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10916,10 +10940,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "478db60e-ccd9-4642-b054-475123ce2fdd")
+			(uuid "b9daea29-8c7e-47d1-86d5-3c7a2c0c7aec")
 		)
 		(pin "1"
-			(uuid "d612dbbe-d9d4-48e6-aa1d-5f13cc197f09")
+			(uuid "907a92d1-dde1-4c9b-a0e4-4821025c9aa8")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -10984,10 +11008,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ed2eff33-5222-413e-9c9e-1761961fe451")
+			(uuid "4165158e-e114-4ce2-991d-593f625b5b95")
 		)
 		(pin "1"
-			(uuid "ae6176ff-08f2-422d-ba5c-92c54ecd5bf2")
+			(uuid "a56feb59-1397-4c2e-98d8-a63bf1b695d5")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11017,7 +11041,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "22k"
+		(property "Value" "22K"
 			(at 78.74 147.3199 0)
 			(effects
 				(font
@@ -11054,10 +11078,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "a6b4ca0e-de19-4b09-9ba6-fcbe8bc72c55")
+			(uuid "66435329-5470-43cc-aaac-0e7ba8820bf2")
 		)
 		(pin "1"
-			(uuid "ff22b72d-faa6-4674-b346-135075854242")
+			(uuid "e6a968f9-4f44-4297-88f2-11bf9191d2ae")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11070,7 +11094,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 88.9 101.6 0)
+		(at 88.9 104.14 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11079,7 +11103,7 @@
 		(fields_autoplaced yes)
 		(uuid "e4593db1-d957-4686-a2f5-31fab4fc2340")
 		(property "Reference" "#PWR02"
-			(at 88.9 107.95 0)
+			(at 88.9 110.49 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11088,7 +11112,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 88.9 106.68 0)
+			(at 88.9 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11096,7 +11120,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 88.9 101.6 0)
+			(at 88.9 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11105,7 +11129,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 88.9 101.6 0)
+			(at 88.9 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11114,7 +11138,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 88.9 101.6 0)
+			(at 88.9 104.14 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11123,7 +11147,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "a5d244f0-1249-4325-9d5e-96df060ee398")
+			(uuid "8af77992-757f-4d99-b7bc-4c485d916991")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11136,7 +11160,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 34.29 180)
+		(at 158.75 34.29 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11145,7 +11169,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5c4ace5-c0d1-4d87-8159-15690ba720d7")
 		(property "Reference" "R9"
-			(at 173.99 33.0199 0)
+			(at 161.29 33.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11153,8 +11177,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "82k"
-			(at 173.99 35.5599 0)
+		(property "Value" "2K"
+			(at 161.29 35.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11163,7 +11187,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 34.036 90)
+			(at 157.734 34.036 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11172,7 +11196,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 34.29 0)
+			(at 158.75 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11181,7 +11205,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 34.29 0)
+			(at 158.75 34.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11190,10 +11214,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "86ee301a-f246-4b41-8b59-82249c993402")
+			(uuid "d1c7200c-1d00-4be5-848a-a92d5d192521")
 		)
 		(pin "1"
-			(uuid "49d2dcd6-f7a8-40f6-9715-e463790186e7")
+			(uuid "23304d3a-f48c-454e-916b-56647f670398")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11206,7 +11230,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 85.09 180)
+		(at 158.75 85.09 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11215,7 +11239,7 @@
 		(fields_autoplaced yes)
 		(uuid "e5dbdfd9-e06c-45ad-9277-90e40d9f55b7")
 		(property "Reference" "R13"
-			(at 173.99 83.8199 0)
+			(at 161.29 83.8199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11223,8 +11247,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "2k"
-			(at 173.99 86.3599 0)
+		(property "Value" "2K"
+			(at 161.29 86.3599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11233,7 +11257,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 84.836 90)
+			(at 157.734 84.836 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11242,7 +11266,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 85.09 0)
+			(at 158.75 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11251,7 +11275,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 85.09 0)
+			(at 158.75 85.09 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11260,10 +11284,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "ea691924-1fb0-4170-8c5b-44394fb264c2")
+			(uuid "47bd6079-d9e4-46f5-b7c1-74310329d2e3")
 		)
 		(pin "1"
-			(uuid "b828e88e-0c6f-4cd9-87ab-08783ec38e81")
+			(uuid "1f4a6ae5-673d-46ac-8b19-4c1a5713519e")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11346,10 +11370,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "936f07aa-37a6-47a9-88bc-04d9f2374f25")
+			(uuid "6b4ad93a-cd0f-4ad4-a7a5-721163394a80")
 		)
 		(pin "1"
-			(uuid "7e664e19-9385-4fd9-a320-f570788bff03")
+			(uuid "9fba76fa-1986-4891-9621-41a221220a75")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11362,8 +11386,7 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 127 0)
-		(mirror y)
+		(at 177.8 114.3 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11371,7 +11394,7 @@
 		(dnp no)
 		(uuid "f0636945-1277-42cb-a6b4-009b43077f25")
 		(property "Reference" "U5"
-			(at 153.924 125.476 0)
+			(at 176.276 112.776 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11379,7 +11402,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 128.016 0)
+			(at 176.276 115.316 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11387,7 +11410,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 124.46 0)
+			(at 176.53 111.76 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11396,7 +11419,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 121.92 0)
+			(at 179.07 109.22 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11405,7 +11428,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 127 0)
+			(at 177.8 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11414,13 +11437,13 @@
 			)
 		)
 		(pin "2"
-			(uuid "3476e594-9b10-44d6-a4f2-f3d2f6704d09")
+			(uuid "06cd3a35-a0da-41b3-92a1-cf852af4c3b9")
 		)
 		(pin "1"
 			(uuid "2486c836-1c04-45b0-b631-dbd464ddb474")
 		)
 		(pin "4"
-			(uuid "702701a6-6ff8-4724-8377-2de1694c6ae0")
+			(uuid "0f1a91e8-b506-42b9-b663-602aa5de942a")
 		)
 		(pin "13"
 			(uuid "da7bf557-048d-4b1b-a48a-8f0596a29cbf")
@@ -11441,7 +11464,7 @@
 			(uuid "0ff93ea1-918c-4d64-8c39-85474e968b48")
 		)
 		(pin "5"
-			(uuid "4ba57aa4-a698-4a55-bc86-e37bf17114a3")
+			(uuid "f8a2c0d1-54c6-4ae0-9ae5-94bca0d83030")
 		)
 		(pin "8"
 			(uuid "582b973c-d5af-419d-82a1-e2e2acc29cc3")
@@ -11456,7 +11479,7 @@
 			(uuid "cc7e84c9-dcf3-4458-b057-b8ca9b29eaec")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
 					(unit 1)
@@ -11466,7 +11489,7 @@
 	)
 	(symbol
 		(lib_id "power:GND")
-		(at 171.45 170.18 0)
+		(at 158.75 170.18 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11475,7 +11498,7 @@
 		(fields_autoplaced yes)
 		(uuid "f0c74519-bf8a-4400-84e6-0e3d07a52a66")
 		(property "Reference" "#PWR020"
-			(at 171.45 176.53 0)
+			(at 158.75 176.53 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11484,7 +11507,7 @@
 			)
 		)
 		(property "Value" "GND"
-			(at 171.45 175.26 0)
+			(at 158.75 175.26 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11492,7 +11515,7 @@
 			)
 		)
 		(property "Footprint" ""
-			(at 171.45 170.18 0)
+			(at 158.75 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11501,7 +11524,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 171.45 170.18 0)
+			(at 158.75 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11510,7 +11533,7 @@
 			)
 		)
 		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 171.45 170.18 0)
+			(at 158.75 170.18 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11519,7 +11542,7 @@
 			)
 		)
 		(pin "1"
-			(uuid "7917f125-45db-4f10-81ce-cd18cace2d53")
+			(uuid "b208f85f-123f-49ba-a96f-46ac078ddf6c")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11532,7 +11555,7 @@
 	)
 	(symbol
 		(lib_id "Device:LED")
-		(at 139.7 133.35 270)
+		(at 127 133.35 270)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11541,7 +11564,7 @@
 		(fields_autoplaced yes)
 		(uuid "f4dbc427-b0cf-4567-892c-863faa0f61cc")
 		(property "Reference" "D25"
-			(at 135.89 130.4924 90)
+			(at 123.19 130.4924 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11549,8 +11572,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "LED_G"
-			(at 135.89 133.0324 90)
+		(property "Value" "LED"
+			(at 123.19 133.0324 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11559,7 +11582,7 @@
 			)
 		)
 		(property "Footprint" "LED_THT:LED_Rectangular_W5.0mm_H2.0mm"
-			(at 139.7 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11568,7 +11591,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 139.7 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11577,7 +11600,7 @@
 			)
 		)
 		(property "Description" "Light emitting diode"
-			(at 139.7 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11586,7 +11609,7 @@
 			)
 		)
 		(property "Sim.Pins" "1=K 2=A"
-			(at 139.7 133.35 0)
+			(at 127 133.35 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11595,10 +11618,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "2bc9d9f7-2934-4355-97d4-c341389694fc")
+			(uuid "211ec3ff-91a1-4d1e-a9eb-a62d2a55f4a5")
 		)
 		(pin "1"
-			(uuid "b6b8f2c1-0c54-4c03-8983-db38f13a0e07")
+			(uuid "52ff226a-6f44-4c52-ba55-cffc0889e367")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11611,7 +11634,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 123.19 180)
+		(at 158.75 123.19 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11620,7 +11643,7 @@
 		(fields_autoplaced yes)
 		(uuid "f5c6174c-8a6c-4d88-962e-6fe626ba0af7")
 		(property "Reference" "R16"
-			(at 173.99 121.9199 0)
+			(at 161.29 121.9199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11628,8 +11651,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k2"
-			(at 173.99 124.4599 0)
+		(property "Value" "2K"
+			(at 161.29 124.4599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11638,7 +11661,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 122.936 90)
+			(at 157.734 122.936 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11647,7 +11670,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 123.19 0)
+			(at 158.75 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11656,7 +11679,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 123.19 0)
+			(at 158.75 123.19 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11665,10 +11688,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "b353a7e5-4dd2-4105-9672-e73428b74f02")
+			(uuid "74c7049c-9dc5-40c5-acab-ba96e858f232")
 		)
 		(pin "1"
-			(uuid "b55b45b9-a14e-4598-be7a-c544c43e0a66")
+			(uuid "087416d6-c42e-4ef6-aabf-14bd8533a913")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11681,7 +11704,7 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 171.45 161.29 180)
+		(at 158.75 161.29 180)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11690,7 +11713,7 @@
 		(fields_autoplaced yes)
 		(uuid "f63c6d09-2038-48e1-b654-48e8d0123e7c")
 		(property "Reference" "R19"
-			(at 173.99 160.0199 0)
+			(at 161.29 160.0199 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11698,8 +11721,8 @@
 				(justify right)
 			)
 		)
-		(property "Value" "270R"
-			(at 173.99 162.5599 0)
+		(property "Value" "2K"
+			(at 161.29 162.5599 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11708,7 +11731,7 @@
 			)
 		)
 		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 170.434 161.036 90)
+			(at 157.734 161.036 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11717,7 +11740,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 171.45 161.29 0)
+			(at 158.75 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11726,7 +11749,7 @@
 			)
 		)
 		(property "Description" "Resistor, US symbol"
-			(at 171.45 161.29 0)
+			(at 158.75 161.29 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11735,10 +11758,10 @@
 			)
 		)
 		(pin "2"
-			(uuid "0b592d97-f8fd-4502-b486-85892088ace6")
+			(uuid "80e65150-9c04-403d-8f5a-17bc882e1693")
 		)
 		(pin "1"
-			(uuid "d04e10cd-de85-49ee-acb4-98d18a2b0beb")
+			(uuid "3a193fd7-a263-4c21-a205-17c32f57ec60")
 		)
 		(instances
 			(project "DMH_Output_PCB_1"
@@ -11751,7 +11774,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 50.8 0)
+		(at 139.7 38.1 0)
+		(mirror y)
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11759,7 +11783,7 @@
 		(dnp no)
 		(uuid "f6e7a34e-8a0b-4ed9-ada6-cb39b62f56e9")
 		(property "Reference" "U2"
-			(at 188.976 49.276 0)
+			(at 141.224 36.576 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11767,7 +11791,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 51.816 0)
+			(at 141.224 39.116 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11775,7 +11799,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 48.26 0)
+			(at 140.97 35.56 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11784,7 +11808,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 45.72 0)
+			(at 138.43 33.02 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11793,7 +11817,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 50.8 0)
+			(at 139.7 38.1 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11811,13 +11835,13 @@
 			(uuid "be05bb10-6916-400c-812f-032199fd0e57")
 		)
 		(pin "10"
-			(uuid "d4e92a63-15a8-486b-a072-d295aa5a03d8")
+			(uuid "c207c1d3-930c-4254-a038-2eed2759513f")
 		)
 		(pin "2"
 			(uuid "8f26bc58-70df-496a-a66a-713c765c8cd1")
 		)
 		(pin "13"
-			(uuid "aa8e79e3-623c-4b77-98e9-6f4cfb5cadbb")
+			(uuid "bafe5b9e-c35e-4ff1-8b6c-feea570a8c4c")
 		)
 		(pin "14"
 			(uuid "fb14f3e1-0d15-4404-9827-675a6ab9c8a7")
@@ -11832,7 +11856,7 @@
 			(uuid "38f76dcc-5475-4e1f-b3e3-f225f541c572")
 		)
 		(pin "11"
-			(uuid "f6a1bd65-7634-486d-921e-1a5c7938b5d7")
+			(uuid "867ca38e-e14c-48db-8b23-74e3dcd57046")
 		)
 		(pin "9"
 			(uuid "121ba4c0-3235-4d72-a215-f82445695313")
@@ -11844,7 +11868,7 @@
 			(uuid "c3cbab2f-a10a-4595-a940-28da5bb3c42f")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U2")
 					(unit 3)
@@ -11854,7 +11878,8 @@
 	)
 	(symbol
 		(lib_id "Comparator:LM339")
-		(at 190.5 139.7 0)
+		(at 139.7 152.4 0)
+		(mirror y)
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -11862,7 +11887,7 @@
 		(dnp no)
 		(uuid "f8a78143-718b-4b80-9073-5c6a162f7991")
 		(property "Reference" "U6"
-			(at 188.976 138.176 0)
+			(at 141.224 150.876 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11870,7 +11895,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 188.976 140.716 0)
+			(at 141.224 153.416 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11878,7 +11903,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 189.23 137.16 0)
+			(at 140.97 149.86 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11887,7 +11912,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 191.77 134.62 0)
+			(at 138.43 147.32 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11896,7 +11921,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 190.5 139.7 0)
+			(at 139.7 152.4 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11908,13 +11933,13 @@
 			(uuid "4fa264fe-a294-4664-b1f0-d710c56ecab1")
 		)
 		(pin "14"
-			(uuid "f27c5351-3436-4e1c-948f-3632ccef6aba")
+			(uuid "7548c277-ecac-4d6c-a434-2e02433805e7")
 		)
 		(pin "9"
-			(uuid "ce7dc31a-61ca-4643-874b-f6b554af5a85")
+			(uuid "2c56fb05-3334-45b2-8f4d-40ea6d035a2c")
 		)
 		(pin "8"
-			(uuid "a92e2779-e079-4417-a654-0bc7d592dcc4")
+			(uuid "a1962fbb-ce35-45f2-8465-d15deea28eff")
 		)
 		(pin "10"
 			(uuid "c47ae0c0-e8e7-4250-8a03-d5e3a2402b2b")
@@ -11947,7 +11972,7 @@
 			(uuid "022f727f-3e49-4f64-a3a3-23eecf98e508")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U6")
 					(unit 4)
@@ -11956,95 +11981,8 @@
 		)
 	)
 	(symbol
-		(lib_id "Amplifier_Operational:TL072")
-		(at 50.8 101.6 0)
-		(mirror x)
-		(unit 2)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(uuid "fae18ceb-27c3-492b-83d5-928a71283db3")
-		(property "Reference" "U1"
-			(at 50.8 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "TL072"
-			(at 50.8 109.22 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 50.8 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 50.8 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 50.8 101.6 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "7"
-			(uuid "fae5b22c-7a9f-4450-bc99-ea29e5710db9")
-		)
-		(pin "2"
-			(uuid "1352914f-ee34-40ea-b2e1-f540bb3b69a5")
-		)
-		(pin "6"
-			(uuid "e47cbdbc-c440-4192-8fe4-b9459db35394")
-		)
-		(pin "3"
-			(uuid "79ce9f5b-fcfd-43e6-a633-99b0d54a0dd1")
-		)
-		(pin "8"
-			(uuid "aabaeb8f-938d-4a31-8dbf-dce0d4c735a7")
-		)
-		(pin "4"
-			(uuid "05398abc-d340-4482-b1eb-03419b564cf8")
-		)
-		(pin "1"
-			(uuid "5c454f60-5eff-48e9-920c-864822729fe2")
-		)
-		(pin "5"
-			(uuid "a80fa665-686c-457a-84ff-8ae643f97b12")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U1")
-					(unit 2)
-				)
-			)
-		)
-	)
-	(symbol
 		(lib_id "Comparator:LM339")
-		(at 152.4 152.4 0)
-		(mirror y)
+		(at 177.8 139.7 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -12052,7 +11990,7 @@
 		(dnp no)
 		(uuid "fccaed5e-d5e2-42bd-9699-8993c155a890")
 		(property "Reference" "U6"
-			(at 153.924 150.876 0)
+			(at 176.276 138.176 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12060,7 +11998,7 @@
 			)
 		)
 		(property "Value" "LM339"
-			(at 153.924 153.416 0)
+			(at 176.276 140.716 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12068,7 +12006,7 @@
 			)
 		)
 		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
-			(at 153.67 149.86 0)
+			(at 176.53 137.16 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12077,7 +12015,7 @@
 			)
 		)
 		(property "Datasheet" "https://www.st.com/resource/en/datasheet/lm139.pdf"
-			(at 151.13 147.32 0)
+			(at 179.07 134.62 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12086,7 +12024,7 @@
 			)
 		)
 		(property "Description" "Quad Differential Comparators, SOIC-14/TSSOP-14"
-			(at 152.4 152.4 0)
+			(at 177.8 139.7 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12110,10 +12048,10 @@
 			(uuid "c47ae0c0-e8e7-4250-8a03-d5e3a2402b2c")
 		)
 		(pin "2"
-			(uuid "a1cc2eca-6fe6-49ef-8b80-8a10d5d418df")
+			(uuid "f7d308a8-ec09-4d8a-8c7b-d34cf8c0313c")
 		)
 		(pin "5"
-			(uuid "20727269-9f3f-41d5-97bf-efa6a6d20638")
+			(uuid "65cdc327-8c7c-4e5b-a9f1-a89b3094a95b")
 		)
 		(pin "12"
 			(uuid "db901ae4-79ec-4b33-a031-cb08e7ea0825")
@@ -12122,7 +12060,7 @@
 			(uuid "438f7a7c-b834-4dac-ad74-bb0cd3038809")
 		)
 		(pin "4"
-			(uuid "e77f253a-8142-4d37-a1d7-e7b50fb0e152")
+			(uuid "1dbbb0e4-f3bf-49db-a931-7dd9686762fe")
 		)
 		(pin "6"
 			(uuid "74e89d1c-6e2a-49f7-a19f-5d1fe5830b5e")
@@ -12137,7 +12075,7 @@
 			(uuid "022f727f-3e49-4f64-a3a3-23eecf98e509")
 		)
 		(instances
-			(project "DMH_Output_PCB_1"
+			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U6")
 					(unit 1)
