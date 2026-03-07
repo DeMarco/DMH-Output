@@ -1601,6 +1601,142 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "power:+VDC"
+			(power)
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(property "Reference" "#PWR"
+				(at 0 -2.54 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Value" "+VDC"
+				(at 0 6.35 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "Description" "Power symbol creates a global label with name \"+VDC\""
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(property "ki_keywords" "global power"
+				(at 0 0 0)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+					(hide yes)
+				)
+			)
+			(symbol "+VDC_0_1"
+				(polyline
+					(pts
+						(xy -1.143 3.175) (xy 1.143 3.175)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(circle
+					(center 0 3.175)
+					(radius 1.905)
+					(stroke
+						(width 0.254)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 2.032) (xy 0 4.318)
+					)
+					(stroke
+						(width 0.508)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(polyline
+					(pts
+						(xy 0 0) (xy 0 1.27)
+					)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "+VDC_1_1"
+				(pin power_in line
+					(at 0 0 90)
+					(length 0)
+					(name "~"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:-12V"
 			(power)
 			(pin_numbers
@@ -1804,6 +1940,30 @@
 			(embedded_fonts no)
 		)
 	)
+	(circle
+		(center 57.15 22.86)
+		(radius 5.08)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 48505c17-b10c-4ac2-bfa8-236cfba06a3e)
+	)
+	(circle
+		(center 171.45 22.86)
+		(radius 5.08)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 8fdfaa5b-2589-429d-b90a-03bcc3d75b59)
+	)
 	(text "3 = Green"
 		(exclude_from_sim no)
 		(at 91.44 121.158 0)
@@ -1813,6 +1973,16 @@
 			)
 		)
 		(uuid "063a1cf0-96d5-4306-a7fe-ef80c0ee86ed")
+	)
+	(text "Why 4x gain?? Try 20k"
+		(exclude_from_sim no)
+		(at 57.15 16.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "12db51d5-c902-4ebe-b4e5-148691089657")
 	)
 	(text "3 = Green"
 		(exclude_from_sim no)
@@ -1833,6 +2003,16 @@
 			)
 		)
 		(uuid "3d7cf3ae-0cb2-4754-b283-8a9fd655bc98")
+	)
+	(text "Why 4x gain?? Try 20k"
+		(exclude_from_sim no)
+		(at 171.45 16.51 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "510f2498-74b2-4a2d-b01a-fbd5bfb251cb")
 	)
 	(text "1 = Red"
 		(exclude_from_sim no)
@@ -4264,6 +4444,72 @@
 		)
 	)
 	(symbol
+		(lib_id "power:+VDC")
+		(at 158.75 116.84 0)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "4ea59ed2-5194-4fb5-b4f6-d00a3188db51")
+		(property "Reference" "#PWR053"
+			(at 158.75 119.38 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Value" "+10V"
+			(at 158.75 109.22 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" ""
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" ""
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Power symbol creates a global label with name \"+VDC\""
+			(at 158.75 116.84 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "1"
+			(uuid "9e12c18e-53b6-4579-85c9-d6510cbc91dd")
+		)
+		(instances
+			(project "DMH_Output_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/55c0022e-9ebc-4247-b070-6524df6af06d"
+					(reference "#PWR053")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 195.58 114.3 180)
 		(unit 1)
@@ -4504,7 +4750,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "8k2"
+		(property "Value" "10k"
 			(at 161.29 137.1599 0)
 			(effects
 				(font
@@ -5401,7 +5647,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "39k"
+		(property "Value" "47k"
 			(at 161.29 149.8599 0)
 			(effects
 				(font
@@ -6049,72 +6295,6 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/55c0022e-9ebc-4247-b070-6524df6af06d"
 					(reference "D33")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:+12V")
-		(at 158.75 116.84 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "d09c8208-64b4-43db-b223-c4605e603981")
-		(property "Reference" "#PWR053"
-			(at 158.75 120.65 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "+12V"
-			(at 158.75 111.76 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 158.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 158.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"+12V\""
-			(at 158.75 116.84 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2a604a9e-b35b-438e-877c-5c1c91b58a02")
-		)
-		(instances
-			(project "DMH_Output_PCB_1"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/55c0022e-9ebc-4247-b070-6524df6af06d"
-					(reference "#PWR053")
 					(unit 1)
 				)
 			)
@@ -6904,7 +7084,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "56k"
+		(property "Value" "47k"
 			(at 161.29 124.4599 0)
 			(effects
 				(font
@@ -6974,7 +7154,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "1k3"
+		(property "Value" "1k"
 			(at 161.29 162.5599 0)
 			(effects
 				(font
