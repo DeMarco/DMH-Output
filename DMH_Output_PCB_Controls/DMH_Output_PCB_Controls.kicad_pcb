@@ -114,7 +114,6 @@
 			(psnegative no)
 			(psa4output no)
 			(plot_black_and_white yes)
-			(plotinvisibletext no)
 			(sketchpadsonfab no)
 			(plotpadnumbers no)
 			(hidednponfab no)
@@ -139,6 +138,39 @@
 		(fill yes)
 		(layer "B.SilkS")
 		(uuid "de47ead9-8b5d-4bcb-ad80-ddf34a004046")
+	)
+	(gr_circle
+		(center 87.5 145)
+		(end 87.5 148.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "ad2ac2ec-83c5-4161-a3ec-e0218625a036")
+	)
+	(gr_circle
+		(center 62.5 145)
+		(end 62.5 148.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "be0f83d3-6ded-4899-b711-59d528222320")
+	)
+	(gr_circle
+		(center 75 62)
+		(end 75 65.5)
+		(stroke
+			(width 0.1)
+			(type default)
+		)
+		(fill no)
+		(layer "Cmts.User")
+		(uuid "e587a637-c655-4cdb-b9a9-01e8fc07b38b")
 	)
 	(gr_rect
 		(start 51 42.5)
