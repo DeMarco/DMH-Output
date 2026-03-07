@@ -869,7 +869,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c746a2ce-0c5a-4bdd-ac42-adad2b732581")
+			(uuid "9f29eb51-7865-4823-9298-a11169ab9938")
 		)
 		(pad "1" thru_hole oval
 			(at 0 6)
@@ -881,7 +881,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c746a2ce-0c5a-4bdd-ac42-adad2b732581")
+			(uuid "d1b49bc2-6ab9-4658-a169-d97a45360faa")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/c-5-1437624-3-a-3d.stp"
@@ -1220,7 +1220,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "a6b3a51f-64bb-40dc-bac6-5b26d6698976")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -1232,7 +1232,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "4f936603-100a-4571-92ae-11a9b6a6afca")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -1244,7 +1244,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "6090e4c9-a66e-4d15-b510-f4fb2e1572bc")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -1254,7 +1254,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "fbd649f8-4b8a-4269-b3c5-fd7beb5cb931")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -1264,7 +1264,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "b5779376-9e87-43b7-a2b0-ef0326cba7ca")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -1276,7 +1276,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "158dd0fc-3a8a-439d-a489-87bbff41b298")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -1288,7 +1288,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "34136237-5c40-475a-9a06-34ad3c2a0462")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -1300,7 +1300,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "fc51777f-d9ea-496c-84ee-98dae36615f1")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -1312,7 +1312,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "d832a28a-50ea-43ee-99b0-ce95eb76b03b")
+			(uuid "514ce0cc-dffd-4c56-8d81-216ad9acad00")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -1709,7 +1709,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "602a27f9-fe5e-468d-a592-470dee44c49a")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -1721,7 +1721,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "754de2f3-69ab-4c37-94a6-9ea61ce9baf9")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -1733,7 +1733,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "a4fb2d6b-6642-4561-9403-e6cc91977a0c")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -1743,7 +1743,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "9e491866-e60c-4d11-b1a8-5dac3da8e62a")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -1753,7 +1753,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "48cdf3d6-93cd-4a6f-8ba4-276b63235315")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -1765,7 +1765,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "2074bc5e-69f0-41da-9bda-1dab37727b58")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -1777,7 +1777,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "a8154459-74eb-445d-831a-051b8946ce79")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -1789,7 +1789,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "20393775-90ed-46e5-ba88-154aa2414822")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -1801,7 +1801,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "ec4d66a3-22f8-48e1-aec9-da9609138a16")
+			(uuid "13127507-b34b-4f20-b687-ea21b466229c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -2005,7 +2005,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "2ef72741-112a-4439-87b2-3e15478fc1d0")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -2017,7 +2017,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "ea2103b8-97e8-4e35-92a7-b5da9e7fc80b")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -2029,7 +2029,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "40606bed-da1a-4391-ab6d-a12d4a6d7703")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2039,7 +2039,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "e5561432-3e0d-475a-9512-c0623238c41f")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2049,7 +2049,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "18f4079f-509a-4bc1-b05a-cd1b7a43d2e2")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -2061,7 +2061,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "f22ab23b-3756-4953-aff4-97f27040a87b")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -2073,7 +2073,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "6d82ee5b-04a9-4dd4-8a25-01e0c9ba72fa")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -2085,7 +2085,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "43d93fad-5022-4b04-acf7-b3cab611becb")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -2097,7 +2097,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "9f4f70ef-2393-4077-9d60-56e358d7b15c")
+			(uuid "0dbe6768-6ebe-49a1-9df4-339c5713a80d")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -2404,7 +2404,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "24673ae6-994b-433d-b42d-0610e1c18fa6")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -2416,7 +2416,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "f4e4cecf-6cc2-46cf-9246-9cca593cb481")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -2428,7 +2428,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "6b027b97-374f-4315-b271-8dccfa022ce6")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2438,7 +2438,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "01ef3f8b-9a48-4089-be57-8392a20dd9fe")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2448,7 +2448,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "c7808003-86e7-40d9-9bd5-70449218e496")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -2460,7 +2460,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "3b763ad1-43c1-4b12-8448-500aaa6fa808")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -2472,7 +2472,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "ae8888df-1baa-4a5b-afdb-8cf1b3e8f34b")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -2484,7 +2484,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "548211ed-d15c-4346-8404-87584022ebf9")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -2496,7 +2496,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "63ca7047-01a3-4c76-9156-1adf353bfaf4")
+			(uuid "26b2d3df-be17-4ee0-b04d-2a28be979407")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -2690,7 +2690,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "44eec972-0d13-4092-ac9a-86b330d40ce3")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -2702,7 +2702,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "d22dc736-265f-447f-9c5d-9f552eb609cc")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -2714,7 +2714,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "6d8e9a3d-5e8b-4bab-92fa-06f4ed155e63")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2724,7 +2724,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "c99f5e89-7baf-4153-9a90-6ffab2534b9f")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -2734,7 +2734,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "9dbcc77c-4d07-4fca-8cef-b76fc21ad559")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -2746,7 +2746,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "e2cc093b-5e2e-45cd-a0af-fbf39d2dee3d")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -2758,7 +2758,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "07a57c60-965e-44ed-a587-25c9ac0814fe")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -2770,7 +2770,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "2d29b18b-8cf6-436a-947e-25328f6134e3")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -2782,7 +2782,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "7a9cc46b-5ef6-4a8a-a19d-5534abd5c602")
+			(uuid "01f2abd0-a431-41a5-a517-d2477ff8c2eb")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -3060,7 +3060,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "3a567566-17d6-489d-b0f5-cc729746ac11")
+			(uuid "8c3e3ffa-4392-4931-bed3-b177af162761")
 		)
 		(pad "1" thru_hole oval
 			(at 0 6)
@@ -3072,7 +3072,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "3a567566-17d6-489d-b0f5-cc729746ac11")
+			(uuid "4eacb5c6-2356-4d08-960a-9c63b5d7d0ae")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/c-5-1437624-0-a-3d.stp"
@@ -3281,7 +3281,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "7333d799-1101-41a4-88bf-bdfcc50bea44")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -3293,7 +3293,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "bd49076f-bbcc-441a-b127-c241eed29442")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -3305,7 +3305,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "aae16c03-5967-4e80-9e39-59704c1d8e3c")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -3315,7 +3315,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "9b185f7d-b74c-4a00-bf17-1cea9bade704")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -3325,7 +3325,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "bbab722c-0715-4a33-863f-9fcf3028cd8a")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -3337,7 +3337,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "2fed7eab-3522-4de3-804a-aef8aee8bfa8")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -3349,7 +3349,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "59f9c766-b54e-48c1-a83e-c77ec28909a3")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -3361,7 +3361,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "9f5631c1-677b-4610-981a-65437fe3e578")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -3373,7 +3373,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "412ce70d-9773-4221-9384-228852db15ee")
+			(uuid "219fd02d-e254-42a0-935f-e6887327595a")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -3560,7 +3560,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "c6b29995-e137-4693-b265-35b7045e86e2")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -3572,7 +3572,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "8a4f4f25-1228-4aa8-ba55-7d2d77182544")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -3584,7 +3584,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "25f9d219-1217-401b-959b-933798bd4562")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -3594,7 +3594,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "c7f2626d-2f95-489f-9990-94be893e94c3")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -3604,7 +3604,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "7f444238-ae01-463e-bf4f-4427426e4b01")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -3616,7 +3616,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "cfb1cbbc-8d31-46a1-81fc-91593b04ce70")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -3628,7 +3628,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "051b8ede-63d7-4243-9426-3ce0132d6cc0")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -3640,7 +3640,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "2a298492-96e8-4ce4-86c8-fd6b5854f906")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -3652,7 +3652,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "c9d5f9f5-2741-4d4b-ab49-e9229ad032e8")
+			(uuid "5ae42801-6626-4765-8cf0-660b2d6a386c")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -4183,7 +4183,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "4e0a909b-b70c-4b39-8ab3-74c9f7a83608")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -4195,7 +4195,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "b5c6ddbb-37e9-4057-9cd0-c6eddb707159")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -4207,7 +4207,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "ad9adc69-7c93-463e-9827-c7d991966104")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -4217,7 +4217,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "b20a22ee-c9f6-4d83-a810-cc3833a49b92")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -4227,7 +4227,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "20ea4658-50c0-4bfb-820f-d9773fcbe8db")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -4239,7 +4239,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "afdb45ac-c167-4b28-9ef3-b859b298efb2")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -4251,7 +4251,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "6c6a3ddd-08de-4753-b630-51020331cc71")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -4263,7 +4263,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "0e138d9e-9364-45ee-890c-f110bab47c81")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -4275,7 +4275,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "a8e73cb2-6054-46c5-afd1-b9d5e2c2d8a9")
+			(uuid "abdbf67c-2e54-4771-ace5-1961d0f2e525")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -4684,7 +4684,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "b57233e2-154d-4b18-8382-2b41013c6ee4")
+			(uuid "2da73ab3-3fee-4ab4-a142-b734ebf13a73")
 		)
 		(pad "1" thru_hole oval
 			(at 0 6)
@@ -4696,7 +4696,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "b57233e2-154d-4b18-8382-2b41013c6ee4")
+			(uuid "85197da8-72b0-4920-8736-36b4229056a9")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/c-5-1437624-0-a-3d.stp"
@@ -5008,7 +5008,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "df273b52-222c-4568-9304-e7f0a117890f")
 		)
 		(pad "1" thru_hole circle
 			(at -4.03 4.04)
@@ -5020,7 +5020,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "b684d9fb-f6ef-4d82-bb6d-79258e614ea3")
 		)
 		(pad "1" thru_hole circle
 			(at 0 -5.7)
@@ -5032,7 +5032,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "9fcebb81-6a01-447b-8e09-83bbe7ff670e")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -5042,7 +5042,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "62c85d30-ec17-4619-866d-1461a8f3cba3")
 		)
 		(pad "1" connect circle
 			(at 0 0)
@@ -5052,7 +5052,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "fff87aa4-e221-46ff-9315-d7630e0617ea")
 		)
 		(pad "1" thru_hole circle
 			(at 0 5.7)
@@ -5064,7 +5064,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "83ac7e73-3ef7-433f-8a35-a4601e1e27b8")
 		)
 		(pad "1" thru_hole circle
 			(at 4.03 4.04)
@@ -5076,7 +5076,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "11a2938d-c496-41e3-adec-2fb129c94ab3")
 		)
 		(pad "1" thru_hole circle
 			(at 4.04 -4.03)
@@ -5088,7 +5088,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "99aa0270-96c0-4cbf-86d8-190466e0822a")
 		)
 		(pad "1" thru_hole circle
 			(at 5.7 0)
@@ -5100,7 +5100,7 @@
 			(pinfunction "1")
 			(pintype "input")
 			(zone_connect 2)
-			(uuid "49125bd4-7851-4384-8e4a-8f8df94d48ca")
+			(uuid "eeef6489-9cf9-4a46-9713-9d05ea29ae2e")
 		)
 		(embedded_fonts no)
 		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/User Library-jack-4.STEP"
@@ -7394,7 +7394,7 @@
 		)
 		(polygon
 			(pts
-				(xy 72.5 161.5) (xy 77.5 161.5) (xy 77.5 163.5) (xy 72.5 163.5)
+				(xy 72.5 161) (xy 77.5 161) (xy 77.5 163) (xy 72.5 163)
 			)
 		)
 	)
@@ -7900,9 +7900,9 @@
 				(xy 54.006176 168.74734) (xy 53.78446 169.109146) (xy 53.784457 169.109151) (xy 53.591789 169.487284)
 				(xy 53.591783 169.487297) (xy 53.429385 169.879358) (xy 53.298254 170.282943) (xy 53.298247 170.282966)
 				(xy 53.199181 170.695607) (xy 53.183 170.797774) (xy 53.132796 171.11475) (xy 53.0995 171.537814)
-				(xy 50.5005 171.537814) (xy 50.5005 163.5) (xy 72.5 163.5) (xy 77.5 163.5) (xy 89 163.5) (xy 94 163.5)
-				(xy 94 161.5) (xy 89 161.5) (xy 89 163.5) (xy 77.5 163.5) (xy 77.5 161.5) (xy 72.5 161.5) (xy 72.5 163.5)
-				(xy 50.5005 163.5) (xy 50.5005 144.803471) (xy 58.4995 144.803471) (xy 58.4995 145.196528) (xy 58.538026 145.587702)
+				(xy 50.5005 171.537814) (xy 50.5005 163) (xy 72.5 163) (xy 77.5 163) (xy 89 163) (xy 94 163) (xy 94 161)
+				(xy 89 161) (xy 89 163) (xy 77.5 163) (xy 77.5 161) (xy 72.5 161) (xy 72.5 163) (xy 50.5005 163)
+				(xy 50.5005 144.803471) (xy 58.4995 144.803471) (xy 58.4995 145.196528) (xy 58.538026 145.587702)
 				(xy 58.614704 145.973194) (xy 58.614707 145.973205) (xy 58.72881 146.349354) (xy 58.87923 146.712499)
 				(xy 58.879232 146.712504) (xy 59.064511 147.059137) (xy 59.064522 147.059155) (xy 59.282887 147.38596)
 				(xy 59.282897 147.385974) (xy 59.532254 147.689817) (xy 59.810182 147.967745) (xy 59.810187 147.967749)
@@ -8326,9 +8326,9 @@
 				(xy 54.006176 168.74734) (xy 53.78446 169.109146) (xy 53.784457 169.109151) (xy 53.591789 169.487284)
 				(xy 53.591783 169.487297) (xy 53.429385 169.879358) (xy 53.298254 170.282943) (xy 53.298247 170.282966)
 				(xy 53.199181 170.695607) (xy 53.183 170.797774) (xy 53.132796 171.11475) (xy 53.0995 171.537814)
-				(xy 50.5005 171.537814) (xy 50.5005 163.5) (xy 72.5 163.5) (xy 77.5 163.5) (xy 89 163.5) (xy 94 163.5)
-				(xy 94 161.5) (xy 89 161.5) (xy 89 163.5) (xy 77.5 163.5) (xy 77.5 161.5) (xy 72.5 161.5) (xy 72.5 163.5)
-				(xy 50.5005 163.5) (xy 50.5005 144.803471) (xy 58.4995 144.803471) (xy 58.4995 145.196528) (xy 58.538026 145.587702)
+				(xy 50.5005 171.537814) (xy 50.5005 163) (xy 72.5 163) (xy 77.5 163) (xy 89 163) (xy 94 163) (xy 94 161)
+				(xy 89 161) (xy 89 163) (xy 77.5 163) (xy 77.5 161) (xy 72.5 161) (xy 72.5 163) (xy 50.5005 163)
+				(xy 50.5005 144.803471) (xy 58.4995 144.803471) (xy 58.4995 145.196528) (xy 58.538026 145.587702)
 				(xy 58.614704 145.973194) (xy 58.614707 145.973205) (xy 58.72881 146.349354) (xy 58.87923 146.712499)
 				(xy 58.879232 146.712504) (xy 59.064511 147.059137) (xy 59.064522 147.059155) (xy 59.282887 147.38596)
 				(xy 59.282897 147.385974) (xy 59.532254 147.689817) (xy 59.810182 147.967745) (xy 59.810187 147.967749)
@@ -8508,7 +8508,7 @@
 		)
 		(polygon
 			(pts
-				(xy 89 161.5) (xy 94 161.5) (xy 94 163.5) (xy 89 163.5)
+				(xy 89 161) (xy 94 161) (xy 94 163) (xy 89 163)
 			)
 		)
 	)
@@ -8674,27 +8674,27 @@
 		)
 		(polygon
 			(pts
-				(xy 72.5 161.5) (xy 77.5 161.5) (xy 77.5 163.5) (xy 72.5 163.5)
+				(xy 72.5 161) (xy 77.5 161) (xy 77.5 163) (xy 72.5 163)
 			)
 		)
 		(filled_polygon
 			(layer "F.Mask")
 			(island)
 			(pts
-				(xy 77.443039 161.519685) (xy 77.488794 161.572489) (xy 77.5 161.624) (xy 77.5 163.376) (xy 77.480315 163.443039)
-				(xy 77.427511 163.488794) (xy 77.376 163.5) (xy 72.624 163.5) (xy 72.556961 163.480315) (xy 72.511206 163.427511)
-				(xy 72.5 163.376) (xy 72.5 161.624) (xy 72.519685 161.556961) (xy 72.572489 161.511206) (xy 72.624 161.5)
-				(xy 77.376 161.5)
+				(xy 77.443039 161.019685) (xy 77.488794 161.072489) (xy 77.5 161.124) (xy 77.5 162.876) (xy 77.480315 162.943039)
+				(xy 77.427511 162.988794) (xy 77.376 163) (xy 72.624 163) (xy 72.556961 162.980315) (xy 72.511206 162.927511)
+				(xy 72.5 162.876) (xy 72.5 161.124) (xy 72.519685 161.056961) (xy 72.572489 161.011206) (xy 72.624 161)
+				(xy 77.376 161)
 			)
 		)
 		(filled_polygon
 			(layer "B.Mask")
 			(island)
 			(pts
-				(xy 77.443039 161.519685) (xy 77.488794 161.572489) (xy 77.5 161.624) (xy 77.5 163.376) (xy 77.480315 163.443039)
-				(xy 77.427511 163.488794) (xy 77.376 163.5) (xy 72.624 163.5) (xy 72.556961 163.480315) (xy 72.511206 163.427511)
-				(xy 72.5 163.376) (xy 72.5 161.624) (xy 72.519685 161.556961) (xy 72.572489 161.511206) (xy 72.624 161.5)
-				(xy 77.376 161.5)
+				(xy 77.443039 161.019685) (xy 77.488794 161.072489) (xy 77.5 161.124) (xy 77.5 162.876) (xy 77.480315 162.943039)
+				(xy 77.427511 162.988794) (xy 77.376 163) (xy 72.624 163) (xy 72.556961 162.980315) (xy 72.511206 162.927511)
+				(xy 72.5 162.876) (xy 72.5 161.124) (xy 72.519685 161.056961) (xy 72.572489 161.011206) (xy 72.624 161)
+				(xy 77.376 161)
 			)
 		)
 	)
@@ -8716,27 +8716,27 @@
 		)
 		(polygon
 			(pts
-				(xy 89 161.5) (xy 94 161.5) (xy 94 163.5) (xy 89 163.5)
+				(xy 89 161) (xy 94 161) (xy 94 163) (xy 89 163)
 			)
 		)
 		(filled_polygon
 			(layer "F.Mask")
 			(island)
 			(pts
-				(xy 93.943039 161.519685) (xy 93.988794 161.572489) (xy 94 161.624) (xy 94 163.376) (xy 93.980315 163.443039)
-				(xy 93.927511 163.488794) (xy 93.876 163.5) (xy 89.124 163.5) (xy 89.056961 163.480315) (xy 89.011206 163.427511)
-				(xy 89 163.376) (xy 89 161.624) (xy 89.019685 161.556961) (xy 89.072489 161.511206) (xy 89.124 161.5)
-				(xy 93.876 161.5)
+				(xy 93.943039 161.019685) (xy 93.988794 161.072489) (xy 94 161.124) (xy 94 162.876) (xy 93.980315 162.943039)
+				(xy 93.927511 162.988794) (xy 93.876 163) (xy 89.124 163) (xy 89.056961 162.980315) (xy 89.011206 162.927511)
+				(xy 89 162.876) (xy 89 161.124) (xy 89.019685 161.056961) (xy 89.072489 161.011206) (xy 89.124 161)
+				(xy 93.876 161)
 			)
 		)
 		(filled_polygon
 			(layer "B.Mask")
 			(island)
 			(pts
-				(xy 93.943039 161.519685) (xy 93.988794 161.572489) (xy 94 161.624) (xy 94 163.376) (xy 93.980315 163.443039)
-				(xy 93.927511 163.488794) (xy 93.876 163.5) (xy 89.124 163.5) (xy 89.056961 163.480315) (xy 89.011206 163.427511)
-				(xy 89 163.376) (xy 89 161.624) (xy 89.019685 161.556961) (xy 89.072489 161.511206) (xy 89.124 161.5)
-				(xy 93.876 161.5)
+				(xy 93.943039 161.019685) (xy 93.988794 161.072489) (xy 94 161.124) (xy 94 162.876) (xy 93.980315 162.943039)
+				(xy 93.927511 162.988794) (xy 93.876 163) (xy 89.124 163) (xy 89.056961 162.980315) (xy 89.011206 162.927511)
+				(xy 89 162.876) (xy 89 161.124) (xy 89.019685 161.056961) (xy 89.072489 161.011206) (xy 89.124 161)
+				(xy 93.876 161)
 			)
 		)
 	)

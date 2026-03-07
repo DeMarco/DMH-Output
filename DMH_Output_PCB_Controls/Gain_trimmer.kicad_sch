@@ -2129,7 +2129,7 @@
 		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "019a79e8-8831-42ab-a1c1-4bce4460c34f")
 		(property "Reference" "U8"
@@ -2240,7 +2240,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0ab8b594-ce52-479e-819f-28471e10818b")
@@ -2309,7 +2309,7 @@
 		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "399e04c2-2d2d-4f4a-9ea1-0484f48e5895")
 		(property "Reference" "U8"
@@ -2467,12 +2467,16 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
+		(property "Function" "Volume"
 			(at 76.2 50.8 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
+				(hide yes)
 			)
 		)
 		(pin "5"
@@ -2592,7 +2596,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "4332750f-f147-4b0f-9c32-f413ea4fac23")
 		(property "Reference" "U8"
@@ -2703,7 +2707,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "48ad7e68-6418-45be-8fe9-266938f3cb08")
@@ -2779,7 +2783,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "50852199-f3b3-4447-ba40-ba6d45fe8742")
@@ -2847,7 +2851,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "7b40863a-9b15-4052-b5b6-7e8f38123ff6")
@@ -2915,7 +2919,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "949d9eb7-c46d-4108-845d-70121b6bcafa")
@@ -2991,7 +2995,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9b9259ec-d089-4954-9287-60048174317a")
@@ -3057,7 +3061,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b07f2f87-40dc-431f-91a1-2c000f32ae11")
@@ -3133,7 +3137,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b8ba15ac-d621-4558-a5e2-51c73db168b0")
@@ -3200,7 +3204,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "e56fc8d2-ee20-4390-bcff-f6cf4aa8e2d9")
 		(property "Reference" "U8"
@@ -3358,12 +3362,16 @@
 				(hide yes)
 			)
 		)
-		(property "Function" ""
+		(property "Function" "Volume"
 			(at 76.2 114.3 0)
 			(effects
 				(font
 					(size 1.27 1.27)
+					(thickness 0.254)
+					(bold yes)
+					(italic yes)
 				)
+				(hide yes)
 			)
 		)
 		(pin "5"

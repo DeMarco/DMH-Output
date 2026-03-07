@@ -2730,7 +2730,7 @@
 	)
 	(wire
 		(pts
-			(xy 170.18 114.3) (xy 167.64 114.3)
+			(xy 170.18 95.25) (xy 167.64 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3040,7 +3040,7 @@
 	)
 	(wire
 		(pts
-			(xy 149.86 114.3) (xy 149.86 124.46)
+			(xy 149.86 95.25) (xy 149.86 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3100,7 +3100,7 @@
 	)
 	(wire
 		(pts
-			(xy 147.32 114.3) (xy 149.86 114.3)
+			(xy 147.32 95.25) (xy 149.86 95.25)
 		)
 		(stroke
 			(width 0)
@@ -3240,7 +3240,7 @@
 	)
 	(wire
 		(pts
-			(xy 167.64 114.3) (xy 167.64 124.46)
+			(xy 167.64 95.25) (xy 167.64 124.46)
 		)
 		(stroke
 			(width 0)
@@ -3438,45 +3438,93 @@
 		)
 		(uuid "fe6f2d22-7e04-4758-922b-121746a52c47")
 	)
-	(label "L_Meter"
-		(at 147.32 114.3 180)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "1b373cd8-8819-405a-8730-5b7064f870c8")
-	)
-	(label "R_Meter"
+	(global_label "Input_Meter_R"
+		(shape output)
 		(at 219.71 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "30fffcb4-0896-48c7-bbbb-a2b6e61b2831")
+		(uuid "310ff232-8a18-460b-825e-d4680dbd7475")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 235.8184 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
 	)
-	(label "L_Meter"
+	(global_label "Input_Meter_R"
+		(shape input)
+		(at 170.18 95.25 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "47725fa5-237f-476d-8cf1-45b09c74c8c7")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 186.2884 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Input_Meter_L"
+		(shape input)
+		(at 147.32 95.25 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right)
+		)
+		(uuid "9a61b870-94a5-466e-b682-cdeb13c07945")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 131.4535 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Input_Meter_L"
+		(shape output)
 		(at 105.41 38.1 0)
+		(fields_autoplaced yes)
 		(effects
 			(font
 				(size 1.27 1.27)
 			)
-			(justify left bottom)
+			(justify left)
 		)
-		(uuid "553d257f-af57-41cd-afc9-d1193ee4203b")
-	)
-	(label "R_Meter"
-		(at 170.18 114.3 0)
-		(effects
-			(font
-				(size 1.27 1.27)
+		(uuid "cbb07aff-8bf5-4e7f-b351-5bfd2de2f7ae")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 121.2765 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
 			)
-			(justify left bottom)
 		)
-		(uuid "9a057b86-866b-4b98-bee8-9f527ff24d1b")
 	)
 	(hierarchical_label "Meter_Left"
 		(shape input)
@@ -3901,7 +3949,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "15c69d9b-855d-42a7-8d4a-d634389516ba")
@@ -4035,7 +4083,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "2fb86594-db98-4e11-8d3a-438248037da7")
@@ -4101,7 +4149,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3795d66f-9b83-4931-8050-004db836b723")
@@ -4171,7 +4219,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "3baa3b58-e014-44eb-b009-8f2d94add63c")
@@ -4383,7 +4431,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4de6effc-8003-48aa-8323-d47bceffd8ea")
@@ -4669,7 +4717,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5b6569c2-7392-4309-84ba-0413f24e581b")
@@ -4807,7 +4855,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5c30b4ee-37d8-48cb-b2d4-c609769f8486")
@@ -5260,7 +5308,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "72172579-37e4-4ce1-b3a1-586e196923bc")
@@ -5346,7 +5394,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "78e96076-1c1b-4d3d-b699-0c4572ee9ebc")
@@ -5412,7 +5460,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "85328420-83db-425c-9138-d4fe328e7f68")
@@ -5478,7 +5526,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "93353eb8-959f-4a98-afe6-072eb6e9f08a")
@@ -5548,7 +5596,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a104c293-436e-432c-a69b-271b6548a0b6")
@@ -5704,7 +5752,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "a90181b2-bfc8-4b4c-8056-9fa263610eb0")
@@ -5970,7 +6018,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "b9982791-0d42-46bd-8079-2af48e79eb0b")
@@ -6220,7 +6268,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cf836d44-7128-4c6a-ab93-d4ed1fb56783")
@@ -6306,7 +6354,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d10886c8-f05c-4765-8621-3f024b1f8fd1")
@@ -6374,7 +6422,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "d241be29-2fb5-4677-a9ca-2437f2ce3a2b")
@@ -6445,7 +6493,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "dcc4c99f-569b-40cb-98a7-387f7c6d19e9")
 		(property "Reference" "U20"
@@ -6530,7 +6578,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ddf0154c-5667-4064-ba5b-970e3bc86345")
@@ -6775,7 +6823,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e4593db1-d957-4686-a2f5-31fab4fc2340")
@@ -6841,7 +6889,7 @@
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "e72cfca9-50cf-4374-a599-c47f8625c4d5")
@@ -7419,7 +7467,7 @@
 		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(dnp no)
 		(uuid "ff6f0ec6-6b86-4087-9b54-acf9b0fc576f")
 		(property "Reference" "U20"
