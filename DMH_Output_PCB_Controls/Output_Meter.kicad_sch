@@ -4843,7 +4843,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "07a6e9c4-73d1-480c-ae88-cbc914da8792")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 153.924 87.376 0)
 			(effects
 				(font
@@ -4931,7 +4931,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U4")
+					(reference "U2")
 					(unit 2)
 				)
 			)
@@ -5008,13 +5008,13 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 76.2 0)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "0c4db40a-19b6-47ac-b4d3-0e3d56e40f13")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 188.976 74.676 0)
 			(effects
 				(font
@@ -5102,8 +5102,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U3")
-					(unit 3)
+					(reference "U4")
+					(unit 1)
 				)
 			)
 		)
@@ -6234,7 +6234,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3ad6903d-2b1b-4f3d-8c37-c2931528bae1")
-		(property "Reference" "U4"
+		(property "Reference" "U2"
 			(at 153.924 100.076 0)
 			(effects
 				(font
@@ -6322,7 +6322,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U4")
+					(reference "U2")
 					(unit 1)
 				)
 			)
@@ -6423,7 +6423,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "3c766e42-d115-42ca-a2ff-cabf3446c524")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 188.976 138.176 0)
 			(effects
 				(font
@@ -6511,7 +6511,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U6")
+					(reference "U5")
 					(unit 4)
 				)
 			)
@@ -6528,7 +6528,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "4217c35b-260d-4dad-af74-d0e0134ec740")
-		(property "Reference" "D15"
+		(property "Reference" "D13"
 			(at 207.01 66.9924 90)
 			(effects
 				(font
@@ -6591,7 +6591,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "D15")
+					(reference "D13")
 					(unit 1)
 				)
 			)
@@ -6607,7 +6607,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4262b895-f2a9-42c6-b3ea-841fc2ce16be")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 153.924 138.176 0)
 			(effects
 				(font
@@ -6695,7 +6695,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U6")
+					(reference "U3")
 					(unit 2)
 				)
 			)
@@ -6711,7 +6711,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "43945f8f-3190-4f62-874c-2069160915a4")
-		(property "Reference" "U6"
+		(property "Reference" "U3"
 			(at 153.924 150.876 0)
 			(effects
 				(font
@@ -6799,7 +6799,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U6")
+					(reference "U3")
 					(unit 1)
 				)
 			)
@@ -7545,13 +7545,13 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 38.1 0)
-		(unit 4)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "55b92764-b5f5-4c0a-b2fb-dfcceb69a544")
-		(property "Reference" "U2"
+		(property "Reference" "U6"
 			(at 188.976 36.576 0)
 			(effects
 				(font
@@ -7639,8 +7639,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U2")
-					(unit 4)
+					(reference "U6")
+					(unit 3)
 				)
 			)
 		)
@@ -7649,13 +7649,13 @@
 		(lib_id "Comparator:LM339")
 		(at 152.4 76.2 0)
 		(mirror y)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "561a7c57-64da-4497-bade-a470774f622c")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 153.924 74.676 0)
 			(effects
 				(font
@@ -7743,8 +7743,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U3")
-					(unit 1)
+					(reference "U2")
+					(unit 3)
 				)
 			)
 		)
@@ -8071,13 +8071,13 @@
 		(lib_id "Comparator:LM339")
 		(at 152.4 63.5 0)
 		(mirror y)
-		(unit 2)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "66e6533b-95ec-4648-ab45-624016136f57")
-		(property "Reference" "U3"
+		(property "Reference" "U2"
 			(at 153.924 61.976 0)
 			(effects
 				(font
@@ -8165,8 +8165,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U3")
-					(unit 2)
+					(reference "U2")
+					(unit 4)
 				)
 			)
 		)
@@ -8411,7 +8411,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "73e2ecaf-4615-4dce-8fb6-340257b383b9")
-		(property "Reference" "D12"
+		(property "Reference" "D10"
 			(at 207.01 105.0924 90)
 			(effects
 				(font
@@ -8474,7 +8474,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "D12")
+					(reference "D10")
 					(unit 1)
 				)
 			)
@@ -8742,7 +8742,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "77bd0c5d-9488-4a7a-a00e-a4c2ddaad822")
-		(property "Reference" "D10"
+		(property "Reference" "D12"
 			(at 207.01 79.6924 90)
 			(effects
 				(font
@@ -8805,7 +8805,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "D10")
+					(reference "D12")
 					(unit 1)
 				)
 			)
@@ -9165,13 +9165,13 @@
 		(lib_id "Comparator:LM339")
 		(at 152.4 50.8 0)
 		(mirror y)
-		(unit 1)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7b036d8e-f6d2-44b3-b3ce-19d8ca1dfb2f")
-		(property "Reference" "U2"
+		(property "Reference" "U6"
 			(at 153.924 49.276 0)
 			(effects
 				(font
@@ -9259,8 +9259,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U2")
-					(unit 1)
+					(reference "U6")
+					(unit 4)
 				)
 			)
 		)
@@ -9268,13 +9268,13 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 63.5 0)
-		(unit 4)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "7b5ee882-e4c3-4ad2-be8b-a481f4f2d83a")
-		(property "Reference" "U3"
+		(property "Reference" "U4"
 			(at 188.976 61.976 0)
 			(effects
 				(font
@@ -9362,8 +9362,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U3")
-					(unit 4)
+					(reference "U4")
+					(unit 2)
 				)
 			)
 		)
@@ -9609,13 +9609,13 @@
 		(lib_id "Comparator:LM339")
 		(at 152.4 114.3 0)
 		(mirror y)
-		(unit 2)
+		(unit 4)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "9050aad6-2ac4-46f7-be78-dd225755ebe6")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 153.924 112.776 0)
 			(effects
 				(font
@@ -9703,8 +9703,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U5")
-					(unit 2)
+					(reference "U3")
+					(unit 4)
 				)
 			)
 		)
@@ -10337,7 +10337,7 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "ae1bc7b9-da5e-4de8-8ee7-1f1b475f6e68")
-		(property "Reference" "D13"
+		(property "Reference" "D15"
 			(at 207.01 41.5924 90)
 			(effects
 				(font
@@ -10400,7 +10400,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "D13")
+					(reference "D15")
 					(unit 1)
 				)
 			)
@@ -10559,7 +10559,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 127 0)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -10654,7 +10654,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
-					(unit 3)
+					(unit 1)
 				)
 			)
 		)
@@ -10738,7 +10738,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "b860e264-63df-4fec-a4b8-46e5b7d3a1f8")
-		(property "Reference" "U6"
+		(property "Reference" "U5"
 			(at 188.976 150.876 0)
 			(effects
 				(font
@@ -10826,7 +10826,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U6")
+					(reference "U5")
 					(unit 3)
 				)
 			)
@@ -11133,7 +11133,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "c61da55e-8080-4bcd-bead-793a26eea10f")
-		(property "Reference" "U2"
+		(property "Reference" "U6"
 			(at 153.924 36.576 0)
 			(effects
 				(font
@@ -11174,6 +11174,14 @@
 					(size 1.27 1.27)
 				)
 				(hide yes)
+			)
+		)
+		(property "Function" ""
+			(at 152.4 38.1 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
 			)
 		)
 		(pin "7"
@@ -11221,7 +11229,7 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U2")
+					(reference "U6")
 					(unit 2)
 				)
 			)
@@ -11691,7 +11699,7 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 114.3 0)
-		(unit 4)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -11786,7 +11794,7 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "U5")
-					(unit 4)
+					(unit 2)
 				)
 			)
 		)
@@ -12005,13 +12013,13 @@
 		(lib_id "Comparator:LM339")
 		(at 152.4 127 0)
 		(mirror y)
-		(unit 1)
+		(unit 3)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f0636945-1277-42cb-a6b4-009b43077f25")
-		(property "Reference" "U5"
+		(property "Reference" "U3"
 			(at 153.924 125.476 0)
 			(effects
 				(font
@@ -12099,8 +12107,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U5")
-					(unit 1)
+					(reference "U3")
+					(unit 3)
 				)
 			)
 		)
@@ -12187,13 +12195,13 @@
 	(symbol
 		(lib_id "Comparator:LM339")
 		(at 190.5 50.8 0)
-		(unit 3)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
 		(dnp no)
 		(uuid "f6e7a34e-8a0b-4ed9-ada6-cb39b62f56e9")
-		(property "Reference" "U2"
+		(property "Reference" "U6"
 			(at 188.976 49.276 0)
 			(effects
 				(font
@@ -12281,8 +12289,8 @@
 		(instances
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "U2")
-					(unit 3)
+					(reference "U6")
+					(unit 1)
 				)
 			)
 		)
