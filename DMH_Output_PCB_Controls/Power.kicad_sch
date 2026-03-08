@@ -8228,6 +8228,15 @@
 				(hide yes)
 			)
 		)
+		(property "Function" ""
+			(at 101.6 139.7 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
@@ -10109,6 +10118,15 @@
 			)
 		)
 		(property "Description" "Mounting Hole without connection"
+			(at 101.6 152.4 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Function" ""
 			(at 101.6 152.4 0)
 			(effects
 				(font
