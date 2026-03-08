@@ -3055,7 +3055,7 @@
 		(uuid "5146010f-7370-458c-9c4c-adf39dfceb1d")
 	)
 	(label "RV3B_p4"
-		(at 50.8 144.78 0)
+		(at 50.8 149.86 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -3125,7 +3125,7 @@
 		(uuid "dd1ddf0a-9e07-467e-8cfb-e316d61ffe12")
 	)
 	(label "RV3B_p6"
-		(at 50.8 149.86 0)
+		(at 50.8 144.78 0)
 		(effects
 			(font
 				(size 1.27 1.27)
