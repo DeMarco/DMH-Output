@@ -1006,6 +1006,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 111.76 86.36)
+		(end 146.05 104.14)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid 13bbbef6-c82b-4d20-9f71-12602e3d3a11)
+	)
+	(text "Controls PCB"
+		(exclude_from_sim no)
+		(at 118.11 85.09 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "6e986741-7f20-4665-8c65-9b4ef9f659cc")
+	)
 	(junction
 		(at 101.6 152.4)
 		(diameter 0)
@@ -1940,9 +1962,9 @@
 		)
 		(uuid "f7d2bda0-de63-4b3e-a7b2-e996c104cdf9")
 	)
-	(global_label "Input_Meter_R"
+	(global_label "Input_Meter_R_C"
 		(shape input)
-		(at 147.32 187.96 180)
+		(at 133.35 97.79 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1950,9 +1972,9 @@
 			)
 			(justify right)
 		)
-		(uuid "13bc35da-d4e7-4bd8-a58c-76975f9b1d9c")
+		(uuid "6cf0d281-985a-4216-8835-2dbafc20ed2b")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.2116 187.96 0)
+			(at 115.004 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1962,9 +1984,31 @@
 			)
 		)
 	)
-	(global_label "Input_Meter_L"
+	(global_label "Input_Meter_R_M"
 		(shape input)
-		(at 147.32 182.88 180)
+		(at 158.75 97.79 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "993b9ade-03f8-4c0a-a814-64883b9062d6")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.2774 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Output_Meter_R_C"
+		(shape input)
+		(at 133.35 100.33 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1972,9 +2016,9 @@
 			)
 			(justify right)
 		)
-		(uuid "16649424-189b-4d05-99cc-85e0788bbd48")
+		(uuid "a2917b8d-36e0-4d83-ba9c-611c815f7500")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 131.4535 182.88 0)
+			(at 113.5526 100.33 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1984,9 +2028,9 @@
 			)
 		)
 	)
-	(global_label "Output_Meter_L"
+	(global_label "Input_Meter_L_C"
 		(shape input)
-		(at 147.32 180.34 180)
+		(at 133.35 92.71 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -1994,9 +2038,9 @@
 			)
 			(justify right)
 		)
-		(uuid "1d0fa43e-0c45-4911-8150-592534d8ab80")
+		(uuid "b700d29c-1777-4997-abc8-7ed40bd4aa96")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 130.0021 180.34 0)
+			(at 115.2459 92.71 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2006,9 +2050,31 @@
 			)
 		)
 	)
-	(global_label "Output_Meter_R"
+	(global_label "Input_Meter_L_M"
 		(shape input)
-		(at 147.32 190.5 180)
+		(at 158.75 92.71 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c4282abb-438c-487b-a900-a15837894d42")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 177.0355 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Output_Meter_L_C"
+		(shape input)
+		(at 133.35 90.17 180)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -2016,14 +2082,58 @@
 			)
 			(justify right)
 		)
-		(uuid "a2a0b84e-1c55-4c52-884b-88b23f9d43da")
+		(uuid "c8f18f29-50a0-4c68-9fa0-808abd6c9756")
 		(property "Intersheetrefs" "${INTERSHEET_REFS}"
-			(at 129.7602 190.5 0)
+			(at 113.7945 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify right)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Output_Meter_R_M"
+		(shape input)
+		(at 158.75 100.33 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "ecc75132-ea1d-42f1-b395-0a673096f801")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.7288 100.33 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+	)
+	(global_label "Output_Meter_L_M"
+		(shape input)
+		(at 158.75 90.17 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "f752e001-2a77-4bb1-a2fd-ee8045622722")
+		(property "Intersheetrefs" "${INTERSHEET_REFS}"
+			(at 178.4869 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
 				(hide yes)
 			)
 		)
@@ -2260,6 +2370,78 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 153.67 97.79 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "3efe6fc8-de57-4331-854c-601a2115e6e1")
+		(property "Reference" "J25"
+			(at 151.13 97.7899 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 151.13 100.3299 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 153.67 97.79 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "188205a8-b96b-4e10-ae84-a7f4cb19f6fe")
+		)
+		(pin "1"
+			(uuid "8ee0bba8-bf2a-4c50-a96e-6f32c7d6a2e9")
+		)
+		(instances
+			(project "DMH_Output_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J25")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "SynthStuff:TS_Jack_6.35mm_Sw")
 		(at 22.86 177.8 0)
 		(mirror x)
@@ -2420,6 +2602,78 @@
 			(project "DMH_Output_PCB_1"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J6")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector_Generic:Conn_01x02")
+		(at 153.67 90.17 0)
+		(mirror y)
+		(unit 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "5b4de528-5d13-4b0b-9c51-18c2880fb1b2")
+		(property "Reference" "J24"
+			(at 151.13 90.1699 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "Conn_01x02"
+			(at 151.13 92.7099 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+				(hide yes)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+			(at 153.67 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "~"
+			(at 153.67 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
+			(at 153.67 90.17 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "2"
+			(uuid "d216511b-598b-4288-88e1-436ff4981eb1")
+		)
+		(pin "1"
+			(uuid "16ee6bda-b747-45bf-85ec-735b9ed4e89d")
+		)
+		(instances
+			(project "DMH_Output_PCB_Controls"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "J24")
 					(unit 1)
 				)
 			)
@@ -2775,7 +3029,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 152.4 187.96 0)
+		(at 138.43 97.79 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -2784,7 +3038,7 @@
 		(fields_autoplaced yes)
 		(uuid "84570ed2-f98d-444a-acb4-3f5ec7a69223")
 		(property "Reference" "J22"
-			(at 154.94 187.9599 0)
+			(at 140.97 97.7899 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2793,16 +3047,17 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 154.94 190.4999 0)
+			(at 140.97 100.3299 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 152.4 187.96 0)
+			(at 138.43 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2811,7 +3066,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 187.96 0)
+			(at 138.43 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2820,7 +3075,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 187.96 0)
+			(at 138.43 97.79 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3126,7 +3381,7 @@
 	)
 	(symbol
 		(lib_id "Connector_Generic:Conn_01x02")
-		(at 152.4 180.34 0)
+		(at 138.43 90.17 0)
 		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
@@ -3135,7 +3390,7 @@
 		(fields_autoplaced yes)
 		(uuid "ac7a35cb-15f5-4c02-a204-3d77519447eb")
 		(property "Reference" "J21"
-			(at 154.94 180.3399 0)
+			(at 140.97 90.1699 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3144,16 +3399,17 @@
 			)
 		)
 		(property "Value" "Conn_01x02"
-			(at 154.94 182.8799 0)
+			(at 140.97 92.7099 0)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 				(justify left)
+				(hide yes)
 			)
 		)
 		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
-			(at 152.4 180.34 0)
+			(at 138.43 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3162,7 +3418,7 @@
 			)
 		)
 		(property "Datasheet" "~"
-			(at 152.4 180.34 0)
+			(at 138.43 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3171,7 +3427,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x02, script generated (kicad-library-utils/schlib/autogen/connector/)"
-			(at 152.4 180.34 0)
+			(at 138.43 90.17 0)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3186,7 +3442,7 @@
 			(uuid "603c5449-df05-44f0-9a40-046ea0054a39")
 		)
 		(instances
-			(project ""
+			(project "DMH_Output_PCB_Controls"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J21")
 					(unit 1)
