@@ -1,0 +1,743 @@
+** Drc report for DMH_Output_PCB_Controls.kicad_pcb **
+** Created on 2026-03-09T16:30:18-0300 **
+
+** Found 124 DRC violations **
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; 1 spokes connected to isolated island)
+    Local override; error
+    @(51,0000 mm, 42,5000 mm): Zone 'Ground_plane' [GND] on F.Cu and B.Cu, priority 0
+    @(66,5450 mm, 138,0600 mm): PTH pad 5 [GND] of U24
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(51,0000 mm, 42,5000 mm): Zone 'Ground_plane' [GND] on F.Cu and B.Cu, priority 0
+    @(64,0050 mm, 130,4400 mm): PTH pad 11 [GND] of U24
+[starved_thermal]: Thermal relief connection to zone incomplete (layer B.Cu; zone min spoke count 2; actual 1)
+    Local override; error
+    @(51,0000 mm, 42,5000 mm): Zone 'Ground_plane' [GND] on F.Cu and B.Cu, priority 0
+    @(75,0000 mm, 136,7500 mm): PTH pad 1 [GND] of C44
+[starved_thermal]: Thermal relief connection to zone incomplete (layer F.Cu; 1 spokes connected to isolated island)
+    Local override; error
+    @(51,0000 mm, 42,5000 mm): Zone 'Ground_plane' [GND] on F.Cu and B.Cu, priority 0
+    @(96,4000 mm, 131,0000 mm): PTH pad 2 [GND] of C41
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0,1500 mm; actual 0,0700 mm)
+    Rule: board setup constraints silk; warning
+    @(51,0000 mm, 42,5000 mm): Rectangle on Edge.Cuts
+    @(59,2300 mm, 163,3700 mm): Segment of R88 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0,1500 mm; actual 0,0700 mm)
+    Rule: board setup constraints silk; warning
+    @(51,0000 mm, 42,5000 mm): Rectangle on Edge.Cuts
+    @(65,7700 mm, 163,0400 mm): Segment of R88 on F.Silkscreen
+[silk_edge_clearance]: Silkscreen clipped by board edge (board setup constraints silk clearance 0,1500 mm; actual 0,0700 mm)
+    Rule: board setup constraints silk; warning
+    @(51,0000 mm, 42,5000 mm): Rectangle on Edge.Cuts
+    @(65,7700 mm, 163,3700 mm): Segment of R88 on F.Silkscreen
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92,5000 mm, 79,2500 mm): Value field of C66 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96,0000 mm, 162,0000 mm): Reference field of D32
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(64,5000 mm, 80,7500 mm): Value field of C77 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(57,5000 mm, 104,2500 mm): Value field of C65 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(57,5000 mm, 79,2500 mm): Value field of C58 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92,5000 mm, 101,2500 mm): Value field of C68 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92,5000 mm, 73,0000 mm): Value field of C42 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(57,5000 mm, 101,2500 mm): Value field of C60 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(53,6000 mm, 133,5000 mm): Value field of C43 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92,5000 mm, 126,2500 mm): Value field of C74 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(85,5000 mm, 80,7500 mm): Value field of C78 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(92,5000 mm, 104,2500 mm): Value field of C73 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(57,5000 mm, 126,2500 mm): Value field of C67 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(96,4000 mm, 133,5000 mm): Value field of C41 (100nF)
+[silk_over_copper]: Silkscreen clipped by solder mask
+    Local override; warning
+    @(75,0000 mm, 134,2500 mm): Value field of C44 (100nF)
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 97,0400 mm): Segment of R10 on F.Silkscreen
+    @(71,7300 mm, 97,9600 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 97,9600 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 97,3700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 100,6300 mm): Segment of R12 on F.Silkscreen
+    @(71,7300 mm, 100,0400 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 100,0400 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 100,9600 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 97,6300 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 97,0400 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 97,6300 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 97,3700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 97,6300 mm): Segment of R11 on F.Silkscreen
+    @(78,2700 mm, 97,3700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 97,6300 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 97,3700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 97,6300 mm): Segment of R11 on F.Silkscreen
+    @(78,2700 mm, 97,3700 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 100,6300 mm): Segment of R12 on F.Silkscreen
+    @(78,2700 mm, 100,3700 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 100,6300 mm): Segment of R12 on F.Silkscreen
+    @(78,2700 mm, 100,3700 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 100,6300 mm): Segment of R12 on F.Silkscreen
+    @(71,7300 mm, 100,3700 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 100,3700 mm): Segment of R11 on F.Silkscreen
+    @(71,7300 mm, 100,9600 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 100,6300 mm): Segment of R12 on F.Silkscreen
+    @(71,7300 mm, 100,3700 mm): Segment of R11 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 94,6300 mm): Segment of R10 on F.Silkscreen
+    @(71,7300 mm, 94,3700 mm): Segment of R9 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 94,3700 mm): Segment of R9 on F.Silkscreen
+    @(71,7300 mm, 94,9600 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 94,3700 mm): Segment of R9 on F.Silkscreen
+    @(78,2700 mm, 94,6300 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 94,3700 mm): Segment of R9 on F.Silkscreen
+    @(71,7300 mm, 94,6300 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 94,3700 mm): Segment of R9 on F.Silkscreen
+    @(78,2700 mm, 94,6300 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 94,0400 mm): Segment of R9 on F.Silkscreen
+    @(71,7300 mm, 94,6300 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 94,0400 mm): Segment of R9 on F.Silkscreen
+    @(71,7300 mm, 94,9600 mm): Segment of R10 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 115,3700 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 115,6300 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 115,9600 mm): Segment of R17 on F.Silkscreen
+    @(71,7300 mm, 115,3700 mm): Segment of R16 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 115,3700 mm): Segment of R16 on F.Silkscreen
+    @(78,2700 mm, 115,6300 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 112,3700 mm): Segment of R15 on F.Silkscreen
+    @(78,2700 mm, 112,6300 mm): Segment of R16 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 112,3700 mm): Segment of R15 on F.Silkscreen
+    @(78,2700 mm, 112,6300 mm): Segment of R16 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 115,3700 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 115,6300 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 115,3700 mm): Segment of R16 on F.Silkscreen
+    @(78,2700 mm, 115,6300 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 115,0400 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 115,6300 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 112,9600 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 112,0400 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 112,9600 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 112,3700 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 115,0400 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 115,9600 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 118,0400 mm): Segment of R17 on F.Silkscreen
+    @(71,7300 mm, 118,6300 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 118,9600 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 118,0400 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 118,3700 mm): Segment of R17 on F.Silkscreen
+    @(71,7300 mm, 118,6300 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 118,3700 mm): Segment of R17 on F.Silkscreen
+    @(71,7300 mm, 118,9600 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 118,6300 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 118,3700 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 118,3700 mm): Segment of R17 on F.Silkscreen
+    @(71,7300 mm, 118,6300 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 118,6300 mm): Segment of R18 on F.Silkscreen
+    @(78,2700 mm, 118,3700 mm): Segment of R17 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,9600 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 103,0400 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,9600 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 103,3700 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,9600 mm): Segment of R14 on F.Silkscreen
+    @(71,7300 mm, 106,0400 mm): Segment of R13 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,6300 mm): Segment of R14 on F.Silkscreen
+    @(71,7300 mm, 106,0400 mm): Segment of R13 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,3700 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 106,9600 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,6300 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 103,0400 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 112,6300 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 112,0400 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 112,6300 mm): Segment of R16 on F.Silkscreen
+    @(71,7300 mm, 112,3700 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 112,3700 mm): Segment of R15 on F.Silkscreen
+    @(71,7300 mm, 112,6300 mm): Segment of R16 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,6300 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 103,3700 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,6300 mm): Segment of R13 on F.Silkscreen
+    @(78,2700 mm, 103,3700 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,3700 mm): Segment of R13 on F.Silkscreen
+    @(71,7300 mm, 106,6300 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,3700 mm): Segment of R13 on F.Silkscreen
+    @(78,2700 mm, 106,6300 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 106,6300 mm): Segment of R14 on F.Silkscreen
+    @(78,2700 mm, 106,3700 mm): Segment of R13 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 103,3700 mm): Segment of R12 on F.Silkscreen
+    @(78,2700 mm, 103,6300 mm): Segment of R13 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 109,6300 mm): Segment of R15 on F.Silkscreen
+    @(71,7300 mm, 109,3700 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 109,3700 mm): Segment of R14 on F.Silkscreen
+    @(71,7300 mm, 109,6300 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 109,6300 mm): Segment of R15 on F.Silkscreen
+    @(71,7300 mm, 109,0400 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 109,3700 mm): Segment of R14 on F.Silkscreen
+    @(78,2700 mm, 109,6300 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 109,3700 mm): Segment of R14 on F.Silkscreen
+    @(78,2700 mm, 109,6300 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 109,3700 mm): Segment of R14 on F.Silkscreen
+    @(71,7300 mm, 109,9600 mm): Segment of R15 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 103,6300 mm): Segment of R13 on F.Silkscreen
+    @(78,2700 mm, 103,3700 mm): Segment of R12 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 106,3700 mm): Segment of R13 on F.Silkscreen
+    @(78,2700 mm, 106,6300 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 109,9600 mm): Segment of R15 on F.Silkscreen
+    @(71,7300 mm, 109,0400 mm): Segment of R14 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(59,2300 mm, 160,6300 mm): Segment of R88 on F.Silkscreen
+    @(59,2300 mm, 160,3700 mm): Segment of R90 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,6300 mm): Segment of R88 on F.Silkscreen
+    @(59,2300 mm, 160,3700 mm): Segment of R90 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,3700 mm): Segment of R90 on F.Silkscreen
+    @(59,2300 mm, 160,6300 mm): Segment of R88 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,9600 mm): Segment of R88 on F.Silkscreen
+    @(65,7700 mm, 160,0400 mm): Segment of R90 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,6300 mm): Segment of R88 on F.Silkscreen
+    @(65,7700 mm, 160,0400 mm): Segment of R90 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,3700 mm): Segment of R90 on F.Silkscreen
+    @(65,7700 mm, 160,9600 mm): Segment of R88 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(65,7700 mm, 160,3700 mm): Segment of R90 on F.Silkscreen
+    @(65,7700 mm, 160,6300 mm): Segment of R88 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 143,3700 mm): Segment of R99 on F.Silkscreen
+    @(71,7300 mm, 143,6300 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 143,0400 mm): Segment of R99 on F.Silkscreen
+    @(71,7300 mm, 143,6300 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 146,3700 mm): Segment of R102 on F.Silkscreen
+    @(71,7300 mm, 146,6300 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 146,3700 mm): Segment of R102 on F.Silkscreen
+    @(78,2700 mm, 146,6300 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 143,3700 mm): Segment of R99 on F.Silkscreen
+    @(78,2700 mm, 143,6300 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 143,3700 mm): Segment of R99 on F.Silkscreen
+    @(78,2700 mm, 143,6300 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 143,6300 mm): Segment of R102 on F.Silkscreen
+    @(71,7300 mm, 143,0400 mm): Segment of R99 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 143,3700 mm): Segment of R99 on F.Silkscreen
+    @(78,2700 mm, 143,9600 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 143,3700 mm): Segment of R99 on F.Silkscreen
+    @(78,2700 mm, 143,9600 mm): Segment of R102 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 146,0400 mm): Segment of R102 on F.Silkscreen
+    @(78,2700 mm, 146,6300 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 146,0400 mm): Segment of R102 on F.Silkscreen
+    @(78,2700 mm, 146,9600 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 146,3700 mm): Segment of R102 on F.Silkscreen
+    @(71,7300 mm, 146,6300 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 146,3700 mm): Segment of R102 on F.Silkscreen
+    @(78,2700 mm, 146,6300 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 146,3700 mm): Segment of R102 on F.Silkscreen
+    @(78,2700 mm, 146,9600 mm): Segment of R105 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 156,8800 mm): Segment of R85 on F.Silkscreen
+    @(71,7300 mm, 156,6200 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 156,8800 mm): Segment of R85 on F.Silkscreen
+    @(71,7300 mm, 156,6200 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 157,2100 mm): Segment of R85 on F.Silkscreen
+    @(71,7300 mm, 156,6200 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 156,8800 mm): Segment of R85 on F.Silkscreen
+    @(78,2700 mm, 156,6200 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 156,8800 mm): Segment of R85 on F.Silkscreen
+    @(78,2700 mm, 156,6200 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 156,8800 mm): Segment of R85 on F.Silkscreen
+    @(71,7300 mm, 156,2900 mm): Segment of R108 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 156,2900 mm): Segment of R108 on F.Silkscreen
+    @(71,7300 mm, 157,2100 mm): Segment of R85 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 121,6300 mm): Segment of R19 on F.Silkscreen
+    @(71,7300 mm, 121,3700 mm): Segment of R18 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 121,3700 mm): Segment of R18 on F.Silkscreen
+    @(78,2700 mm, 121,6300 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 121,0400 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 121,6300 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 121,3700 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 121,6300 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(78,2700 mm, 121,3700 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 121,6300 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 121,0400 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 121,9600 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1400 mm)
+    Rule: board setup constraints silk; warning
+    @(71,7300 mm, 121,3700 mm): Segment of R18 on F.Silkscreen
+    @(71,7300 mm, 121,9600 mm): Segment of R19 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,0945 mm)
+    Rule: board setup constraints silk; warning
+    @(53,6000 mm, 129,2500 mm): Reference field of C43
+    @(54,9950 mm, 139,3900 mm): Rectangle of U24 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1307 mm)
+    Rule: board setup constraints silk; warning
+    @(96,0000 mm, 162,0000 mm): Reference field of D32
+    @(96,2100 mm, 161,5200 mm): Segment of R109 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,1307 mm)
+    Rule: board setup constraints silk; warning
+    @(96,0000 mm, 162,0000 mm): Reference field of D32
+    @(95,8800 mm, 161,5200 mm): Segment of R109 on F.Silkscreen
+[silk_overlap]: Silkscreen overlap (board setup constraints silk clearance 0,1500 mm; actual 0,0357 mm)
+    Rule: board setup constraints silk; warning
+    @(76,9950 mm, 139,3900 mm): Rectangle of U25 on F.Silkscreen
+    @(96,4000 mm, 129,2500 mm): Reference field of C41
+
+** Found 63 unconnected pads **
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 126,0000 mm): PTH pad 2 [Net-(D7-A)] of D7
+    @(96,3100 mm, 110,1750 mm): PTH pad 13 [Net-(D7-A)] of U5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(96,3100 mm, 110,1750 mm): PTH pad 13 [Net-(D7-A)] of U5
+    @(84,9400 mm, 49,5000 mm): PTH pad 2 [Net-(D7-A)] of R25
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 122,0000 mm): PTH pad 2 [Net-(D7-K)] of D8
+    @(82,2300 mm, 126,0000 mm): PTH pad 1 [Net-(D7-K)] of D7
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(96,3100 mm, 107,6350 mm): PTH pad 14 [Net-(D7-K)] of U5
+    @(84,7700 mm, 122,0000 mm): PTH pad 2 [Net-(D7-K)] of D8
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 122,0000 mm): PTH pad 1 [Net-(D8-K)] of D8
+    @(84,7700 mm, 118,0000 mm): PTH pad 2 [Net-(D8-K)] of D9
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 118,0000 mm): PTH pad 2 [Net-(D8-K)] of D9
+    @(88,6900 mm, 110,1750 mm): PTH pad 2 [Net-(D8-K)] of U5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 114,0000 mm): PTH pad 1 [Net-(D10-K)] of D10
+    @(84,7700 mm, 110,0000 mm): PTH pad 2 [Net-(D10-K)] of D11
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 110,0000 mm): PTH pad 2 [Net-(D10-K)] of D11
+    @(96,3100 mm, 85,1750 mm): PTH pad 13 [Net-(D10-K)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 118,0000 mm): PTH pad 1 [Net-(D10-A)] of D9
+    @(84,7700 mm, 114,0000 mm): PTH pad 2 [Net-(D10-A)] of D10
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 114,0000 mm): PTH pad 2 [Net-(D10-A)] of D10
+    @(88,6900 mm, 107,6350 mm): PTH pad 1 [Net-(D10-A)] of U5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 102,0000 mm): PTH pad 1 [Net-(D13-K)] of D13
+    @(84,7700 mm, 98,0000 mm): PTH pad 2 [Net-(D13-K)] of D14
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 98,0000 mm): PTH pad 2 [Net-(D13-K)] of D14
+    @(88,6900 mm, 82,6350 mm): PTH pad 1 [Net-(D13-K)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 94,0000 mm): PTH pad 2 [Net-(D18-A)] of D18
+    @(65,2300 mm, 98,0000 mm): PTH pad 1 [Net-(D18-A)] of D19
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 102,0000 mm): PTH pad 1 [Net-(D19-A)] of D20
+    @(67,7700 mm, 98,0000 mm): PTH pad 2 [Net-(D19-A)] of D19
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 98,0000 mm): PTH pad 2 [Net-(D19-A)] of D19
+    @(61,3100 mm, 82,6350 mm): PTH pad 14 [Net-(D19-A)] of U2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 106,0000 mm): PTH pad 1 [Net-(D20-A)] of D21
+    @(67,7700 mm, 102,0000 mm): PTH pad 2 [Net-(D20-A)] of D20
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 102,0000 mm): PTH pad 2 [Net-(D20-A)] of D20
+    @(61,3100 mm, 85,1750 mm): PTH pad 13 [Net-(D20-A)] of U2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 110,0000 mm): PTH pad 1 [Net-(D21-A)] of D22
+    @(67,7700 mm, 106,0000 mm): PTH pad 2 [Net-(D21-A)] of D21
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 106,0000 mm): PTH pad 2 [Net-(D21-A)] of D21
+    @(53,6900 mm, 82,6350 mm): PTH pad 1 [Net-(D21-A)] of U2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 114,0000 mm): PTH pad 1 [Net-(D22-A)] of D23
+    @(67,7700 mm, 110,0000 mm): PTH pad 2 [Net-(D22-A)] of D22
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 110,0000 mm): PTH pad 2 [Net-(D22-A)] of D22
+    @(53,6900 mm, 85,1750 mm): PTH pad 2 [Net-(D22-A)] of U2
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 118,0000 mm): PTH pad 1 [Net-(D23-A)] of D24
+    @(67,7700 mm, 114,0000 mm): PTH pad 2 [Net-(D23-A)] of D23
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 114,0000 mm): PTH pad 2 [Net-(D23-A)] of D23
+    @(61,3100 mm, 107,6350 mm): PTH pad 14 [Net-(D23-A)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 122,0000 mm): PTH pad 1 [Net-(D24-A)] of D25
+    @(67,7700 mm, 118,0000 mm): PTH pad 2 [Net-(D24-A)] of D24
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 118,0000 mm): PTH pad 2 [Net-(D24-A)] of D24
+    @(61,3100 mm, 110,1750 mm): PTH pad 13 [Net-(D24-A)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(65,2300 mm, 126,0000 mm): PTH pad 1 [Net-(D25-A)] of D26
+    @(67,7700 mm, 122,0000 mm): PTH pad 2 [Net-(D25-A)] of D25
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(67,7700 mm, 122,0000 mm): PTH pad 2 [Net-(D25-A)] of D25
+    @(53,6900 mm, 107,6350 mm): PTH pad 1 [Net-(D25-A)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53,6900 mm, 110,1750 mm): PTH pad 2 [Net-(D26-A)] of U3
+    @(67,7700 mm, 126,0000 mm): PTH pad 2 [Net-(D26-A)] of D26
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(66,5600 mm, 71,5000 mm): PTH pad 2 [Net-(D26-A)] of R22
+    @(53,6900 mm, 110,1750 mm): PTH pad 2 [Net-(D26-A)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77,5000 mm, 72,0000 mm): Track [/Gain Trimmer/R_Gain_IN] on F.Cu, length 1,8000 mm
+    @(52,7750 mm, 151,6250 mm): PTH pad 6 [/Gain Trimmer/R_Gain_IN] of J12
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77,5000 mm, 69,5000 mm): Track [/Gain Trimmer/L_Gain_IN] on F.Cu, length 3,7329 mm
+    @(52,7750 mm, 138,9250 mm): PTH pad 1 [/Gain Trimmer/L_Gain_IN] of J12
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53,6900 mm, 95,3350 mm): PTH pad 6 [Net-(U2B--)] of U2
+    @(71,1900 mm, 105,0000 mm): Track [Net-(U2B--)] on F.Cu, length 4,6200 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(78,8100 mm, 108,0000 mm): PTH pad 2 [Net-(U2B--)] of R14
+    @(96,3100 mm, 97,8750 mm): PTH pad 8 [Net-(U2B--)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53,6900 mm, 90,2550 mm): PTH pad 4 [Net-(U2A--)] of U2
+    @(71,1900 mm, 108,0000 mm): PTH pad 1 [Net-(U2A--)] of R14
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75,8100 mm, 108,0000 mm): Track [Net-(U2A--)] on F.Cu, length 4,2426 mm
+    @(96,3100 mm, 92,7950 mm): PTH pad 10 [Net-(U2A--)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71,1900 mm, 117,0000 mm): PTH pad 1 [Net-(U3B--)] of R17
+    @(53,6900 mm, 120,3350 mm): PTH pad 6 [Net-(U3B--)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53,6900 mm, 115,2550 mm): PTH pad 4 [Net-(U3A--)] of U3
+    @(71,1900 mm, 120,0000 mm): Track [Net-(U3A--)] on F.Cu, length 4,6200 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(61,3100 mm, 97,8750 mm): PTH pad 8 [Net-(U2D--)] of U2
+    @(71,1900 mm, 99,0000 mm): Track [Net-(U2D--)] on F.Cu, length 4,6200 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(78,8100 mm, 102,0000 mm): PTH pad 2 [Net-(U2D--)] of R12
+    @(88,6900 mm, 95,3350 mm): PTH pad 6 [Net-(U2D--)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(61,3100 mm, 92,7950 mm): PTH pad 10 [Net-(U2C--)] of U2
+    @(71,1900 mm, 102,0000 mm): PTH pad 1 [Net-(U2C--)] of R12
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88,6900 mm, 90,2550 mm): PTH pad 4 [Net-(U2C--)] of U4
+    @(71,1900 mm, 102,0000 mm): Track [Net-(U2C--)] on F.Cu, length 4,6200 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71,1900 mm, 111,0000 mm): Track [Net-(U3D--)] on F.Cu, length 4,6200 mm
+    @(61,3100 mm, 122,8750 mm): PTH pad 8 [Net-(U3D--)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88,6900 mm, 120,3350 mm): PTH pad 6 [Net-(U3D--)] of U5
+    @(78,8100 mm, 114,0000 mm): PTH pad 2 [Net-(U3D--)] of R16
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71,1900 mm, 114,0000 mm): Track [Net-(U3C--)] on F.Cu, length 4,6200 mm
+    @(61,3100 mm, 117,7950 mm): PTH pad 10 [Net-(U3C--)] of U3
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(78,8100 mm, 117,0000 mm): PTH pad 2 [Net-(U3C--)] of R17
+    @(88,6900 mm, 115,2550 mm): PTH pad 4 [Net-(U3C--)] of U5
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(71,1900 mm, 93,0000 mm): Track [Net-(U6B--)] on F.Cu, length 4,6200 mm
+    @(80,0850 mm, 84,5600 mm): PTH pad 6 [Net-(U6B--)] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(80,0850 mm, 84,5600 mm): PTH pad 6 [Net-(U6B--)] of U6
+    @(77,5450 mm, 76,9400 mm): PTH pad 10 [Net-(U6B--)] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75,0050 mm, 84,5600 mm): PTH pad 4 [Net-(U6A--)] of U6
+    @(75,8100 mm, 96,0000 mm): Track [Net-(U6A--)] on F.Cu, length 4,2426 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,6250 mm, 76,9400 mm): PTH pad 8 [Net-(U6A--)] of U6
+    @(75,0050 mm, 84,5600 mm): PTH pad 4 [Net-(U6A--)] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(56,3850 mm, 130,4400 mm): Track [Net-(U24C--)] on F.Cu, length 2,1241 mm
+    @(52,7500 mm, 154,4400 mm): PTH pad 1 [Net-(U24C--)] of R91
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(53,6900 mm, 97,8750 mm): Track [Output_Meter_L] on B.Cu, length 1,5570 mm
+    @(60,2090 mm, 116,3560 mm): Track [Output_Meter_L] on B.Cu, length 1,5570 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(75,6850 mm, 91,5000 mm): Track [Output_Meter_L] on F.Cu, length 9,8146 mm
+    @(80,0850 mm, 76,9400 mm): PTH pad 9 [Output_Meter_L] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(77,5450 mm, 84,5600 mm): PTH pad 5 [Output_Meter_R] of U6
+    @(75,0050 mm, 76,9400 mm): PTH pad 11 [Output_Meter_R] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(88,6900 mm, 92,7950 mm): Track [Output_Meter_R] on F.Cu, length 5,0800 mm
+    @(77,5450 mm, 84,5600 mm): PTH pad 5 [Output_Meter_R] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(93,7700 mm, 117,7950 mm): Track [Output_Meter_R] on F.Cu, length 3,5921 mm
+    @(88,6900 mm, 97,8750 mm): Track [Output_Meter_R] on B.Cu, length 1,5570 mm
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 110,0000 mm): PTH pad 1 [Net-(D11-K)] of D11
+    @(84,7700 mm, 106,0000 mm): PTH pad 2 [Net-(D11-K)] of D12
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 106,0000 mm): PTH pad 2 [Net-(D11-K)] of D12
+    @(96,3100 mm, 82,6350 mm): PTH pad 14 [Net-(D11-K)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 106,0000 mm): PTH pad 1 [Net-(D12-K)] of D12
+    @(84,7700 mm, 102,0000 mm): PTH pad 2 [Net-(D12-K)] of D13
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 102,0000 mm): PTH pad 2 [Net-(D12-K)] of D13
+    @(88,6900 mm, 85,1750 mm): PTH pad 2 [Net-(D12-K)] of U4
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 98,0000 mm): PTH pad 1 [Net-(D14-K)] of D14
+    @(84,7700 mm, 94,0000 mm): PTH pad 2 [Net-(D14-K)] of D15
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 94,0000 mm): PTH pad 2 [Net-(D14-K)] of D15
+    @(69,9250 mm, 84,5600 mm): PTH pad 2 [Net-(D14-K)] of U6
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(82,2300 mm, 94,0000 mm): PTH pad 1 [Net-(D15-K)] of D15
+    @(84,7700 mm, 90,0000 mm): PTH pad 2 [Net-(D15-K)] of D16
+[unconnected_items]: Missing connection between items
+    Local override; error
+    @(84,7700 mm, 90,0000 mm): PTH pad 2 [Net-(D15-K)] of D16
+    @(69,9250 mm, 76,9400 mm): PTH pad 13 [Net-(D15-K)] of U6
+
+** Found 0 Footprint errors **
+
+** End of Report **

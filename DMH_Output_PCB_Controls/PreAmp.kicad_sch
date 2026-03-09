@@ -1317,6 +1317,18 @@
 		)
 	)
 	(rectangle
+		(start 71.12 139.7)
+		(end 106.68 162.56)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid a48a9dcf-e324-4366-a71f-a259ff450c40)
+	)
+	(rectangle
 		(start 111.76 13.97)
 		(end 146.05 33.02)
 		(stroke
@@ -1349,6 +1361,16 @@
 			)
 		)
 		(uuid "72db7807-c742-4e61-88b4-ba350bc3b3a1")
+	)
+	(text "Controls PCB"
+		(exclude_from_sim no)
+		(at 99.06 142.24 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c0a1bdc6-67c6-4a98-ac74-e1cd43e9e5ec")
 	)
 	(text "Controls PCB"
 		(exclude_from_sim no)
