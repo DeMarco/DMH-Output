@@ -7574,9 +7574,9 @@
 		(at 241.3 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "0015f5da-64a5-4e7d-ac52-aeaa497a3139")
 		(property "Reference" "C76"
@@ -8476,6 +8476,112 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "H21")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Amplifier_Operational:TL074")
+		(at 78.74 107.95 0)
+		(unit 5)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "21d2508c-1a6b-44df-bfe2-d613841f520d")
+		(property "Reference" "U7"
+			(at 77.47 106.6799 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TL074"
+			(at 77.47 109.2199 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Package_DIP:DIP-14_W7.62mm_Socket"
+			(at 77.47 105.41 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
+			(at 80.01 102.87 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Description" "Quad Low-Noise JFET-Input Operational Amplifiers, DIP-14/SOIC-14"
+			(at 78.74 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(pin "3"
+			(uuid "f21798da-c0ba-4681-a1a1-1bfb3859f69b")
+		)
+		(pin "2"
+			(uuid "34ab8156-be48-4b4e-b4ee-9f32d5e54c4b")
+		)
+		(pin "1"
+			(uuid "fe179352-4b12-4224-8367-1c4bc13e7d39")
+		)
+		(pin "6"
+			(uuid "0851540a-5a02-4547-8993-738687be410c")
+		)
+		(pin "9"
+			(uuid "15d8813f-35d3-4d39-ab2f-ed47a7e15d7f")
+		)
+		(pin "14"
+			(uuid "761dc30e-c08d-425f-8cf2-91d51a763c16")
+		)
+		(pin "5"
+			(uuid "4c790e96-8438-4bd2-9790-cddc5cf12ee4")
+		)
+		(pin "13"
+			(uuid "2f48d197-3e69-41ad-88ef-3eacf4cd3019")
+		)
+		(pin "11"
+			(uuid "b703d94b-63bf-4b52-b355-c0fad8b339c2")
+		)
+		(pin "10"
+			(uuid "abdef0aa-69fe-4ef4-b840-07fc407fb32d")
+		)
+		(pin "8"
+			(uuid "82006f40-e0b7-40d8-9075-5514bb0a0933")
+		)
+		(pin "7"
+			(uuid "a3927ed6-abda-478b-aacd-4823573db520")
+		)
+		(pin "12"
+			(uuid "05020bb6-a8bd-4447-a584-4adc5d0e30b2")
+		)
+		(pin "4"
+			(uuid "dbad0c3f-e56a-4346-a80d-1de8b7ee1b28")
+		)
+		(instances
+			(project ""
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
+					(reference "U7")
+					(unit 5)
 				)
 			)
 		)
@@ -10737,9 +10843,9 @@
 		(at 241.3 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "571c235b-f22b-42d4-a890-af55da21ca4c")
 		(property "Reference" "C75"
@@ -10983,9 +11089,9 @@
 		(at 165.1 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "585b0e6d-8a38-4e4a-9311-df312265d03c")
 		(property "Reference" "C64"
@@ -11252,9 +11358,9 @@
 		(at 215.9 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "5bc07835-926e-4c0d-97df-2d93d4924de6")
 		(property "Reference" "C70"
@@ -11313,94 +11419,6 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
 					(reference "C70")
 					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Amplifier_Operational:TL072")
-		(at 78.74 107.95 0)
-		(unit 3)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "5c407e6d-2aa5-4af0-b404-58edcd6e1706")
-		(property "Reference" "U7"
-			(at 77.47 106.6799 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Value" "TL072"
-			(at 77.47 109.2199 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify left)
-			)
-		)
-		(property "Footprint" "Package_DIP:DIP-8_W7.62mm_Socket"
-			(at 78.74 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" "http://www.ti.com/lit/ds/symlink/tl071.pdf"
-			(at 78.74 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Dual Low-Noise JFET-Input Operational Amplifiers, DIP-8/SOIC-8"
-			(at 78.74 107.95 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "2"
-			(uuid "a3cb3e87-1642-440e-84cb-240011a118a8")
-		)
-		(pin "7"
-			(uuid "8aa6cc64-fc28-4d1e-bb76-87b4efa00038")
-		)
-		(pin "3"
-			(uuid "66476df1-00b7-4032-bef6-94d2fe96619f")
-		)
-		(pin "8"
-			(uuid "1829b91e-2451-477a-a60a-f11d764ab087")
-		)
-		(pin "6"
-			(uuid "66285b99-a436-471a-90d5-74c2eaa500cd")
-		)
-		(pin "4"
-			(uuid "bdca73a6-89a0-45a7-89d8-a6889e1401c9")
-		)
-		(pin "5"
-			(uuid "accaff6f-b0c9-49ab-b60e-8f5a3c06f782")
-		)
-		(pin "1"
-			(uuid "8c6b472a-853d-4447-8425-f29be9ba17ae")
-		)
-		(instances
-			(project ""
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0cdf34b2-39cd-4d9e-981a-97cd34791509"
-					(reference "U7")
-					(unit 3)
 				)
 			)
 		)
@@ -12259,9 +12277,9 @@
 		(at 165.1 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "679f4148-6c96-4d63-a7ad-464a9810ddf3")
 		(property "Reference" "C62"
@@ -12329,9 +12347,9 @@
 		(at 63.5 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "69abf0d1-dc22-491a-9a96-8b63dbaf0b70")
 		(property "Reference" "C46"
@@ -12399,9 +12417,9 @@
 		(at 88.9 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "6dc5f4a3-f379-45c0-8127-eb08e5efcc0b")
 		(property "Reference" "C51"
@@ -12759,9 +12777,9 @@
 		(at 38.1 57.15 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "80be179d-40d0-4890-87b3-e7d3e0c02352")
 		(property "Reference" "C40"
@@ -13221,9 +13239,9 @@
 		(at 215.9 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "9cf27d1c-b7c8-49ac-a778-507586ebdf52")
 		(property "Reference" "C72"
@@ -14125,9 +14143,9 @@
 		(at 88.9 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c5187544-86ff-484b-8cef-d861d1273a60")
 		(property "Reference" "C49"
@@ -14195,9 +14213,9 @@
 		(at 266.7 120.65 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "c9770c58-6783-41a9-841a-ed7f4cd52366")
 		(property "Reference" "C80"
@@ -14265,9 +14283,9 @@
 		(at 266.7 95.25 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "cc9699b4-3692-4860-ab59-b33c5a4eba54")
 		(property "Reference" "C79"
@@ -15514,9 +15532,9 @@
 		(at 38.1 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f58a4bcc-9cfd-4c1b-95d6-c5db185ef319")
 		(property "Reference" "C39"
@@ -15872,9 +15890,9 @@
 		(at 63.5 31.75 0)
 		(unit 1)
 		(exclude_from_sim no)
-		(in_bom no)
-		(on_board no)
-		(dnp yes)
+		(in_bom yes)
+		(on_board yes)
+		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "fd838f3e-edcd-4ebc-b5be-93094e1c698d")
 		(property "Reference" "C45"

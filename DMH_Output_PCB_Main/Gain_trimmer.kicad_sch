@@ -2086,7 +2086,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 101.6 149.86 0)
 		(mirror x)
-		(unit 4)
+		(unit 1)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2189,7 +2189,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/9adc9203-60fe-4942-b6ff-2cd29597aa58"
 					(reference "U8")
-					(unit 4)
+					(unit 1)
 				)
 			)
 		)
@@ -2348,7 +2348,7 @@
 		(lib_id "Amplifier_Operational:TL074")
 		(at 139.7 152.4 0)
 		(mirror x)
-		(unit 3)
+		(unit 2)
 		(exclude_from_sim no)
 		(in_bom yes)
 		(on_board yes)
@@ -2451,7 +2451,7 @@
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/9adc9203-60fe-4942-b6ff-2cd29597aa58"
 					(reference "U8")
-					(unit 3)
+					(unit 2)
 				)
 			)
 		)
@@ -2558,7 +2558,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "4332750f-f147-4b0f-9c32-f413ea4fac23")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 101.6 96.52 0)
 			(effects
 				(font
@@ -2654,7 +2654,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/9adc9203-60fe-4942-b6ff-2cd29597aa58"
-					(reference "U8")
+					(reference "U7")
 					(unit 1)
 				)
 			)
@@ -3978,7 +3978,7 @@
 		(on_board yes)
 		(dnp no)
 		(uuid "e56fc8d2-ee20-4390-bcff-f6cf4aa8e2d9")
-		(property "Reference" "U8"
+		(property "Reference" "U7"
 			(at 139.7 99.06 0)
 			(effects
 				(font
@@ -4074,7 +4074,7 @@
 		(instances
 			(project ""
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/9adc9203-60fe-4942-b6ff-2cd29597aa58"
-					(reference "U8")
+					(reference "U7")
 					(unit 2)
 				)
 			)
