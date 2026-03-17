@@ -1,5 +1,5 @@
 Drill report for DMH_Output_PCB_LEDs.kicad_pcb
-Created on 2026-03-10T18:11:57-0300
+Created on 2026-03-17T15:40:33-0300
 
 Copper Layer Stackup:
     =============================================================
@@ -10,9 +10,9 @@ Copper Layer Stackup:
 Drill file 'DMH_Output_PCB_LEDs-PTH.drl' contains
     plated through holes:
     =============================================================
-    T1  1,000mm  0,0394"  (1 hole)
+    T1  1,000mm  0,0394"  (2 holes)
 
-    Total plated holes count 1
+    Total plated holes count 2
 
 
 Drill file 'DMH_Output_PCB_LEDs-NPTH.drl' contains
