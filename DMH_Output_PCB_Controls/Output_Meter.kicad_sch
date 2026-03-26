@@ -2075,40 +2075,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(circle
-		(center 104.14 95.25)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid 84231f38-3e9f-49f5-bb19-d0787b48e690)
-	)
-	(circle
-		(center 104.14 44.45)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid d426c4a5-4515-44bc-b0d3-debddfb99979)
-	)
-	(text "Was 68k"
-		(exclude_from_sim no)
-		(at 114.3 44.45 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "9824dcdc-a6ff-4bc0-a5e7-1de1ffd8bf6b")
-	)
 	(text "Controls PCB"
 		(exclude_from_sim no)
 		(at 271.78 16.51 0)
@@ -2118,16 +2084,6 @@
 			)
 		)
 		(uuid "d901442b-c7f3-46d4-adcc-4c4dea6f2335")
-	)
-	(text "Was 68k"
-		(exclude_from_sim no)
-		(at 114.3 95.25 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "da8dcea0-2212-4896-8acb-c488a07a7ead")
 	)
 	(junction
 		(at 139.7 139.7)
@@ -5646,7 +5602,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "68k"
 			(at 104.14 45.7199 0)
 			(effects
 				(font
@@ -7545,7 +7501,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "360R"
+		(property "Value" "361R"
 			(at 173.99 149.8599 0)
 			(effects
 				(font
@@ -10798,7 +10754,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100k"
+		(property "Value" "68k"
 			(at 104.14 96.5199 0)
 			(effects
 				(font
@@ -12078,7 +12034,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "360R"
+		(property "Value" "361R"
 			(at 173.99 162.5599 0)
 			(effects
 				(font

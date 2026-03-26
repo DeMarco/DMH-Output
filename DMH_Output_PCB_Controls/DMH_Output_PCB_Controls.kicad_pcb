@@ -5344,7 +5344,7 @@
 				)
 			)
 		)
-		(property "Value" "360R"
+		(property "Value" "361R"
 			(at 3.81 0 0)
 			(layer "F.SilkS")
 			(uuid "30d53f17-cc3a-4493-8d95-d0b494be7025")
@@ -5585,7 +5585,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*")
-		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/c7576b08-98f2-4125-aa2a-26b883477ced")
+		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/df72c6d6-73fc-4bcc-aa19-9f899822920d")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
 		(attr through_hole)
@@ -9222,7 +9222,7 @@
 				)
 			)
 		)
-		(property "Value" "360R"
+		(property "Value" "361R"
 			(at 3.81 0 0)
 			(layer "F.SilkS")
 			(uuid "d4a85e63-1e18-4187-9ea3-ce4b28973071")
@@ -17574,7 +17574,7 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*")
-		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/f8a78143-718b-4b80-9073-5c6a162f7991")
+		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/635f03ac-4eac-46d8-a36c-6fe96529a396")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
 		(attr through_hole)
