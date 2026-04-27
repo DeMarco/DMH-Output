@@ -7681,7 +7681,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "75R"
 			(at 251.46 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -10469,7 +10469,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "100R"
+		(property "Value" "75R"
 			(at 91.44 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
