@@ -2264,7 +2264,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "HP"
+		(property "Value" "HP Vol"
 			(at 66.04 88.9 0)
 			(effects
 				(font
