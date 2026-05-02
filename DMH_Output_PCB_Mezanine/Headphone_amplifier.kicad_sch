@@ -3065,7 +3065,7 @@
 			(uuid "67eedfdc-6c97-44ab-8f99-f356c93d9c69")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R59")
 					(unit 1)
@@ -3143,7 +3143,7 @@
 			(uuid "51d5ac86-0781-4c23-91e2-b09c75df0e66")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR038")
 					(unit 1)
@@ -3185,7 +3185,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 41.91 121.92 0)
 			(hide yes)
 			(show_name no)
@@ -3247,7 +3247,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b2")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 5)
@@ -3355,7 +3355,7 @@
 			(uuid "82e1587d-0b9e-4fc5-94ff-b854f6246628")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
 					(unit 1)
@@ -3481,7 +3481,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c329")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 4)
@@ -3575,7 +3575,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b3")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 5)
@@ -3616,7 +3616,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 55.88 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -3678,7 +3678,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b4")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 4)
@@ -3772,7 +3772,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b5")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 1)
@@ -3866,7 +3866,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b6")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 6)
@@ -3908,7 +3908,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 55.88 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -3970,7 +3970,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b7")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 3)
@@ -4050,7 +4050,7 @@
 			(uuid "b8cea190-75ea-4586-9709-e301a0d55a1b")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R53")
 					(unit 1)
@@ -4158,7 +4158,7 @@
 			(uuid "a423b156-1119-4c30-b0d2-42fa596d1995")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
 					(unit 1)
@@ -4252,7 +4252,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b8")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 3)
@@ -4330,7 +4330,7 @@
 			(uuid "efc63046-b443-42ce-bb48-22fcea08c431")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR035")
 					(unit 1)
@@ -4372,7 +4372,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 27.94 30.48 0)
 			(hide yes)
 			(show_name no)
@@ -4434,7 +4434,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 1)
@@ -4514,7 +4514,7 @@
 			(uuid "3a7bf34f-6c69-4c00-81e6-8f5b1cdfe964")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R52")
 					(unit 1)
@@ -4556,7 +4556,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 27.94 113.03 0)
 			(hide yes)
 			(show_name no)
@@ -4618,7 +4618,7 @@
 			(uuid "b0b208ca-44b9-4774-a82b-22b8471a3562")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 6)
@@ -4725,7 +4725,7 @@
 			(uuid "47ecc522-78e6-4238-a2e9-9240173567d5")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
 					(unit 2)
@@ -4804,7 +4804,7 @@
 			(uuid "403250f6-2dde-4833-a3ec-342bf3bca0e9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R56")
 					(unit 1)
@@ -4884,7 +4884,7 @@
 			(uuid "2dde5942-136b-42ce-97a3-f42789567e3f")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R45")
 					(unit 1)
@@ -5010,7 +5010,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 2)
@@ -5136,7 +5136,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32a")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 1)
@@ -5297,7 +5297,7 @@
 			(uuid "5aa61a75-15de-4e62-b0ac-e99ccebaaf9c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "RV2")
 					(unit 2)
@@ -5377,7 +5377,7 @@
 			(uuid "f9d0be4e-cadc-42c3-aece-51f1dcffb647")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R58")
 					(unit 1)
@@ -5455,7 +5455,7 @@
 			(uuid "f4d9d59f-e9dd-42d0-9554-58bf6aa03011")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR037")
 					(unit 1)
@@ -5549,7 +5549,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450ba")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 4)
@@ -5629,7 +5629,7 @@
 			(uuid "9163c3e2-ba2e-4bb0-9c16-8e23dc85dc2c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R57")
 					(unit 1)
@@ -5671,7 +5671,7 @@
 				)
 			)
 		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical"
 			(at 41.91 39.37 0)
 			(hide yes)
 			(show_name no)
@@ -5733,7 +5733,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450bb")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 2)
@@ -5894,7 +5894,7 @@
 			(uuid "4ce44c16-387d-4a66-94a9-3c77049944b9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "RV2")
 					(unit 1)
@@ -5984,7 +5984,7 @@
 			(uuid "de6b6e48-b6bd-4479-a498-340647a83445")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "C14")
 					(unit 1)
@@ -6078,7 +6078,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450bc")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 2)
@@ -6158,7 +6158,7 @@
 			(uuid "a4bb241a-638b-4e38-932d-c7e2d1c0773f")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R46")
 					(unit 1)
@@ -6284,7 +6284,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32b")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 3)
@@ -6362,7 +6362,7 @@
 			(uuid "28ed529c-6b3e-4fab-875b-d84d416c6b58")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR036")
 					(unit 1)
@@ -6442,7 +6442,7 @@
 			(uuid "f41ed673-8eae-4f83-8d49-d16eb3cd3451")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R44")
 					(unit 1)
@@ -6521,7 +6521,7 @@
 			(uuid "7023cfe5-5789-4e6f-9786-fbf12a2e542e")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R49")
 					(unit 1)
@@ -6611,7 +6611,7 @@
 			(uuid "a10c0c1f-7807-458d-b4f3-9ee85ec5b2f1")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "C13")
 					(unit 1)
@@ -6691,7 +6691,7 @@
 			(uuid "1430adc3-7ef4-4f8b-bfd4-f6f6c53b5b6a")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R48")
 					(unit 1)
@@ -6798,7 +6798,7 @@
 			(uuid "47ecc522-78e6-4238-a2e9-9240173567d6")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
 					(unit 2)
@@ -6888,7 +6888,7 @@
 			(uuid "f141cbfa-3c01-4dc7-a197-7b979079594e")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R47")
 					(unit 1)
