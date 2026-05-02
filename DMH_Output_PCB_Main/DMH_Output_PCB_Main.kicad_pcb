@@ -146,7 +146,7 @@
 		(property "Reference" "R87"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "d4614589-0ff7-4777-a4ea-4c67fb760cc2")
+			(uuid "792b1025-cc23-4072-b202-cb23b1e43014")
 			(effects
 				(font
 					(size 1 1)
@@ -157,7 +157,7 @@
 		(property "Value" "100K"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "9f83486f-1713-4b1f-a96c-aee405818983")
+			(uuid "a62a0542-7ab6-4b3f-85d6-6ae85cbeb0fc")
 			(effects
 				(font
 					(size 1 1)
@@ -169,7 +169,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1f00969e-0cad-4f7c-b41b-9717e49dbe80")
+			(uuid "4c243e46-bcad-4921-979d-7ae4c09798df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -181,7 +181,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ecfb1aca-1b9c-43c6-bb23-4d1be0d08530")
+			(uuid "c4a8dfc3-366c-4208-a52a-58ba781918d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -205,6 +205,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/d241be29-2fb5-4677-a9ca-2437f2ce3a2b")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -362,7 +368,7 @@
 		(property "Reference" "U20"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "f068e4f4-fc57-4126-ba57-50cbb1752c85")
+			(uuid "f823a718-74f5-4862-a833-3d8765fac704")
 			(effects
 				(font
 					(size 1 1)
@@ -373,7 +379,7 @@
 		(property "Value" "TL072"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
-			(uuid "e0dd2c3f-5254-4a79-ad20-06c9269b45e2")
+			(uuid "309284ff-d274-4c42-9444-5000c2676705")
 			(effects
 				(font
 					(size 1 1)
@@ -385,7 +391,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b500e844-7483-4534-b475-15b1cb7150ed")
+			(uuid "f20d6287-b03c-40de-ba82-c46b709b644e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -397,7 +403,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8fb897d6-207a-4148-b33f-0032c2eb5341")
+			(uuid "b607c470-66d0-4d7f-9a88-782bda9b7400")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -421,6 +427,20 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/ff6f0ec6-6b86-4087-9b54-acf9b0fc576f")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "8" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -693,7 +713,7 @@
 		(property "Reference" "C80"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "8b0228ff-b40e-44a1-8ff1-3e116d2fbda0")
+			(uuid "05efd53a-6a92-4dfe-999c-657015fdab7e")
 			(effects
 				(font
 					(size 1 1)
@@ -704,7 +724,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "34ba90cb-5d18-4b2b-9485-317c9dcf0bb8")
+			(uuid "f8bb9fb3-3209-472d-8112-8662bc69f7d0")
 			(effects
 				(font
 					(size 1 1)
@@ -716,7 +736,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3342b66-78ef-4d8a-98dd-290a045fd67f")
+			(uuid "e0bee69b-8b98-466f-83b1-afc2d3610f74")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -728,7 +748,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "694c835a-fa7e-44ff-b857-8ee62c46d740")
+			(uuid "cdfa4cef-bc5f-4437-a127-239224a393ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -752,6 +772,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/c9770c58-6783-41a9-841a-ed7f4cd52366")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -869,7 +895,7 @@
 		(property "Reference" "C13"
 			(at 1.25 -2.25 0)
 			(layer "F.SilkS")
-			(uuid "768a4752-f57c-4395-a772-f2ea0a69b2d7")
+			(uuid "9f5ca021-d3e7-4ffa-b746-b42df897d898")
 			(effects
 				(font
 					(size 1 1)
@@ -880,7 +906,7 @@
 		(property "Value" "100pF"
 			(at 1.25 2.25 0)
 			(layer "F.Fab")
-			(uuid "7c98e963-3f77-49b8-a795-ec5ea32abdc0")
+			(uuid "f3486406-ff83-4f75-baa9-ba3d63135afe")
 			(effects
 				(font
 					(size 1 1)
@@ -892,7 +918,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5f60208-0333-40f3-843e-437484f5066f")
+			(uuid "6e539731-6a8f-4d1f-a1d2-d4b8ad078c97")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -904,7 +930,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5e0fc7ee-9c43-4c07-922e-84c76708a53b")
+			(uuid "59496288-27ca-44d4-a97f-b6c95a05e0ee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -941,6 +967,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/c477075a-553a-4fab-83c7-1d2ba0b8592b")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1078,7 +1110,7 @@
 		(property "Reference" "C6"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "6f546feb-e6de-42e8-aa7a-3bf08bd86f2d")
+			(uuid "4cde5c2a-2caa-40bb-a5a4-a9d7343ac471")
 			(effects
 				(font
 					(size 1 1)
@@ -1089,7 +1121,7 @@
 		(property "Value" "10uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
-			(uuid "e7f9a38d-ffd5-4e6a-9047-348bb0f939f7")
+			(uuid "023c558c-e51d-4f7f-8898-8293824210dc")
 			(effects
 				(font
 					(size 1 1)
@@ -1101,7 +1133,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "039d26e5-a2b3-432e-80f0-20497a164342")
+			(uuid "b58798f8-014f-4723-882e-69372a993aee")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1113,7 +1145,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "70865493-5be1-4642-ab32-0da90f9b0494")
+			(uuid "65da8216-7ca1-4fde-bf8a-52827c8d178a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -1137,6 +1169,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/951703a2-1c7d-4c0a-995f-08efb7e95f59")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2436,7 +2474,7 @@
 		(property "Reference" "C70"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "954aa61b-0092-4fdd-8364-365ed44ea42c")
+			(uuid "ae819027-5196-40cf-9017-4b6a7cdd9f66")
 			(effects
 				(font
 					(size 1 1)
@@ -2447,7 +2485,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "e3e17328-f86c-43d9-b46b-5e8cc81dc565")
+			(uuid "721412fa-5f1e-4d1c-b377-478070ffdc21")
 			(effects
 				(font
 					(size 1 1)
@@ -2459,7 +2497,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "aa79ed2c-a2a0-4f44-b97d-dc56c7daeadd")
+			(uuid "0b87d063-31cb-459e-9c39-4b7834cc4649")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2471,7 +2509,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "29e436cf-2369-4eb2-b89b-3f784e714c31")
+			(uuid "483f3034-425a-4d2d-b756-77e5febdefe4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2495,6 +2533,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/5bc07835-926e-4c0d-97df-2d93d4924de6")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2612,7 +2656,7 @@
 		(property "Reference" "C12"
 			(at 1.25 -2.25 0)
 			(layer "F.SilkS")
-			(uuid "955c9282-852a-43bd-8331-9d8a7a19fcd4")
+			(uuid "51dfd67e-6f25-43ad-87ab-398cb5620860")
 			(effects
 				(font
 					(size 1 1)
@@ -2623,7 +2667,7 @@
 		(property "Value" "100pF"
 			(at 1.25 2.25 0)
 			(layer "F.Fab")
-			(uuid "38dc1e58-d570-44d5-bb21-251755926960")
+			(uuid "d4065fc1-abd4-456b-8643-ee9f9c0602d5")
 			(effects
 				(font
 					(size 1 1)
@@ -2635,7 +2679,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c9e1cba3-6607-4886-9a0f-850b2b670d56")
+			(uuid "c97d2d68-b3c2-457c-abb4-944fe586ba60")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2647,7 +2691,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7082ffe8-ad09-4236-b8d9-f4ca8704efec")
+			(uuid "dacdeedc-8b43-4522-9c28-98a3fb38d9df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2684,6 +2728,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/48ad7e68-6418-45be-8fe9-266938f3cb08")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2821,7 +2871,7 @@
 		(property "Reference" "R1"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "e64061e7-2182-4c2f-bc0d-0e6fcf215d4d")
+			(uuid "64cfc9cb-4cf4-4229-97ef-38b2b26ded6d")
 			(effects
 				(font
 					(size 1 1)
@@ -2832,7 +2882,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "8e1db7c2-75d3-46c2-914b-f60d3aa45ee9")
+			(uuid "a681d0ad-35f7-4bd8-a14a-7991ce080926")
 			(effects
 				(font
 					(size 1 1)
@@ -2844,7 +2894,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b6a440ba-14bc-4b7c-9e23-a658f3add1f6")
+			(uuid "0b7b9d97-d16a-4d6a-ad9a-eea309ae9283")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2856,7 +2906,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0c6a3b52-48b7-42ae-b4ca-6c3be3cf47d4")
+			(uuid "b5dbe1da-9605-40a2-9d83-97dd8ed0061c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -2893,6 +2943,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/c9add5e8-72b2-43cd-9f0e-74ae21c58fa2")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3048,7 +3104,7 @@
 		(property "Reference" "J7"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "2c55cdef-a42a-4239-8b4b-b05ab0d43853")
+			(uuid "afa18df6-d89a-410a-814f-2303ed946e99")
 			(effects
 				(font
 					(size 1 1)
@@ -3060,7 +3116,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c4c79b87-9e49-4adc-a9cf-b92b2214e704")
+			(uuid "3d736aa9-6141-4237-8a86-2f2a74b95d8a")
 			(effects
 				(font
 					(size 1 1)
@@ -3072,7 +3128,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2bd24ce1-dffa-4a44-ad29-6d3dfbb02024")
+			(uuid "5463a0fc-62b4-4fe2-be6d-9e4b063cc37a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3083,7 +3139,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "441a6e35-7429-4684-a3ca-a6fd0f258b24")
+			(uuid "5d7c7264-0377-4418-88e9-27443bc12fb5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3106,6 +3162,12 @@
 		(path "/4da19b32-b4a1-423a-9934-2beca09c79e2")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3797,7 +3859,7 @@
 		(property "Reference" "R84"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "d7b0e849-06bb-49d8-966b-e90464e00e79")
+			(uuid "2a4ea42a-1501-4547-b013-14a33bacdbf6")
 			(effects
 				(font
 					(size 1 1)
@@ -3808,7 +3870,7 @@
 		(property "Value" "22K"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "aa3226cf-5665-4348-a3e1-965414134867")
+			(uuid "6d73b1e2-e955-4ea4-9d90-1771159c9057")
 			(effects
 				(font
 					(size 1 1)
@@ -3820,7 +3882,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "27669485-7b42-487c-a12f-994480f95feb")
+			(uuid "164c0315-2fc0-4976-b37d-816db93293ca")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3832,7 +3894,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bc2e9a3b-28d6-463a-96e4-52752b9e120b")
+			(uuid "837785d9-3986-4fdf-b2f7-1e94f7d668cd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -3856,6 +3918,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/5b6569c2-7392-4309-84ba-0413f24e581b")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4013,7 +4081,7 @@
 		(property "Reference" "R44"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "23817ab5-9b9d-4f5c-b274-7bf609146c25")
+			(uuid "cfaf1059-3b5e-4eed-bcdc-87fa611c7692")
 			(effects
 				(font
 					(size 1 1)
@@ -4024,7 +4092,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "025e7f95-76b6-44de-bd43-aaf81b16f435")
+			(uuid "c71fcf80-ad00-4f63-8a20-58b631d84de8")
 			(effects
 				(font
 					(size 1 1)
@@ -4036,7 +4104,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b3de925a-90d5-4dfd-add8-38afe82a208c")
+			(uuid "ab74af91-83b7-49ba-bace-8ded4d7569e4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4048,7 +4116,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ad5d79bc-76ff-428c-a61f-ef70761555f1")
+			(uuid "8b7736d6-7f4b-427f-844d-c2b33fa26542")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4072,6 +4140,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/bd7b202c-2a2c-4707-bf5d-23d0549c1232")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4227,7 +4301,7 @@
 		(property "Reference" "J9"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "32d8f813-7550-4e73-ac4c-e6cc6a02621c")
+			(uuid "7f95948b-5bb0-4395-92f4-89a3c25b03c9")
 			(effects
 				(font
 					(size 1 1)
@@ -4239,7 +4313,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cbb57856-9a84-4d26-98ee-85dc5414e3e3")
+			(uuid "eacde599-0884-4950-badd-dfa7fa363bff")
 			(effects
 				(font
 					(size 1 1)
@@ -4251,7 +4325,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "157a0565-5dc9-4ded-8745-9ac867a38985")
+			(uuid "80fcd1a9-628a-49e3-a564-8d67859ff1da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4262,7 +4336,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fbd14407-1c3e-4b25-9b59-cc74de3965cb")
+			(uuid "3e98e055-07a8-450e-859c-3c274d718b5a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -4285,6 +4359,12 @@
 		(path "/6b97ee93-d5be-4309-8494-a1fde392a7ca")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4967,292 +5047,6 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-		(layer "F.Cu")
-		(uuid "2172424c-a4ca-4bf5-8804-05cb64ab2c93")
-		(at 8.385 1.795)
-		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
-		(tags "Through hole socket strip THT 1x04 2.54mm single row")
-		(property "Reference" "J29"
-			(at 0 -2.77 0)
-			(layer "F.SilkS")
-			(uuid "578f8c48-7cb0-4e9d-b247-a58c0815830d")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_PinHeader"
-			(at 0 10.39 0)
-			(layer "F.Fab")
-			(uuid "7c543061-6f07-429a-b3fd-c6fc4b6381dc")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "a9113704-5af5-4628-99bd-8c79e0e7296b")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "143a3baa-4f55-4ab9-bd62-a3797b57ee5d")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "380e2d50-abcd-4a70-a846-ec624e7dcd90")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/0b1658b3-ac7b-4692-8043-3e4b42d6c671/f0cb5655-343e-4b38-ba19-032c2ab86542")
-		(sheetname "/Pre-Gain Stage/")
-		(sheetfile "Pregain_stage.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "550b627e-0295-40ae-920c-bd7d97d1b199")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "ac7ab79a-4d25-4c5d-938f-efc8df6a9486")
-		)
-		(fp_line
-			(start -1.33 8.95)
-			(end 1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "dd391d54-f0df-4c17-8251-54dc4e55a3cc")
-		)
-		(fp_line
-			(start 0 -1.33)
-			(end 1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "a3486aef-40c7-423f-9bec-6b95dd0a5cd9")
-		)
-		(fp_line
-			(start 1.33 -1.33)
-			(end 1.33 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "65efadf1-2421-4596-8148-29cdccb4e951")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "2ca0f22a-4c85-48db-a7c9-810e1f4b2a5d")
-		)
-		(fp_line
-			(start -1.77 -1.77)
-			(end 1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "8a8c577a-493e-44aa-a3de-b7f4b86d2fee")
-		)
-		(fp_line
-			(start -1.77 9.39)
-			(end -1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "0740f125-b1b3-4342-967f-b8ad28dac5f8")
-		)
-		(fp_line
-			(start 1.77 -1.77)
-			(end 1.77 9.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "36228ff8-44e7-451f-aa3d-3ed36f2c2c5a")
-		)
-		(fp_line
-			(start 1.77 9.39)
-			(end -1.77 9.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "b8468317-dddf-4e82-859e-3e7d955ae900")
-		)
-		(fp_line
-			(start -1.27 -1.27)
-			(end 0.635 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "455583b3-5207-467a-8033-6b764e93fc7d")
-		)
-		(fp_line
-			(start -1.27 8.89)
-			(end -1.27 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8095a0d0-1609-45cc-b6ea-fb098b020898")
-		)
-		(fp_line
-			(start 0.635 -1.27)
-			(end 1.27 -0.635)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "8ad2f228-ca5e-4859-8681-eaa5c482ffd5")
-		)
-		(fp_line
-			(start 1.27 -0.635)
-			(end 1.27 8.89)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "1fc05183-2436-4501-9078-6bbb81c9d8b3")
-		)
-		(fp_line
-			(start 1.27 8.89)
-			(end -1.27 8.89)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3d25f33f-bb72-4a89-b13d-bcbb3dd676b2")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 3.81 90)
-			(layer "F.Fab")
-			(uuid "94a5eb33-7574-4f41-b5b5-5050afcaa3c5")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Pre-Gain Stage/L_In_M")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "5ae6b3e1-0add-4503-a02a-dd54010d7a0f")
-		)
-		(pad "2" thru_hole circle
-			(at 0 2.54)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Pre-Gain Stage/R_In_M")
-			(pinfunction "Pin_2_2")
-			(pintype "passive")
-			(uuid "eafc2d01-ae3e-4233-a54f-65c177bbc9ff")
-		)
-		(pad "3" thru_hole circle
-			(at 0 5.08)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Gain Trimmer/L_Gain_IN_M")
-			(pinfunction "Pin_3_3")
-			(pintype "passive")
-			(uuid "08c13d74-36b3-49b7-9f20-88c9e2649727")
-		)
-		(pad "4" thru_hole circle
-			(at 0 7.62)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Gain Trimmer/R_Gain_IN_M")
-			(pinfunction "Pin_4_4")
-			(pintype "passive")
-			(uuid "a6c7c22c-a393-4af6-82f7-ac2819be5530")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "29e665d7-5c57-4956-bfe7-abc0cab8adb7")
@@ -5262,7 +5056,7 @@
 		(property "Reference" "R81"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "946a3d51-9a41-477b-8f65-be86dfe55d11")
+			(uuid "ce02e751-c6f8-4e28-a34c-cbde81867605")
 			(effects
 				(font
 					(size 1 1)
@@ -5273,7 +5067,7 @@
 		(property "Value" "68k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "099fbfb5-5727-4fa7-b170-3dec271a3978")
+			(uuid "1862593d-b2fd-4a6d-940b-a32a21808ba6")
 			(effects
 				(font
 					(size 1 1)
@@ -5285,7 +5079,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "01a92169-91d5-435f-ae28-1463b3df95b0")
+			(uuid "cd5563d1-56dc-44c5-81c0-7e479c5c7d50")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5297,7 +5091,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "282ff12b-e635-4698-ac57-07ed7a23141b")
+			(uuid "68725e07-cbd2-461b-81f3-29def1b2f64c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5321,6 +5115,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/b69c9db9-3cd3-477e-9e95-299563586e67")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5478,7 +5278,7 @@
 		(property "Reference" "R2"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "2f6136ce-1fa3-4d69-9dfe-7cf3ace3f4cc")
+			(uuid "a43aa187-d853-4d79-a84c-75dbbed23c49")
 			(effects
 				(font
 					(size 1 1)
@@ -5489,7 +5289,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "27111357-8203-4674-91d3-fd7fbf4e0d23")
+			(uuid "5ec5c5c7-dac9-426f-8490-7b1f6b919e63")
 			(effects
 				(font
 					(size 1 1)
@@ -5501,7 +5301,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d7659f30-0880-42bb-bacd-69d7cda63cf6")
+			(uuid "c2958abf-d5bd-4c2d-9412-49ccb7fae74c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5513,7 +5313,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8a6bb215-649f-44cd-8a24-0134968bd295")
+			(uuid "f8dc3933-ed28-4249-8417-cd8b77dcca1d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5550,6 +5350,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/923cb517-83da-4482-89bb-1a208ea5c27a")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5707,7 +5513,7 @@
 		(property "Reference" "D3"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "c4477117-469b-4d8e-97f0-4fc033b7f903")
+			(uuid "440cc9cf-d368-4b18-99a8-bd9cf116e263")
 			(effects
 				(font
 					(size 1 1)
@@ -5718,7 +5524,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "fe24c3de-6c0a-4d87-9a05-377df7d9e724")
+			(uuid "deac658d-f609-4a49-a901-2b5e46dac496")
 			(effects
 				(font
 					(size 1 1)
@@ -5730,7 +5536,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cae01ccb-818b-44a1-8bba-ec0249a8587a")
+			(uuid "76811f7d-be47-4dc0-a5e3-ffa00f132848")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5742,7 +5548,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "19d909a7-14e5-4b0e-8961-009e94c13be4")
+			(uuid "604e3e7a-7dbf-4fbe-b1b3-d6ff6703e7d7")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -5792,6 +5598,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/a1b1c829-da8f-4ae2-922b-8fed0972494f")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6005,7 +5817,7 @@
 		(property "Reference" "R6"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "3b140f88-b0a5-4bf4-b984-5de261f1e17c")
+			(uuid "e5e41ca3-f55c-4b95-8cd0-28435645ebc5")
 			(effects
 				(font
 					(size 1 1)
@@ -6016,7 +5828,7 @@
 		(property "Value" "470R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "f1dc4247-c520-49cd-b807-5e273e611ff1")
+			(uuid "9ecfcf3e-6cc8-41a2-8096-065f52b0a466")
 			(effects
 				(font
 					(size 1 1)
@@ -6028,7 +5840,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "77715408-a4b6-48f0-b041-d22a4ec1521b")
+			(uuid "e17b9436-2ca1-4bd1-b520-5a6c99b6a860")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6040,7 +5852,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c67a4e79-f4a5-4fc8-80b9-4cd6b25dfbaf")
+			(uuid "3eae1c7f-b7e9-41b7-8b5e-8e69ffa53628")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6064,6 +5876,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/7792417c-34fa-4e10-980b-981d9569b3c3")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6221,7 +6039,7 @@
 		(property "Reference" "C57"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "3fc33cda-850a-4b1a-908c-a4c62886351e")
+			(uuid "a9cefdfa-774a-46f4-a830-0741b87da895")
 			(effects
 				(font
 					(size 1 1)
@@ -6232,7 +6050,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "005980d5-a043-4ed2-8b22-67b66e958108")
+			(uuid "9dc78a15-9f92-4568-808b-21f05b6ea1d1")
 			(effects
 				(font
 					(size 1 1)
@@ -6244,7 +6062,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fbd4a81a-748e-4554-a569-6ba2f091d1f4")
+			(uuid "90c63cfd-d11e-41b3-97ed-dcd298e8d223")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6256,7 +6074,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ef58fc8a-2353-4157-b123-9275e71e98ab")
+			(uuid "87f4bef9-3f74-4c34-9728-ee9ae70d8788")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6280,6 +6098,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/3d556ab7-72b1-47d4-9940-a726ae90574f")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6397,7 +6221,7 @@
 		(property "Reference" "C24"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "2b037639-407a-4ce1-9e04-96a87f66b148")
+			(uuid "e92f6f24-081d-4770-ab08-6855de3bb372")
 			(effects
 				(font
 					(size 1 1)
@@ -6408,7 +6232,7 @@
 		(property "Value" "10uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
-			(uuid "15b4e516-ffce-4b0f-8eef-0274ee846f33")
+			(uuid "30793e34-3e51-4958-87a6-768c83550b62")
 			(effects
 				(font
 					(size 1 1)
@@ -6420,7 +6244,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56b15c56-55bc-4280-9367-e63c215b8bc6")
+			(uuid "3a0ee283-0444-4826-8742-d957c30e9503")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6432,7 +6256,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ea8c5b87-9e03-4324-b1c6-4dbf952b51d1")
+			(uuid "a09abe73-e204-4991-84ea-87254d79ea34")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -6456,6 +6280,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/3795d66f-9b83-4931-8050-004db836b723")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7755,7 +7585,7 @@
 		(property "Reference" "C52"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "39f41f57-58bd-4ba1-8d95-51bdb7d45da5")
+			(uuid "54bdb242-141f-45ea-89b2-05784ebb6a8d")
 			(effects
 				(font
 					(size 1 1)
@@ -7766,7 +7596,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "bba1846e-5ba4-430c-934f-96e216d8b995")
+			(uuid "325f5c49-e79e-4bb2-b937-837f14128037")
 			(effects
 				(font
 					(size 1 1)
@@ -7778,7 +7608,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b5adfe6f-8c76-46cf-86af-2b9521d6e723")
+			(uuid "b8cbbf13-07df-4317-aa61-afe59f1efb6c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7790,7 +7620,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "05222d26-fa5a-4194-a110-28e5941caf90")
+			(uuid "7dbcf809-a37f-4d11-8fe3-f45f489c0b18")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7814,6 +7644,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/c1d93d92-f6cd-41ea-b1fe-59d51bedd9fb")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7931,7 +7767,7 @@
 		(property "Reference" "D33"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "e00ffd2d-5fe3-49d6-a30d-837895a93c5e")
+			(uuid "efd32f5e-58e1-4001-a2a1-36cfdbe11214")
 			(effects
 				(font
 					(size 1 1)
@@ -7942,7 +7778,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "775415fa-91e2-4a1a-b895-65cc80eff353")
+			(uuid "b7a5e059-64f0-49b4-b722-fbc5cd8fc9bd")
 			(effects
 				(font
 					(size 1 1)
@@ -7954,7 +7790,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "92d50bd3-d083-4a58-8614-e86c19d10c21")
+			(uuid "100e6b0d-275d-4521-a76b-13e5f42bf870")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -7966,7 +7802,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7c70776e-6860-4715-82d1-359aa999f141")
+			(uuid "22cd79b0-518f-4722-89c7-3a556429c8ac")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8016,6 +7852,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/cf836d44-7128-4c6a-ab93-d4ed1fb56783")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8220,292 +8062,6 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-		(layer "F.Cu")
-		(uuid "45b28d1c-3b99-40a6-8178-10ba631aa039")
-		(at 14.975 1.795)
-		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
-		(tags "Through hole socket strip THT 1x04 2.54mm single row")
-		(property "Reference" "J35"
-			(at 0 -2.77 0)
-			(layer "F.SilkS")
-			(uuid "ed7ebe3b-102b-44d8-9af1-1e1dad814eba")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_PinHeader"
-			(at 0 10.39 0)
-			(layer "F.Fab")
-			(uuid "1e2f2fa6-af0b-400c-8198-22990602d625")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "e5d1c409-cc09-40f7-8f17-054790b6f878")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "8eac78bd-950b-4692-9eb5-25922179dff9")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "31beb107-5cf9-4704-9920-7bb8ebc472af")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/2bf49d64-899a-4cd6-98ee-a1cb99869b23/ae4db581-e36d-454c-9c55-49a46df9f1a5")
-		(sheetname "/PreAmp/")
-		(sheetfile "PreAmp.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "813f75a6-d879-46fd-8059-b2ea9065c457")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "8861b214-05be-40a2-bca0-adb8de3a8db9")
-		)
-		(fp_line
-			(start -1.33 8.95)
-			(end 1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "df18f0ac-2e78-4ce7-b0ea-c4403f83524c")
-		)
-		(fp_line
-			(start 0 -1.33)
-			(end 1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "66912bff-6b36-4ecb-8f1e-b40027da411c")
-		)
-		(fp_line
-			(start 1.33 -1.33)
-			(end 1.33 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "0593d37b-5f63-4234-b9cd-b8cb9cca8831")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 8.95)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "c3c5d3c6-8250-4983-a832-4a8b3bd63cd2")
-		)
-		(fp_line
-			(start -1.77 -1.77)
-			(end 1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "2e955911-f0a3-49fc-8e06-6360f34c6b41")
-		)
-		(fp_line
-			(start -1.77 9.39)
-			(end -1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "a6d15aac-0ca9-498d-8a17-8b0b373b97d5")
-		)
-		(fp_line
-			(start 1.77 -1.77)
-			(end 1.77 9.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "809da919-912f-4da8-aecb-0b801b4f02d9")
-		)
-		(fp_line
-			(start 1.77 9.39)
-			(end -1.77 9.39)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "ea0b0501-244e-4b1d-9189-ed5ca37bf82b")
-		)
-		(fp_line
-			(start -1.27 -1.27)
-			(end 0.635 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "7cba7054-a8a2-42e7-a320-2adca1270709")
-		)
-		(fp_line
-			(start -1.27 8.89)
-			(end -1.27 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ec310fe6-e859-40bd-9c0a-e44180a1e3f5")
-		)
-		(fp_line
-			(start 0.635 -1.27)
-			(end 1.27 -0.635)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "a7c2daf7-9ba3-4e4a-8f56-1540241bbe05")
-		)
-		(fp_line
-			(start 1.27 -0.635)
-			(end 1.27 8.89)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ce5a1c3c-d3c1-40a6-ab61-9312203b9a46")
-		)
-		(fp_line
-			(start 1.27 8.89)
-			(end -1.27 8.89)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "f78d9607-df8c-4556-868e-fa13ab4d8720")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 3.81 90)
-			(layer "F.Fab")
-			(uuid "80d7c59d-fadb-4cd4-b0dc-e3b6849f6332")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/PreAmp/L_Ext_IN_M")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "0923e698-1d40-4373-bb5a-450c7653af9b")
-		)
-		(pad "2" thru_hole circle
-			(at 0 2.54)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/PreAmp/R_Ext_IN_M")
-			(pinfunction "Pin_2_2")
-			(pintype "passive")
-			(uuid "617b581f-0f13-4611-a4f5-1679707b1945")
-		)
-		(pad "3" thru_hole circle
-			(at 0 5.08)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Input Meter/L_Ext_Meter_M")
-			(pinfunction "Pin_3_3")
-			(pintype "passive")
-			(uuid "4c658bfe-bbbd-4797-91dc-c765058ced76")
-		)
-		(pad "4" thru_hole circle
-			(at 0 7.62)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Input Meter/R_Ext_Meter_M")
-			(pinfunction "Pin_4_4")
-			(pintype "passive")
-			(uuid "342b9f66-7c42-4eb1-afea-8d4ae95c3e3e")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "464c5833-6cbd-4b3b-8f75-b6949228fe14")
@@ -8515,7 +8071,7 @@
 		(property "Reference" "R33"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "4f27cded-7e51-4713-b330-7dfb7c6697d9")
+			(uuid "03fce099-7bac-49ad-b733-825688ba5306")
 			(effects
 				(font
 					(size 1 1)
@@ -8526,7 +8082,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "4592419c-d0fe-4587-b0c1-68a955a596fd")
+			(uuid "47dd6c21-9664-4ee6-b17a-52d5e30cff3e")
 			(effects
 				(font
 					(size 1 1)
@@ -8538,7 +8094,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b08cee87-02e0-45ac-bca7-05fe7c1a23b3")
+			(uuid "2f23a0f1-7e70-428c-b091-5fe742ea4e1b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8550,7 +8106,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6a6e7775-269e-43d9-9d2d-69f92452ac06")
+			(uuid "3530483d-721e-4fa4-86a5-a75d6d692415")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8574,6 +8130,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/0ab8b594-ce52-479e-819f-28471e10818b")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8731,7 +8293,7 @@
 		(property "Reference" "R59"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "47466b28-9bd2-41ab-8dac-05570312550c")
+			(uuid "689bd83f-d75b-4a40-82d8-69b9e7cabb76")
 			(effects
 				(font
 					(size 1 1)
@@ -8742,7 +8304,7 @@
 		(property "Value" "10R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "8a18c9c6-87e6-4db5-bfaf-8a8bace8dee6")
+			(uuid "58dc7da3-f59e-4059-9dc1-a4d509e60acd")
 			(effects
 				(font
 					(size 1 1)
@@ -8754,7 +8316,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e5cd4c30-6a59-4344-8845-432657c08cfa")
+			(uuid "d06f84d0-29e2-475e-95f4-eef11856ca04")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8766,7 +8328,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "22b5953f-031a-4944-9298-9751473dbc1f")
+			(uuid "f21bab66-182a-40a2-b7b3-d48e02b27653")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8790,6 +8352,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/005dd3ac-d6f8-4f5e-9391-108b605cb9bc")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8947,7 +8515,7 @@
 		(property "Reference" "R46"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "53ae9e61-bba2-45f1-a913-21d358c63fd1")
+			(uuid "8f992e5c-40a6-4ccb-bb9c-25e58a74e78d")
 			(effects
 				(font
 					(size 1 1)
@@ -8958,7 +8526,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "3263e5dc-fc80-4a9f-adc7-7c36abc70e4c")
+			(uuid "579e0770-a27f-47f1-9d35-56ce56bdff64")
 			(effects
 				(font
 					(size 1 1)
@@ -8970,7 +8538,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bbfebc92-8ecb-45a3-bcfa-d382f76b61f1")
+			(uuid "993ca409-ce9d-40a6-b5a0-5bb2983ea8ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -8982,7 +8550,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "afafac4e-b31f-4dae-af95-dd4d4026a53c")
+			(uuid "42801c8b-3c7c-4640-9367-fc2cbf99ed68")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9006,6 +8574,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/addf54bb-d963-46f9-a854-10aaf16b7c99")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9163,7 +8737,7 @@
 		(property "Reference" "R57"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "1898b37e-90fc-48b8-9914-df20a7cca422")
+			(uuid "cf5f3e05-0cc2-4acd-965f-1c26c5d2c308")
 			(effects
 				(font
 					(size 1 1)
@@ -9174,7 +8748,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "57e15235-0a8b-478e-be49-1ae71daf53e7")
+			(uuid "1f3f39a5-7f5b-45d1-ab27-2d8ed68d010b")
 			(effects
 				(font
 					(size 1 1)
@@ -9186,7 +8760,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0085155e-ca50-43ae-954f-26cc03b537ac")
+			(uuid "25e23f15-f544-4a04-9a3d-b6a37c7141fc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9198,7 +8772,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ce814128-b1a7-4bca-b59e-e5add3705c3e")
+			(uuid "7cc160ac-7e05-46a7-8a48-7e00bf24f4f3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9222,6 +8796,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/9a3e3e37-ba6d-4cbf-9d5a-083dc201f313")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9379,7 +8959,7 @@
 		(property "Reference" "C14"
 			(at 1.25 -2.25 0)
 			(layer "F.SilkS")
-			(uuid "2efeb854-fd52-4506-be6f-e5516832a90f")
+			(uuid "e95143b6-7af2-4aaf-857c-c31770d30e18")
 			(effects
 				(font
 					(size 1 1)
@@ -9390,7 +8970,7 @@
 		(property "Value" "100pF"
 			(at 1.25 2.25 0)
 			(layer "F.Fab")
-			(uuid "999da732-790b-40f5-a8a3-bf972baaca95")
+			(uuid "73d6fe05-ca85-4712-a4ea-ea22425fdf6e")
 			(effects
 				(font
 					(size 1 1)
@@ -9402,7 +8982,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "526fbe0b-b8f0-482e-a3c7-1a38de738e7a")
+			(uuid "1259154a-dba1-405a-84ac-c42aeb2ac945")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9414,7 +8994,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8ead708b-5af5-4163-89f9-6e04ba868b1b")
+			(uuid "b13c64b4-1b73-4202-84c5-a14630751992")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9451,6 +9031,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/aaae3587-484e-44d9-a2c5-a8772e257a65")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9588,7 +9174,7 @@
 		(property "Reference" "R5"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "a0dce7ac-be0e-45a7-8b0a-f6be74513ff5")
+			(uuid "5ba7f5b6-1b9f-4959-87a8-86260b00b54f")
 			(effects
 				(font
 					(size 1 1)
@@ -9599,7 +9185,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "ca7a0d37-2cea-432d-8fef-256ad1c7141c")
+			(uuid "d96a6412-0ae3-4f84-a5fc-e5db88ff6888")
 			(effects
 				(font
 					(size 1 1)
@@ -9611,7 +9197,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "66f0784b-f896-4335-bde9-746764e3f1f6")
+			(uuid "45d7e778-322f-4c36-935d-3a8ff07f4dce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9623,7 +9209,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a4e21fcf-42be-432b-a2eb-f2345157931e")
+			(uuid "f9a4ddaa-aa37-484f-9f5f-df6705118e84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9647,6 +9233,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/bf433219-0a98-4674-9f2d-bce8decc3d9d")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9804,7 +9396,7 @@
 		(property "Reference" "R30"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "e7ae591b-137a-43ad-9a1d-91c35111f811")
+			(uuid "d5ef3d90-4ca8-4f70-b698-195a6ef1b05f")
 			(effects
 				(font
 					(size 1 1)
@@ -9815,7 +9407,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "e7f4100b-e493-4481-a7d0-1ac1239cb691")
+			(uuid "fdfd0ddb-3fab-43bb-a22d-29e29d19035f")
 			(effects
 				(font
 					(size 1 1)
@@ -9827,7 +9419,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ff72414d-aa7b-46af-a9f7-9b207db89ee4")
+			(uuid "f2d5b11d-38a0-4b06-a968-76675e2a9429")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9839,7 +9431,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a95ae181-6622-4d39-bdb7-0cdd154ec94f")
+			(uuid "78ec0b14-4693-4c7e-be1d-519841b151b5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -9876,6 +9468,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/b07f2f87-40dc-431f-91a1-2c000f32ae11")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10031,7 +9629,7 @@
 		(property "Reference" "J5"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "89af6205-cbbe-4de3-8ac9-1e7661f8cf1c")
+			(uuid "fb268639-aff8-4451-9394-36ec61d211a8")
 			(effects
 				(font
 					(size 1 1)
@@ -10043,7 +9641,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71648998-9bf5-44aa-b117-ba576ec956b3")
+			(uuid "634d935f-492d-47b0-8617-167188aad4b7")
 			(effects
 				(font
 					(size 1 1)
@@ -10055,7 +9653,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d867a7ea-28d4-495b-9d31-134b8f5df929")
+			(uuid "ce7db73e-e069-4b0b-bd02-fc993d793f82")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10066,7 +9664,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a807287c-4e50-443a-b99e-0455897fd36b")
+			(uuid "ba285b67-5ad5-459e-ba45-251e8cca14d2")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10089,6 +9687,12 @@
 		(path "/d4a5f4fd-467c-4f94-b61c-8c625d5eb6cb")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10780,7 +10384,7 @@
 		(property "Reference" "U15"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "90701bd0-c4af-4218-bb10-15f325a7295a")
+			(uuid "6d545098-960c-4473-bf7b-3a957a558307")
 			(effects
 				(font
 					(size 1 1)
@@ -10791,7 +10395,7 @@
 		(property "Value" "NE5532"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
-			(uuid "73965d51-8b3d-4f14-8706-c276fb12d272")
+			(uuid "2e16d025-33a4-4a99-ab55-01d8cff04b3a")
 			(effects
 				(font
 					(size 1 1)
@@ -10803,7 +10407,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e944c9e-09ec-43c7-9bae-b509cbf4641c")
+			(uuid "04f6603f-7ded-4c27-92fd-9476bc702c2a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10815,7 +10419,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "471cf821-6e2a-487e-aa6d-1330710a2c00")
+			(uuid "07a71d87-5add-4d37-8b10-b917b9a88445")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -10852,6 +10456,20 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/67dc7516-d17a-4bdc-936f-609bca038ab2")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "8" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11124,7 +10742,7 @@
 		(property "Reference" "R53"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "3d25e231-c971-4b19-805e-bc14a265dadc")
+			(uuid "81ecaf97-3480-4b91-9865-f1e3311446f1")
 			(effects
 				(font
 					(size 1 1)
@@ -11135,7 +10753,7 @@
 		(property "Value" "10R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "f6bcdfd0-b0f6-4b72-ba15-4b0ce45869a8")
+			(uuid "d3a077a9-e0ee-4e7d-b95a-898e1c998e54")
 			(effects
 				(font
 					(size 1 1)
@@ -11147,7 +10765,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2ed5751e-2705-4934-a4eb-278726ca20a6")
+			(uuid "1538c577-769f-45bd-8a06-a5077500685f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11159,7 +10777,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "32b64dbf-0e28-4fed-89cd-cde1693348f4")
+			(uuid "6b490637-f7aa-49ec-b9f9-19ce070824e3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11183,6 +10801,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/3aee86b8-a791-4b59-b90e-66dfab7a1b79")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11340,7 +10964,7 @@
 		(property "Reference" "R31"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "902302b6-a680-48fc-8da8-b2cc4624dfe4")
+			(uuid "9e5d4169-2fc3-4823-9754-cf06b0936d6e")
 			(effects
 				(font
 					(size 1 1)
@@ -11351,7 +10975,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "1a9e1aa2-2054-4efd-951b-264c22746f87")
+			(uuid "95c8b9ba-c000-47c0-8f35-6a9a9027f0fa")
 			(effects
 				(font
 					(size 1 1)
@@ -11363,7 +10987,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "170610f9-ffbb-43fa-a9de-9f415efeec16")
+			(uuid "89e828eb-fadd-4817-a1f6-db64d1ee8b53")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11375,7 +10999,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "922ef488-3036-4413-be5c-941c3b5402dc")
+			(uuid "29ec8aba-23a3-4def-91c1-ca053c8f922b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11399,6 +11023,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/7b40863a-9b15-4052-b5b6-7e8f38123ff6")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11554,7 +11184,7 @@
 		(property "Reference" "J4"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "abcaf5a5-5001-4bd0-a182-cc90082e40f4")
+			(uuid "3c27956c-a50a-49aa-b384-b6e355f6a2bb")
 			(effects
 				(font
 					(size 1 1)
@@ -11566,7 +11196,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "96b46dab-7bfb-4429-9f33-53f110efabbf")
+			(uuid "491a7f88-51d3-4cd6-a783-781f2296b314")
 			(effects
 				(font
 					(size 1 1)
@@ -11578,7 +11208,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1c9cf4ae-5fbe-4776-8477-2d5607c01aec")
+			(uuid "7ecf5a82-54cd-4a4a-9aa4-bb92d0ec368a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11589,7 +11219,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7410fe07-a924-41f0-9575-fa18034af2e7")
+			(uuid "79cca74f-0030-4f51-9cb7-1df12dfee57c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -11612,6 +11242,12 @@
 		(path "/95823f83-4d31-447e-85c2-c00367d414a1")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12301,7 +11937,7 @@
 		(property "Reference" "J1"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "14175a96-d1a0-443e-ac24-b59ece467205")
+			(uuid "c615a778-fd6a-474a-80c1-212f0088b2d7")
 			(effects
 				(font
 					(size 1 1)
@@ -12313,7 +11949,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ecb347ec-2bce-4b3d-b00b-c3d51f99cdfe")
+			(uuid "664dd9ee-6f81-4c17-b2a1-b0b0ed8e15e5")
 			(effects
 				(font
 					(size 1 1)
@@ -12325,7 +11961,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "184b4f9f-23b2-452a-b848-53f6e32a8471")
+			(uuid "7b86d9d7-e602-4229-9363-6166f88a0ecd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12336,7 +11972,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0106f360-db7e-4890-b579-83d52b899aed")
+			(uuid "4dc1bf48-b818-4ad1-8da2-7b277fffdc5d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -12359,6 +11995,12 @@
 		(path "/cd01f2df-e58e-4e41-ae4f-75acfb39389b")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13050,7 +12692,7 @@
 		(property "Reference" "R86"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "7861756b-082a-4210-b2a0-0f8c87530f7d")
+			(uuid "3753cd0f-62c7-4a9c-bff6-8a5aaf124ba4")
 			(effects
 				(font
 					(size 1 1)
@@ -13061,7 +12703,7 @@
 		(property "Value" "470R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "388e6cc6-a403-41b7-ab8c-5b94e2af43f1")
+			(uuid "967917f7-481f-4bcc-883c-659933305f15")
 			(effects
 				(font
 					(size 1 1)
@@ -13073,7 +12715,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c537c6fc-9429-4506-9200-a5c7a74268b2")
+			(uuid "36de6e75-55dc-4d0a-8d38-2c4a08d442d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13085,7 +12727,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "83052afa-b1dd-4ecd-b942-20424fce3948")
+			(uuid "5c2b719a-e44b-49cf-8ee0-dd0f4e2d66ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13109,6 +12751,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/ddf0154c-5667-4064-ba5b-970e3bc86345")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13266,7 +12914,7 @@
 		(property "Reference" "D44"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "a1da8cba-7db8-4ae6-8155-f6a376e97211")
+			(uuid "25946632-3c75-489f-a7be-139cd6bc913b")
 			(effects
 				(font
 					(size 1 1)
@@ -13277,7 +12925,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "80edf44e-a6e8-49d4-8811-0daf8a5c69a9")
+			(uuid "a1446586-55f0-45ce-a3ce-8866d6ac5794")
 			(effects
 				(font
 					(size 1 1)
@@ -13289,7 +12937,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c16a86b6-af97-43e6-ba19-f4eb27572b51")
+			(uuid "4d0fa58e-792c-4c42-93fa-7d052c15f6a5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13301,7 +12949,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7714835-f22c-4a27-92c0-74742719ba73")
+			(uuid "e2736e68-7440-4ba9-bd02-d4548c5dd43f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13351,6 +12999,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/72172579-37e4-4ce1-b3a1-586e196923bc")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13564,7 +13218,7 @@
 		(property "Reference" "C5"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "1a8e0e6e-bc3c-4578-9b90-2538338ee55d")
+			(uuid "555f8508-ae59-49c0-8024-8e23a2ef75d1")
 			(effects
 				(font
 					(size 1 1)
@@ -13575,7 +13229,7 @@
 		(property "Value" "10uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
-			(uuid "a3708afd-838e-4ff9-b06a-82fcf7eb9b5e")
+			(uuid "09ad58c2-c7e2-4bd3-b254-de5810521cdf")
 			(effects
 				(font
 					(size 1 1)
@@ -13587,7 +13241,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0943dc83-9eae-4ee3-a4ad-4f0dac86aa26")
+			(uuid "f5918871-7eaa-4c23-89b5-33e8620a27e9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13599,7 +13253,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "825bc521-4f0a-42e0-bec9-ca25944858b0")
+			(uuid "ab26414e-a691-4a82-ba6e-2f390c5d98ce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -13623,6 +13277,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/ba5c282d-9bac-4c06-adc7-6a5287292fdc")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14920,7 +14580,7 @@
 		(property "Reference" "J3"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "0b267fb2-8f8e-4dd7-95f5-ce43e8851521")
+			(uuid "fdefa890-a8bd-4500-a459-7a27759c9703")
 			(effects
 				(font
 					(size 1 1)
@@ -14932,7 +14592,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6ed383c2-1cad-454d-892c-044fc7bab8f7")
+			(uuid "2567ed23-9005-4703-b508-43f77ac512b2")
 			(effects
 				(font
 					(size 1 1)
@@ -14944,7 +14604,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f3e57cc7-5c47-42ce-b230-9d6f778a7f13")
+			(uuid "0b47f62f-012b-425f-ac03-3260a605ca79")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14955,7 +14615,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0dcf08f-84aa-42ab-95d7-2b63b146e4e8")
+			(uuid "6a51efcf-22fb-4ceb-8e70-fcb309322404")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -14978,6 +14638,12 @@
 		(path "/f75e7634-5dda-46c9-9416-3bda3ab7969e")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15669,7 +15335,7 @@
 		(property "Reference" "R80"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "7e3ed376-6c99-46e8-80e6-91db55460e1a")
+			(uuid "08d472be-056d-4619-a318-6524f6dfc579")
 			(effects
 				(font
 					(size 1 1)
@@ -15680,7 +15346,7 @@
 		(property "Value" "68k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "d82e7242-9364-45f9-94b5-6d73f0dc9b98")
+			(uuid "07946199-9188-41cd-bf9f-58066c1ba10f")
 			(effects
 				(font
 					(size 1 1)
@@ -15692,7 +15358,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f08674c2-02d7-45eb-91cc-381d7fe11c0b")
+			(uuid "6a8c02dd-08bc-4f09-9389-dd34251cb9f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15704,7 +15370,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0773ccd6-3dfd-49e0-ac66-3e73c82dd767")
+			(uuid "6751296f-eddd-4c1b-962d-c5ea3385e4f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15728,6 +15394,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/191b4148-1092-4f44-b912-c54906eb2bef")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15885,7 +15557,7 @@
 		(property "Reference" "R52"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "90027c6e-867b-405f-8242-d7c276b64e5e")
+			(uuid "905ecfb4-0582-4d16-9201-f202f81eaed9")
 			(effects
 				(font
 					(size 1 1)
@@ -15896,7 +15568,7 @@
 		(property "Value" "10R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "a463e6e7-eafc-4cb6-8d51-3a8a6e4081c2")
+			(uuid "28263473-b0fd-4817-890f-ff6920f31edb")
 			(effects
 				(font
 					(size 1 1)
@@ -15908,7 +15580,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4cd7ef3a-c275-452a-942e-b43d3a73c6ba")
+			(uuid "00468afb-23c1-4bb5-82ab-991a5f09d945")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15920,7 +15592,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c5e43d62-8ae3-4cd4-909a-87486dec36e5")
+			(uuid "e235848a-c868-4ec3-b5e2-c50fb5e807c8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -15944,6 +15616,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/59b90111-74dc-461d-85b7-92160d072f39")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16099,7 +15777,7 @@
 		(property "Reference" "J6"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "89a5a0a9-cb79-4bce-bd43-a86bc4574a08")
+			(uuid "656335a9-13d8-40e4-95ac-879aed479b6b")
 			(effects
 				(font
 					(size 1 1)
@@ -16111,7 +15789,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7fa5158d-4d4b-4b16-b036-add53eda204d")
+			(uuid "42bcceb5-37bb-49a1-952b-1cbe29d59605")
 			(effects
 				(font
 					(size 1 1)
@@ -16123,7 +15801,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bbc1d6d2-da3f-499e-a97b-fbc690e569e0")
+			(uuid "79d18244-e016-4f43-80bf-dab91f39fc9f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16134,7 +15812,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8b280e44-aebe-4e89-9604-812eaed18013")
+			(uuid "c3daa652-5011-4fd6-b07e-686b7c6d9984")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16157,6 +15835,12 @@
 		(path "/5a649c96-b004-463b-a5e1-f393a6b90aa6")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16848,7 +16532,7 @@
 		(property "Reference" "U8"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "83758740-5246-4c66-97e1-1a4fd7d248ce")
+			(uuid "bcc650da-27f6-433a-bc98-2cd9775dd52a")
 			(effects
 				(font
 					(size 1 1)
@@ -16859,7 +16543,7 @@
 		(property "Value" "TL074"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
-			(uuid "06fa8b2a-0bf9-475d-b971-55ed3e5df339")
+			(uuid "529204e4-5e6a-46a7-b626-c0988dfe2832")
 			(effects
 				(font
 					(size 1 1)
@@ -16871,7 +16555,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6523f937-d430-4852-bfec-e14dbc63c3e3")
+			(uuid "386433bc-4347-42f0-9b79-efa4f2d0a809")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16883,7 +16567,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "281912c9-a9bd-42fd-83eb-1cc6cd311e54")
+			(uuid "84b3f8ba-5445-409d-a4ce-a1c2bdb2b6a1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -16920,6 +16604,28 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/399e04c2-2d2d-4f4a-9ea1-0484f48e5895")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "10" "9" "8")
+			)
+			(unit
+				(name "D")
+				(pins "12" "13" "14")
+			)
+			(unit
+				(name "E")
+				(pins "4" "11")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17256,7 +16962,7 @@
 		(property "Reference" "R45"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "d7f45eb9-b044-4aed-9717-d74c9438ba2b")
+			(uuid "50e6721c-c1a7-428e-9362-fef9ec33c214")
 			(effects
 				(font
 					(size 1 1)
@@ -17267,7 +16973,7 @@
 		(property "Value" "10k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "0be1055e-65f6-4631-8c34-03427a2c3635")
+			(uuid "e323678b-4a52-47fa-a49c-b89a4088e844")
 			(effects
 				(font
 					(size 1 1)
@@ -17279,7 +16985,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d3a093bb-f612-478a-89f4-7e9e403a3816")
+			(uuid "d412fb34-ff0b-42e7-be11-a5cfe767e714")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17291,7 +16997,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cf2b0120-9508-46af-a604-df21713e63b3")
+			(uuid "13a29332-4dec-47ef-b504-fb93d7e67a58")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17315,6 +17021,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/7aa2880f-a73e-4ad1-89d6-4cf784ee9ebd")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17470,7 +17182,7 @@
 		(property "Reference" "J2"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "e76e1f9a-d521-44ae-9468-21c865577f98")
+			(uuid "b3e73dca-7571-4b83-b4fc-20c7631b86bc")
 			(effects
 				(font
 					(size 1 1)
@@ -17482,7 +17194,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e3a836e0-444d-4e47-9950-4877929a7705")
+			(uuid "9c15dff0-1b51-49cc-9c63-5b02f53bbf7b")
 			(effects
 				(font
 					(size 1 1)
@@ -17494,7 +17206,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "71823d91-9920-4a15-a144-160a1f0a232c")
+			(uuid "7dd71e10-2cdd-4998-afe2-75e33f2f8c71")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17505,7 +17217,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b8ceca06-28d6-4ec7-8688-c9c2b3df38be")
+			(uuid "ffc6e154-e1fa-4c56-8868-2cba4f4f63f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -17528,6 +17240,12 @@
 		(path "/270731ba-cd3b-4815-bd78-11a57c3c5992")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18219,7 +17937,7 @@
 		(property "Reference" "C47"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "2b404f4f-80a5-4d56-90fe-049fa8b2e78f")
+			(uuid "7449d78b-3573-42af-8d30-b60baddfa980")
 			(effects
 				(font
 					(size 1 1)
@@ -18230,7 +17948,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "e12071e2-177f-4559-b621-4d0445c76b7b")
+			(uuid "87b4c6f4-486e-4f60-b6f8-91dd1029fdcf")
 			(effects
 				(font
 					(size 1 1)
@@ -18242,7 +17960,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3667ff8-61b7-40c9-b7b6-210b22f6ba26")
+			(uuid "35a9d0b4-5711-4f73-94ed-d851f8081fa5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18254,7 +17972,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "df0790f2-cc75-4f89-9f56-60f461886c74")
+			(uuid "2465f568-77bf-4687-a56e-02e5e835115f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18278,6 +17996,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/a0f45cc2-4e49-4d54-907d-fde04c9ad1a8")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18395,7 +18119,7 @@
 		(property "Reference" "R89"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "b22cc883-dc84-45cb-be3c-7d77c9c9075b")
+			(uuid "62aa6a25-aa23-4abd-8c57-77379cd717e6")
 			(effects
 				(font
 					(size 1 1)
@@ -18406,7 +18130,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "111372e6-c075-4f6c-82a1-1a42c1b5da32")
+			(uuid "2f7278fc-14b9-4f37-a855-0e0c8be1be8c")
 			(effects
 				(font
 					(size 1 1)
@@ -18418,7 +18142,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "56193af1-3976-4e08-9b15-8be2b101a7f6")
+			(uuid "e3d4a891-cfe1-4423-ad50-1030cb709f9d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18430,7 +18154,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d9f339ed-3c05-47aa-88de-6f25f6f9ad5b")
+			(uuid "fc346899-1311-4e16-8248-efbdb17329c3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18454,6 +18178,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/d10886c8-f05c-4765-8621-3f024b1f8fd1")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18611,7 +18341,7 @@
 		(property "Reference" "R56"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "f3a144fa-c2cc-46b9-bc0c-da08e0e3ee39")
+			(uuid "c70d98ea-60bb-49ef-9321-0ae05054239d")
 			(effects
 				(font
 					(size 1 1)
@@ -18622,7 +18352,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "2a96dcb9-183f-4616-8cfe-a5c8b7246ad7")
+			(uuid "7b86fdd4-b4f7-4855-9c0b-a22e4a4995c1")
 			(effects
 				(font
 					(size 1 1)
@@ -18634,7 +18364,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "87ddb996-4265-4f8e-849c-906d98e8e409")
+			(uuid "34ed9366-20d9-4e0a-a38e-cb11b6bcd486")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18646,7 +18376,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "659d70d3-5dc5-4dfa-9405-54542c95e968")
+			(uuid "8ba3a299-21dd-4f85-947f-cd499fd9ae3f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18670,6 +18400,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/6c868064-9127-4c30-a816-72ef7c3b725d")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18828,7 +18564,7 @@
 		(property "Reference" "J25"
 			(at 0 -2.38 90)
 			(layer "F.SilkS")
-			(uuid "bb238498-319b-4bc4-8cef-b7bd20c15d5a")
+			(uuid "46480007-ffe2-4c6a-a3c4-c2493a42eb26")
 			(effects
 				(font
 					(size 1 1)
@@ -18840,7 +18576,7 @@
 			(at 0 4.92 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd8d4326-524c-4214-9ebb-f97b22ab06a1")
+			(uuid "6a8f409c-d6c1-4365-aaef-8bb12d9c15e1")
 			(effects
 				(font
 					(size 1 1)
@@ -18852,7 +18588,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "b347a210-45d0-4e37-a107-47829cc37fcc")
+			(uuid "e18cb6b4-5f87-4b83-89c4-c7564378d929")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18864,7 +18600,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fba2bdf3-74e0-40cb-93ee-d36740e51552")
+			(uuid "91259dcd-9958-484b-a6f2-2cec5d040cce")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18901,6 +18637,12 @@
 		(path "/3efe6fc8-de57-4331-854c-601a2115e6e1")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19070,314 +18812,6 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
-		(layer "F.Cu")
-		(uuid "9fee05d3-2555-405d-b4b2-b878a3e9862c")
-		(at 1.795 1.795)
-		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
-		(tags "Through hole socket strip THT 1x06 2.54mm single row")
-		(property "Reference" "J31"
-			(at 0 -2.77 0)
-			(layer "F.SilkS")
-			(uuid "2f121220-b556-499a-a0be-b18b1c52c166")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Value" "Conn_01x06_PinHeader"
-			(at 0 15.47 0)
-			(layer "F.Fab")
-			(uuid "b4df3004-c206-43d1-b484-8de816ce9f73")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "fd252907-c53c-4f9f-b571-dbc449b5add5")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x06"
-			(at 0 0 0)
-			(layer "F.Fab")
-			(hide yes)
-			(uuid "60020403-98b4-4512-8aa7-cf2a48908ed1")
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "KiLib_Generator" "connector/pin_header_socket"
-			(at 0 0 0)
-			(layer "F.SilkS")
-			(hide yes)
-			(uuid "0ee6e22b-8391-439c-b291-4db4429a4a07")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/824fc238-5889-4012-a2b6-493f2edfd718/ae4f4d0c-1e2e-4751-85dc-57888e009f52")
-		(sheetname "/Balanced Line Driver/")
-		(sheetfile "Balanced_line_driver.kicad_sch")
-		(attr through_hole)
-		(duplicate_pad_numbers_are_jumpers no)
-		(fp_line
-			(start -1.33 1.27)
-			(end -1.33 14.03)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "7d712fa6-e533-45c6-be98-6dc68aa16809")
-		)
-		(fp_line
-			(start -1.33 1.27)
-			(end 1.33 1.27)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bedd9deb-5211-4237-b49f-c18eb46e2560")
-		)
-		(fp_line
-			(start -1.33 14.03)
-			(end 1.33 14.03)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "bb682179-5601-469f-96e9-04b713a68bbd")
-		)
-		(fp_line
-			(start 0 -1.33)
-			(end 1.33 -1.33)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "e4b15054-ecdc-437e-86fd-733fe1afa73e")
-		)
-		(fp_line
-			(start 1.33 -1.33)
-			(end 1.33 0)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "3d12d743-f81d-4235-abbc-bb1bda4e4b7c")
-		)
-		(fp_line
-			(start 1.33 1.27)
-			(end 1.33 14.03)
-			(stroke
-				(width 0.12)
-				(type solid)
-			)
-			(layer "F.SilkS")
-			(uuid "cd4d6525-df55-4d2b-a3b0-f0245e6a64b9")
-		)
-		(fp_line
-			(start -1.77 -1.77)
-			(end 1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "c2580019-8477-4aaf-92f0-1b6a75f60b70")
-		)
-		(fp_line
-			(start -1.77 14.47)
-			(end -1.77 -1.77)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "db5d646b-a2ff-4fcd-87ad-85015e145120")
-		)
-		(fp_line
-			(start 1.77 -1.77)
-			(end 1.77 14.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "f4128bd9-1aba-482a-a354-e7d48de62473")
-		)
-		(fp_line
-			(start 1.77 14.47)
-			(end -1.77 14.47)
-			(stroke
-				(width 0.05)
-				(type solid)
-			)
-			(layer "F.CrtYd")
-			(uuid "411bb597-7f23-4665-9503-e985abfbefff")
-		)
-		(fp_line
-			(start -1.27 -1.27)
-			(end 0.635 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "17efa93d-7879-4d29-bbb8-76bae68de578")
-		)
-		(fp_line
-			(start -1.27 13.97)
-			(end -1.27 -1.27)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "e150fe9c-0a96-4244-91ac-ba9988c543a5")
-		)
-		(fp_line
-			(start 0.635 -1.27)
-			(end 1.27 -0.635)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "6cd0166e-7efe-45a2-8d29-ebacf034e286")
-		)
-		(fp_line
-			(start 1.27 -0.635)
-			(end 1.27 13.97)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "3143d169-ff2c-4b3c-b27f-47dd595af29b")
-		)
-		(fp_line
-			(start 1.27 13.97)
-			(end -1.27 13.97)
-			(stroke
-				(width 0.1)
-				(type solid)
-			)
-			(layer "F.Fab")
-			(uuid "ec70c2f6-89d4-4c89-af47-f51379e04b84")
-		)
-		(fp_text user "${REFERENCE}"
-			(at 0 6.35 90)
-			(layer "F.Fab")
-			(uuid "565a250f-7edf-4725-918b-b63194a9f3d1")
-			(effects
-				(font
-					(size 1 1)
-					(thickness 0.15)
-				)
-			)
-		)
-		(pad "1" thru_hole rect
-			(at 0 0)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/L_Ch_OUT_M")
-			(pinfunction "Pin_1_1")
-			(pintype "passive")
-			(uuid "d3868005-b5b8-4959-8115-2474cf7391af")
-		)
-		(pad "2" thru_hole circle
-			(at 0 2.54)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/R_Ch_OUT_M")
-			(pinfunction "Pin_2_2")
-			(pintype "passive")
-			(uuid "fe8ef44b-a813-4f39-a88c-cf2e2e41161b")
-		)
-		(pad "3" thru_hole circle
-			(at 0 5.08)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/L_Bal_OUT_P_M")
-			(pinfunction "Pin_3_3")
-			(pintype "passive")
-			(uuid "9a220924-bb3c-4511-aeb4-a5dd074c305f")
-		)
-		(pad "4" thru_hole circle
-			(at 0 7.62)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/L_Bal_OUT_N_M")
-			(pinfunction "Pin_4_4")
-			(pintype "passive")
-			(uuid "32daac64-769e-49de-8b0b-6bfb860bec48")
-		)
-		(pad "5" thru_hole circle
-			(at 0 10.16)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/R_Bal_OUT_P_M")
-			(pinfunction "Pin_5_5")
-			(pintype "passive")
-			(uuid "162ea456-a667-473f-a0b9-f587c641ba57")
-		)
-		(pad "6" thru_hole circle
-			(at 0 12.7)
-			(size 1.7 1.7)
-			(drill 1)
-			(layers "*.Cu" "*.Mask")
-			(remove_unused_layers no)
-			(net "/Balanced Line Driver/R_Bal_OUT_N_M")
-			(pinfunction "Pin_6_6")
-			(pintype "passive")
-			(uuid "2826ad8f-ff59-4eda-ade2-fa3682c612e2")
-		)
-		(embedded_fonts no)
-		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.step"
-			(offset
-				(xyz 0 0 0)
-			)
-			(scale
-				(xyz 1 1 1)
-			)
-			(rotate
-				(xyz 0 0 0)
-			)
-		)
-	)
 	(footprint "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
 		(layer "F.Cu")
 		(uuid "a4f58d63-083b-43f3-9d30-573e4c1aabfa")
@@ -19387,7 +18821,7 @@
 		(property "Reference" "R97"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "b2165d50-3108-4123-a5cc-92ab076a918b")
+			(uuid "3c07063d-d171-4f41-a2f0-63ada50292cc")
 			(effects
 				(font
 					(size 1 1)
@@ -19398,7 +18832,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "baad7a76-942e-4c06-b647-82dc0a226e9f")
+			(uuid "e110aa8c-dba8-46e7-9ac4-6f4e5a264bb8")
 			(effects
 				(font
 					(size 1 1)
@@ -19410,7 +18844,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "0693cf1f-2264-4420-88eb-cce86bc3a391")
+			(uuid "0ae9832f-9d37-46a3-959f-65db317a15f4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19422,7 +18856,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f72321ea-7834-4f0b-a1fd-43e5bf386e8f")
+			(uuid "70dfe9b0-66fc-4287-8963-b3a32aeb3448")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19446,6 +18880,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/5c30b4ee-37d8-48cb-b2d4-c609769f8486")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19603,7 +19043,7 @@
 		(property "Reference" "D34"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "92eb77bf-8a55-4231-a36d-ab4294694fdc")
+			(uuid "0427e875-3a5b-4a90-9274-5f7b1029de50")
 			(effects
 				(font
 					(size 1 1)
@@ -19614,7 +19054,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "5ae0e591-7bfa-4ed8-8f37-c8d28d3e7666")
+			(uuid "76163ad8-723a-44fb-aa28-19d311bf1315")
 			(effects
 				(font
 					(size 1 1)
@@ -19626,7 +19066,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "012f23dd-e699-4c0b-baae-b0023e0222e8")
+			(uuid "21288597-4e38-4df0-86c2-7d9a80a81e8a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19638,7 +19078,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ba29c2d3-8887-4944-90ee-4f2a09cd7bdc")
+			(uuid "5ed236ed-4bcf-4c7a-b190-2697b367af89")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19688,6 +19128,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/a104c293-436e-432c-a69b-271b6548a0b6")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19901,7 +19347,7 @@
 		(property "Reference" "D6"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "dac4a253-05be-481e-933f-be7e3b92e283")
+			(uuid "38b3727c-e232-4290-8492-4a6de56727f2")
 			(effects
 				(font
 					(size 1 1)
@@ -19912,7 +19358,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "86996753-3ac5-4d88-8c21-13be4a966a6b")
+			(uuid "f4cac9aa-65cf-4706-b0a1-56bbe7a34825")
 			(effects
 				(font
 					(size 1 1)
@@ -19924,7 +19370,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "fb73fc4a-493e-4a57-99c5-5ec942efe5fe")
+			(uuid "ea864704-16e1-4e70-9fef-45c5e4d4193c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19936,7 +19382,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "634e4ccf-a0c0-41ac-8eb3-5c0ced4dbc1a")
+			(uuid "afb47a16-6465-4c40-8c51-9b01e5bbd038")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -19986,6 +19432,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/4937317a-fa6f-4d03-ad4d-eb4c7f3075e2")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20199,7 +19651,7 @@
 		(property "Reference" "R48"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "fedf0355-cb47-4c26-861c-98ea18559846")
+			(uuid "7ee6a5c5-6092-40ce-bf9d-44798ec663d9")
 			(effects
 				(font
 					(size 1 1)
@@ -20210,7 +19662,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "2181f771-1316-4740-8e29-08f60e5672fb")
+			(uuid "97e6c09a-5727-40c0-b446-35613cdfb7e0")
 			(effects
 				(font
 					(size 1 1)
@@ -20222,7 +19674,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "267cb059-a38e-44f5-b319-918dd152d0a4")
+			(uuid "07954ca3-9982-4c94-8fd1-b6162361e2d0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20234,7 +19686,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4848606d-03df-490b-a486-14a3cd00d4d1")
+			(uuid "f0b19489-5a80-4a5b-bd0f-829fdb60f001")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20258,6 +19710,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/dbf7857b-21d3-440a-8e8a-b7b957bafeda")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20415,7 +19873,7 @@
 		(property "Reference" "U11"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "4aa43eb4-f084-4270-a073-1a2a0ca08661")
+			(uuid "c165059b-f351-473e-b030-02fdd973a209")
 			(effects
 				(font
 					(size 1 1)
@@ -20426,7 +19884,7 @@
 		(property "Value" "TL074"
 			(at 3.81 17.57 0)
 			(layer "F.Fab")
-			(uuid "3a498f97-1463-4d4a-8af7-7be2e462fb30")
+			(uuid "523a5430-db0b-44a8-96b1-9724b2176418")
 			(effects
 				(font
 					(size 1 1)
@@ -20438,7 +19896,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "18f6fabd-014d-4351-b190-e1e2d1b14100")
+			(uuid "69eedd7f-0328-4e5e-afd3-bb7040c07534")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20450,7 +19908,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "6b3da1a2-11f4-4f9e-848b-a80834122ffb")
+			(uuid "8572033e-fbe6-4068-8bed-ad59cb64c7ae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20487,6 +19945,28 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/7f6b58b2-172e-47b6-b53b-9bdb30dd7749")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "10" "9" "8")
+			)
+			(unit
+				(name "D")
+				(pins "12" "13" "14")
+			)
+			(unit
+				(name "E")
+				(pins "4" "11")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20823,7 +20303,7 @@
 		(property "Reference" "C59"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "fae5464c-3fd7-4e08-af65-2d8fa26fb4d1")
+			(uuid "4e46136c-12cf-40ab-8039-aa1303b6949f")
 			(effects
 				(font
 					(size 1 1)
@@ -20834,7 +20314,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "e465dc14-dc3b-4944-a13d-aa1050727f48")
+			(uuid "eebae75c-1c61-4553-87c8-7f338d8b94c6")
 			(effects
 				(font
 					(size 1 1)
@@ -20846,7 +20326,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "2e0333c8-6fae-44f5-9f3f-3e300e381dba")
+			(uuid "4a9d8f12-4d4a-4b20-8b27-fec61aed6806")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20858,7 +20338,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "356842bc-a51c-4be8-96b3-4f55a5aff2c4")
+			(uuid "cae699f6-672a-447c-ab08-854242a80725")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -20882,6 +20362,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/534b7e2c-606a-4c74-b52b-338689312dc9")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20999,7 +20485,7 @@
 		(property "Reference" "C72"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "2b798905-cb6d-4963-9f3a-f32e1b8bdc57")
+			(uuid "eedced48-febf-4881-a6ff-396657677831")
 			(effects
 				(font
 					(size 1 1)
@@ -21010,7 +20496,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "e45ca900-fd34-456f-bc92-c0fcddafcfbf")
+			(uuid "16ceb1ce-b2ce-41a0-b269-66524a8c28a0")
 			(effects
 				(font
 					(size 1 1)
@@ -21022,7 +20508,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f3b7885-1547-4d05-9f7b-e93c78aeda94")
+			(uuid "106474aa-6c42-4b48-ab55-4af3de33c2d9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21034,7 +20520,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "75fc5be3-58a7-492a-ad51-df9c6186e653")
+			(uuid "66e1e899-1f2d-489a-8dbc-6fd986cd53da")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21058,6 +20544,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/9cf27d1c-b7c8-49ac-a778-507586ebdf52")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21175,7 +20667,7 @@
 		(property "Reference" "C56"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "c86370e9-aabe-45c1-99d7-dbdaf5e9fcd7")
+			(uuid "e2ab23e8-d366-486d-8a52-92ac539877ae")
 			(effects
 				(font
 					(size 1 1)
@@ -21186,7 +20678,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "54d64339-48ab-4a51-8429-c9027f5a65fd")
+			(uuid "fcf86f50-80a7-4427-9b9b-fd921929d537")
 			(effects
 				(font
 					(size 1 1)
@@ -21198,7 +20690,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "225f9766-da38-43c2-8509-6fa397edc4df")
+			(uuid "2ee60484-16c6-4ed4-93dc-7dcdf4d8b4f5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21210,7 +20702,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "beac22e4-112d-4ee0-89fe-0e428e310ac1")
+			(uuid "bddf523f-bfe4-4c48-ae8b-8835c1807b95")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21234,6 +20726,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/f052d687-9fae-4d46-b62b-fae14891555d")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21351,7 +20849,7 @@
 		(property "Reference" "U1"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "cc6cc0ef-f185-4855-aeed-602b6c61306b")
+			(uuid "14098037-edfd-4c72-89bc-9a0e27dad071")
 			(effects
 				(font
 					(size 1 1)
@@ -21362,7 +20860,7 @@
 		(property "Value" "TL072"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
-			(uuid "94314305-06a1-4b3d-8b06-9192a9378d19")
+			(uuid "2b9582f5-a9b2-4a2f-af32-0e22c6d21c86")
 			(effects
 				(font
 					(size 1 1)
@@ -21374,7 +20872,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e887dce4-e8a4-4a1a-8108-ff91d955261d")
+			(uuid "a7851998-f91a-4ee3-be66-b0759b08f304")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21386,7 +20884,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0d31dfa-82dc-4be1-b858-ed28b1504648")
+			(uuid "981cf700-3d8f-47d7-90a0-4eb7378eec84")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21410,6 +20908,20 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/fae18ceb-27c3-492b-83d5-928a71283db3")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "8" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21682,7 +21194,7 @@
 		(property "Reference" "C50"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "6891ca95-2e96-428e-9ba8-d7765e748629")
+			(uuid "5e22b289-bc7b-476b-8914-a85bfeb1745b")
 			(effects
 				(font
 					(size 1 1)
@@ -21693,7 +21205,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "735e06dc-af9f-4c4a-aa88-12c5ce44fd1f")
+			(uuid "fce031e8-9b08-42c6-8023-4f004ddbeac0")
 			(effects
 				(font
 					(size 1 1)
@@ -21705,7 +21217,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "815f6dea-a15d-4afc-b3ea-4ec2e9cc6dcd")
+			(uuid "877f4907-a420-4805-b81b-5c250b98af7f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21717,7 +21229,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e978678e-e46d-49ef-9dc2-ea6f454c27ca")
+			(uuid "946e85da-0e91-4363-932d-5187caa3613f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21741,6 +21253,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/610f5526-2fa2-4ae0-b8b2-bded1faac74a")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21858,7 +21376,7 @@
 		(property "Reference" "R32"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "02297632-4981-43ab-932a-0aa034b921fe")
+			(uuid "7f56e07b-3a33-4741-997f-b07954911a7e")
 			(effects
 				(font
 					(size 1 1)
@@ -21869,7 +21387,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "62a4f9a0-ee09-4da9-b546-ca1b759eac5e")
+			(uuid "6559da86-a380-4be5-9c01-b2c760ce5841")
 			(effects
 				(font
 					(size 1 1)
@@ -21881,7 +21399,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7e3c3623-5f94-4d02-8706-658028ce45df")
+			(uuid "55233948-df21-42c0-bd72-7025834864cd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21893,7 +21411,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8f150223-5dca-484c-8e69-4e92b3896708")
+			(uuid "84b14ec8-b1e1-4ae4-a236-90db3f849516")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -21917,6 +21435,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/50852199-f3b3-4447-ba40-ba6d45fe8742")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22075,7 +21599,7 @@
 		(property "Reference" "J24"
 			(at 0 -2.38 90)
 			(layer "F.SilkS")
-			(uuid "b4202fae-54a3-4f49-9af9-8cb3e2170740")
+			(uuid "0aa138f7-3555-45dd-9315-2907addc806a")
 			(effects
 				(font
 					(size 1 1)
@@ -22087,7 +21611,7 @@
 			(at 0 4.92 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c7d0024e-cc3e-4c20-87be-c0fe667d2d9a")
+			(uuid "f133f051-7e2d-4919-80ff-97c5a28f9570")
 			(effects
 				(font
 					(size 1 1)
@@ -22099,7 +21623,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "944313f9-b2d0-40f2-bab1-e20a1629a968")
+			(uuid "00ce359d-f72a-437c-8281-c98d569f130e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22111,7 +21635,7 @@
 			(at 0 0 90)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c6b94d83-9515-4974-82f9-0aa987fd76e1")
+			(uuid "269d8cd2-1ccf-4261-a22a-e4be82fbb603")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22148,6 +21672,12 @@
 		(path "/5b4de528-5d13-4b0b-9c51-18c2880fb1b2")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22326,7 +21856,7 @@
 		(property "Reference" "C79"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "efa051cf-b117-43a8-adab-f4b8035f2789")
+			(uuid "3f7fc8e1-dcf5-4a77-9f9d-b8a00fc5c6ed")
 			(effects
 				(font
 					(size 1 1)
@@ -22337,7 +21867,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "f770409b-0489-4e4f-835a-25527796c606")
+			(uuid "a9ceb850-9d71-4f2d-9a1c-e37120b126e5")
 			(effects
 				(font
 					(size 1 1)
@@ -22349,7 +21879,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "a3a38723-50dc-4e7a-a623-8cfbb7ee7bcf")
+			(uuid "f6fb152a-8aa2-4e2c-b253-4d05fda15ee4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22361,7 +21891,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1d33e49d-0adb-47d5-95ec-0a8dcf219b17")
+			(uuid "6451db7b-567b-4b05-b75e-53b19fdf39ea")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22385,6 +21915,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/cc9699b4-3692-4860-ab59-b33c5a4eba54")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22502,7 +22038,7 @@
 		(property "Reference" "R94"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "2d8876cf-c248-4b15-bf20-b78a5480b0dc")
+			(uuid "8d80a253-dc66-4900-b40d-995cc3317f5a")
 			(effects
 				(font
 					(size 1 1)
@@ -22513,7 +22049,7 @@
 		(property "Value" "470R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "09048053-f524-4c3f-a5b5-8f5bc8442893")
+			(uuid "80cf9344-4259-4226-82af-8ab233142dc8")
 			(effects
 				(font
 					(size 1 1)
@@ -22525,7 +22061,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "1774cfc0-a069-44fd-b07b-c5ca378638a2")
+			(uuid "0994371a-31a8-4863-b1d2-c5beeedc484a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22537,7 +22073,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "586294a8-a52f-426b-9348-87ce8a3e31c5")
+			(uuid "285da8c8-6d9b-4afb-9ce5-9092f2e19742")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22561,6 +22097,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/b9982791-0d42-46bd-8079-2af48e79eb0b")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22716,7 +22258,7 @@
 		(property "Reference" "J8"
 			(at -4.325 -6.6 0)
 			(layer "F.SilkS")
-			(uuid "de428287-6a47-4579-b001-b810dcfb5992")
+			(uuid "8b619f74-f84f-4768-a397-d1185b4a03f9")
 			(effects
 				(font
 					(size 1 1)
@@ -22728,7 +22270,7 @@
 			(at 0.755 9.135 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "31c55ee0-f809-4d7a-8013-a3ee9c50c7f3")
+			(uuid "db1cbd8f-7d99-4e17-8340-4b72bf34de68")
 			(effects
 				(font
 					(size 1 1)
@@ -22740,7 +22282,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d027953a-c573-4b6a-b82c-ae5fcc25735a")
+			(uuid "213de633-eec9-4765-8e17-df43d45bc11d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22751,7 +22293,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "21060ed4-3a83-48e5-8e8a-6faf42d798a0")
+			(uuid "2f9d2578-926d-47f7-96ee-2332a84e6fe8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -22774,6 +22316,12 @@
 		(path "/00586b41-a057-459f-9b97-e0b2e0df610b")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "R" "RN" "TN" "T" "S")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23465,7 +23013,7 @@
 		(property "Reference" "R92"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "142a5390-0307-4150-a58b-8ff837542150")
+			(uuid "0ad53015-5218-4988-8633-e1eaa458d57b")
 			(effects
 				(font
 					(size 1 1)
@@ -23476,7 +23024,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "8269a290-045a-4cda-a06c-da433f5c896b")
+			(uuid "dcf4a454-2ce0-4aa8-8455-fdf385043384")
 			(effects
 				(font
 					(size 1 1)
@@ -23488,7 +23036,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c6ece60a-a554-4dd0-a78a-866e7df2fc59")
+			(uuid "21d75d3b-dda0-41e3-8399-274639a8c768")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23500,7 +23048,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3a470404-69ce-4a00-914a-ac0387332c62")
+			(uuid "5b30685b-264e-4f43-b4db-56bbf902e1d1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23524,6 +23072,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/15c69d9b-855d-42a7-8d4a-d634389516ba")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23681,7 +23235,7 @@
 		(property "Reference" "C54"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "685b6824-8ec2-4298-91de-45f44594df92")
+			(uuid "80edd812-4ad9-4f10-9244-304c46ba76b5")
 			(effects
 				(font
 					(size 1 1)
@@ -23692,7 +23246,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "f14128f8-2f23-4b58-b3f1-c730611578c0")
+			(uuid "17469c76-a225-492b-a7f1-f5014273b7b4")
 			(effects
 				(font
 					(size 1 1)
@@ -23704,7 +23258,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f2e214ec-cc42-4c87-8d79-86ea31063f3f")
+			(uuid "a6c37dfe-e3aa-4b0a-a893-94b48d367416")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23716,7 +23270,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "7cc47782-c68a-45ca-ae0b-b6f24e3992b2")
+			(uuid "266ffa9c-3cdb-4a67-90c8-aad676578780")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23740,6 +23294,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/cde5be5d-c559-4f4c-88f7-7e46193fa586")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -23857,7 +23417,7 @@
 		(property "Reference" "R58"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "b1ab44d1-3ee4-4c2a-aefe-040bfb653358")
+			(uuid "d499d877-cb43-40d5-9861-8fd27e7311f3")
 			(effects
 				(font
 					(size 1 1)
@@ -23868,7 +23428,7 @@
 		(property "Value" "10R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "ab365458-b3f9-4455-9441-a3b1539c3bf8")
+			(uuid "4612a283-e68f-48d0-b382-d375c1cdaffe")
 			(effects
 				(font
 					(size 1 1)
@@ -23880,7 +23440,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "95d81663-5346-454b-9ec1-664e45e66e17")
+			(uuid "4ca656be-603b-4816-b774-65003c184abc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23892,7 +23452,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "becae8cd-e284-49b9-b311-ec56232b75f3")
+			(uuid "3c0bc4ad-ec93-4659-b249-0c2f9e607486")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -23916,6 +23476,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/9503b2d5-968a-48ed-b8d9-9e724898d218")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24073,7 +23639,7 @@
 		(property "Reference" "D5"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "64be840a-bb4c-4336-aae5-4b03c739bea6")
+			(uuid "37af6d7e-e330-4183-a381-3596dac94ff6")
 			(effects
 				(font
 					(size 1 1)
@@ -24084,7 +23650,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "4cfd0577-d975-4aa6-8b2b-c86282143f25")
+			(uuid "8bdbbe1a-8a45-4011-861c-0aa86f2ccae0")
 			(effects
 				(font
 					(size 1 1)
@@ -24096,7 +23662,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "e0cadaf2-4d07-443c-94e0-85cf82d922a1")
+			(uuid "8cdb4d83-f4cb-44e6-8fc2-8b94b608f4f6")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24108,7 +23674,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "d2fd0365-182f-405e-92aa-b3834910bab4")
+			(uuid "cdb1f5f5-5ed6-42d5-a985-cf4063593560")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24158,6 +23724,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/c2a08df7-e2d3-4b8d-9339-ac02c5a7d7f2")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24371,7 +23943,7 @@
 		(property "Reference" "C11"
 			(at 1.25 -2.25 0)
 			(layer "F.SilkS")
-			(uuid "db6112b9-4a5f-4342-acd7-50b046f59226")
+			(uuid "b6286f15-1939-4236-aae3-f731b72b1c04")
 			(effects
 				(font
 					(size 1 1)
@@ -24382,7 +23954,7 @@
 		(property "Value" "100pF"
 			(at 1.25 2.25 0)
 			(layer "F.Fab")
-			(uuid "b6932385-cf90-43b7-9d12-e12632228442")
+			(uuid "64aad0ab-a8ce-45e4-84f4-843c154b8ed9")
 			(effects
 				(font
 					(size 1 1)
@@ -24394,7 +23966,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "9e14c1ca-7364-48a6-8dbb-902779b88bb4")
+			(uuid "d3a57eb7-cbd8-4100-9afb-e3e0e5785f2c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24406,7 +23978,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "8839b18e-1a17-4fb7-a111-69c9f1456166")
+			(uuid "cf1233cf-676e-41bc-b1dc-16cdced336b0")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24443,6 +24015,12 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/949d9eb7-c46d-4108-845d-70121b6bcafa")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -24580,7 +24158,7 @@
 		(property "Reference" "C23"
 			(at 1 -3.75 0)
 			(layer "F.SilkS")
-			(uuid "0538a283-f4ba-43bc-ac09-9c4f4acd20b4")
+			(uuid "f74ad3a6-b04d-47f2-acc0-57d0baa445fe")
 			(effects
 				(font
 					(size 1 1)
@@ -24591,7 +24169,7 @@
 		(property "Value" "10uF"
 			(at 1 3.75 0)
 			(layer "F.Fab")
-			(uuid "558d5d86-fd38-478c-97f2-52d7586514e8")
+			(uuid "219cedb1-dee2-43cd-b31e-956c0a4a1ea4")
 			(effects
 				(font
 					(size 1 1)
@@ -24603,7 +24181,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "3f07543a-d407-4237-8434-07e073ca3615")
+			(uuid "e09680df-b8ad-40cc-a271-1e973494f695")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24615,7 +24193,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f9508a6f-7cfb-41b9-9c4c-0bb94f046254")
+			(uuid "3e24983a-1559-41ff-8782-9810a6a754bc")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -24639,6 +24217,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/93353eb8-959f-4a98-afe6-072eb6e9f08a")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -25938,7 +25522,7 @@
 		(property "Reference" "D4"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "08e9b3a7-3459-418d-8975-fc8295ef6b23")
+			(uuid "469dda43-8f6a-4b42-a3dd-3f7126d60d3b")
 			(effects
 				(font
 					(size 1 1)
@@ -25949,7 +25533,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "c3402a8a-f311-4d36-bb2e-9de3e860a27e")
+			(uuid "b7e9a609-f46d-45a9-96f0-cf975d9d4896")
 			(effects
 				(font
 					(size 1 1)
@@ -25961,7 +25545,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc38e42d-d8ca-43f8-8f50-1b665b528462")
+			(uuid "08e83ec7-2505-4bc9-8c3f-1fe3c115c42a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -25973,7 +25557,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "ebaa7605-7203-42b2-bb8b-cf2f96de684e")
+			(uuid "5d9bf3bf-06ef-4498-9958-35e068c303ef")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26023,6 +25607,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/112f60ae-8af6-4b90-8133-9a627d9006ac")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26236,7 +25826,7 @@
 		(property "Reference" "U13"
 			(at 3.81 -2.33 0)
 			(layer "F.SilkS")
-			(uuid "422029cf-e0df-488b-aee6-e0e7be1cd2bd")
+			(uuid "c8d9d7e7-146c-4787-8780-8d9c01a55a33")
 			(effects
 				(font
 					(size 1 1)
@@ -26247,7 +25837,7 @@
 		(property "Value" "NE5532"
 			(at 3.81 9.95 0)
 			(layer "F.Fab")
-			(uuid "b551b29a-5f37-4a17-bbfe-9c46cf41c91b")
+			(uuid "b77dc592-18ed-42c1-a58e-622fb839bb06")
 			(effects
 				(font
 					(size 1 1)
@@ -26259,7 +25849,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5dab2f03-f216-4d65-8ffb-db0fe4d34ce4")
+			(uuid "93c12bb4-c5ba-4265-a596-1a92c1870a95")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26271,7 +25861,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "26e305d3-9f26-4983-8a8d-e3a38e4b1b0d")
+			(uuid "796140d4-152d-4018-907b-876ce76ea509")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26308,6 +25898,20 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/f6238e61-79b8-4807-901a-ca63c6e169c4")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2" "1")
+			)
+			(unit
+				(name "B")
+				(pins "5" "6" "7")
+			)
+			(unit
+				(name "C")
+				(pins "8" "4")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26580,7 +26184,7 @@
 		(property "Reference" "R8"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "458f4aac-cfec-4f0d-934f-3d0a1b3e02ae")
+			(uuid "39757cdd-d7b2-4814-a2b9-18757af132c9")
 			(effects
 				(font
 					(size 1 1)
@@ -26591,7 +26195,7 @@
 		(property "Value" "22k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "c014845c-1af3-494c-b1a1-a76c5444229f")
+			(uuid "c89c27ee-fa2e-45c8-85aa-0f859d8089a2")
 			(effects
 				(font
 					(size 1 1)
@@ -26603,7 +26207,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cc372611-2743-4943-914f-b209f9485e3c")
+			(uuid "43f74975-93e5-4bec-bb04-0da7061b8c2e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26615,7 +26219,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "4009b46b-57ac-4f9e-bc59-6aa81510b9fc")
+			(uuid "8f2bbc60-115f-4d28-82e8-75c5cb36437d")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26639,6 +26243,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/0b5335d3-2100-4d02-99f3-0d6e08bde0eb")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -26796,7 +26406,7 @@
 		(property "Reference" "R49"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "46a7c8ac-35dd-473e-9d49-026ba0f6e5f7")
+			(uuid "3db7f17f-c060-4757-aa4c-79b36e32750e")
 			(effects
 				(font
 					(size 1 1)
@@ -26807,7 +26417,7 @@
 		(property "Value" "1k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "4a44db82-d57d-4ed8-b225-a6f65942a8b9")
+			(uuid "d3bd1614-49a3-4845-a76c-c88632dc3682")
 			(effects
 				(font
 					(size 1 1)
@@ -26819,7 +26429,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "125b6184-3110-4276-b9f4-394f92ee4ebf")
+			(uuid "a181d76e-1cac-41a3-ba4e-09e3a9c9583e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26831,7 +26441,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "5397a05c-d238-48b8-8059-d9f8ded7c32d")
+			(uuid "6a523371-8e71-43d6-9f5e-43f5e4249b22")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -26855,6 +26465,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/c1df6e52-45a4-499e-82b2-aaddc47910e4")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27012,7 +26628,7 @@
 		(property "Reference" "R95"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "61b9c315-83ae-4949-a92c-569d637b619c")
+			(uuid "fb3faf9e-e19d-4a86-8a70-0c38b97a2685")
 			(effects
 				(font
 					(size 1 1)
@@ -27023,7 +26639,7 @@
 		(property "Value" "100K"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "18dab428-e35c-4f3d-ad62-a210ab5d0d8b")
+			(uuid "a64c8844-6432-4c42-8f23-81348d01eb8c")
 			(effects
 				(font
 					(size 1 1)
@@ -27035,7 +26651,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "f5365fe7-aba2-43c1-94c1-dd4456dd0d36")
+			(uuid "aeedef10-6858-4b1a-89c3-b7ece4d13c31")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27047,7 +26663,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "dd9cef3d-dbe5-41a4-85be-c3f527715f57")
+			(uuid "67707519-dc2a-4596-8603-b1d3cb7fa9fe")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27071,6 +26687,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/3baa3b58-e014-44eb-b009-8f2d94add63c")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27228,7 +26850,7 @@
 		(property "Reference" "R3"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "66f4d12b-5bf1-4099-a209-f94f7c584de3")
+			(uuid "95331df5-c7e1-4419-90ab-7c40f05d279c")
 			(effects
 				(font
 					(size 1 1)
@@ -27239,7 +26861,7 @@
 		(property "Value" "470R"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "9a34dda9-d610-408f-a420-2d46c6729150")
+			(uuid "9542d967-7921-46bc-ae23-13a456ad5c8d")
 			(effects
 				(font
 					(size 1 1)
@@ -27251,7 +26873,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "07a91352-a62f-44cc-ba28-d302ac3fba47")
+			(uuid "ce5a0f54-3a01-41e0-b646-cb26a365dc13")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27263,7 +26885,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "943bc59d-e7c4-4ca2-8439-1265a546c5e4")
+			(uuid "daca440c-5161-4938-aaaf-f85cda8a168f")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27287,6 +26909,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/6cfc1ebe-1273-4e00-8569-5048a7df8ec5")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27444,7 +27072,7 @@
 		(property "Reference" "D43"
 			(at 3.81 -2.12 0)
 			(layer "F.SilkS")
-			(uuid "3b5a887a-d852-4471-a63e-cd6963a4bbaa")
+			(uuid "d89344ad-2c2f-40c1-b449-0320d7b93bcd")
 			(effects
 				(font
 					(size 1 1)
@@ -27455,7 +27083,7 @@
 		(property "Value" "1N4148"
 			(at 3.81 2.12 0)
 			(layer "F.Fab")
-			(uuid "7885c2cb-61e8-4e5c-8830-79e2b9349616")
+			(uuid "a28820b1-6a9d-4666-8a86-1e8299dd8420")
 			(effects
 				(font
 					(size 1 1)
@@ -27467,7 +27095,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "37f2ccfc-212c-4f9b-a28a-3dd7f409ccc3")
+			(uuid "f4f3b878-8ae4-4e6d-abd9-ead32db53190")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27479,7 +27107,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bcdf0de8-545e-4e38-b80d-1daa60b5913d")
+			(uuid "68a5ec3f-ef7f-47d4-a6dc-960e1a26fca5")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27529,6 +27157,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/e72cfca9-50cf-4374-a599-c47f8625c4d5")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27742,7 +27376,7 @@
 		(property "Reference" "R47"
 			(at 3.81 -2.37 0)
 			(layer "F.SilkS")
-			(uuid "40725c9e-6fd8-46e1-87d4-71c3fa987484")
+			(uuid "ce4af0b5-484a-4357-b123-b6fc56130dee")
 			(effects
 				(font
 					(size 1 1)
@@ -27753,7 +27387,7 @@
 		(property "Value" "10k"
 			(at 3.81 2.37 0)
 			(layer "F.Fab")
-			(uuid "2a958508-25d4-48d2-aec3-d20806931191")
+			(uuid "66ae6ca5-5c13-4250-b28b-ac8ec835e2e4")
 			(effects
 				(font
 					(size 1 1)
@@ -27765,7 +27399,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "bd8854f2-a585-480e-a753-5e7317a57b66")
+			(uuid "28e38461-ccf6-42a0-9f53-8f3ba21d3274")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27777,7 +27411,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "28dbb069-f0e8-4cbf-8a41-13ced6ff4d25")
+			(uuid "decdb21f-65e9-405d-abe5-47b942be0869")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -27814,6 +27448,12 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/f73291af-4ec1-4973-bb6c-9e8ba8fb601e")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -27971,7 +27611,7 @@
 		(property "Reference" "C48"
 			(at 2.5 -2.2 0)
 			(layer "F.SilkS")
-			(uuid "6e051a98-d410-4c13-9b58-ec7954d0c6fa")
+			(uuid "26eeec05-50ed-4521-93b1-8b9af142084a")
 			(effects
 				(font
 					(size 1 1)
@@ -27982,7 +27622,7 @@
 		(property "Value" "100nF"
 			(at 2.5 2.2 0)
 			(layer "F.Fab")
-			(uuid "ecd33de2-2702-45a4-8722-eef8f7ae4839")
+			(uuid "6a30663d-c0f9-498b-9c11-bf4ed4c6eb36")
 			(effects
 				(font
 					(size 1 1)
@@ -27994,7 +27634,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "c3c4a0d3-330e-433b-97d9-bf23783b804c")
+			(uuid "86ad4584-bf49-44ef-bc55-73d8171166b8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28006,7 +27646,7 @@
 			(at 0 0 0)
 			(layer "F.Fab")
 			(hide yes)
-			(uuid "cb1fe1cb-35f7-43da-ab99-e3b95da41670")
+			(uuid "a4e2fd3b-46f1-4011-9d86-09ef94e5b39e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28030,6 +27670,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/ecb55081-2856-47e6-b7e0-a91024b865ab")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -28147,7 +27793,7 @@
 		(property "Reference" "C2"
 			(at -2.094887 -2.25 90)
 			(layer "B.SilkS")
-			(uuid "abf8b417-d901-46c3-af50-2a190946941b")
+			(uuid "9bc8524e-07dc-42b1-9075-117a8c435510")
 			(effects
 				(font
 					(size 1 1)
@@ -28160,7 +27806,7 @@
 			(at 1 -3.75 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1121171e-2342-4e74-a129-538de78ff7c7")
+			(uuid "81a2d271-31de-4d58-b85b-775c8ab422d3")
 			(effects
 				(font
 					(size 1 1)
@@ -28173,7 +27819,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c9d05b9e-6191-4303-8ad9-0b193a101271")
+			(uuid "8e6475dc-cc1a-489c-a353-a357ca84a5ab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28186,7 +27832,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "d3c4bf6a-5942-49c6-b46f-addd9e6cb1a9")
+			(uuid "66eac8d5-a277-43c7-a298-b8e6a6b962df")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -28212,6 +27858,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/ed5abd9d-f3fa-42df-881b-be08223ae1fe")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29503,17 +29155,17 @@
 			)
 		)
 	)
-	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
 		(locked yes)
 		(layer "B.Cu")
-		(uuid "49a4fdaf-1dce-432a-b891-0d1f241f42bb")
-		(at 52.775 138.925 180)
-		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
-		(tags "Through hole socket strip THT 1x06 2.54mm single row")
-		(property "Reference" "J27"
+		(uuid "2172424c-a4ca-4bf5-8804-05cb64ab2c93")
+		(at 52.775 99.19 180)
+		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x04 2.54mm single row")
+		(property "Reference" "J29"
 			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "360cdd2a-ad24-4944-9865-37983f9fcfc6")
+			(uuid "6e6a7e77-315c-4875-be62-46b44bd744f4")
 			(effects
 				(font
 					(size 1 1)
@@ -29522,11 +29174,11 @@
 				(justify mirror)
 			)
 		)
-		(property "Value" "Conn_01x06_PinHeader"
-			(at 0 -15.47 0)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 0 -10.39 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c6b22fa6-94a4-43eb-b1ca-e157d73c0f45")
+			(uuid "2dd41b06-f4f6-4c71-9f8c-0929d382a8d4")
 			(effects
 				(font
 					(size 1 1)
@@ -29539,7 +29191,631 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "28938d06-98a7-4a75-aedf-619c1e630e5a")
+			(uuid "9813162f-c926-4e72-bc7d-d6fe9b3c6385")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "a8fb305f-c738-4ea0-8196-1063452a1a50")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "380e2d50-abcd-4a70-a846-ec624e7dcd90")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/0b1658b3-ac7b-4692-8043-3e4b42d6c671/f22873e8-1d1b-4c13-b30f-fcb33840aadf")
+		(sheetname "/Pre-Gain Stage/")
+		(sheetfile "Pregain_stage.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 1.33 1.33)
+			(end 1.33 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "65efadf1-2421-4596-8148-29cdccb4e951")
+		)
+		(fp_line
+			(start 1.33 -1.27)
+			(end 1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "2ca0f22a-4c85-48db-a7c9-810e1f4b2a5d")
+		)
+		(fp_line
+			(start 0 1.33)
+			(end 1.33 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "a3486aef-40c7-423f-9bec-6b95dd0a5cd9")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end 1.33 -1.27)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "ac7ab79a-4d25-4c5d-938f-efc8df6a9486")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end -1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "550b627e-0295-40ae-920c-bd7d97d1b199")
+		)
+		(fp_line
+			(start -1.33 -8.95)
+			(end 1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "dd391d54-f0df-4c17-8251-54dc4e55a3cc")
+		)
+		(fp_line
+			(start 1.77 1.77)
+			(end 1.77 -9.39)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "36228ff8-44e7-451f-aa3d-3ed36f2c2c5a")
+		)
+		(fp_line
+			(start 1.77 -9.39)
+			(end -1.77 -9.39)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "b8468317-dddf-4e82-859e-3e7d955ae900")
+		)
+		(fp_line
+			(start -1.77 1.77)
+			(end 1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "8a8c577a-493e-44aa-a3de-b7f4b86d2fee")
+		)
+		(fp_line
+			(start -1.77 -9.39)
+			(end -1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "0740f125-b1b3-4342-967f-b8ad28dac5f8")
+		)
+		(fp_line
+			(start 1.27 0.635)
+			(end 1.27 -8.89)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "1fc05183-2436-4501-9078-6bbb81c9d8b3")
+		)
+		(fp_line
+			(start 1.27 -8.89)
+			(end -1.27 -8.89)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3d25f33f-bb72-4a89-b13d-bcbb3dd676b2")
+		)
+		(fp_line
+			(start 0.635 1.27)
+			(end 1.27 0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "8ad2f228-ca5e-4859-8681-eaa5c482ffd5")
+		)
+		(fp_line
+			(start -1.27 1.27)
+			(end 0.635 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "455583b3-5207-467a-8033-6b764e93fc7d")
+		)
+		(fp_line
+			(start -1.27 -8.89)
+			(end -1.27 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "8095a0d0-1609-45cc-b6ea-fb098b020898")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -3.81 90)
+			(layer "B.Fab")
+			(uuid "94a5eb33-7574-4f41-b5b5-5050afcaa3c5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Pre-Gain Stage/R_In_M")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "5ae6b3e1-0add-4503-a02a-dd54010d7a0f")
+		)
+		(pad "2" thru_hole circle
+			(at 0 -2.54 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Pre-Gain Stage/L_In_M")
+			(pinfunction "Pin_2_2")
+			(pintype "passive")
+			(uuid "eafc2d01-ae3e-4233-a54f-65c177bbc9ff")
+		)
+		(pad "3" thru_hole circle
+			(at 0 -5.08 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Gain Trimmer/L_Gain_IN_M")
+			(pinfunction "Pin_3_3")
+			(pintype "passive")
+			(uuid "08c13d74-36b3-49b7-9f20-88c9e2649727")
+		)
+		(pad "4" thru_hole circle
+			(at 0 -7.62 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Gain Trimmer/R_Gain_IN_M")
+			(pinfunction "Pin_4_4")
+			(pintype "passive")
+			(uuid "a6c7c22c-a393-4af6-82f7-ac2819be5530")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+		(locked yes)
+		(layer "B.Cu")
+		(uuid "45b28d1c-3b99-40a6-8178-10ba631aa039")
+		(at 75.52 161.6 -90)
+		(descr "Through hole straight socket strip, 1x04, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x04 2.54mm single row")
+		(property "Reference" "J35"
+			(at -2.3 0.02 180)
+			(layer "B.SilkS")
+			(uuid "d5276c09-1a70-49b4-a717-dae584cc11f5")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 0 -10.39 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "4ce21544-7aeb-49ce-99c7-76038c6a3a9e")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "3c18d413-5fd8-40c1-8014-f595710be8c3")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 0 0 90)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "d7c412c1-cb6e-46c9-8737-4daea7925ba1")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 90)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "31beb107-5cf9-4704-9920-7bb8ebc472af")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/2bf49d64-899a-4cd6-98ee-a1cb99869b23/ae4db581-e36d-454c-9c55-49a46df9f1a5")
+		(sheetname "/PreAmp/")
+		(sheetfile "PreAmp.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 0 1.33)
+			(end 1.33 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "66912bff-6b36-4ecb-8f1e-b40027da411c")
+		)
+		(fp_line
+			(start 1.33 1.33)
+			(end 1.33 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "0593d37b-5f63-4234-b9cd-b8cb9cca8831")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end 1.33 -1.27)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "8861b214-05be-40a2-bca0-adb8de3a8db9")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end -1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "813f75a6-d879-46fd-8059-b2ea9065c457")
+		)
+		(fp_line
+			(start 1.33 -1.27)
+			(end 1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "c3c5d3c6-8250-4983-a832-4a8b3bd63cd2")
+		)
+		(fp_line
+			(start -1.33 -8.95)
+			(end 1.33 -8.95)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "df18f0ac-2e78-4ce7-b0ea-c4403f83524c")
+		)
+		(fp_line
+			(start -1.77 1.77)
+			(end 1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "2e955911-f0a3-49fc-8e06-6360f34c6b41")
+		)
+		(fp_line
+			(start 1.77 1.77)
+			(end 1.77 -9.39)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "809da919-912f-4da8-aecb-0b801b4f02d9")
+		)
+		(fp_line
+			(start -1.77 -9.39)
+			(end -1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "a6d15aac-0ca9-498d-8a17-8b0b373b97d5")
+		)
+		(fp_line
+			(start 1.77 -9.39)
+			(end -1.77 -9.39)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "ea0b0501-244e-4b1d-9189-ed5ca37bf82b")
+		)
+		(fp_line
+			(start -1.27 1.27)
+			(end 0.635 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "7cba7054-a8a2-42e7-a320-2adca1270709")
+		)
+		(fp_line
+			(start 0.635 1.27)
+			(end 1.27 0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "a7c2daf7-9ba3-4e4a-8f56-1540241bbe05")
+		)
+		(fp_line
+			(start 1.27 0.635)
+			(end 1.27 -8.89)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ce5a1c3c-d3c1-40a6-ab61-9312203b9a46")
+		)
+		(fp_line
+			(start -1.27 -8.89)
+			(end -1.27 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ec310fe6-e859-40bd-9c0a-e44180a1e3f5")
+		)
+		(fp_line
+			(start 1.27 -8.89)
+			(end -1.27 -8.89)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "f78d9607-df8c-4556-868e-fa13ab4d8720")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -3.81 0)
+			(layer "B.Fab")
+			(uuid "80d7c59d-fadb-4cd4-b0dc-e3b6849f6332")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/PreAmp/L_Ext_IN_M")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "0923e698-1d40-4373-bb5a-450c7653af9b")
+		)
+		(pad "2" thru_hole circle
+			(at 0 -2.54 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/PreAmp/R_Ext_IN_M")
+			(pinfunction "Pin_2_2")
+			(pintype "passive")
+			(uuid "617b581f-0f13-4611-a4f5-1679707b1945")
+		)
+		(pad "3" thru_hole circle
+			(at 0 -5.08 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Input Meter/L_Ext_Meter_M")
+			(pinfunction "Pin_3_3")
+			(pintype "passive")
+			(uuid "4c658bfe-bbbd-4797-91dc-c765058ced76")
+		)
+		(pad "4" thru_hole circle
+			(at 0 -7.62 270)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Input Meter/R_Ext_Meter_M")
+			(pinfunction "Pin_4_4")
+			(pintype "passive")
+			(uuid "342b9f66-7c42-4eb1-afea-8d4ae95c3e3e")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x04_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
+		(layer "B.Cu")
+		(uuid "49a4fdaf-1dce-432a-b891-0d1f241f42bb")
+		(at 52.775 138.925 180)
+		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x06 2.54mm single row")
+		(property "Reference" "J27"
+			(at 0 2.77 0)
+			(layer "B.SilkS")
+			(uuid "6d18d734-f75e-4960-9193-8dcee7592253")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x06_PinHeader"
+			(at 0 -15.47 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "7df813b2-9c29-4082-aa21-d18a1d4e5478")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "fcf160e0-f9e9-427d-b802-3f3da993d13a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29551,7 +29827,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7d789642-f946-4d1a-b1ab-0539faf5b7e1")
+			(uuid "b12a664b-b2a3-448b-b432-b8cc4eb91b52")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29587,9 +29863,35 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/45b3c00a-420e-4349-b096-199706c640d6/3906a4e3-3ab3-4182-944c-758bc40ef53c")
+		(path "/45b3c00a-420e-4349-b096-199706c640d6/9c946c30-bd25-4d65-8c96-a2956226fe14")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+			(unit
+				(name "E")
+				(pins "5")
+			)
+			(unit
+				(name "F")
+				(pins "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -29842,7 +30144,7 @@
 		(property "Reference" "J0"
 			(at 0 2.38 0)
 			(layer "B.SilkS")
-			(uuid "60ad3d39-80ac-4e55-880b-420a1b4f3e97")
+			(uuid "3224bd6c-07cb-4151-92ff-a6f2acdb680b")
 			(effects
 				(font
 					(size 1 1)
@@ -29855,7 +30157,7 @@
 			(at 0 -2.38 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "ffc36c3b-972e-4090-87af-b2669277a99d")
+			(uuid "4cd9f340-b0cf-4131-a487-0c529f1f5f83")
 			(effects
 				(font
 					(size 1 1)
@@ -29868,7 +30170,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b529eee8-5de8-49bd-abf6-757b211085d7")
+			(uuid "86de8868-f099-4690-bc71-51aefae21fae")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29881,7 +30183,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a0c7eb7e-9fc6-40c3-b3de-81d4be946ad6")
+			(uuid "687758ac-8992-4071-8295-d1fcca51ec72")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -29922,6 +30224,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/2569edd0-1c9d-49fe-b01a-8ea1b7b9a0d7")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+		)
 		(attr through_hole exclude_from_bom dnp)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30082,6 +30390,7 @@
 		)
 	)
 	(footprint "SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_Eurorack"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "92c63a05-ccc2-4e0a-a18b-0a843dff2849")
 		(at 80.08 48.7525 90)
@@ -30090,7 +30399,7 @@
 		(property "Reference" "J100"
 			(at -4.2475 -5.08 0)
 			(layer "B.SilkS")
-			(uuid "51f3ae42-76ab-46cd-86a3-f6cd4604ed45")
+			(uuid "65f04f27-8e51-4ef6-9930-cb722e75704c")
 			(effects
 				(font
 					(size 1 1)
@@ -30103,7 +30412,7 @@
 			(at 1.27 -16.26 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "a1adbbe8-2bd5-489b-99b8-585da1cbf837")
+			(uuid "7f28de43-393a-4798-a4cc-fd328c6ef40e")
 			(effects
 				(font
 					(size 1 1)
@@ -30117,7 +30426,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "5c7a9a44-3f1b-465d-b3bf-a73f562c8f44")
+			(uuid "7f6d4d0f-6ee6-4335-900f-eae61e413cb8")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30131,7 +30440,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7c830e42-ae55-4d60-9d7c-eec6c30c7279")
+			(uuid "c7c0e198-5875-4293-a6ee-b131729641b9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30144,6 +30453,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/4a0fb5f0-ed59-46d4-b5a8-e8ac855f023a")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1a" "2a" "3a" "4a" "5a" "1b" "2b" "3b" "4b" "5b")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -30590,7 +30905,349 @@
 			(uuid "202f036f-2356-4c3c-9381-45fe49d3400b")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.step"
+			(offset
+				(xyz 0 0 0)
+			)
+			(scale
+				(xyz 1 1 1)
+			)
+			(rotate
+				(xyz 0 0 0)
+			)
+		)
+	)
+	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical"
+		(locked yes)
+		(layer "B.Cu")
+		(uuid "9fee05d3-2555-405d-b4b2-b878a3e9862c")
+		(at 97.275 96.675 180)
+		(descr "Through hole straight socket strip, 1x06, 2.54mm pitch, single row (from Kicad 4.0.7), script generated")
+		(tags "Through hole socket strip THT 1x06 2.54mm single row")
+		(property "Reference" "J31"
+			(at 0 2.77 0)
+			(layer "B.SilkS")
+			(uuid "e3a29fdc-ca0c-4532-be6b-59c4e6a4b839")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Value" "Conn_01x06_PinHeader"
+			(at 0 -15.47 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "0fd9884f-f8e3-4b9a-bd0b-c30005fd356c")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Datasheet" ""
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "8aa68b3b-be91-4df5-a1df-f0cc9aa10379")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x06"
+			(at 0 0 0)
+			(layer "B.Fab")
+			(hide yes)
+			(uuid "9b5a2da9-5df8-4c87-817f-68fd0bca0936")
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify mirror)
+			)
+		)
+		(property "KiLib_Generator" "connector/pin_header_socket"
+			(at 0 0 0)
+			(layer "B.SilkS")
+			(hide yes)
+			(uuid "0ee6e22b-8391-439c-b291-4db4429a4a07")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(property ki_fp_filters "Connector*:*_1x??_*")
+		(path "/824fc238-5889-4012-a2b6-493f2edfd718/ae4f4d0c-1e2e-4751-85dc-57888e009f52")
+		(sheetname "/Balanced Line Driver/")
+		(sheetfile "Balanced_line_driver.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+			(unit
+				(name "E")
+				(pins "5")
+			)
+			(unit
+				(name "F")
+				(pins "6")
+			)
+		)
+		(attr through_hole)
+		(duplicate_pad_numbers_are_jumpers no)
+		(fp_line
+			(start 1.33 1.33)
+			(end 1.33 0)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "3d12d743-f81d-4235-abbc-bb1bda4e4b7c")
+		)
+		(fp_line
+			(start 1.33 -1.27)
+			(end 1.33 -14.03)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "cd4d6525-df55-4d2b-a3b0-f0245e6a64b9")
+		)
+		(fp_line
+			(start 0 1.33)
+			(end 1.33 1.33)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "e4b15054-ecdc-437e-86fd-733fe1afa73e")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end 1.33 -1.27)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "bedd9deb-5211-4237-b49f-c18eb46e2560")
+		)
+		(fp_line
+			(start -1.33 -1.27)
+			(end -1.33 -14.03)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "7d712fa6-e533-45c6-be98-6dc68aa16809")
+		)
+		(fp_line
+			(start -1.33 -14.03)
+			(end 1.33 -14.03)
+			(stroke
+				(width 0.12)
+				(type solid)
+			)
+			(layer "B.SilkS")
+			(uuid "bb682179-5601-469f-96e9-04b713a68bbd")
+		)
+		(fp_line
+			(start 1.77 1.77)
+			(end 1.77 -14.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "f4128bd9-1aba-482a-a354-e7d48de62473")
+		)
+		(fp_line
+			(start 1.77 -14.47)
+			(end -1.77 -14.47)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "411bb597-7f23-4665-9503-e985abfbefff")
+		)
+		(fp_line
+			(start -1.77 1.77)
+			(end 1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "c2580019-8477-4aaf-92f0-1b6a75f60b70")
+		)
+		(fp_line
+			(start -1.77 -14.47)
+			(end -1.77 1.77)
+			(stroke
+				(width 0.05)
+				(type solid)
+			)
+			(layer "B.CrtYd")
+			(uuid "db5d646b-a2ff-4fcd-87ad-85015e145120")
+		)
+		(fp_line
+			(start 1.27 0.635)
+			(end 1.27 -13.97)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "3143d169-ff2c-4b3c-b27f-47dd595af29b")
+		)
+		(fp_line
+			(start 1.27 -13.97)
+			(end -1.27 -13.97)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "ec70c2f6-89d4-4c89-af47-f51379e04b84")
+		)
+		(fp_line
+			(start 0.635 1.27)
+			(end 1.27 0.635)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "6cd0166e-7efe-45a2-8d29-ebacf034e286")
+		)
+		(fp_line
+			(start -1.27 1.27)
+			(end 0.635 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "17efa93d-7879-4d29-bbb8-76bae68de578")
+		)
+		(fp_line
+			(start -1.27 -13.97)
+			(end -1.27 1.27)
+			(stroke
+				(width 0.1)
+				(type solid)
+			)
+			(layer "B.Fab")
+			(uuid "e150fe9c-0a96-4244-91ac-ba9988c543a5")
+		)
+		(fp_text user "${REFERENCE}"
+			(at 0 -6.35 90)
+			(layer "B.Fab")
+			(uuid "565a250f-7edf-4725-918b-b63194a9f3d1")
+			(effects
+				(font
+					(size 1 1)
+					(thickness 0.15)
+				)
+				(justify mirror)
+			)
+		)
+		(pad "1" thru_hole rect
+			(at 0 0 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/R_Ch_OUT_M")
+			(pinfunction "Pin_1_1")
+			(pintype "passive")
+			(uuid "d3868005-b5b8-4959-8115-2474cf7391af")
+		)
+		(pad "2" thru_hole circle
+			(at 0 -2.54 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/L_Ch_OUT_M")
+			(pinfunction "Pin_2_2")
+			(pintype "passive")
+			(uuid "fe8ef44b-a813-4f39-a88c-cf2e2e41161b")
+		)
+		(pad "3" thru_hole circle
+			(at 0 -5.08 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/L_Bal_OUT_P_M")
+			(pinfunction "Pin_3_3")
+			(pintype "passive")
+			(uuid "9a220924-bb3c-4511-aeb4-a5dd074c305f")
+		)
+		(pad "4" thru_hole circle
+			(at 0 -7.62 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/L_Bal_OUT_N_M")
+			(pinfunction "Pin_4_4")
+			(pintype "passive")
+			(uuid "32daac64-769e-49de-8b0b-6bfb860bec48")
+		)
+		(pad "5" thru_hole circle
+			(at 0 -10.16 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/R_Bal_OUT_P_M")
+			(pinfunction "Pin_5_5")
+			(pintype "passive")
+			(uuid "162ea456-a667-473f-a0b9-f587c641ba57")
+		)
+		(pad "6" thru_hole circle
+			(at 0 -12.7 180)
+			(size 1.7 1.7)
+			(drill 1)
+			(layers "*.Cu" "*.Mask")
+			(remove_unused_layers no)
+			(net "/Balanced Line Driver/R_Bal_OUT_N_M")
+			(pinfunction "Pin_6_6")
+			(pintype "passive")
+			(uuid "2826ad8f-ff59-4eda-ade2-fa3682c612e2")
+		)
+		(embedded_fonts no)
+		(model "${KICAD10_3DMODEL_DIR}/Connector_PinSocket_2.54mm.3dshapes/PinSocket_1x06_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -30611,7 +31268,7 @@
 		(property "Reference" "C1"
 			(at 1 -3.75 90)
 			(layer "B.SilkS")
-			(uuid "004bc3e8-64ec-4944-9e0d-15c71972df53")
+			(uuid "87c74dac-41ba-4ef9-9940-c78a871dcd3e")
 			(effects
 				(font
 					(size 1 1)
@@ -30624,7 +31281,7 @@
 			(at 1 -3.75 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8eb13ab5-8d60-4c8b-9088-be4397efc5c1")
+			(uuid "4b763885-82ba-44a6-b089-f4116813d0b6")
 			(effects
 				(font
 					(size 1 1)
@@ -30637,7 +31294,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "473fbe58-3127-46f9-b613-eb1f06dc28d2")
+			(uuid "d46ae132-f994-4457-b8bd-8a70fd3ff66c")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30650,7 +31307,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "abc51848-cf3c-43e5-8de7-f2279d2a5e60")
+			(uuid "7e8074b8-c546-4c5a-b3a8-0185ba80359b")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -30676,6 +31333,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/17f931fa-aa5a-4951-b583-54db7f8f11d2")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -31977,7 +32640,7 @@
 		(property "Reference" "J23"
 			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "f0ff0c17-80fd-4c71-8562-45eade19606e")
+			(uuid "8d8d632a-c318-4707-91a6-1df59e6651ee")
 			(effects
 				(font
 					(size 1 1)
@@ -31990,7 +32653,7 @@
 			(at 0 -15.47 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "8b0b2ffb-e83a-439a-b703-3120c463571f")
+			(uuid "15ca695d-7fc8-4e31-99dc-15f6b50ea085")
 			(effects
 				(font
 					(size 1 1)
@@ -32003,7 +32666,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "0040db75-2ed7-49aa-833c-5d9a71fab563")
+			(uuid "5b0768b4-d01a-4f06-a23f-eed147e22f45")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32015,7 +32678,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "73798e7b-ab84-4839-aec2-3f7b678ccbef")
+			(uuid "53bb7cdf-9f22-4f92-9b6f-da5fcdc457b3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32054,6 +32717,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/fd83cba5-ded9-480b-bfea-6c0539ea4271")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32306,7 +32975,7 @@
 		(property "Reference" "D1"
 			(at 5.08 -2.5 90)
 			(layer "B.SilkS")
-			(uuid "474c7477-b046-4f6b-adb3-a7650150fc8e")
+			(uuid "625e0d1e-1f32-4471-948a-f1893592ef96")
 			(effects
 				(font
 					(size 1 1)
@@ -32319,7 +32988,7 @@
 			(at 5.08 -2.47 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f80a40e5-34cd-4720-9984-92a76aeb6b46")
+			(uuid "eeba0878-f201-44b8-acca-1b2825b856b4")
 			(effects
 				(font
 					(size 1 1)
@@ -32332,7 +33001,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "65c4a72b-f5f3-4513-8025-508b58093878")
+			(uuid "96056ee9-c918-482d-ba7f-b2241f754a0e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32345,7 +33014,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "28f70a4b-5a77-4f63-9506-1f16ed4d82ce")
+			(uuid "d993d882-f790-4ee3-a879-35440af0cdf4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32371,6 +33040,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/f677537c-673a-4dbc-b364-fcd0643103bd")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32588,7 +33263,7 @@
 		(property "Reference" "J26"
 			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "05c7363c-322d-41ae-b01a-ce6fa4f29ed1")
+			(uuid "58cd9f79-fafa-4e4c-aa3c-c0b1c9edcb3c")
 			(effects
 				(font
 					(size 1 1)
@@ -32601,7 +33276,7 @@
 			(at 0 -15.47 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "e04733a0-9924-4b58-8862-652c5a7adfcc")
+			(uuid "c11a3116-78e0-42e4-be70-15a722195de1")
 			(effects
 				(font
 					(size 1 1)
@@ -32614,7 +33289,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f4afde0e-c802-400c-a924-8ad51f95f565")
+			(uuid "df1c51db-8242-41ea-afc4-779dd30297d4")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32626,7 +33301,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1a035294-cfeb-4914-bcd3-f5f6f7fce45b")
+			(uuid "78def1b2-f787-49ef-99e4-17866fc6bcab")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32651,6 +33326,32 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/d85ad5b3-df3e-42cc-92b2-c35b085ab54e")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+			(unit
+				(name "E")
+				(pins "5")
+			)
+			(unit
+				(name "F")
+				(pins "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -32903,7 +33604,7 @@
 		(property "Reference" "D2"
 			(at 6.83 -2.5 90)
 			(layer "B.SilkS")
-			(uuid "42c8d372-6eca-4e3c-943a-c58be8350ea2")
+			(uuid "be79d300-53ca-4efb-9939-928c9f57771c")
 			(effects
 				(font
 					(size 1 1)
@@ -32916,7 +33617,7 @@
 			(at 5.08 -2.47 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "751bd1a6-aece-49fe-aef9-86e344acafb4")
+			(uuid "aa77ee4f-3283-4709-b805-b7d75ac624d4")
 			(effects
 				(font
 					(size 1 1)
@@ -32929,7 +33630,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "b8c8bcbb-5a3e-4cf2-8800-94ab90176304")
+			(uuid "6271a711-139e-46d4-b293-09da0ced3bb3")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32942,7 +33643,7 @@
 			(at 0 0 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "93896149-5e8d-4d39-a4c6-aeb756138c06")
+			(uuid "f8653667-4a2c-4744-bb38-cf8522ce1d2a")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -32968,6 +33669,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/df42c66b-fad8-4e6c-b76d-4647840a8b71")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33176,6 +33883,7 @@
 		)
 	)
 	(footprint "SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_BackBone"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "d4b2cdfc-a3eb-42d7-96aa-7adeb70ad847")
 		(at 66.83 159.7525 90)
@@ -33184,7 +33892,7 @@
 		(property "Reference" "J200"
 			(at 1.27 6.1 90)
 			(layer "B.SilkS")
-			(uuid "3a8c292b-2fa2-4742-a305-aebc05f07547")
+			(uuid "0be7c8a1-f4a1-4adc-ac82-27396f4f565b")
 			(effects
 				(font
 					(size 1 1)
@@ -33197,7 +33905,7 @@
 			(at 1.27 -16.26 90)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "c62f9c07-eeea-4309-bfcd-f36b2c5bc74a")
+			(uuid "2fb781ba-0b88-46ad-a5cd-2ea0a786f59c")
 			(effects
 				(font
 					(size 1 1)
@@ -33211,7 +33919,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "f1a8e17c-7e50-47f3-b92c-bd8adfbba9a9")
+			(uuid "6521433e-63a7-48d8-b5c5-fbd97d474d0e")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33225,7 +33933,7 @@
 			(unlocked yes)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "31d53429-ef46-4438-ae1d-e73b3bde3397")
+			(uuid "94e575f6-f5fe-4d4d-8139-118a71faa4dd")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33238,6 +33946,12 @@
 		(path "/bf7a18f9-d223-44b2-99f2-e4b185efa1cd")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Main.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6" "7" "8" "9" "10")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -33684,7 +34398,7 @@
 			(uuid "ca121962-f434-4f57-a598-ae0d7b369fa5")
 		)
 		(embedded_fonts no)
-		(model "${KICAD8_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.wrl"
+		(model "${KICAD8_3DMODEL_DIR}/Connector_IDC.3dshapes/IDC-Header_2x05_P2.54mm_Vertical.step"
 			(offset
 				(xyz 0 0 0)
 			)
@@ -33706,7 +34420,7 @@
 		(property "Reference" "J28"
 			(at 0 2.77 0)
 			(layer "B.SilkS")
-			(uuid "14e7fcfa-2fd3-465d-9450-57fb3f2e9d02")
+			(uuid "7db6151e-e424-49ae-92e6-04e383531a43")
 			(effects
 				(font
 					(size 1 1)
@@ -33719,7 +34433,7 @@
 			(at 0 -15.47 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "7d939090-7ab9-468b-8585-a6e920bc92af")
+			(uuid "d957e792-8e60-4c79-9d2a-d13f64a8d7c5")
 			(effects
 				(font
 					(size 1 1)
@@ -33732,7 +34446,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "1582e8cd-4af0-4ca3-ad2a-88f1b6dc9a68")
+			(uuid "e8afec84-4947-405e-b658-abb606d788e1")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33744,7 +34458,7 @@
 			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
-			(uuid "44fb8d1b-6e9c-48ca-a817-bbdf55a97bc9")
+			(uuid "27025b88-6402-4c6a-adb6-7bbf5eaa6bc9")
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -33783,6 +34497,12 @@
 		(path "/2bf49d64-899a-4cd6-98ee-a1cb99869b23/7562f9c7-3e42-4393-affd-97b34968418a")
 		(sheetname "/PreAmp/")
 		(sheetfile "PreAmp.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -35516,9 +36236,63 @@
 				(xy 64.606243 161.069746) (xy 64.808412 161.004057) (xy 64.997816 160.907551) (xy 65.052572 160.867769)
 				(xy 65.169786 160.782609) (xy 65.169788 160.782606) (xy 65.169792 160.782604) (xy 65.320104 160.632292)
 				(xy 65.32366 160.627396) (xy 65.378987 160.58473) (xy 65.4486 160.578748) (xy 65.510397 160.611351)
-				(xy 65.541686 160.661272) (xy 65.545186 160.671834) (xy 65.637288 160.821156) (xy 65.761344 160.945212)
-				(xy 65.910666 161.037314) (xy 66.077203 161.092499) (xy 66.179991 161.103) (xy 67.480008 161.102999)
-				(xy 67.582797 161.092499) (xy 67.749334 161.037314) (xy 67.898656 160.945212) (xy 68.022712 160.821156)
+				(xy 65.541686 160.661272) (xy 65.545184 160.671829) (xy 65.545185 160.671832) (xy 65.545186 160.671834)
+				(xy 65.637288 160.821156) (xy 65.761344 160.945212) (xy 65.910666 161.037314) (xy 66.077203 161.092499)
+				(xy 66.179991 161.103) (xy 67.480008 161.102999) (xy 67.582797 161.092499) (xy 67.749334 161.037314)
+				(xy 67.898656 160.945212) (xy 68.022712 160.821156) (xy 68.096124 160.702135) (xy 74.1695 160.702135)
+				(xy 74.1695 162.49787) (xy 74.169501 162.497876) (xy 74.175908 162.557483) (xy 74.226202 162.692328)
+				(xy 74.226206 162.692335) (xy 74.312452 162.807544) (xy 74.312455 162.807547) (xy 74.427664 162.893793)
+				(xy 74.427671 162.893797) (xy 74.562517 162.944091) (xy 74.562516 162.944091) (xy 74.569444 162.944835)
+				(xy 74.622127 162.9505) (xy 76.417872 162.950499) (xy 76.477483 162.944091) (xy 76.612331 162.893796)
+				(xy 76.727546 162.807546) (xy 76.813796 162.692331) (xy 76.86281 162.560916) (xy 76.904681 162.504984)
+				(xy 76.970145 162.480566) (xy 77.038418 162.495417) (xy 77.066673 162.516569) (xy 77.180213 162.630109)
+				(xy 77.352179 162.755048) (xy 77.352181 162.755049) (xy 77.352184 162.755051) (xy 77.541588 162.851557)
+				(xy 77.743757 162.917246) (xy 77.953713 162.9505) (xy 77.953714 162.9505) (xy 78.166286 162.9505)
+				(xy 78.166287 162.9505) (xy 78.376243 162.917246) (xy 78.578412 162.851557) (xy 78.767816 162.755051)
+				(xy 78.854138 162.692335) (xy 78.939786 162.630109) (xy 78.939788 162.630106) (xy 78.939792 162.630104)
+				(xy 79.090104 162.479792) (xy 79.090106 162.479788) (xy 79.090109 162.479786) (xy 79.215048 162.30782)
+				(xy 79.215047 162.30782) (xy 79.215051 162.307816) (xy 79.219514 162.299054) (xy 79.267488 162.248259)
+				(xy 79.335308 162.231463) (xy 79.401444 162.253999) (xy 79.440486 162.299056) (xy 79.444951 162.30782)
+				(xy 79.56989 162.479786) (xy 79.720213 162.630109) (xy 79.892179 162.755048) (xy 79.892181 162.755049)
+				(xy 79.892184 162.755051) (xy 80.081588 162.851557) (xy 80.283757 162.917246) (xy 80.493713 162.9505)
+				(xy 80.493714 162.9505) (xy 80.706286 162.9505) (xy 80.706287 162.9505) (xy 80.916243 162.917246)
+				(xy 81.118412 162.851557) (xy 81.307816 162.755051) (xy 81.394138 162.692335) (xy 81.479786 162.630109)
+				(xy 81.479788 162.630106) (xy 81.479792 162.630104) (xy 81.630104 162.479792) (xy 81.630106 162.479788)
+				(xy 81.630109 162.479786) (xy 81.755048 162.30782) (xy 81.755047 162.30782) (xy 81.755051 162.307816)
+				(xy 81.759514 162.299054) (xy 81.807488 162.248259) (xy 81.875308 162.231463) (xy 81.941444 162.253999)
+				(xy 81.980486 162.299056) (xy 81.984951 162.30782) (xy 82.10989 162.479786) (xy 82.260213 162.630109)
+				(xy 82.432179 162.755048) (xy 82.432181 162.755049) (xy 82.432184 162.755051) (xy 82.621588 162.851557)
+				(xy 82.823757 162.917246) (xy 83.033713 162.9505) (xy 83.033714 162.9505) (xy 83.246286 162.9505)
+				(xy 83.246287 162.9505) (xy 83.456243 162.917246) (xy 83.658412 162.851557) (xy 83.847816 162.755051)
+				(xy 83.934138 162.692335) (xy 84.019786 162.630109) (xy 84.019788 162.630106) (xy 84.019792 162.630104)
+				(xy 84.170104 162.479792) (xy 84.170106 162.479788) (xy 84.170109 162.479786) (xy 84.295048 162.30782)
+				(xy 84.295047 162.30782) (xy 84.295051 162.307816) (xy 84.391557 162.118412) (xy 84.457246 161.916243)
+				(xy 84.4905 161.706287) (xy 84.4905 161.493713) (xy 84.457246 161.283757) (xy 84.391557 161.081588)
+				(xy 84.295051 160.892184) (xy 84.295049 160.892181) (xy 84.295048 160.892179) (xy 84.170109 160.720213)
+				(xy 84.019786 160.56989) (xy 83.84782 160.444951) (xy 83.658414 160.348444) (xy 83.658413 160.348443)
+				(xy 83.658412 160.348443) (xy 83.456243 160.282754) (xy 83.456241 160.282753) (xy 83.45624 160.282753)
+				(xy 83.294957 160.257208) (xy 83.246287 160.2495) (xy 83.033713 160.2495) (xy 82.985042 160.257208)
+				(xy 82.82376 160.282753) (xy 82.621585 160.348444) (xy 82.432179 160.444951) (xy 82.260213 160.56989)
+				(xy 82.10989 160.720213) (xy 81.984949 160.892182) (xy 81.980484 160.900946) (xy 81.932509 160.951742)
+				(xy 81.864688 160.968536) (xy 81.798553 160.945998) (xy 81.759516 160.900946) (xy 81.75505 160.892182)
+				(xy 81.630109 160.720213) (xy 81.479786 160.56989) (xy 81.30782 160.444951) (xy 81.118414 160.348444)
+				(xy 81.118413 160.348443) (xy 81.118412 160.348443) (xy 80.916243 160.282754) (xy 80.916241 160.282753)
+				(xy 80.91624 160.282753) (xy 80.754957 160.257208) (xy 80.706287 160.2495) (xy 80.493713 160.2495)
+				(xy 80.445042 160.257208) (xy 80.28376 160.282753) (xy 80.081585 160.348444) (xy 79.892179 160.444951)
+				(xy 79.720213 160.56989) (xy 79.56989 160.720213) (xy 79.444949 160.892182) (xy 79.440484 160.900946)
+				(xy 79.392509 160.951742) (xy 79.324688 160.968536) (xy 79.258553 160.945998) (xy 79.219516 160.900946)
+				(xy 79.21505 160.892182) (xy 79.090109 160.720213) (xy 78.939786 160.56989) (xy 78.76782 160.444951)
+				(xy 78.578414 160.348444) (xy 78.578413 160.348443) (xy 78.578412 160.348443) (xy 78.376243 160.282754)
+				(xy 78.376241 160.282753) (xy 78.37624 160.282753) (xy 78.214957 160.257208) (xy 78.166287 160.2495)
+				(xy 77.953713 160.2495) (xy 77.905042 160.257208) (xy 77.74376 160.282753) (xy 77.541585 160.348444)
+				(xy 77.352179 160.444951) (xy 77.180215 160.569889) (xy 77.066673 160.683431) (xy 77.00535 160.716915)
+				(xy 76.935658 160.711931) (xy 76.879725 160.670059) (xy 76.86281 160.639082) (xy 76.813797 160.507671)
+				(xy 76.813793 160.507664) (xy 76.727547 160.392455) (xy 76.727544 160.392452) (xy 76.612335 160.306206)
+				(xy 76.612328 160.306202) (xy 76.477482 160.255908) (xy 76.477483 160.255908) (xy 76.417883 160.249501)
+				(xy 76.417881 160.2495) (xy 76.417873 160.2495) (xy 76.417864 160.2495) (xy 74.622129 160.2495)
+				(xy 74.622123 160.249501) (xy 74.562516 160.255908) (xy 74.427671 160.306202) (xy 74.427664 160.306206)
+				(xy 74.312455 160.392452) (xy 74.312452 160.392455) (xy 74.226206 160.507664) (xy 74.226202 160.507671)
+				(xy 74.175908 160.642517) (xy 74.169501 160.702116) (xy 74.1695 160.702135) (xy 68.096124 160.702135)
 				(xy 68.114814 160.671834) (xy 68.169999 160.505297) (xy 68.1805 160.402509) (xy 68.180499 159.102492)
 				(xy 68.169999 158.999703) (xy 68.114814 158.833166) (xy 68.022712 158.683844) (xy 67.898656 158.559788)
 				(xy 67.775634 158.483908) (xy 67.749336 158.467687) (xy 67.749325 158.467682) (xy 67.738773 158.464186)
@@ -35759,14 +36533,135 @@
 				(xy 51.817516 137.580908) (xy 51.682671 137.631202) (xy 51.682664 137.631206) (xy 51.567455 137.717452)
 				(xy 51.567452 137.717455) (xy 51.481206 137.832664) (xy 51.481202 137.832671) (xy 51.430908 137.967517)
 				(xy 51.424501 138.027116) (xy 51.424501 138.027123) (xy 51.4245 138.027135) (xy 51.0005 138.027135)
-				(xy 51.0005 53.527135) (xy 51.4245 53.527135) (xy 51.4245 55.32287) (xy 51.424501 55.322876) (xy 51.430908 55.382483)
-				(xy 51.481202 55.517328) (xy 51.481206 55.517335) (xy 51.567452 55.632544) (xy 51.567455 55.632547)
-				(xy 51.682664 55.718793) (xy 51.682671 55.718797) (xy 51.693168 55.722712) (xy 51.817517 55.769091)
-				(xy 51.877127 55.7755) (xy 51.887685 55.775499) (xy 51.954723 55.795179) (xy 51.975372 55.811818)
-				(xy 52.645591 56.482037) (xy 52.582007 56.499075) (xy 52.467993 56.564901) (xy 52.374901 56.657993)
-				(xy 52.309075 56.772007) (xy 52.292037 56.835591) (xy 51.659728 56.203282) (xy 51.659727 56.203282)
-				(xy 51.62038 56.257439) (xy 51.523904 56.446782) (xy 51.458242 56.648869) (xy 51.458242 56.648872)
-				(xy 51.425 56.858753) (xy 51.425 57.071246) (xy 51.458242 57.281127) (xy 51.458242 57.28113) (xy 51.523904 57.483217)
+				(xy 51.0005 98.292135) (xy 51.4245 98.292135) (xy 51.4245 100.08787) (xy 51.424501 100.087876) (xy 51.430908 100.147483)
+				(xy 51.481202 100.282328) (xy 51.481206 100.282335) (xy 51.567452 100.397544) (xy 51.567455 100.397547)
+				(xy 51.682664 100.483793) (xy 51.682671 100.483797) (xy 51.814082 100.53281) (xy 51.870016 100.574681)
+				(xy 51.894433 100.640145) (xy 51.879582 100.708418) (xy 51.858431 100.736673) (xy 51.744889 100.850215)
+				(xy 51.619951 101.022179) (xy 51.523444 101.211585) (xy 51.457753 101.41376) (xy 51.4245 101.623713)
+				(xy 51.4245 101.836287) (xy 51.42846 101.861287) (xy 51.457753 102.046239) (xy 51.523444 102.248414)
+				(xy 51.619951 102.43782) (xy 51.74489 102.609786) (xy 51.895213 102.760109) (xy 52.067182 102.88505)
+				(xy 52.075946 102.889516) (xy 52.126742 102.937491) (xy 52.143536 103.005312) (xy 52.120998 103.071447)
+				(xy 52.075946 103.110484) (xy 52.067182 103.114949) (xy 51.895213 103.23989) (xy 51.74489 103.390213)
+				(xy 51.619951 103.562179) (xy 51.523444 103.751585) (xy 51.457753 103.95376) (xy 51.4245 104.163713)
+				(xy 51.4245 104.376287) (xy 51.42846 104.401287) (xy 51.457753 104.586239) (xy 51.523444 104.788414)
+				(xy 51.619951 104.97782) (xy 51.74489 105.149786) (xy 51.895213 105.300109) (xy 52.067182 105.42505)
+				(xy 52.075946 105.429516) (xy 52.126742 105.477491) (xy 52.143536 105.545312) (xy 52.120998 105.611447)
+				(xy 52.075946 105.650484) (xy 52.067182 105.654949) (xy 51.895213 105.77989) (xy 51.74489 105.930213)
+				(xy 51.619951 106.102179) (xy 51.523444 106.291585) (xy 51.457753 106.49376) (xy 51.4245 106.703713)
+				(xy 51.4245 106.916287) (xy 51.42846 106.941287) (xy 51.457753 107.126239) (xy 51.523444 107.328414)
+				(xy 51.619951 107.51782) (xy 51.74489 107.689786) (xy 51.895213 107.840109) (xy 52.067179 107.965048)
+				(xy 52.067181 107.965049) (xy 52.067184 107.965051) (xy 52.256588 108.061557) (xy 52.458757 108.127246)
+				(xy 52.668713 108.1605) (xy 52.668714 108.1605) (xy 52.881286 108.1605) (xy 52.881287 108.1605)
+				(xy 53.091243 108.127246) (xy 53.293412 108.061557) (xy 53.482816 107.965051) (xy 53.504789 107.949086)
+				(xy 53.654786 107.840109) (xy 53.654788 107.840106) (xy 53.654792 107.840104) (xy 53.805104 107.689792)
+				(xy 53.805106 107.689788) (xy 53.805109 107.689786) (xy 53.930048 107.51782) (xy 53.930047 107.51782)
+				(xy 53.930051 107.517816) (xy 54.026557 107.328412) (xy 54.092246 107.126243) (xy 54.1255 106.916287)
+				(xy 54.1255 106.703713) (xy 54.092246 106.493757) (xy 54.026557 106.291588) (xy 53.930051 106.102184)
+				(xy 53.930049 106.102181) (xy 53.930048 106.102179) (xy 53.805109 105.930213) (xy 53.654786 105.77989)
+				(xy 53.48282 105.654951) (xy 53.482115 105.654591) (xy 53.474054 105.650485) (xy 53.423259 105.602512)
+				(xy 53.406463 105.534692) (xy 53.428999 105.468556) (xy 53.474054 105.429515) (xy 53.482816 105.425051)
+				(xy 53.504789 105.409086) (xy 53.654786 105.300109) (xy 53.654788 105.300106) (xy 53.654792 105.300104)
+				(xy 53.805104 105.149792) (xy 53.805106 105.149788) (xy 53.805109 105.149786) (xy 53.930048 104.97782)
+				(xy 53.930047 104.97782) (xy 53.930051 104.977816) (xy 54.026557 104.788412) (xy 54.092246 104.586243)
+				(xy 54.1255 104.376287) (xy 54.1255 104.163713) (xy 54.092246 103.953757) (xy 54.026557 103.751588)
+				(xy 53.930051 103.562184) (xy 53.930049 103.562181) (xy 53.930048 103.562179) (xy 53.805109 103.390213)
+				(xy 53.654786 103.23989) (xy 53.48282 103.114951) (xy 53.482115 103.114591) (xy 53.474054 103.110485)
+				(xy 53.423259 103.062512) (xy 53.406463 102.994692) (xy 53.428999 102.928556) (xy 53.474054 102.889515)
+				(xy 53.482816 102.885051) (xy 53.504789 102.869086) (xy 53.654786 102.760109) (xy 53.654788 102.760106)
+				(xy 53.654792 102.760104) (xy 53.805104 102.609792) (xy 53.805106 102.609788) (xy 53.805109 102.609786)
+				(xy 53.930048 102.43782) (xy 53.930047 102.43782) (xy 53.930051 102.437816) (xy 54.026557 102.248412)
+				(xy 54.092246 102.046243) (xy 54.1255 101.836287) (xy 54.1255 101.623713) (xy 54.092246 101.413757)
+				(xy 54.026557 101.211588) (xy 53.930051 101.022184) (xy 53.930049 101.022181) (xy 53.930048 101.022179)
+				(xy 53.805109 100.850213) (xy 53.691569 100.736673) (xy 53.658084 100.67535) (xy 53.663068 100.605658)
+				(xy 53.70494 100.549725) (xy 53.735915 100.53281) (xy 53.867331 100.483796) (xy 53.982546 100.397546)
+				(xy 54.068796 100.282331) (xy 54.119091 100.147483) (xy 54.1255 100.087873) (xy 54.125499 98.292128)
+				(xy 54.119091 98.232517) (xy 54.115046 98.221673) (xy 54.068797 98.097671) (xy 54.068793 98.097664)
+				(xy 53.982547 97.982455) (xy 53.982544 97.982452) (xy 53.867335 97.896206) (xy 53.867328 97.896202)
+				(xy 53.732482 97.845908) (xy 53.732483 97.845908) (xy 53.672883 97.839501) (xy 53.672881 97.8395)
+				(xy 53.672873 97.8395) (xy 53.672864 97.8395) (xy 51.877129 97.8395) (xy 51.877123 97.839501) (xy 51.817516 97.845908)
+				(xy 51.682671 97.896202) (xy 51.682664 97.896206) (xy 51.567455 97.982452) (xy 51.567452 97.982455)
+				(xy 51.481206 98.097664) (xy 51.481202 98.097671) (xy 51.430908 98.232517) (xy 51.424501 98.292116)
+				(xy 51.424501 98.292123) (xy 51.4245 98.292135) (xy 51.0005 98.292135) (xy 51.0005 95.777135) (xy 95.9245 95.777135)
+				(xy 95.9245 97.57287) (xy 95.924501 97.572876) (xy 95.930908 97.632483) (xy 95.981202 97.767328)
+				(xy 95.981206 97.767335) (xy 96.067452 97.882544) (xy 96.067455 97.882547) (xy 96.182664 97.968793)
+				(xy 96.182671 97.968797) (xy 96.314082 98.01781) (xy 96.370016 98.059681) (xy 96.394433 98.125145)
+				(xy 96.379582 98.193418) (xy 96.358431 98.221673) (xy 96.244889 98.335215) (xy 96.119951 98.507179)
+				(xy 96.023444 98.696585) (xy 95.957753 98.89876) (xy 95.9245 99.108713) (xy 95.9245 99.321286) (xy 95.957753 99.531239)
+				(xy 96.023444 99.733414) (xy 96.119951 99.92282) (xy 96.24489 100.094786) (xy 96.395213 100.245109)
+				(xy 96.567182 100.37005) (xy 96.575946 100.374516) (xy 96.626742 100.422491) (xy 96.643536 100.490312)
+				(xy 96.620998 100.556447) (xy 96.575946 100.595484) (xy 96.567182 100.599949) (xy 96.395213 100.72489)
+				(xy 96.24489 100.875213) (xy 96.119951 101.047179) (xy 96.023444 101.236585) (xy 95.957753 101.43876)
+				(xy 95.9245 101.648713) (xy 95.9245 101.861286) (xy 95.957753 102.071239) (xy 96.023444 102.273414)
+				(xy 96.119951 102.46282) (xy 96.24489 102.634786) (xy 96.395213 102.785109) (xy 96.567182 102.91005)
+				(xy 96.575946 102.914516) (xy 96.626742 102.962491) (xy 96.643536 103.030312) (xy 96.620998 103.096447)
+				(xy 96.575946 103.135484) (xy 96.567182 103.139949) (xy 96.395213 103.26489) (xy 96.24489 103.415213)
+				(xy 96.119951 103.587179) (xy 96.023444 103.776585) (xy 95.957753 103.97876) (xy 95.9245 104.188713)
+				(xy 95.9245 104.401286) (xy 95.957753 104.611239) (xy 96.023444 104.813414) (xy 96.119951 105.00282)
+				(xy 96.24489 105.174786) (xy 96.395213 105.325109) (xy 96.567182 105.45005) (xy 96.575946 105.454516)
+				(xy 96.626742 105.502491) (xy 96.643536 105.570312) (xy 96.620998 105.636447) (xy 96.575946 105.675484)
+				(xy 96.567182 105.679949) (xy 96.395213 105.80489) (xy 96.24489 105.955213) (xy 96.119951 106.127179)
+				(xy 96.023444 106.316585) (xy 95.957753 106.51876) (xy 95.9245 106.728713) (xy 95.9245 106.941286)
+				(xy 95.957753 107.151239) (xy 96.023444 107.353414) (xy 96.119951 107.54282) (xy 96.24489 107.714786)
+				(xy 96.395213 107.865109) (xy 96.567182 107.99005) (xy 96.575946 107.994516) (xy 96.626742 108.042491)
+				(xy 96.643536 108.110312) (xy 96.620998 108.176447) (xy 96.575946 108.215484) (xy 96.567182 108.219949)
+				(xy 96.395213 108.34489) (xy 96.24489 108.495213) (xy 96.119951 108.667179) (xy 96.023444 108.856585)
+				(xy 95.957753 109.05876) (xy 95.9245 109.268713) (xy 95.9245 109.481286) (xy 95.957753 109.691239)
+				(xy 96.023444 109.893414) (xy 96.119951 110.08282) (xy 96.24489 110.254786) (xy 96.395213 110.405109)
+				(xy 96.567179 110.530048) (xy 96.567181 110.530049) (xy 96.567184 110.530051) (xy 96.756588 110.626557)
+				(xy 96.958757 110.692246) (xy 97.168713 110.7255) (xy 97.168714 110.7255) (xy 97.381286 110.7255)
+				(xy 97.381287 110.7255) (xy 97.591243 110.692246) (xy 97.793412 110.626557) (xy 97.982816 110.530051)
+				(xy 98.004789 110.514086) (xy 98.154786 110.405109) (xy 98.154788 110.405106) (xy 98.154792 110.405104)
+				(xy 98.305104 110.254792) (xy 98.305106 110.254788) (xy 98.305109 110.254786) (xy 98.430048 110.08282)
+				(xy 98.430047 110.08282) (xy 98.430051 110.082816) (xy 98.526557 109.893412) (xy 98.592246 109.691243)
+				(xy 98.6255 109.481287) (xy 98.6255 109.268713) (xy 98.592246 109.058757) (xy 98.526557 108.856588)
+				(xy 98.430051 108.667184) (xy 98.430049 108.667181) (xy 98.430048 108.667179) (xy 98.305109 108.495213)
+				(xy 98.154786 108.34489) (xy 97.98282 108.219951) (xy 97.982115 108.219591) (xy 97.974054 108.215485)
+				(xy 97.923259 108.167512) (xy 97.906463 108.099692) (xy 97.928999 108.033556) (xy 97.974054 107.994515)
+				(xy 97.982816 107.990051) (xy 98.01723 107.965048) (xy 98.154786 107.865109) (xy 98.154788 107.865106)
+				(xy 98.154792 107.865104) (xy 98.305104 107.714792) (xy 98.305106 107.714788) (xy 98.305109 107.714786)
+				(xy 98.430048 107.54282) (xy 98.430047 107.54282) (xy 98.430051 107.542816) (xy 98.526557 107.353412)
+				(xy 98.592246 107.151243) (xy 98.6255 106.941287) (xy 98.6255 106.728713) (xy 98.592246 106.518757)
+				(xy 98.526557 106.316588) (xy 98.430051 106.127184) (xy 98.430049 106.127181) (xy 98.430048 106.127179)
+				(xy 98.305109 105.955213) (xy 98.154786 105.80489) (xy 97.98282 105.679951) (xy 97.982115 105.679591)
+				(xy 97.974054 105.675485) (xy 97.923259 105.627512) (xy 97.906463 105.559692) (xy 97.928999 105.493556)
+				(xy 97.974054 105.454515) (xy 97.982816 105.450051) (xy 98.01723 105.425048) (xy 98.154786 105.325109)
+				(xy 98.154788 105.325106) (xy 98.154792 105.325104) (xy 98.305104 105.174792) (xy 98.305106 105.174788)
+				(xy 98.305109 105.174786) (xy 98.430048 105.00282) (xy 98.430047 105.00282) (xy 98.430051 105.002816)
+				(xy 98.526557 104.813412) (xy 98.592246 104.611243) (xy 98.6255 104.401287) (xy 98.6255 104.188713)
+				(xy 98.592246 103.978757) (xy 98.526557 103.776588) (xy 98.430051 103.587184) (xy 98.430049 103.587181)
+				(xy 98.430048 103.587179) (xy 98.305109 103.415213) (xy 98.154786 103.26489) (xy 97.98282 103.139951)
+				(xy 97.982115 103.139591) (xy 97.974054 103.135485) (xy 97.923259 103.087512) (xy 97.906463 103.019692)
+				(xy 97.928999 102.953556) (xy 97.974054 102.914515) (xy 97.982816 102.910051) (xy 98.01723 102.885048)
+				(xy 98.154786 102.785109) (xy 98.154788 102.785106) (xy 98.154792 102.785104) (xy 98.305104 102.634792)
+				(xy 98.305106 102.634788) (xy 98.305109 102.634786) (xy 98.430048 102.46282) (xy 98.430047 102.46282)
+				(xy 98.430051 102.462816) (xy 98.526557 102.273412) (xy 98.592246 102.071243) (xy 98.6255 101.861287)
+				(xy 98.6255 101.648713) (xy 98.592246 101.438757) (xy 98.526557 101.236588) (xy 98.430051 101.047184)
+				(xy 98.430049 101.047181) (xy 98.430048 101.047179) (xy 98.305109 100.875213) (xy 98.154786 100.72489)
+				(xy 97.98282 100.599951) (xy 97.982115 100.599591) (xy 97.974054 100.595485) (xy 97.923259 100.547512)
+				(xy 97.906463 100.479692) (xy 97.928999 100.413556) (xy 97.974054 100.374515) (xy 97.982816 100.370051)
+				(xy 98.103548 100.282335) (xy 98.154786 100.245109) (xy 98.154788 100.245106) (xy 98.154792 100.245104)
+				(xy 98.305104 100.094792) (xy 98.305106 100.094788) (xy 98.305109 100.094786) (xy 98.430048 99.92282)
+				(xy 98.430047 99.92282) (xy 98.430051 99.922816) (xy 98.526557 99.733412) (xy 98.592246 99.531243)
+				(xy 98.6255 99.321287) (xy 98.6255 99.108713) (xy 98.592246 98.898757) (xy 98.526557 98.696588)
+				(xy 98.430051 98.507184) (xy 98.430049 98.507181) (xy 98.430048 98.507179) (xy 98.305109 98.335213)
+				(xy 98.191569 98.221673) (xy 98.158084 98.16035) (xy 98.163068 98.090658) (xy 98.20494 98.034725)
+				(xy 98.235915 98.01781) (xy 98.367331 97.968796) (xy 98.482546 97.882546) (xy 98.568796 97.767331)
+				(xy 98.619091 97.632483) (xy 98.6255 97.572873) (xy 98.625499 95.777128) (xy 98.619091 95.717517)
+				(xy 98.568796 95.582669) (xy 98.568795 95.582668) (xy 98.568793 95.582664) (xy 98.482547 95.467455)
+				(xy 98.482544 95.467452) (xy 98.367335 95.381206) (xy 98.367328 95.381202) (xy 98.232482 95.330908)
+				(xy 98.232483 95.330908) (xy 98.172883 95.324501) (xy 98.172881 95.3245) (xy 98.172873 95.3245)
+				(xy 98.172864 95.3245) (xy 96.377129 95.3245) (xy 96.377123 95.324501) (xy 96.317516 95.330908)
+				(xy 96.182671 95.381202) (xy 96.182664 95.381206) (xy 96.067455 95.467452) (xy 96.067452 95.467455)
+				(xy 95.981206 95.582664) (xy 95.981202 95.582671) (xy 95.930908 95.717517) (xy 95.924501 95.777116)
+				(xy 95.924501 95.777123) (xy 95.9245 95.777135) (xy 51.0005 95.777135) (xy 51.0005 53.527135) (xy 51.4245 53.527135)
+				(xy 51.4245 55.32287) (xy 51.424501 55.322876) (xy 51.430908 55.382483) (xy 51.481202 55.517328)
+				(xy 51.481206 55.517335) (xy 51.567452 55.632544) (xy 51.567455 55.632547) (xy 51.682664 55.718793)
+				(xy 51.682671 55.718797) (xy 51.693168 55.722712) (xy 51.817517 55.769091) (xy 51.877127 55.7755)
+				(xy 51.887685 55.775499) (xy 51.954723 55.795179) (xy 51.975372 55.811818) (xy 52.645591 56.482037)
+				(xy 52.582007 56.499075) (xy 52.467993 56.564901) (xy 52.374901 56.657993) (xy 52.309075 56.772007)
+				(xy 52.292037 56.835591) (xy 51.659728 56.203282) (xy 51.659727 56.203282) (xy 51.62038 56.257439)
+				(xy 51.523904 56.446782) (xy 51.458242 56.648869) (xy 51.458242 56.648872) (xy 51.425 56.858753)
+				(xy 51.425 57.071246) (xy 51.458242 57.281127) (xy 51.458242 57.28113) (xy 51.523904 57.483217)
 				(xy 51.620375 57.67255) (xy 51.659728 57.726716) (xy 52.292037 57.094408) (xy 52.309075 57.157993)
 				(xy 52.374901 57.272007) (xy 52.467993 57.365099) (xy 52.582007 57.430925) (xy 52.64559 57.447962)
 				(xy 52.013282 58.080269) (xy 52.013282 58.08027) (xy 52.067452 58.119626) (xy 52.077048 58.124516)
@@ -37004,9 +37899,63 @@
 				(xy 64.606243 161.069746) (xy 64.808412 161.004057) (xy 64.997816 160.907551) (xy 65.052572 160.867769)
 				(xy 65.169786 160.782609) (xy 65.169788 160.782606) (xy 65.169792 160.782604) (xy 65.320104 160.632292)
 				(xy 65.32366 160.627396) (xy 65.378987 160.58473) (xy 65.4486 160.578748) (xy 65.510397 160.611351)
-				(xy 65.541686 160.661272) (xy 65.545186 160.671834) (xy 65.637288 160.821156) (xy 65.761344 160.945212)
-				(xy 65.910666 161.037314) (xy 66.077203 161.092499) (xy 66.179991 161.103) (xy 67.480008 161.102999)
-				(xy 67.582797 161.092499) (xy 67.749334 161.037314) (xy 67.898656 160.945212) (xy 68.022712 160.821156)
+				(xy 65.541686 160.661272) (xy 65.545184 160.671829) (xy 65.545185 160.671832) (xy 65.545186 160.671834)
+				(xy 65.637288 160.821156) (xy 65.761344 160.945212) (xy 65.910666 161.037314) (xy 66.077203 161.092499)
+				(xy 66.179991 161.103) (xy 67.480008 161.102999) (xy 67.582797 161.092499) (xy 67.749334 161.037314)
+				(xy 67.898656 160.945212) (xy 68.022712 160.821156) (xy 68.096124 160.702135) (xy 74.1695 160.702135)
+				(xy 74.1695 162.49787) (xy 74.169501 162.497876) (xy 74.175908 162.557483) (xy 74.226202 162.692328)
+				(xy 74.226206 162.692335) (xy 74.312452 162.807544) (xy 74.312455 162.807547) (xy 74.427664 162.893793)
+				(xy 74.427671 162.893797) (xy 74.562517 162.944091) (xy 74.562516 162.944091) (xy 74.569444 162.944835)
+				(xy 74.622127 162.9505) (xy 76.417872 162.950499) (xy 76.477483 162.944091) (xy 76.612331 162.893796)
+				(xy 76.727546 162.807546) (xy 76.813796 162.692331) (xy 76.86281 162.560916) (xy 76.904681 162.504984)
+				(xy 76.970145 162.480566) (xy 77.038418 162.495417) (xy 77.066673 162.516569) (xy 77.180213 162.630109)
+				(xy 77.352179 162.755048) (xy 77.352181 162.755049) (xy 77.352184 162.755051) (xy 77.541588 162.851557)
+				(xy 77.743757 162.917246) (xy 77.953713 162.9505) (xy 77.953714 162.9505) (xy 78.166286 162.9505)
+				(xy 78.166287 162.9505) (xy 78.376243 162.917246) (xy 78.578412 162.851557) (xy 78.767816 162.755051)
+				(xy 78.854138 162.692335) (xy 78.939786 162.630109) (xy 78.939788 162.630106) (xy 78.939792 162.630104)
+				(xy 79.090104 162.479792) (xy 79.090106 162.479788) (xy 79.090109 162.479786) (xy 79.215048 162.30782)
+				(xy 79.215047 162.30782) (xy 79.215051 162.307816) (xy 79.219514 162.299054) (xy 79.267488 162.248259)
+				(xy 79.335308 162.231463) (xy 79.401444 162.253999) (xy 79.440486 162.299056) (xy 79.444951 162.30782)
+				(xy 79.56989 162.479786) (xy 79.720213 162.630109) (xy 79.892179 162.755048) (xy 79.892181 162.755049)
+				(xy 79.892184 162.755051) (xy 80.081588 162.851557) (xy 80.283757 162.917246) (xy 80.493713 162.9505)
+				(xy 80.493714 162.9505) (xy 80.706286 162.9505) (xy 80.706287 162.9505) (xy 80.916243 162.917246)
+				(xy 81.118412 162.851557) (xy 81.307816 162.755051) (xy 81.394138 162.692335) (xy 81.479786 162.630109)
+				(xy 81.479788 162.630106) (xy 81.479792 162.630104) (xy 81.630104 162.479792) (xy 81.630106 162.479788)
+				(xy 81.630109 162.479786) (xy 81.755048 162.30782) (xy 81.755047 162.30782) (xy 81.755051 162.307816)
+				(xy 81.759514 162.299054) (xy 81.807488 162.248259) (xy 81.875308 162.231463) (xy 81.941444 162.253999)
+				(xy 81.980486 162.299056) (xy 81.984951 162.30782) (xy 82.10989 162.479786) (xy 82.260213 162.630109)
+				(xy 82.432179 162.755048) (xy 82.432181 162.755049) (xy 82.432184 162.755051) (xy 82.621588 162.851557)
+				(xy 82.823757 162.917246) (xy 83.033713 162.9505) (xy 83.033714 162.9505) (xy 83.246286 162.9505)
+				(xy 83.246287 162.9505) (xy 83.456243 162.917246) (xy 83.658412 162.851557) (xy 83.847816 162.755051)
+				(xy 83.934138 162.692335) (xy 84.019786 162.630109) (xy 84.019788 162.630106) (xy 84.019792 162.630104)
+				(xy 84.170104 162.479792) (xy 84.170106 162.479788) (xy 84.170109 162.479786) (xy 84.295048 162.30782)
+				(xy 84.295047 162.30782) (xy 84.295051 162.307816) (xy 84.391557 162.118412) (xy 84.457246 161.916243)
+				(xy 84.4905 161.706287) (xy 84.4905 161.493713) (xy 84.457246 161.283757) (xy 84.391557 161.081588)
+				(xy 84.295051 160.892184) (xy 84.295049 160.892181) (xy 84.295048 160.892179) (xy 84.170109 160.720213)
+				(xy 84.019786 160.56989) (xy 83.84782 160.444951) (xy 83.658414 160.348444) (xy 83.658413 160.348443)
+				(xy 83.658412 160.348443) (xy 83.456243 160.282754) (xy 83.456241 160.282753) (xy 83.45624 160.282753)
+				(xy 83.294957 160.257208) (xy 83.246287 160.2495) (xy 83.033713 160.2495) (xy 82.985042 160.257208)
+				(xy 82.82376 160.282753) (xy 82.621585 160.348444) (xy 82.432179 160.444951) (xy 82.260213 160.56989)
+				(xy 82.10989 160.720213) (xy 81.984949 160.892182) (xy 81.980484 160.900946) (xy 81.932509 160.951742)
+				(xy 81.864688 160.968536) (xy 81.798553 160.945998) (xy 81.759516 160.900946) (xy 81.75505 160.892182)
+				(xy 81.630109 160.720213) (xy 81.479786 160.56989) (xy 81.30782 160.444951) (xy 81.118414 160.348444)
+				(xy 81.118413 160.348443) (xy 81.118412 160.348443) (xy 80.916243 160.282754) (xy 80.916241 160.282753)
+				(xy 80.91624 160.282753) (xy 80.754957 160.257208) (xy 80.706287 160.2495) (xy 80.493713 160.2495)
+				(xy 80.445042 160.257208) (xy 80.28376 160.282753) (xy 80.081585 160.348444) (xy 79.892179 160.444951)
+				(xy 79.720213 160.56989) (xy 79.56989 160.720213) (xy 79.444949 160.892182) (xy 79.440484 160.900946)
+				(xy 79.392509 160.951742) (xy 79.324688 160.968536) (xy 79.258553 160.945998) (xy 79.219516 160.900946)
+				(xy 79.21505 160.892182) (xy 79.090109 160.720213) (xy 78.939786 160.56989) (xy 78.76782 160.444951)
+				(xy 78.578414 160.348444) (xy 78.578413 160.348443) (xy 78.578412 160.348443) (xy 78.376243 160.282754)
+				(xy 78.376241 160.282753) (xy 78.37624 160.282753) (xy 78.214957 160.257208) (xy 78.166287 160.2495)
+				(xy 77.953713 160.2495) (xy 77.905042 160.257208) (xy 77.74376 160.282753) (xy 77.541585 160.348444)
+				(xy 77.352179 160.444951) (xy 77.180215 160.569889) (xy 77.066673 160.683431) (xy 77.00535 160.716915)
+				(xy 76.935658 160.711931) (xy 76.879725 160.670059) (xy 76.86281 160.639082) (xy 76.813797 160.507671)
+				(xy 76.813793 160.507664) (xy 76.727547 160.392455) (xy 76.727544 160.392452) (xy 76.612335 160.306206)
+				(xy 76.612328 160.306202) (xy 76.477482 160.255908) (xy 76.477483 160.255908) (xy 76.417883 160.249501)
+				(xy 76.417881 160.2495) (xy 76.417873 160.2495) (xy 76.417864 160.2495) (xy 74.622129 160.2495)
+				(xy 74.622123 160.249501) (xy 74.562516 160.255908) (xy 74.427671 160.306202) (xy 74.427664 160.306206)
+				(xy 74.312455 160.392452) (xy 74.312452 160.392455) (xy 74.226206 160.507664) (xy 74.226202 160.507671)
+				(xy 74.175908 160.642517) (xy 74.169501 160.702116) (xy 74.1695 160.702135) (xy 68.096124 160.702135)
 				(xy 68.114814 160.671834) (xy 68.169999 160.505297) (xy 68.1805 160.402509) (xy 68.180499 159.102492)
 				(xy 68.169999 158.999703) (xy 68.114814 158.833166) (xy 68.022712 158.683844) (xy 67.898656 158.559788)
 				(xy 67.775634 158.483908) (xy 67.749336 158.467687) (xy 67.749325 158.467682) (xy 67.738773 158.464186)
@@ -37247,14 +38196,135 @@
 				(xy 51.817516 137.580908) (xy 51.682671 137.631202) (xy 51.682664 137.631206) (xy 51.567455 137.717452)
 				(xy 51.567452 137.717455) (xy 51.481206 137.832664) (xy 51.481202 137.832671) (xy 51.430908 137.967517)
 				(xy 51.424501 138.027116) (xy 51.424501 138.027123) (xy 51.4245 138.027135) (xy 51.0005 138.027135)
-				(xy 51.0005 53.527135) (xy 51.4245 53.527135) (xy 51.4245 55.32287) (xy 51.424501 55.322876) (xy 51.430908 55.382483)
-				(xy 51.481202 55.517328) (xy 51.481206 55.517335) (xy 51.567452 55.632544) (xy 51.567455 55.632547)
-				(xy 51.682664 55.718793) (xy 51.682671 55.718797) (xy 51.693168 55.722712) (xy 51.817517 55.769091)
-				(xy 51.877127 55.7755) (xy 51.887685 55.775499) (xy 51.954723 55.795179) (xy 51.975372 55.811818)
-				(xy 52.645591 56.482037) (xy 52.582007 56.499075) (xy 52.467993 56.564901) (xy 52.374901 56.657993)
-				(xy 52.309075 56.772007) (xy 52.292037 56.835591) (xy 51.659728 56.203282) (xy 51.659727 56.203282)
-				(xy 51.62038 56.257439) (xy 51.523904 56.446782) (xy 51.458242 56.648869) (xy 51.458242 56.648872)
-				(xy 51.425 56.858753) (xy 51.425 57.071246) (xy 51.458242 57.281127) (xy 51.458242 57.28113) (xy 51.523904 57.483217)
+				(xy 51.0005 98.292135) (xy 51.4245 98.292135) (xy 51.4245 100.08787) (xy 51.424501 100.087876) (xy 51.430908 100.147483)
+				(xy 51.481202 100.282328) (xy 51.481206 100.282335) (xy 51.567452 100.397544) (xy 51.567455 100.397547)
+				(xy 51.682664 100.483793) (xy 51.682671 100.483797) (xy 51.814082 100.53281) (xy 51.870016 100.574681)
+				(xy 51.894433 100.640145) (xy 51.879582 100.708418) (xy 51.858431 100.736673) (xy 51.744889 100.850215)
+				(xy 51.619951 101.022179) (xy 51.523444 101.211585) (xy 51.457753 101.41376) (xy 51.4245 101.623713)
+				(xy 51.4245 101.836287) (xy 51.42846 101.861287) (xy 51.457753 102.046239) (xy 51.523444 102.248414)
+				(xy 51.619951 102.43782) (xy 51.74489 102.609786) (xy 51.895213 102.760109) (xy 52.067182 102.88505)
+				(xy 52.075946 102.889516) (xy 52.126742 102.937491) (xy 52.143536 103.005312) (xy 52.120998 103.071447)
+				(xy 52.075946 103.110484) (xy 52.067182 103.114949) (xy 51.895213 103.23989) (xy 51.74489 103.390213)
+				(xy 51.619951 103.562179) (xy 51.523444 103.751585) (xy 51.457753 103.95376) (xy 51.4245 104.163713)
+				(xy 51.4245 104.376287) (xy 51.42846 104.401287) (xy 51.457753 104.586239) (xy 51.523444 104.788414)
+				(xy 51.619951 104.97782) (xy 51.74489 105.149786) (xy 51.895213 105.300109) (xy 52.067182 105.42505)
+				(xy 52.075946 105.429516) (xy 52.126742 105.477491) (xy 52.143536 105.545312) (xy 52.120998 105.611447)
+				(xy 52.075946 105.650484) (xy 52.067182 105.654949) (xy 51.895213 105.77989) (xy 51.74489 105.930213)
+				(xy 51.619951 106.102179) (xy 51.523444 106.291585) (xy 51.457753 106.49376) (xy 51.4245 106.703713)
+				(xy 51.4245 106.916287) (xy 51.42846 106.941287) (xy 51.457753 107.126239) (xy 51.523444 107.328414)
+				(xy 51.619951 107.51782) (xy 51.74489 107.689786) (xy 51.895213 107.840109) (xy 52.067179 107.965048)
+				(xy 52.067181 107.965049) (xy 52.067184 107.965051) (xy 52.256588 108.061557) (xy 52.458757 108.127246)
+				(xy 52.668713 108.1605) (xy 52.668714 108.1605) (xy 52.881286 108.1605) (xy 52.881287 108.1605)
+				(xy 53.091243 108.127246) (xy 53.293412 108.061557) (xy 53.482816 107.965051) (xy 53.504789 107.949086)
+				(xy 53.654786 107.840109) (xy 53.654788 107.840106) (xy 53.654792 107.840104) (xy 53.805104 107.689792)
+				(xy 53.805106 107.689788) (xy 53.805109 107.689786) (xy 53.930048 107.51782) (xy 53.930047 107.51782)
+				(xy 53.930051 107.517816) (xy 54.026557 107.328412) (xy 54.092246 107.126243) (xy 54.1255 106.916287)
+				(xy 54.1255 106.703713) (xy 54.092246 106.493757) (xy 54.026557 106.291588) (xy 53.930051 106.102184)
+				(xy 53.930049 106.102181) (xy 53.930048 106.102179) (xy 53.805109 105.930213) (xy 53.654786 105.77989)
+				(xy 53.48282 105.654951) (xy 53.482115 105.654591) (xy 53.474054 105.650485) (xy 53.423259 105.602512)
+				(xy 53.406463 105.534692) (xy 53.428999 105.468556) (xy 53.474054 105.429515) (xy 53.482816 105.425051)
+				(xy 53.504789 105.409086) (xy 53.654786 105.300109) (xy 53.654788 105.300106) (xy 53.654792 105.300104)
+				(xy 53.805104 105.149792) (xy 53.805106 105.149788) (xy 53.805109 105.149786) (xy 53.930048 104.97782)
+				(xy 53.930047 104.97782) (xy 53.930051 104.977816) (xy 54.026557 104.788412) (xy 54.092246 104.586243)
+				(xy 54.1255 104.376287) (xy 54.1255 104.163713) (xy 54.092246 103.953757) (xy 54.026557 103.751588)
+				(xy 53.930051 103.562184) (xy 53.930049 103.562181) (xy 53.930048 103.562179) (xy 53.805109 103.390213)
+				(xy 53.654786 103.23989) (xy 53.48282 103.114951) (xy 53.482115 103.114591) (xy 53.474054 103.110485)
+				(xy 53.423259 103.062512) (xy 53.406463 102.994692) (xy 53.428999 102.928556) (xy 53.474054 102.889515)
+				(xy 53.482816 102.885051) (xy 53.504789 102.869086) (xy 53.654786 102.760109) (xy 53.654788 102.760106)
+				(xy 53.654792 102.760104) (xy 53.805104 102.609792) (xy 53.805106 102.609788) (xy 53.805109 102.609786)
+				(xy 53.930048 102.43782) (xy 53.930047 102.43782) (xy 53.930051 102.437816) (xy 54.026557 102.248412)
+				(xy 54.092246 102.046243) (xy 54.1255 101.836287) (xy 54.1255 101.623713) (xy 54.092246 101.413757)
+				(xy 54.026557 101.211588) (xy 53.930051 101.022184) (xy 53.930049 101.022181) (xy 53.930048 101.022179)
+				(xy 53.805109 100.850213) (xy 53.691569 100.736673) (xy 53.658084 100.67535) (xy 53.663068 100.605658)
+				(xy 53.70494 100.549725) (xy 53.735915 100.53281) (xy 53.867331 100.483796) (xy 53.982546 100.397546)
+				(xy 54.068796 100.282331) (xy 54.119091 100.147483) (xy 54.1255 100.087873) (xy 54.125499 98.292128)
+				(xy 54.119091 98.232517) (xy 54.115046 98.221673) (xy 54.068797 98.097671) (xy 54.068793 98.097664)
+				(xy 53.982547 97.982455) (xy 53.982544 97.982452) (xy 53.867335 97.896206) (xy 53.867328 97.896202)
+				(xy 53.732482 97.845908) (xy 53.732483 97.845908) (xy 53.672883 97.839501) (xy 53.672881 97.8395)
+				(xy 53.672873 97.8395) (xy 53.672864 97.8395) (xy 51.877129 97.8395) (xy 51.877123 97.839501) (xy 51.817516 97.845908)
+				(xy 51.682671 97.896202) (xy 51.682664 97.896206) (xy 51.567455 97.982452) (xy 51.567452 97.982455)
+				(xy 51.481206 98.097664) (xy 51.481202 98.097671) (xy 51.430908 98.232517) (xy 51.424501 98.292116)
+				(xy 51.424501 98.292123) (xy 51.4245 98.292135) (xy 51.0005 98.292135) (xy 51.0005 95.777135) (xy 95.9245 95.777135)
+				(xy 95.9245 97.57287) (xy 95.924501 97.572876) (xy 95.930908 97.632483) (xy 95.981202 97.767328)
+				(xy 95.981206 97.767335) (xy 96.067452 97.882544) (xy 96.067455 97.882547) (xy 96.182664 97.968793)
+				(xy 96.182671 97.968797) (xy 96.314082 98.01781) (xy 96.370016 98.059681) (xy 96.394433 98.125145)
+				(xy 96.379582 98.193418) (xy 96.358431 98.221673) (xy 96.244889 98.335215) (xy 96.119951 98.507179)
+				(xy 96.023444 98.696585) (xy 95.957753 98.89876) (xy 95.9245 99.108713) (xy 95.9245 99.321286) (xy 95.957753 99.531239)
+				(xy 96.023444 99.733414) (xy 96.119951 99.92282) (xy 96.24489 100.094786) (xy 96.395213 100.245109)
+				(xy 96.567182 100.37005) (xy 96.575946 100.374516) (xy 96.626742 100.422491) (xy 96.643536 100.490312)
+				(xy 96.620998 100.556447) (xy 96.575946 100.595484) (xy 96.567182 100.599949) (xy 96.395213 100.72489)
+				(xy 96.24489 100.875213) (xy 96.119951 101.047179) (xy 96.023444 101.236585) (xy 95.957753 101.43876)
+				(xy 95.9245 101.648713) (xy 95.9245 101.861286) (xy 95.957753 102.071239) (xy 96.023444 102.273414)
+				(xy 96.119951 102.46282) (xy 96.24489 102.634786) (xy 96.395213 102.785109) (xy 96.567182 102.91005)
+				(xy 96.575946 102.914516) (xy 96.626742 102.962491) (xy 96.643536 103.030312) (xy 96.620998 103.096447)
+				(xy 96.575946 103.135484) (xy 96.567182 103.139949) (xy 96.395213 103.26489) (xy 96.24489 103.415213)
+				(xy 96.119951 103.587179) (xy 96.023444 103.776585) (xy 95.957753 103.97876) (xy 95.9245 104.188713)
+				(xy 95.9245 104.401286) (xy 95.957753 104.611239) (xy 96.023444 104.813414) (xy 96.119951 105.00282)
+				(xy 96.24489 105.174786) (xy 96.395213 105.325109) (xy 96.567182 105.45005) (xy 96.575946 105.454516)
+				(xy 96.626742 105.502491) (xy 96.643536 105.570312) (xy 96.620998 105.636447) (xy 96.575946 105.675484)
+				(xy 96.567182 105.679949) (xy 96.395213 105.80489) (xy 96.24489 105.955213) (xy 96.119951 106.127179)
+				(xy 96.023444 106.316585) (xy 95.957753 106.51876) (xy 95.9245 106.728713) (xy 95.9245 106.941286)
+				(xy 95.957753 107.151239) (xy 96.023444 107.353414) (xy 96.119951 107.54282) (xy 96.24489 107.714786)
+				(xy 96.395213 107.865109) (xy 96.567182 107.99005) (xy 96.575946 107.994516) (xy 96.626742 108.042491)
+				(xy 96.643536 108.110312) (xy 96.620998 108.176447) (xy 96.575946 108.215484) (xy 96.567182 108.219949)
+				(xy 96.395213 108.34489) (xy 96.24489 108.495213) (xy 96.119951 108.667179) (xy 96.023444 108.856585)
+				(xy 95.957753 109.05876) (xy 95.9245 109.268713) (xy 95.9245 109.481286) (xy 95.957753 109.691239)
+				(xy 96.023444 109.893414) (xy 96.119951 110.08282) (xy 96.24489 110.254786) (xy 96.395213 110.405109)
+				(xy 96.567179 110.530048) (xy 96.567181 110.530049) (xy 96.567184 110.530051) (xy 96.756588 110.626557)
+				(xy 96.958757 110.692246) (xy 97.168713 110.7255) (xy 97.168714 110.7255) (xy 97.381286 110.7255)
+				(xy 97.381287 110.7255) (xy 97.591243 110.692246) (xy 97.793412 110.626557) (xy 97.982816 110.530051)
+				(xy 98.004789 110.514086) (xy 98.154786 110.405109) (xy 98.154788 110.405106) (xy 98.154792 110.405104)
+				(xy 98.305104 110.254792) (xy 98.305106 110.254788) (xy 98.305109 110.254786) (xy 98.430048 110.08282)
+				(xy 98.430047 110.08282) (xy 98.430051 110.082816) (xy 98.526557 109.893412) (xy 98.592246 109.691243)
+				(xy 98.6255 109.481287) (xy 98.6255 109.268713) (xy 98.592246 109.058757) (xy 98.526557 108.856588)
+				(xy 98.430051 108.667184) (xy 98.430049 108.667181) (xy 98.430048 108.667179) (xy 98.305109 108.495213)
+				(xy 98.154786 108.34489) (xy 97.98282 108.219951) (xy 97.982115 108.219591) (xy 97.974054 108.215485)
+				(xy 97.923259 108.167512) (xy 97.906463 108.099692) (xy 97.928999 108.033556) (xy 97.974054 107.994515)
+				(xy 97.982816 107.990051) (xy 98.01723 107.965048) (xy 98.154786 107.865109) (xy 98.154788 107.865106)
+				(xy 98.154792 107.865104) (xy 98.305104 107.714792) (xy 98.305106 107.714788) (xy 98.305109 107.714786)
+				(xy 98.430048 107.54282) (xy 98.430047 107.54282) (xy 98.430051 107.542816) (xy 98.526557 107.353412)
+				(xy 98.592246 107.151243) (xy 98.6255 106.941287) (xy 98.6255 106.728713) (xy 98.592246 106.518757)
+				(xy 98.526557 106.316588) (xy 98.430051 106.127184) (xy 98.430049 106.127181) (xy 98.430048 106.127179)
+				(xy 98.305109 105.955213) (xy 98.154786 105.80489) (xy 97.98282 105.679951) (xy 97.982115 105.679591)
+				(xy 97.974054 105.675485) (xy 97.923259 105.627512) (xy 97.906463 105.559692) (xy 97.928999 105.493556)
+				(xy 97.974054 105.454515) (xy 97.982816 105.450051) (xy 98.01723 105.425048) (xy 98.154786 105.325109)
+				(xy 98.154788 105.325106) (xy 98.154792 105.325104) (xy 98.305104 105.174792) (xy 98.305106 105.174788)
+				(xy 98.305109 105.174786) (xy 98.430048 105.00282) (xy 98.430047 105.00282) (xy 98.430051 105.002816)
+				(xy 98.526557 104.813412) (xy 98.592246 104.611243) (xy 98.6255 104.401287) (xy 98.6255 104.188713)
+				(xy 98.592246 103.978757) (xy 98.526557 103.776588) (xy 98.430051 103.587184) (xy 98.430049 103.587181)
+				(xy 98.430048 103.587179) (xy 98.305109 103.415213) (xy 98.154786 103.26489) (xy 97.98282 103.139951)
+				(xy 97.982115 103.139591) (xy 97.974054 103.135485) (xy 97.923259 103.087512) (xy 97.906463 103.019692)
+				(xy 97.928999 102.953556) (xy 97.974054 102.914515) (xy 97.982816 102.910051) (xy 98.01723 102.885048)
+				(xy 98.154786 102.785109) (xy 98.154788 102.785106) (xy 98.154792 102.785104) (xy 98.305104 102.634792)
+				(xy 98.305106 102.634788) (xy 98.305109 102.634786) (xy 98.430048 102.46282) (xy 98.430047 102.46282)
+				(xy 98.430051 102.462816) (xy 98.526557 102.273412) (xy 98.592246 102.071243) (xy 98.6255 101.861287)
+				(xy 98.6255 101.648713) (xy 98.592246 101.438757) (xy 98.526557 101.236588) (xy 98.430051 101.047184)
+				(xy 98.430049 101.047181) (xy 98.430048 101.047179) (xy 98.305109 100.875213) (xy 98.154786 100.72489)
+				(xy 97.98282 100.599951) (xy 97.982115 100.599591) (xy 97.974054 100.595485) (xy 97.923259 100.547512)
+				(xy 97.906463 100.479692) (xy 97.928999 100.413556) (xy 97.974054 100.374515) (xy 97.982816 100.370051)
+				(xy 98.103548 100.282335) (xy 98.154786 100.245109) (xy 98.154788 100.245106) (xy 98.154792 100.245104)
+				(xy 98.305104 100.094792) (xy 98.305106 100.094788) (xy 98.305109 100.094786) (xy 98.430048 99.92282)
+				(xy 98.430047 99.92282) (xy 98.430051 99.922816) (xy 98.526557 99.733412) (xy 98.592246 99.531243)
+				(xy 98.6255 99.321287) (xy 98.6255 99.108713) (xy 98.592246 98.898757) (xy 98.526557 98.696588)
+				(xy 98.430051 98.507184) (xy 98.430049 98.507181) (xy 98.430048 98.507179) (xy 98.305109 98.335213)
+				(xy 98.191569 98.221673) (xy 98.158084 98.16035) (xy 98.163068 98.090658) (xy 98.20494 98.034725)
+				(xy 98.235915 98.01781) (xy 98.367331 97.968796) (xy 98.482546 97.882546) (xy 98.568796 97.767331)
+				(xy 98.619091 97.632483) (xy 98.6255 97.572873) (xy 98.625499 95.777128) (xy 98.619091 95.717517)
+				(xy 98.568796 95.582669) (xy 98.568795 95.582668) (xy 98.568793 95.582664) (xy 98.482547 95.467455)
+				(xy 98.482544 95.467452) (xy 98.367335 95.381206) (xy 98.367328 95.381202) (xy 98.232482 95.330908)
+				(xy 98.232483 95.330908) (xy 98.172883 95.324501) (xy 98.172881 95.3245) (xy 98.172873 95.3245)
+				(xy 98.172864 95.3245) (xy 96.377129 95.3245) (xy 96.377123 95.324501) (xy 96.317516 95.330908)
+				(xy 96.182671 95.381202) (xy 96.182664 95.381206) (xy 96.067455 95.467452) (xy 96.067452 95.467455)
+				(xy 95.981206 95.582664) (xy 95.981202 95.582671) (xy 95.930908 95.717517) (xy 95.924501 95.777116)
+				(xy 95.924501 95.777123) (xy 95.9245 95.777135) (xy 51.0005 95.777135) (xy 51.0005 53.527135) (xy 51.4245 53.527135)
+				(xy 51.4245 55.32287) (xy 51.424501 55.322876) (xy 51.430908 55.382483) (xy 51.481202 55.517328)
+				(xy 51.481206 55.517335) (xy 51.567452 55.632544) (xy 51.567455 55.632547) (xy 51.682664 55.718793)
+				(xy 51.682671 55.718797) (xy 51.693168 55.722712) (xy 51.817517 55.769091) (xy 51.877127 55.7755)
+				(xy 51.887685 55.775499) (xy 51.954723 55.795179) (xy 51.975372 55.811818) (xy 52.645591 56.482037)
+				(xy 52.582007 56.499075) (xy 52.467993 56.564901) (xy 52.374901 56.657993) (xy 52.309075 56.772007)
+				(xy 52.292037 56.835591) (xy 51.659728 56.203282) (xy 51.659727 56.203282) (xy 51.62038 56.257439)
+				(xy 51.523904 56.446782) (xy 51.458242 56.648869) (xy 51.458242 56.648872) (xy 51.425 56.858753)
+				(xy 51.425 57.071246) (xy 51.458242 57.281127) (xy 51.458242 57.28113) (xy 51.523904 57.483217)
 				(xy 51.620375 57.67255) (xy 51.659728 57.726716) (xy 52.292037 57.094408) (xy 52.309075 57.157993)
 				(xy 52.374901 57.272007) (xy 52.467993 57.365099) (xy 52.582007 57.430925) (xy 52.64559 57.447962)
 				(xy 52.013282 58.080269) (xy 52.013282 58.08027) (xy 52.067452 58.119626) (xy 52.077048 58.124516)

@@ -1656,7 +1656,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:Conn_01x04_PinHeader")
-		(at 54.61 124.46 0)
+		(at 54.61 60.96 0)
 		(unit 2)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -1667,7 +1667,7 @@
 		(fields_autoplaced yes)
 		(uuid "33ca4e57-a3a8-4ab0-810e-41c850e0b0ec")
 		(property "Reference" "J30"
-			(at 55.245 121.92 0)
+			(at 55.245 58.42 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -1677,7 +1677,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_PinHeader"
-			(at 54.61 127 0)
+			(at 54.61 63.5 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1688,7 +1688,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 54.61 124.46 0)
+			(at 54.61 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1699,7 +1699,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 124.46 0)
+			(at 54.61 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -1710,7 +1710,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04"
-			(at 54.61 124.46 0)
+			(at 54.61 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2435,7 +2435,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:Conn_01x04_PinHeader")
-		(at 54.61 60.96 0)
+		(at 54.61 124.46 0)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2446,7 +2446,7 @@
 		(fields_autoplaced yes)
 		(uuid "cb94a33b-37c8-4154-93ff-3d000bb59880")
 		(property "Reference" "J30"
-			(at 55.245 58.42 0)
+			(at 55.245 121.92 0)
 			(show_name no)
 			(do_not_autoplace no)
 			(effects
@@ -2456,7 +2456,7 @@
 			)
 		)
 		(property "Value" "Conn_01x04_PinHeader"
-			(at 54.61 63.5 0)
+			(at 54.61 127 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2467,7 +2467,7 @@
 			)
 		)
 		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
-			(at 54.61 60.96 0)
+			(at 54.61 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2478,7 +2478,7 @@
 			)
 		)
 		(property "Datasheet" ""
-			(at 54.61 60.96 0)
+			(at 54.61 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2489,7 +2489,7 @@
 			)
 		)
 		(property "Description" "Generic connector, single row, 01x04"
-			(at 54.61 60.96 0)
+			(at 54.61 124.46 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
@@ -2952,7 +2952,7 @@
 	)
 	(symbol
 		(lib_id "SynthStuff:Conn_01x04_PinHeader")
-		(at 46.99 60.96 180)
+		(at 46.99 124.46 180)
 		(unit 1)
 		(body_style 1)
 		(exclude_from_sim no)
@@ -2962,93 +2962,6 @@
 		(dnp no)
 		(fields_autoplaced yes)
 		(uuid "f0cb5655-343e-4b38-ba19-032c2ab86542")
-		(property "Reference" "J29"
-			(at 46.355 58.42 0)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "Conn_01x04_PinHeader"
-			(at 46.99 58.42 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
-			(at 46.99 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 46.99 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Generic connector, single row, 01x04"
-			(at 46.99 60.96 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "4"
-			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937c")
-		)
-		(pin "2"
-			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc90")
-		)
-		(pin "1"
-			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bef")
-		)
-		(pin "3"
-			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee4")
-		)
-		(instances
-			(project "DMH_Output_PCB_Main"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
-					(reference "J29")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "SynthStuff:Conn_01x04_PinHeader")
-		(at 46.99 124.46 180)
-		(unit 2)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "f22873e8-1d1b-4c13-b30f-fcb33840aadf")
 		(property "Reference" "J29"
 			(at 46.355 121.92 0)
 			(show_name no)
@@ -3094,6 +3007,93 @@
 		)
 		(property "Description" "Generic connector, single row, 01x04"
 			(at 46.99 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937c")
+		)
+		(pin "2"
+			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc90")
+		)
+		(pin "1"
+			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bef")
+		)
+		(pin "3"
+			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee4")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 46.99 60.96 180)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f22873e8-1d1b-4c13-b30f-fcb33840aadf")
+		(property "Reference" "J29"
+			(at 46.355 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 46.99 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 46.99 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 46.99 60.96 0)
 			(hide yes)
 			(show_name no)
 			(do_not_autoplace no)
