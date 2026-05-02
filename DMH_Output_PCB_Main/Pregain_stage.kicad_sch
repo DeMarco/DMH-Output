@@ -1108,7 +1108,7 @@
 		)
 		(uuid "fc9767fb-7b30-499a-b100-5fed1ac3189d")
 	)
-	(hierarchical_label "R_Monitor"
+	(hierarchical_label "R_Monitor_M"
 		(shape output)
 		(at 116.84 127 0)
 		(effects
@@ -1119,7 +1119,7 @@
 		)
 		(uuid "8462851f-42b3-4b95-a532-107e721f142e")
 	)
-	(hierarchical_label "Left_In"
+	(hierarchical_label "L_In_M"
 		(shape input)
 		(at 60.96 60.96 180)
 		(effects
@@ -1130,7 +1130,7 @@
 		)
 		(uuid "9540c741-d4dd-4ad0-8625-0123c1a0c715")
 	)
-	(hierarchical_label "Right In"
+	(hierarchical_label "R_In_M"
 		(shape input)
 		(at 60.96 124.46 180)
 		(effects
@@ -1141,7 +1141,7 @@
 		)
 		(uuid "a2e5ddb9-65ec-4555-b20a-dd67a961c16a")
 	)
-	(hierarchical_label "L_Monitor"
+	(hierarchical_label "L_Monitor_M"
 		(shape output)
 		(at 116.84 63.5 0)
 		(effects

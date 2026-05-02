@@ -2189,7 +2189,7 @@
 		)
 		(uuid "fa6867f0-618f-44cd-8c9c-8a39d6d39414")
 	)
-	(hierarchical_label "L_Gain_OUT"
+	(hierarchical_label "L_Gain_OUT_M"
 		(shape output)
 		(at 154.94 88.9 0)
 		(effects
@@ -2200,7 +2200,7 @@
 		)
 		(uuid "08040b0b-fdfb-41c3-b236-0736f42cada0")
 	)
-	(hierarchical_label "L_Gain_IN"
+	(hierarchical_label "L_Gain_IN_M"
 		(shape input)
 		(at 38.1 50.8 180)
 		(effects
@@ -2211,7 +2211,7 @@
 		)
 		(uuid "305c1e06-e5c2-4107-a440-7659273482c4")
 	)
-	(hierarchical_label "R_Gain_OUT"
+	(hierarchical_label "R_Gain_OUT_M"
 		(shape output)
 		(at 154.94 152.4 0)
 		(effects
@@ -2222,7 +2222,7 @@
 		)
 		(uuid "6dcd5dea-1431-44da-8671-fa22b00f283f")
 	)
-	(hierarchical_label "R_Gain_IN"
+	(hierarchical_label "R_Gain_IN_M"
 		(shape input)
 		(at 38.1 114.3 180)
 		(effects

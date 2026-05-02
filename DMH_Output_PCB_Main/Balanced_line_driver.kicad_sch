@@ -2434,7 +2434,7 @@
 		)
 		(uuid "ffc58a28-3643-42a1-bfd9-4db03e4c1ea7")
 	)
-	(hierarchical_label "L_Ch_OUT"
+	(hierarchical_label "L_Ch_OUT_M"
 		(shape input)
 		(at 50.8 76.2 180)
 		(effects
@@ -2445,7 +2445,7 @@
 		)
 		(uuid "07bc0ecd-0983-4780-b448-a03e0326c4b2")
 	)
-	(hierarchical_label "R_Bal_OUT_N"
+	(hierarchical_label "R_Bal_OUT_N_M"
 		(shape output)
 		(at 165.1 215.9 0)
 		(effects
@@ -2456,7 +2456,7 @@
 		)
 		(uuid "73ade545-75cb-4457-b13a-d04699e40dd3")
 	)
-	(hierarchical_label "R_Bal_OUT_P"
+	(hierarchical_label "R_Bal_OUT_P_M"
 		(shape output)
 		(at 165.1 165.1 0)
 		(effects
@@ -2467,7 +2467,7 @@
 		)
 		(uuid "76345979-0ede-4f6f-9445-f6d1be36a9e9")
 	)
-	(hierarchical_label "L_Bal_OUT_P"
+	(hierarchical_label "L_Bal_OUT_P_M"
 		(shape output)
 		(at 165.1 50.8 0)
 		(effects
@@ -2478,7 +2478,7 @@
 		)
 		(uuid "e60779a7-ea6b-4594-977d-e4a041250921")
 	)
-	(hierarchical_label "R_Ch_OUT"
+	(hierarchical_label "R_Ch_OUT_M"
 		(shape input)
 		(at 50.8 190.5 180)
 		(effects
@@ -2489,7 +2489,7 @@
 		)
 		(uuid "f2878e34-ae57-41a2-9361-b13336db4f57")
 	)
-	(hierarchical_label "L_Bal_OUT_N"
+	(hierarchical_label "L_Bal_OUT_N_M"
 		(shape output)
 		(at 165.1 101.6 0)
 		(effects
