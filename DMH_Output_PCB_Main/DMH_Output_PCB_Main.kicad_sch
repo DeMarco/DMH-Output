@@ -1111,6 +1111,36 @@
 		)
 		(uuid "6e986741-7f20-4665-8c65-9b4ef9f659cc")
 	)
+	(text "Mezanine PCB"
+		(exclude_from_sim no)
+		(at 69.85 138.43 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "b1298373-2ccc-41bc-b7c6-0e67e6c16601")
+	)
+	(text "Mezanine PCB"
+		(exclude_from_sim no)
+		(at 220.98 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "c75ba0cc-8034-43a9-b9f6-42657756349a")
+	)
+	(text "Mezanine PCB"
+		(exclude_from_sim no)
+		(at 74.93 24.13 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "cd84ad96-c3c3-4f7a-bed4-951a2e831665")
+	)
 	(text_box "Install jumpers between J200 pins 1 and 6, and 2 and 7, to allow using In L and Ext L as Mono inputs"
 		(exclude_from_sim no)
 		(at 50.8 77.47 0)
@@ -5223,7 +5253,7 @@
 				(justify left)
 			)
 		)
-		(pin "R__Out_Meter_M" input
+		(pin "R_Out_Meter_M" input
 			(at 190.5 82.55 180)
 			(uuid "ec01600b-43b8-444c-ad32-60625ed989b5")
 			(effects

@@ -3760,7 +3760,7 @@
 			)
 		)
 	)
-	(hierarchical_label "Meter_Left"
+	(hierarchical_label "L_Ext_Meter_M"
 		(shape input)
 		(at 25.4 48.26 180)
 		(effects
@@ -3771,7 +3771,7 @@
 		)
 		(uuid "6bc5015d-fc05-402d-b0b0-4e357f87cfc2")
 	)
-	(hierarchical_label "Meter_Right"
+	(hierarchical_label "R_Ext_Meter_M"
 		(shape input)
 		(at 139.7 48.26 180)
 		(effects

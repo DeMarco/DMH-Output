@@ -2949,7 +2949,7 @@
 		)
 		(uuid "fe9720a0-a728-486e-83fa-09b8cecd9cd5")
 	)
-	(hierarchical_label "R_HP_OUT"
+	(hierarchical_label "R_HP_OUT_M"
 		(shape output)
 		(at 190.5 148.59 0)
 		(effects
@@ -2960,7 +2960,7 @@
 		)
 		(uuid "20485803-5772-4d84-8db3-123ab7597d3a")
 	)
-	(hierarchical_label "R_Monitor"
+	(hierarchical_label "R_HP_IN_M"
 		(shape input)
 		(at 25.4 107.95 180)
 		(effects
@@ -2971,7 +2971,7 @@
 		)
 		(uuid "27c29873-adfb-4c09-b660-c4fcc1528cb0")
 	)
-	(hierarchical_label "L_Monitor"
+	(hierarchical_label "L_HP_IN_M"
 		(shape input)
 		(at 25.4 25.4 180)
 		(effects
@@ -2982,7 +2982,7 @@
 		)
 		(uuid "71f633f1-f035-4621-8f79-81ed98cb50bf")
 	)
-	(hierarchical_label "L_HP_OUT"
+	(hierarchical_label "L_HP_OUT_M"
 		(shape output)
 		(at 190.5 66.04 0)
 		(effects

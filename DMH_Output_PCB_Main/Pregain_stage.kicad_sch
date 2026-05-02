@@ -624,6 +624,266 @@
 			)
 			(embedded_fonts no)
 		)
+		(symbol "SynthStuff:Conn_01x04_PinHeader"
+			(pin_names
+				(offset 1.016)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "J"
+				(at 0 2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "Conn_01x04_PinHeader"
+				(at 0 -2.54 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "Generic connector, single row, 01x04"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "connector"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Connector*:*_1x??_*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "Conn_01x04_PinHeader_1_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Conn_01x04_PinHeader_2_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "2"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Conn_01x04_PinHeader_3_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "3"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(symbol "Conn_01x04_PinHeader_4_1"
+				(rectangle
+					(start 0.8636 0.127)
+					(end 0 -0.127)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type outline)
+					)
+				)
+				(polyline
+					(pts
+						(xy 1.27 0) (xy 0.8636 0)
+					)
+					(stroke
+						(width 0.1524)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+				(pin passive line
+					(at 5.08 0 180)
+					(length 3.81)
+					(name "Pin_4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "4"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "power:GND"
 			(power global)
 			(pin_numbers
@@ -740,6 +1000,28 @@
 			(embedded_fonts no)
 		)
 	)
+	(rectangle
+		(start 50.8 25.4)
+		(end 127 152.4)
+		(stroke
+			(width 0.25)
+			(type dash)
+		)
+		(fill
+			(type none)
+		)
+		(uuid "96e404a0-10b6-47ba-826c-9a7f015018eb")
+	)
+	(text "Mezanine PCB"
+		(exclude_from_sim no)
+		(at 58.42 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "91ccb1e1-a788-498e-a6f5-693ebbc2b42a")
+	)
 	(junction
 		(at 78.74 124.46)
 		(diameter 0)
@@ -820,13 +1102,13 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 60.96) (xy 66.04 60.96)
+			(xy 111.76 63.5) (xy 118.11 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "198ba3b7-e38e-462d-9f6d-d7a91bc6c848")
+		(uuid "10c9da34-7b2b-44cc-af38-91250ae6146e")
 	)
 	(wire
 		(pts
@@ -847,6 +1129,16 @@
 			(type default)
 		)
 		(uuid "27332589-c951-46c4-9287-6f94994bd5c7")
+	)
+	(wire
+		(pts
+			(xy 38.1 60.96) (xy 41.91 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "293ab45c-fb15-4b40-981a-fcc2c019bade")
 	)
 	(wire
 		(pts
@@ -880,6 +1172,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 124.46) (xy 66.04 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "45dd2a9a-c192-417e-a69c-3f31de8edf3d")
+	)
+	(wire
+		(pts
 			(xy 92.71 101.6) (xy 99.06 101.6)
 		)
 		(stroke
@@ -910,16 +1212,6 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 63.5) (xy 116.84 63.5)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "6b36febe-00c9-4b3e-b805-1b6e686f3384")
-	)
-	(wire
-		(pts
 			(xy 92.71 50.8) (xy 99.06 50.8)
 		)
 		(stroke
@@ -940,13 +1232,23 @@
 	)
 	(wire
 		(pts
-			(xy 60.96 124.46) (xy 66.04 124.46)
+			(xy 135.89 63.5) (xy 139.7 63.5)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7637ea81-b9c0-4748-bda2-2514fa4cef5f")
+		(uuid "71901349-232f-48a5-9a0c-076f2b695978")
+	)
+	(wire
+		(pts
+			(xy 38.1 124.46) (xy 41.91 124.46)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "71e0dc6a-7a8d-4f2e-b2a9-fece278ddefa")
 	)
 	(wire
 		(pts
@@ -960,6 +1262,16 @@
 	)
 	(wire
 		(pts
+			(xy 59.69 60.96) (xy 66.04 60.96)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "78d8f8c2-d237-4dec-840e-0f80073ced73")
+	)
+	(wire
+		(pts
 			(xy 78.74 50.8) (xy 78.74 60.96)
 		)
 		(stroke
@@ -970,13 +1282,13 @@
 	)
 	(wire
 		(pts
-			(xy 111.76 127) (xy 116.84 127)
+			(xy 135.89 127) (xy 139.7 127)
 		)
 		(stroke
 			(width 0)
 			(type default)
 		)
-		(uuid "7cb7dab0-b56d-46f1-8e34-c246c12ba4fb")
+		(uuid "8173424f-4dc0-43fd-92cd-96a3228d206f")
 	)
 	(wire
 		(pts
@@ -1017,6 +1329,16 @@
 			(type default)
 		)
 		(uuid "94dbaf06-ad87-4432-9808-62c8f812a3ad")
+	)
+	(wire
+		(pts
+			(xy 111.76 127) (xy 118.11 127)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "a3441663-6671-40bc-8c27-8bd8c3c97956")
 	)
 	(wire
 		(pts
@@ -1110,7 +1432,7 @@
 	)
 	(hierarchical_label "R_Monitor_M"
 		(shape output)
-		(at 116.84 127 0)
+		(at 139.7 127 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1121,7 +1443,7 @@
 	)
 	(hierarchical_label "L_In_M"
 		(shape input)
-		(at 60.96 60.96 180)
+		(at 38.1 60.96 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1132,7 +1454,7 @@
 	)
 	(hierarchical_label "R_In_M"
 		(shape input)
-		(at 60.96 124.46 180)
+		(at 38.1 124.46 180)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1143,7 +1465,7 @@
 	)
 	(hierarchical_label "L_Monitor_M"
 		(shape output)
-		(at 116.84 63.5 0)
+		(at 139.7 63.5 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -1328,6 +1650,93 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
 					(reference "R27")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 54.61 124.46 0)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "33ca4e57-a3a8-4ab0-810e-41c850e0b0ec")
+		(property "Reference" "J30"
+			(at 55.245 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 54.61 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 54.61 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 54.61 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ded3114e-8a60-4de7-aafd-04dbf07ed469")
+		)
+		(pin "4"
+			(uuid "c9256fdf-a305-417d-93fc-1d7b23319935")
+		)
+		(pin "2"
+			(uuid "1a9ead55-1e0a-457c-a4fb-21793f9de4da")
+		)
+		(pin "1"
+			(uuid "fda604aa-1fb2-4e1a-9f9f-1f73c75cbfde")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J30")
+					(unit 2)
 				)
 			)
 		)
@@ -1693,6 +2102,180 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 123.19 63.5 180)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "a213c3f3-8548-450a-9ea3-848bcbefa756")
+		(property "Reference" "J30"
+			(at 122.555 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 123.19 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 123.19 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 123.19 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ded3114e-8a60-4de7-aafd-04dbf07ed469")
+		)
+		(pin "4"
+			(uuid "c9256fdf-a305-417d-93fc-1d7b23319935")
+		)
+		(pin "2"
+			(uuid "1a9ead55-1e0a-457c-a4fb-21793f9de4da")
+		)
+		(pin "1"
+			(uuid "fda604aa-1fb2-4e1a-9f9f-1f73c75cbfde")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J30")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 130.81 127 0)
+		(unit 4)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "b3c7831f-a302-4279-acff-fcfd4535f384")
+		(property "Reference" "J29"
+			(at 131.445 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 130.81 129.54 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 130.81 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 130.81 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937a")
+		)
+		(pin "2"
+			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc8e")
+		)
+		(pin "1"
+			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bed")
+		)
+		(pin "3"
+			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee2")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J29")
+					(unit 4)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 69.85 124.46 90)
 		(unit 1)
@@ -1851,6 +2434,93 @@
 		)
 	)
 	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 54.61 60.96 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cb94a33b-37c8-4154-93ff-3d000bb59880")
+		(property "Reference" "J30"
+			(at 55.245 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 54.61 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 54.61 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 54.61 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 54.61 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ded3114e-8a60-4de7-aafd-04dbf07ed469")
+		)
+		(pin "4"
+			(uuid "c9256fdf-a305-417d-93fc-1d7b23319935")
+		)
+		(pin "2"
+			(uuid "1a9ead55-1e0a-457c-a4fb-21793f9de4da")
+		)
+		(pin "1"
+			(uuid "fda604aa-1fb2-4e1a-9f9f-1f73c75cbfde")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J30")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "Device:R_US")
 		(at 69.85 60.96 90)
 		(unit 1)
@@ -1926,6 +2596,93 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
 					(reference "R26")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 123.19 127 180)
+		(unit 4)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board no)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "cda2be46-f05c-41c4-9352-753c1325b66b")
+		(property "Reference" "J30"
+			(at 122.555 124.46 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 123.19 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical"
+			(at 123.19 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 123.19 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 123.19 127 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "3"
+			(uuid "ded3114e-8a60-4de7-aafd-04dbf07ed469")
+		)
+		(pin "4"
+			(uuid "c9256fdf-a305-417d-93fc-1d7b23319935")
+		)
+		(pin "2"
+			(uuid "1a9ead55-1e0a-457c-a4fb-21793f9de4da")
+		)
+		(pin "1"
+			(uuid "fda604aa-1fb2-4e1a-9f9f-1f73c75cbfde")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J30")
+					(unit 4)
 				)
 			)
 		)
@@ -2102,6 +2859,267 @@
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
 					(reference "#PWR023")
 					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 130.81 63.5 0)
+		(unit 3)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "e5df542e-40c3-4034-a6d1-3f199714ff93")
+		(property "Reference" "J29"
+			(at 131.445 60.96 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 130.81 66.04 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 130.81 63.5 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937a")
+		)
+		(pin "2"
+			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc8e")
+		)
+		(pin "1"
+			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bed")
+		)
+		(pin "3"
+			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee2")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J29")
+					(unit 3)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 46.99 60.96 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f0cb5655-343e-4b38-ba19-032c2ab86542")
+		(property "Reference" "J29"
+			(at 46.355 58.42 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 46.99 58.42 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 46.99 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 46.99 60.96 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937a")
+		)
+		(pin "2"
+			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc8e")
+		)
+		(pin "1"
+			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bed")
+		)
+		(pin "3"
+			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee2")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J29")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "SynthStuff:Conn_01x04_PinHeader")
+		(at 46.99 124.46 180)
+		(unit 2)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom yes)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp no)
+		(fields_autoplaced yes)
+		(uuid "f22873e8-1d1b-4c13-b30f-fcb33840aadf")
+		(property "Reference" "J29"
+			(at 46.355 121.92 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Value" "Conn_01x04_PinHeader"
+			(at 46.99 121.92 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Footprint" "Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical"
+			(at 46.99 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 46.99 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "Generic connector, single row, 01x04"
+			(at 46.99 124.46 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "4"
+			(uuid "1a189333-0470-4eeb-b1f8-0bb00d94937a")
+		)
+		(pin "2"
+			(uuid "d9a7ea0c-51ff-49bc-9008-deaf473bcc8e")
+		)
+		(pin "1"
+			(uuid "a7a262ec-143d-4193-8cc9-2bfafef71bed")
+		)
+		(pin "3"
+			(uuid "aa8d4b5e-ef4c-4170-9a14-206b51dc8ee2")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315/0b1658b3-ac7b-4692-8043-3e4b42d6c671"
+					(reference "J29")
+					(unit 2)
 				)
 			)
 		)
