@@ -6498,10 +6498,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "384adf8d-b367-4b23-9852-9b670d8d8cd8")
+			(uuid "384adf8d-b367-4b23-9852-9b670d8d8cd9")
 		)
 		(pin "2"
-			(uuid "b56dbd72-199a-452c-81dc-d39fb41ae5f6")
+			(uuid "b56dbd72-199a-452c-81dc-d39fb41ae5f7")
 		)
 		(instances
 			(project "DMH_Output_PCB_Main"
@@ -8846,10 +8846,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "e2589d9e-0db7-4c71-bbff-65839db443d3")
+			(uuid "e2589d9e-0db7-4c71-bbff-65839db443d4")
 		)
 		(pin "2"
-			(uuid "c2d15306-2745-47f9-b6cf-49c9bd14b6cd")
+			(uuid "c2d15306-2745-47f9-b6cf-49c9bd14b6ce")
 		)
 		(instances
 			(project "DMH_Output_PCB_Main"
@@ -9017,10 +9017,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "7cf8cc5f-7f35-47e9-8a2e-724af4f261c2")
+			(uuid "7cf8cc5f-7f35-47e9-8a2e-724af4f261c3")
 		)
 		(pin "2"
-			(uuid "c8592af3-9a02-47e9-9f4a-ffeda6150bc3")
+			(uuid "c8592af3-9a02-47e9-9f4a-ffeda6150bc4")
 		)
 		(instances
 			(project "DMH_Output_PCB_Main"
@@ -9267,10 +9267,10 @@
 			)
 		)
 		(pin "1"
-			(uuid "fd4b1d1d-527a-4628-af48-f34d7ba8fca8")
+			(uuid "fd4b1d1d-527a-4628-af48-f34d7ba8fca9")
 		)
 		(pin "2"
-			(uuid "8c265300-fe7f-4cc8-ab24-7e09edc1dad4")
+			(uuid "8c265300-fe7f-4cc8-ab24-7e09edc1dad5")
 		)
 		(instances
 			(project "DMH_Output_PCB_Main"

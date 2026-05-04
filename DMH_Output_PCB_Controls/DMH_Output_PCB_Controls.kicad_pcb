@@ -205,6 +205,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/57fb2608-55d7-46e0-8833-0f8551ce459c")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -382,6 +388,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/3374b738-7dd1-4346-8acf-da4dc9f6e1a0")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -611,6 +623,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/2ba03ff1-4ec2-4fa2-8987-e9f14f6be013")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -842,6 +860,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/d9e64d4f-4d2e-44b3-85f5-9ec803c32507")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1076,6 +1100,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/a134dfb3-036e-49e7-9847-13dec3655dfc")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1294,6 +1324,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/43fc78ed-854f-4d3c-85a1-c65ebe46abf9")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1499,6 +1535,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/459b3e30-4810-4095-afe4-cd4fbfd8493c")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1718,6 +1760,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b66b756a-2931-4a45-9e0d-8d0f4029c682")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "3" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -1983,6 +2031,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/2e55c966-9091-4d09-b03e-7cd605620a48")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2217,6 +2271,28 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/66e6533b-95ec-4648-ab45-624016136f57")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2612,6 +2688,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/e3287067-be4b-483c-a0a8-da31aa09cb6a")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -2802,6 +2884,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/52127a99-cd09-4f0e-b085-a0cdeba4164c")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -2929,6 +3017,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/9a1f6d9f-b3ec-4b5c-8d92-adee8fce5bb9")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3163,6 +3257,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/666b4344-152f-4b6d-9d01-806ceedd2a70")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3339,6 +3439,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/46b352f9-3be0-416c-9a2f-12c9421256a4")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3516,6 +3622,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/e5c4ace5-c0d1-4d87-8159-15690ba720d7")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3733,6 +3845,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/a396cae2-2252-4243-ab14-6a2355250b6f")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -3949,6 +4067,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/840defc4-cd2f-423a-8996-e69c6e0b287a")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4166,6 +4290,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/e5dbdfd9-e06c-45ad-9277-90e40d9f55b7")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4397,6 +4527,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/d0958291-a939-442b-9656-570d5d2c94ac")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4644,6 +4780,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/138b0d2b-6eb4-4361-bf49-2d502fb109ac")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -4861,6 +5003,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/a1dacbe0-8aad-4379-baa5-dc3d3ba49d57")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5092,6 +5240,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/0f540540-70a1-4340-95c8-b197fd4af533")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5394,6 +5548,16 @@
 		(path "/2bf49d64-899a-4cd6-98ee-a1cb99869b23/7be1459e-b2f0-428f-afa0-12bab22d8d81")
 		(sheetname "/PreAmp/")
 		(sheetfile "PreAmp.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+			(unit
+				(name "B")
+				(pins "4" "6" "5")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5671,7 +5835,7 @@
 			(uuid "a49251e3-9b24-4098-9aaf-e6417d60df67")
 		)
 		(embedded_fonts no)
-		(model "D:/Engineering/GitHub/DMH-Output/Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
+		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -5751,6 +5915,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/3e372222-ddac-41ad-ab6a-5a2e653c9435")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -5968,6 +6138,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/ef054611-8295-4071-b48c-b34edefc252e")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6197,6 +6373,28 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/65a1ae60-d085-4fba-9061-98a2c4c87582")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6592,6 +6790,28 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/443d98f8-793f-4997-9f79-6ff4e4d80672")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -6997,9 +7217,31 @@
 			)
 		)
 		(property ki_fp_filters "SOIC*3.9x8.7mm*P1.27mm* TSSOP*4.4x5mm*P0.65mm*")
-		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/7b036d8e-f6d2-44b3-b3ce-19d8ca1dfb2f")
+		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/c61da55e-8080-4bcd-bead-793a26eea10f")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7410,6 +7652,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/f4dbc427-b0cf-4567-892c-863faa0f61cc")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7646,6 +7894,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/0948d911-4c00-4c2a-ab67-fc517177b54a")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -7879,6 +8133,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/a4734894-f604-4cae-b126-058da67d5381")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8181,6 +8441,16 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/edb2e315-c1fe-4bea-8c87-9e32fb7f309a")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+			(unit
+				(name "B")
+				(pins "4" "6" "5")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8458,7 +8728,7 @@
 			(uuid "3294e105-d7e4-441d-b2a0-56e05256579e")
 		)
 		(embedded_fonts no)
-		(model "D:/Engineering/GitHub/DMH-Output/Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
+		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -8553,6 +8823,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/ae1bc7b9-da5e-4de8-8ee7-1f1b475f6e68")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -8802,6 +9078,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/7d07001a-e7f5-4f2e-a6d1-382cab4826be")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9036,6 +9318,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/35b64ff8-41f4-4b60-97be-a63aec04c142")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9212,6 +9500,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/5c1fd708-cd4f-4860-aecd-bba803df6e96")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9428,6 +9722,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/28e9ca7c-21a6-409e-bbf5-87deaf1bcdab")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9619,6 +9919,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/af503003-db2c-49a3-902a-2030bd1b4ecb")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -9868,6 +10174,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/77bd0c5d-9488-4a7a-a00e-a4c2ddaad822")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10102,6 +10414,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/78357359-0f8e-46b8-b244-394e439b3500")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10319,6 +10637,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/4a79719e-6b97-4db7-a8ad-53ee44eebe1e")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10551,6 +10875,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/71735e70-5a14-411e-8a26-dea5310d77b2")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -10831,6 +11161,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/269115db-80c8-4650-9832-42dcaf19ff8c")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11103,6 +11439,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/afce77b0-1137-4ab5-9fff-0833635107b4")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11279,6 +11621,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/cf7d05b7-8e6e-4957-9cb3-2c9d07ac7fb1")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11495,6 +11843,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/456960f9-719e-4547-b85f-755fde14dddc")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -11725,6 +12079,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/1f007385-536d-49bb-953f-b804c807a092")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins)
+			)
+		)
 		(attr exclude_from_bom)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_circle
@@ -11852,6 +12212,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/661a0bf6-ac22-49a9-a5df-808e126ca414")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12086,6 +12452,28 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/f0636945-1277-42cb-a6b4-009b43077f25")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12496,6 +12884,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/919871ae-a2fc-46f3-a938-8e301898c9c6")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12730,6 +13124,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/bd6eb722-eb5c-4a36-b341-9aeffc924ee9")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -12907,6 +13307,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/489af7ea-9b0b-4955-ba4b-950d5f17aa5a")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13191,6 +13597,16 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/a33c781e-6ff0-42bb-af0a-8f53ad74c4fc")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "3" "2")
+			)
+			(unit
+				(name "B")
+				(pins "4" "6" "5")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13468,7 +13884,7 @@
 			(uuid "2c4324b1-a876-4e4d-8870-e34e29b806e6")
 		)
 		(embedded_fonts no)
-		(model "D:/Engineering/GitHub/DMH-Output/Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
+		(model "${KIPRJMOD}/../Libraries/SynthStuff/3D_models/RD902F-40-00D.stp"
 			(offset
 				(xyz 7.5 -2.5 0)
 			)
@@ -13564,6 +13980,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/5deacfd2-52a6-4e2b-912c-f884a5c7ac63")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "2" "1" "3")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -13832,6 +14254,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/34c1058a-993d-4e0b-b018-6c4c52a6317e")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14066,6 +14494,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/796ecc29-910c-43ff-b06c-d2b12825fbb9")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14242,6 +14676,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/452eb505-fb76-41b7-b8bf-d5e5b89a20a5")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14458,6 +14898,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b1eddb9a-e3ba-427e-a1dd-de55961c4c94")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14661,6 +15107,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/c7c61a1a-cb11-45e2-897a-b9d04dd89676")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -14933,6 +15385,28 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/b68c2553-b3b5-4d29-803a-a66f64130ccf")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15329,6 +15803,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/b56d697e-31d3-499b-8f1b-964e1b91bf92")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15560,6 +16040,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/79377c56-e38b-430d-9bc7-2ff78efca7fc")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -15821,6 +16307,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/189f1be5-bafc-4281-b8ab-aba1bca776a9")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16108,6 +16600,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/4217c35b-260d-4dad-af74-d0e0134ec740")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16342,6 +16840,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/04cfae81-39c2-474e-aa8c-3abb7a3d0793")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16518,6 +17022,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/34ed258f-2507-49db-9ebb-06e2e418c2f9")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16694,6 +17204,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/4d326e1a-c7ee-425d-8bad-74474660065d")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -16883,6 +17399,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/5099d855-fd09-405d-8a47-ae7a7ecc6d30")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17114,6 +17636,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/73e2ecaf-4615-4dce-8fb6-340257b383b9")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17348,6 +17876,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/f63c6d09-2038-48e1-b654-48e8d0123e7c")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17577,6 +18111,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/50a8cbd6-ffdc-4a3a-996f-85bb6fde5e38")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17793,6 +18333,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/b4205c73-2955-43a3-9f15-4a960fffacf3")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -17969,6 +18515,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/e0fd9843-c312-48f6-8ec0-745b86dabff0")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18198,6 +18750,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/ebf048a5-b232-466f-a0c4-5cd4e2d17d9b")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18415,6 +18973,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/45321372-ab8f-41c5-bd9e-bb48678d3742")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18631,6 +19195,12 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/f5c6174c-8a6c-4d88-962e-6fe626ba0af7")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -18862,6 +19432,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/155757d4-c169-400b-aeb4-7296f6cfe361")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19111,6 +19687,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/5eea51fb-3f70-4759-905e-6fa057a2bb6e")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19360,6 +19942,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/740d02f4-156b-40e3-8353-83e1045985e3")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19594,6 +20182,28 @@
 		(path "/55c0022e-9ebc-4247-b070-6524df6af06d/fccaed5e-d5e2-42bd-9699-8993c155a890")
 		(sheetname "/Input Meter/")
 		(sheetfile "Input_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "5" "4" "2")
+			)
+			(unit
+				(name "B")
+				(pins "7" "6" "1")
+			)
+			(unit
+				(name "C")
+				(pins "11" "10" "13")
+			)
+			(unit
+				(name "D")
+				(pins "9" "8" "14")
+			)
+			(unit
+				(name "E")
+				(pins "3" "12")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -19990,6 +20600,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/d4fb67f7-a3b5-4401-ba8e-847c40c16eb9")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20233,6 +20849,12 @@
 		(path "/91d96a83-7777-458d-a0c8-9961efcb16a5/9020c079-681b-4c8c-8348-116f2218ed10")
 		(sheetname "/Output Meter/")
 		(sheetfile "Output_Meter.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20512,6 +21134,32 @@
 		(path "/45b3c00a-420e-4349-b096-199706c640d6/41e1ee6e-e3a9-4d0c-8eea-5f538152e707")
 		(sheetname "/Headphone Amplifier/")
 		(sheetfile "Headphone_amplifier.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+			(unit
+				(name "E")
+				(pins "5")
+			)
+			(unit
+				(name "F")
+				(pins "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -20830,6 +21478,12 @@
 		(path "/84570ed2-f98d-444a-acb4-3f5ec7a69223")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Controls.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21104,6 +21758,12 @@
 		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/5c95aa99-f44e-45d0-90a4-51f41f7f207d")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21422,6 +22082,32 @@
 		(path "/9adc9203-60fe-4942-b6ff-2cd29597aa58/f75bda4b-18fe-4961-b7d9-fa0f63c357a0")
 		(sheetname "/Gain Trimmer/")
 		(sheetfile "Gain_trimmer.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1")
+			)
+			(unit
+				(name "B")
+				(pins "2")
+			)
+			(unit
+				(name "C")
+				(pins "3")
+			)
+			(unit
+				(name "D")
+				(pins "4")
+			)
+			(unit
+				(name "E")
+				(pins "5")
+			)
+			(unit
+				(name "F")
+				(pins "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -21740,6 +22426,12 @@
 		(path "/ac7a35cb-15f5-4c02-a204-3d77519447eb")
 		(sheetname "/")
 		(sheetfile "DMH_Output_PCB_Controls.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
@@ -22028,6 +22720,12 @@
 		(path "/2bf49d64-899a-4cd6-98ee-a1cb99869b23/69e8d9c0-6d9d-4b9e-93cc-dd94f3f38f01")
 		(sheetname "/PreAmp/")
 		(sheetfile "PreAmp.kicad_sch")
+		(units
+			(unit
+				(name "A")
+				(pins "1" "2" "3" "4" "5" "6")
+			)
+		)
 		(attr through_hole)
 		(duplicate_pad_numbers_are_jumpers no)
 		(fp_line
