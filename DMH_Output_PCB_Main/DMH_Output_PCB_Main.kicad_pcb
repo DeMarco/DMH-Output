@@ -15655,6 +15655,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "45b28d1c-3b99-40a6-8178-10ba631aa039")
 		(at 65.43 199.4 -90)
@@ -35164,6 +35165,7 @@
 		)
 	)
 	(footprint "Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical"
+		(locked yes)
 		(layer "B.Cu")
 		(uuid "fcd2e8bb-6699-45be-b033-559f3748fe25")
 		(at 82.03 199.4 -90)
