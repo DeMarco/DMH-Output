@@ -635,7 +635,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DMH_Output_PCB_Main.kicad_pro",
+    "filename": "DMH_Output_PCB_Mezanine.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -884,8 +884,8 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "DMH_Output_PCB_Main.kicad_sch",
-        "name": "DMH_Output_PCB_Main",
+        "filename": "DMH_Output_PCB_Mezanine.kicad_sch",
+        "name": "DMH_Output_PCB_Mezanine",
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
@@ -895,7 +895,7 @@
   "sheets": [
     [
       "58f4306d-5387-4983-bb08-41a2313fd315",
-      "DMH_Output_PCB_Main"
+      "DMH_Output_PCB_Mezanine"
     ],
     [
       "0b1658b3-ac7b-4692-8043-3e4b42d6c671",
