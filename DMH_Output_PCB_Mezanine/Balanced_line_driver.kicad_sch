@@ -3203,7 +3203,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF 50V"
+		(property "Value" "22pF"
 			(at 101.6 195.58 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -3386,7 +3386,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF 50V"
+		(property "Value" "22pF"
 			(at 101.6 81.28 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5437,7 +5437,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF 50V"
+		(property "Value" "22pF"
 			(at 101.6 144.78 90)
 			(show_name no)
 			(do_not_autoplace no)
@@ -5689,7 +5689,7 @@
 				)
 			)
 		)
-		(property "Value" "22pF 50V"
+		(property "Value" "22pF"
 			(at 101.6 30.48 90)
 			(show_name no)
 			(do_not_autoplace no)
