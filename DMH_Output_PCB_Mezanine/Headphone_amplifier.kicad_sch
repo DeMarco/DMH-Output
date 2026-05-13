@@ -3320,7 +3320,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3385,7 +3385,7 @@
 			(uuid "67eedfdc-6c97-44ab-8f99-f356c93d9c69")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R59")
 					(unit 1)
@@ -3400,7 +3400,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3463,7 +3463,7 @@
 			(uuid "51d5ac86-0781-4c23-91e2-b09c75df0e66")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR038")
 					(unit 1)
@@ -3478,7 +3478,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -3567,7 +3567,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b2")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 5)
@@ -3583,7 +3583,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "14bb493f-d11e-4ef3-a3c1-f542c13862d8")
@@ -3675,7 +3675,7 @@
 			(uuid "82e1587d-0b9e-4fc5-94ff-b854f6246628")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
 					(unit 1)
@@ -3691,7 +3691,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "17bf192a-d929-4f2c-aa03-baede1d3e38b")
@@ -3801,7 +3801,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c329")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 4)
@@ -3817,7 +3817,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board no)
+		(on_board yes)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "1de4a213-f8bb-48a8-86ff-4f60af4132a2")
@@ -3904,7 +3904,7 @@
 			(uuid "08603d9f-f7f9-4a94-874e-067dcc20e082")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J38")
 					(unit 1)
@@ -3998,7 +3998,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b3")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 5)
@@ -4013,7 +4013,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "25567a12-8088-4a29-aeb4-1cb89c089b8b")
@@ -4101,7 +4101,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b4")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 4)
@@ -4195,7 +4195,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b5")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 1)
@@ -4289,7 +4289,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b6")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 6)
@@ -4304,7 +4304,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4393,7 +4393,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b7")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 3)
@@ -4408,7 +4408,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4473,7 +4473,7 @@
 			(uuid "b8cea190-75ea-4586-9709-e301a0d55a1b")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R53")
 					(unit 1)
@@ -4489,7 +4489,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "41a6219b-28cc-419b-96b8-f68a9584d0ee")
@@ -4581,7 +4581,7 @@
 			(uuid "a423b156-1119-4c30-b0d2-42fa596d1995")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
 					(unit 1)
@@ -4675,7 +4675,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b8")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 3)
@@ -4690,7 +4690,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4753,7 +4753,7 @@
 			(uuid "efc63046-b443-42ce-bb48-22fcea08c431")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR035")
 					(unit 1)
@@ -4769,7 +4769,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5412fa13-78bc-45fc-bfb8-bcb1076dcacd")
@@ -4857,7 +4857,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450b9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 1)
@@ -4872,7 +4872,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -4937,7 +4937,7 @@
 			(uuid "3a7bf34f-6c69-4c00-81e6-8f5b1cdfe964")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R52")
 					(unit 1)
@@ -4953,7 +4953,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "5e0024c2-07fb-4bfc-8c81-17c29280802e")
@@ -5041,7 +5041,7 @@
 			(uuid "b0b208ca-44b9-4774-a82b-22b8471a3562")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 6)
@@ -5056,7 +5056,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "67dc7516-d17a-4bdc-936f-609bca038ab2")
@@ -5148,7 +5148,7 @@
 			(uuid "47ecc522-78e6-4238-a2e9-9240173567d5")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U15")
 					(unit 2)
@@ -5163,7 +5163,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "6c868064-9127-4c30-a816-72ef7c3b725d")
@@ -5227,7 +5227,7 @@
 			(uuid "403250f6-2dde-4833-a3ec-342bf3bca0e9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R56")
 					(unit 1)
@@ -5242,7 +5242,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5307,7 +5307,7 @@
 			(uuid "2dde5942-136b-42ce-97a3-f42789567e3f")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R45")
 					(unit 1)
@@ -5323,7 +5323,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "7f6b58b2-172e-47b6-b53b-9bdb30dd7749")
@@ -5433,7 +5433,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 2)
@@ -5449,7 +5449,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "88192337-da4a-4d6f-968d-559e865da5ad")
@@ -5559,7 +5559,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32a")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 1)
@@ -5720,7 +5720,7 @@
 			(uuid "5aa61a75-15de-4e62-b0ac-e99ccebaaf9c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "RV2")
 					(unit 2)
@@ -5735,7 +5735,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5800,7 +5800,7 @@
 			(uuid "f9d0be4e-cadc-42c3-aece-51f1dcffb647")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R58")
 					(unit 1)
@@ -5815,7 +5815,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -5878,7 +5878,7 @@
 			(uuid "f4d9d59f-e9dd-42d0-9554-58bf6aa03011")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR037")
 					(unit 1)
@@ -5972,7 +5972,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450ba")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 4)
@@ -5987,7 +5987,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6052,7 +6052,7 @@
 			(uuid "9163c3e2-ba2e-4bb0-9c16-8e23dc85dc2c")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R57")
 					(unit 1)
@@ -6067,7 +6067,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6156,7 +6156,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450bb")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J27")
 					(unit 2)
@@ -6317,7 +6317,7 @@
 			(uuid "4ce44c16-387d-4a66-94a9-3c77049944b9")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "RV2")
 					(unit 1)
@@ -6332,7 +6332,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6407,7 +6407,7 @@
 			(uuid "de6b6e48-b6bd-4479-a498-340647a83445")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "C14")
 					(unit 1)
@@ -6501,7 +6501,7 @@
 			(uuid "bb3e9353-ae35-45c0-8bba-63e31c8450bc")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "J12")
 					(unit 2)
@@ -6516,7 +6516,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6581,7 +6581,7 @@
 			(uuid "a4bb241a-638b-4e38-932d-c7e2d1c0773f")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R46")
 					(unit 1)
@@ -6597,7 +6597,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "ae3a336d-8bf9-4333-bc9b-65a57a694fdc")
@@ -6707,7 +6707,7 @@
 			(uuid "8c77844f-24b6-4382-848c-b625d9a0c32b")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U11")
 					(unit 3)
@@ -6722,7 +6722,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6785,7 +6785,7 @@
 			(uuid "28ed529c-6b3e-4fab-875b-d84d416c6b58")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "#PWR036")
 					(unit 1)
@@ -6800,7 +6800,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -6865,7 +6865,7 @@
 			(uuid "f41ed673-8eae-4f83-8d49-d16eb3cd3451")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R44")
 					(unit 1)
@@ -6880,7 +6880,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "c1df6e52-45a4-499e-82b2-aaddc47910e4")
@@ -6944,7 +6944,7 @@
 			(uuid "7023cfe5-5789-4e6f-9786-fbf12a2e542e")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R49")
 					(unit 1)
@@ -6959,7 +6959,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7034,7 +7034,7 @@
 			(uuid "a10c0c1f-7807-458d-b4f3-9ee85ec5b2f1")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "C13")
 					(unit 1)
@@ -7049,7 +7049,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7114,7 +7114,7 @@
 			(uuid "1430adc3-7ef4-4f8b-bfd4-f6f6c53b5b6a")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R48")
 					(unit 1)
@@ -7129,7 +7129,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(uuid "f6238e61-79b8-4807-901a-ca63c6e169c4")
@@ -7221,7 +7221,7 @@
 			(uuid "47ecc522-78e6-4238-a2e9-9240173567d6")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "U13")
 					(unit 2)
@@ -7236,7 +7236,7 @@
 		(body_style 1)
 		(exclude_from_sim no)
 		(in_bom yes)
-		(on_board yes)
+		(on_board no)
 		(in_pos_files yes)
 		(dnp no)
 		(fields_autoplaced yes)
@@ -7311,7 +7311,7 @@
 			(uuid "f141cbfa-3c01-4dc7-a197-7b979079594e")
 		)
 		(instances
-			(project "DMH_Output_PCB_Main"
+			(project "DMH_Output_PCB_Mezanine"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/45b3c00a-420e-4349-b096-199706c640d6"
 					(reference "R47")
 					(unit 1)

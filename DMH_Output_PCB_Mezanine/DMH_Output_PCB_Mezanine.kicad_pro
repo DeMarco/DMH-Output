@@ -60,84 +60,7 @@
           "width": 0.0
         }
       ],
-      "drc_exclusions": [
-        [
-          "courtyards_overlap|73164122|128925000|2266821c-ca7b-43f6-805d-0b6e0b531d40|50e2cec9-e0b2-4e65-81a5-8fa52b6c7ff1",
-          ""
-        ],
-        [
-          "courtyards_overlap|76835877|128925000|2266821c-ca7b-43f6-805d-0b6e0b531d40|f68daac4-befa-4544-b1b6-b714a8a28abb",
-          ""
-        ],
-        [
-          "silk_edge_clearance|59230000|163370000|b3c2b746-7928-4430-9218-c5517ec26bc0|38a9067a-29cb-43c2-9bad-e018d4231bab",
-          ""
-        ],
-        [
-          "silk_edge_clearance|65770000|163370000|b3c2b746-7928-4430-9218-c5517ec26bc0|db5a322f-53b0-4a4f-a0d8-f35b1ba11f0c",
-          ""
-        ],
-        [
-          "silk_edge_clearance|65770000|163370000|b3c2b746-7928-4430-9218-c5517ec26bc0|f8aa8621-9080-4b99-9bea-ab2bb265205a",
-          ""
-        ],
-        [
-          "silk_over_copper|53600000|131785714|f4f1d727-d1b4-42d3-970b-dfce468cd8c4|a4bb8da9-b6f8-4096-8f5f-b4a8a187af4b",
-          ""
-        ],
-        [
-          "silk_over_copper|59166666|101085771|7ad0b22f-8072-4ef4-b8e5-9b09965bb9c4|9313b2d9-e460-4c77-84d6-a61ad539a8de",
-          ""
-        ],
-        [
-          "silk_over_copper|59166666|104085771|66cc201c-9070-44e5-9c7e-d67606cbbf21|8aa30513-9ff3-4613-8e96-03cfab128d1a",
-          ""
-        ],
-        [
-          "silk_over_copper|59166666|126085771|98149f0f-689e-4716-ba7f-52db2e559c49|5234e59e-6719-4b83-a423-cb1f203868b0",
-          ""
-        ],
-        [
-          "silk_over_copper|60000000|79181009|ed756db9-963b-410a-981e-2fca185cf7d1|3f873006-06ba-49c7-8482-adbf25e54f93",
-          ""
-        ],
-        [
-          "silk_over_copper|63954819|76900000|493341a6-ce0a-4690-93a6-65d514b5bc66|5b1a6918-41bd-476c-b37b-d133b01f0c37",
-          ""
-        ],
-        [
-          "silk_over_copper|74931009|131750000|8b5b84e2-b729-43aa-a3b6-df5610d9f243|a5a37821-5b14-44da-8250-fe7bbd296fab",
-          ""
-        ],
-        [
-          "silk_over_copper|85500000|77685714|add99ecd-c2e2-4cc8-94ac-e0553ee19163|37333cda-c3ec-484a-978b-ccf32d392652",
-          ""
-        ],
-        [
-          "silk_over_copper|92735771|70333333|b97ccb0d-bc9d-4722-bf54-53c2c84b2f9e|94d19ce7-04fa-486e-bb9f-23dde8b9fda1",
-          ""
-        ],
-        [
-          "silk_over_copper|94166666|104085771|7e5c0892-82b7-4eaf-b17f-d7d6b7952bec|73748ff5-5072-4da3-a139-3acd6d32fbe5",
-          ""
-        ],
-        [
-          "silk_over_copper|95000000|101181009|12d68ff6-2c0c-4345-85f4-f37172ee0523|8e0dbc84-f905-4052-9ff3-5e048740ccb0",
-          ""
-        ],
-        [
-          "silk_over_copper|95000000|126181009|c4d34ffc-94f3-4ecb-a9ce-703fc3d5aa5c|0f60ed10-d9a7-4178-a6af-e49a62b41764",
-          ""
-        ],
-        [
-          "silk_over_copper|95000000|79131009|b95ec91c-e723-4b06-8cd9-3d31c9214008|d7d79ad9-7a0c-4a33-b0ed-56d609b5ff48",
-          ""
-        ],
-        [
-          "silk_over_copper|96325771|131833333|e224e0f2-570d-4d84-9268-3e1b6684e6cb|f6acfe98-bbc4-4c38-afec-8376482646ae",
-          ""
-        ]
-      ],
+      "drc_exclusions": [],
       "meta": {
         "version": 2
       },
@@ -182,8 +105,8 @@
         "padstack": "warning",
         "pth_inside_courtyard": "ignore",
         "shorting_items": "error",
-        "silk_edge_clearance": "warning",
-        "silk_over_copper": "warning",
+        "silk_edge_clearance": "ignore",
+        "silk_over_copper": "ignore",
         "silk_overlap": "warning",
         "skew_out_of_range": "error",
         "solder_mask_bridge": "error",
@@ -336,7 +259,32 @@
     "equivalence_files": []
   },
   "erc": {
-    "erc_exclusions": [],
+    "erc_exclusions": [
+      [
+        "isolated_pin_label|698500|1714500|2c67d5c1-2193-4414-8a62-64751ba68e4d|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ],
+      [
+        "isolated_pin_label|698500|1739900|32da390f-3d87-42ef-b0e5-8d64a148140e|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ],
+      [
+        "isolated_pin_label|698500|1765300|aa2c20f4-cdaa-4096-8a54-27fee2d25df2|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ],
+      [
+        "isolated_pin_label|698500|1790700|8508ff14-4ed1-4b39-8621-4793ea836c7b|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ],
+      [
+        "isolated_pin_label|698500|1816100|f1d43275-5d75-4620-a8e0-f36b58f7d3ef|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ],
+      [
+        "isolated_pin_label|698500|1841500|d83f9d8a-a634-460e-8ef8-f2147875b556|00000000-0000-0000-0000-000000000000|/58f4306d-5387-4983-bb08-41a2313fd315/2bf49d64-899a-4cd6-98ee-a1cb99869b23||",
+        ""
+      ]
+    ],
     "meta": {
       "version": 0
     },
@@ -566,7 +514,7 @@
     "pinned_symbol_libs": []
   },
   "meta": {
-    "filename": "DMH_Output_PCB_Controls.kicad_pro",
+    "filename": "DMH_Output_PCB_Mezanine.kicad_pro",
     "version": 3
   },
   "net_settings": {
@@ -616,7 +564,9 @@
     "net_colors": {
       "+10V": "rgb(255, 153, 0)",
       "+12V": "rgb(255, 0, 0)",
-      "-12V": "rgb(0, 255, 0)"
+      "-12V": "rgb(0, 255, 0)",
+      "GND": "rgb(0, 0, 255)",
+      "Net-(U16B-+)": "rgb(255, 153, 0)"
     },
     "netclass_assignments": {
       "Net-(D1-K)": [
@@ -659,7 +609,7 @@
       "gencad": "",
       "idf": "",
       "netlist": "",
-      "plot": "Gerbers/",
+      "plot": "",
       "pos_files": "",
       "specctra_dsn": "",
       "step": "",
@@ -687,7 +637,7 @@
     },
     "bom_presets": [],
     "bom_settings": {
-      "exclude_dnp": true,
+      "exclude_dnp": false,
       "fields_ordered": [
         {
           "group_by": false,
@@ -813,18 +763,18 @@
     "subpart_id_separator": 0,
     "top_level_sheets": [
       {
-        "filename": "DMH_Output_PCB_Controls.kicad_sch",
-        "name": "DMH_Output_PCB_Controls",
+        "filename": "DMH_Output_PCB_Mezanine.kicad_sch",
+        "name": "DMH_Output_PCB_Mezanine",
         "uuid": "58f4306d-5387-4983-bb08-41a2313fd315"
       }
     ],
-    "used_designators": "",
+    "used_designators": "J35-40,C20-21",
     "variants": []
   },
   "sheets": [
     [
       "58f4306d-5387-4983-bb08-41a2313fd315",
-      "DMH_Output_PCB_Controls"
+      "DMH_Output_PCB_Mezanine"
     ],
     [
       "0b1658b3-ac7b-4692-8043-3e4b42d6c671",
