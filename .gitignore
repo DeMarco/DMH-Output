@@ -30,11 +30,14 @@ fp-info-cache
 *.ses
 
 # Exported BOM files
-#*.xml
-#*.csv
+*.xml
+*.csv
 
 # Archived Backups (KiCad 6.0)
 **/*-backups/*.zip
+
+# Local git-based history (KiCad 9.0+)
+.history
 
 # Local project settings
 *.kicad_prl
