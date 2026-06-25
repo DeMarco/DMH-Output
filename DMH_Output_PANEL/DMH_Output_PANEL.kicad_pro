@@ -668,7 +668,7 @@
       {
         "filename": "DMH_Output_PANEL.kicad_sch",
         "name": "DMH_Output_PANEL",
-        "uuid": "00000000-0000-0000-0000-000000000000"
+        "uuid": "a552705f-a9fe-462e-9913-5cfcc08b233c"
       }
     ],
     "used_designators": "",
@@ -677,7 +677,7 @@
   "sheets": [
     [
       "a552705f-a9fe-462e-9913-5cfcc08b233c",
-      "Root"
+      "DMH_Output_PANEL"
     ]
   ],
   "text_variables": {},

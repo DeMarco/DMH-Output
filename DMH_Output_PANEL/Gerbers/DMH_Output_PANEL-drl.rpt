@@ -1,5 +1,5 @@
 Drill report for DMH_Output_PANEL.kicad_pcb
-Created on 2026-03-10T18:05:36-0300
+Created on 2026-06-25T19:43:50
 
 Copper Layer Stackup:
     =============================================================
@@ -7,17 +7,18 @@ Copper Layer Stackup:
     L2 :  B.Cu                      back
 
 
-Drill file 'DMH_Output_PANEL-PTH.drl' contains
+Drill file 'DMH_Output_PANEL-PTH-drl.gbr' contains
     plated through holes:
     =============================================================
-    T1  0,300mm  0,0118"  (72 holes)
-    T2  1,000mm  0,0394"  (3 holes)  (with 3 slots)
-    T3  3,200mm  0,1260"  (4 holes)
+    T1  0.300mm  0.0118"  (72 holes))
+    T2  1.000mm  0.0394"  (2 holes)  (with 2 slots)
+    T3  1.200mm  0.0472"  (1 hole)  (with 1 slot)
+    T4  3.200mm  0.1260"  (4 holes))
 
     Total plated holes count 79
 
 
-Drill file 'DMH_Output_PANEL-NPTH.drl' contains
+Drill file 'DMH_Output_PANEL-NPTH-drl.gbr' contains
     unplated through holes:
     =============================================================
 
