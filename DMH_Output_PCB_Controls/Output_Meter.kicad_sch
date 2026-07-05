@@ -2783,7 +2783,7 @@
 	)
 	(wire
 		(pts
-			(xy 203.2 152.4) (xy 243.84 152.4)
+			(xy 203.2 152.4) (xy 254 152.4)
 		)
 		(stroke
 			(width 0)
@@ -3933,16 +3933,6 @@
 	)
 	(wire
 		(pts
-			(xy 99.06 152.4) (xy 139.7 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "a0393383-0d1f-46e4-9ecb-b0ee4f2a35ad")
-	)
-	(wire
-		(pts
 			(xy 179.07 60.96) (xy 182.88 60.96)
 		)
 		(stroke
@@ -4373,7 +4363,7 @@
 	)
 	(wire
 		(pts
-			(xy 88.9 152.4) (xy 91.44 152.4)
+			(xy 88.9 152.4) (xy 139.7 152.4)
 		)
 		(stroke
 			(width 0)
@@ -4680,16 +4670,6 @@
 			(type default)
 		)
 		(uuid "e690a660-aa78-4b5f-b7d2-6e54bb5f9483")
-	)
-	(wire
-		(pts
-			(xy 254 152.4) (xy 251.46 152.4)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "e75b9c05-9bb7-4cde-b715-e13c55928229")
 	)
 	(wire
 		(pts
@@ -7498,85 +7478,6 @@
 	)
 	(symbol
 		(lib_id "Device:R_US")
-		(at 247.65 152.4 270)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "452eb505-fb76-41b7-b8bf-d5e5b89a20a5")
-		(property "Reference" "R25"
-			(at 247.65 158.75 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470R"
-			(at 247.65 156.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 247.396 153.416 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 247.65 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 247.65 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "a87877cd-b302-4ca4-8fd4-c75ae20628ae")
-		)
-		(pin "1"
-			(uuid "5ddf047b-a1c7-4638-807e-5a215d2610db")
-		)
-		(instances
-			(project "DMH_Output_PCB_Controls"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "R25")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
 		(at 171.45 135.89 180)
 		(unit 1)
 		(body_style 1)
@@ -7681,7 +7582,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "47R"
 			(at 251.46 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)
@@ -7735,86 +7636,6 @@
 			(project "DMH_Output_PCB_Controls"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
 					(reference "R23")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "Device:R_US")
-		(at 95.25 152.4 90)
-		(mirror x)
-		(unit 1)
-		(body_style 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(in_pos_files yes)
-		(dnp no)
-		(uuid "459b3e30-4810-4095-afe4-cd4fbfd8493c")
-		(property "Reference" "R22"
-			(at 95.25 158.75 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Value" "470R"
-			(at 95.25 156.21 90)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" "Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal"
-			(at 95.504 153.416 90)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Datasheet" ""
-			(at 95.25 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Description" "Resistor, US symbol"
-			(at 95.25 152.4 0)
-			(hide yes)
-			(show_name no)
-			(do_not_autoplace no)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(pin "2"
-			(uuid "e50901b7-c9d6-45ec-bd03-681528e049a9")
-		)
-		(pin "1"
-			(uuid "43c7eb66-b006-4e68-aad0-b7392715351f")
-		)
-		(instances
-			(project "DMH_Output_PCB_Controls"
-				(path "/58f4306d-5387-4983-bb08-41a2313fd315/91d96a83-7777-458d-a0c8-9961efcb16a5"
-					(reference "R22")
 					(unit 1)
 				)
 			)
@@ -10469,7 +10290,7 @@
 				(justify right)
 			)
 		)
-		(property "Value" "75R"
+		(property "Value" "47R"
 			(at 91.44 128.2699 0)
 			(show_name no)
 			(do_not_autoplace no)

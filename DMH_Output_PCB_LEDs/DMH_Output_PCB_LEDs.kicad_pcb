@@ -205,7 +205,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/4d0d5e53-2756-4bf4-920b-295fdde24a2d")
+		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/75604716-8215-498f-ba10-8241f84a5166")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(units
@@ -687,7 +687,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/2569edd0-1c9d-49fe-b01a-8ea1b7b9a0d7")
+		(path "/0cdf34b2-39cd-4d9e-981a-97cd34791509/a20ebd26-2e71-4c90-af84-baf7ac205a49")
 		(sheetname "/Power/")
 		(sheetfile "Power.kicad_sch")
 		(units

@@ -1049,7 +1049,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/0b1658b3-ac7b-4692-8043-3e4b42d6c671/cb94a33b-37c8-4154-93ff-3d000bb59880")
+		(path "/0b1658b3-ac7b-4692-8043-3e4b42d6c671/a213c3f3-8548-450a-9ea3-848bcbefa756")
 		(sheetname "/Pre-Gain Stage/")
 		(sheetfile "Pregain_stage.kicad_sch")
 		(units
@@ -2173,7 +2173,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/824fc238-5889-4012-a2b6-493f2edfd718/a5dffbf7-0f8c-48d1-bf5b-c1e2a841d52e")
+		(path "/824fc238-5889-4012-a2b6-493f2edfd718/6af6fef4-ef5b-4d10-a4fb-1b9a119a7c88")
 		(sheetname "/Balanced Line Driver/")
 		(sheetfile "Balanced_line_driver.kicad_sch")
 		(units

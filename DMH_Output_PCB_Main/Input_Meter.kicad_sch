@@ -2100,42 +2100,6 @@
 			(embedded_fonts no)
 		)
 	)
-	(circle
-		(center 171.45 22.86)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "1d335f4c-9fa3-4d53-a294-5ee7c2c71ec7")
-	)
-	(circle
-		(center 57.15 22.86)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "48505c17-b10c-4ac2-bfa8-236cfba06a3e")
-	)
-	(circle
-		(center 146.05 45.72)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "a9cd2db9-5bca-42fb-a31c-06d5d9e14f9f")
-	)
 	(rectangle
 		(start 38.1 76.2)
 		(end 279.4 165.1)
@@ -2148,18 +2112,6 @@
 		)
 		(uuid "c4033c10-6187-462f-be13-9db67c036d8d")
 	)
-	(circle
-		(center 31.75 45.72)
-		(radius 5.08)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(fill
-			(type none)
-		)
-		(uuid "ea40ab2d-5b8e-44bb-9fa3-96622363c235")
-	)
 	(text "3 = Green"
 		(exclude_from_sim no)
 		(at 91.44 108.458 0)
@@ -2169,26 +2121,6 @@
 			)
 		)
 		(uuid "063a1cf0-96d5-4306-a7fe-ef80c0ee86ed")
-	)
-	(text "Was 100k"
-		(exclude_from_sim no)
-		(at 57.15 16.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "12db51d5-c902-4ebe-b4e5-148691089657")
-	)
-	(text "Was 20k"
-		(exclude_from_sim no)
-		(at 31.75 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "15e3a6c7-c89b-4628-b97a-6dc0151caf7d")
 	)
 	(text "3 = Green"
 		(exclude_from_sim no)
@@ -2229,26 +2161,6 @@
 			)
 		)
 		(uuid "7fec9311-8256-478a-8761-1a7278bf6df3")
-	)
-	(text "Was 20k"
-		(exclude_from_sim no)
-		(at 146.05 39.37 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "974ca9fe-2ced-4551-a576-c85678db8e2c")
-	)
-	(text "Was 100k"
-		(exclude_from_sim no)
-		(at 171.45 16.51 0)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-		)
-		(uuid "de36c4a0-05e5-472d-a15f-171b25d8866c")
 	)
 	(junction
 		(at 149.86 124.46)
