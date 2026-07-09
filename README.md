@@ -40,7 +40,7 @@ Height: 20cm
 
 Width: 10cm
 
-Depth: 4cm
+Depth: 5cm
 
 ## PCB set
 
