@@ -50,7 +50,15 @@ Depth: 4cm
 - Main
 - Mezzanine
 
-Final Gerbers in .zip packages available in "Gerbers" folder
+## Gerbers
+
+https://github.com/DeMarco/DMH-Output/tree/main/Gerbers
+
+## Schematic and BoM
+
+https://github.com/DeMarco/DMH-Output/blob/main/DMH_Output_Schematic.pdf
+
+https://github.com/DeMarco/DMH-Output/blob/main/DMH_Output_BoM.csv
 
 ## Assembly and Calibration Instructions
 
