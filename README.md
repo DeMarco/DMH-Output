@@ -10,7 +10,7 @@ Kosmo format output module
 
 ## Features
 
-### Line outputs and and main volume
+### Line outputs and main volume
 
 The L and R inputs accept the usual (Eurorack) modular synth audio amplitude of 10 V peak-to-peak.
 The line level L and R outputs accept both balanced TRS and unbalanced TS cables.
@@ -51,7 +51,7 @@ Depth: 4cm
 
 Final Gerbers in .zip packages available in "Gerbers" folder
 
-## Assembly Instructions
+## Assembly and Calibration Instructions
 
 https://github.com/DeMarco/DMH-Output/blob/main/Assembly_Instructions.md
 
