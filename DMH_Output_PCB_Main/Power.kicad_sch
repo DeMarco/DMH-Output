@@ -5,9 +5,10 @@
 	(uuid "30e4b514-dc95-4662-a809-bc894b8288c5")
 	(paper "A4")
 	(title_block
-		(title "Power Distribution")
+		(title "5532 Output")
+		(date "2026-07-09")
 		(company "DMH Instruments")
-		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+		(comment 1 "5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:NE5532"

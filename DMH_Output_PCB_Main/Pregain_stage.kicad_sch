@@ -5,7 +5,10 @@
 	(uuid "74148f70-5cf7-4d9d-9aee-3e479a9571d3")
 	(paper "A4")
 	(title_block
-		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+		(title "5532 Output")
+		(date "2026-07-09")
+		(company "DMH Instruments")
+		(comment 1 "5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:TL072"

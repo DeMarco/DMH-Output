@@ -5,8 +5,10 @@
 	(uuid "5be46f3b-d698-4e94-858f-a9faff539214")
 	(paper "A4")
 	(title_block
+		(title "5532 Output")
+		(date "2026-07-09")
 		(company "DMH Instruments")
-		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+		(comment 1 "5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Amplifier_Operational:NE5532"

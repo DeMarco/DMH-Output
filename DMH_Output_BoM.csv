@@ -1,0 +1,66 @@
+Reference;Value;Qty;Footprint
+C8,C9,C11,C12,C13,C14,C15,C18,C19,C35;100pF;10;Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm
+C25,C26,C30,C33;22pF 50V;4;Capacitor_THT:C_Disc_D3.0mm_W2.0mm_P2.50mm
+C3,C4,C39,C40,C41,C42,C43,C44,C45,C46,C47,C48,C49,C50,C51,C52,C53,C54,C55,C56,C57,C58,C59,C60,C61,C62,C63,C64,C65,C66,C67,C68,C70,C72,C73,C74,C77,C78,C79,C80;100nF;40;Capacitor_THT:C_Disc_D4.3mm_W1.9mm_P5.00mm
+C16,C17,C20,C21;22uF 35V;4;Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm
+C7,C10,C22,C27,C28,C29,C31,C32,C34,C36,C37,C38;47uF 35V;12;Capacitor_THT:C_Radial_D8.0mm_H11.5mm_P3.50mm
+C5,C6,C23,C24;10uF;4;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+C1,C2;47uF;2;Capacitor_THT:CP_Radial_D5.0mm_P2.00mm
+J24,J25;Conn_01x02;2;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+J39,J40;Conn_01x02_PinHeader;2;Connector_PinHeader_2.54mm:PinHeader_1x02_P2.54mm_Vertical
+J30;Conn_01x04_PinHeader;1;Connector_PinHeader_2.54mm:PinHeader_1x04_P2.54mm_Vertical
+J33,J34,J37,J38;Conn_01x06;4;Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical
+J32;Conn_01x06_PinHeader;1;Connector_PinHeader_2.54mm:PinHeader_1x06_P2.54mm_Vertical
+J21,J22;Conn_01x02;2;Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical
+J35,J36;Conn_01x02_PinHeader;2;Connector_PinSocket_2.54mm:PinSocket_1x02_P2.54mm_Vertical
+J29;Conn_01x04_PinHeader;1;Connector_PinSocket_2.54mm:PinSocket_1x04_P2.54mm_Vertical
+J10,J13,J23,J28;Conn_01x06;4;Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical
+J11,J12,J26,J27,J31;Conn_01x06_PinHeader;5;Connector_PinSocket_2.54mm:PinSocket_1x06_P2.54mm_Vertical
+D3,D4,D5,D6,D27,D28,D29,D30,D33,D34,D43,D44;1N4148;12;Diode_THT:D_DO-35_SOD27_P7.62mm_Horizontal
+D1,D2;SB140;2;Diode_THT:D_DO-41_SOD81_P10.16mm_Horizontal
+D7,D8,D9,D10,D11,D12,D13,D20,D21,D22,D23,D24,D25,D26;LED_G;14;LED_THT:LED_Rectangular_W5.0mm_H2.0mm
+D16,D17;LED_R;2;LED_THT:LED_Rectangular_W5.0mm_H2.0mm
+D14,D15,D18,D19;LED_Y;4;LED_THT:LED_Rectangular_W5.0mm_H2.0mm
+D31,D32;LED_Dual_AKA;2;LED_THT:LED_Rectangular_W5.0mm_H2.0mm-3Pins
+U2,U3,U4,U5,U6,U24,U25;LM339;7;Package_DIP:DIP-14_W7.62mm_Socket
+U8,U11;TL074;2;Package_DIP:DIP-14_W7.62mm_Socket
+U9,U10,U13,U15,U16,U17,U18,U19;NE5532;8;Package_DIP:DIP-8_W7.62mm_Socket
+U1,U7,U20;TL072;3;Package_DIP:DIP-8_W7.62mm_Socket
+Q1,Q2;BC558;2;Package_TO_SOT_THT:TO-92L_Inline_Wide
+U21;LM4040LP-10;1;Package_TO_SOT_THT:TO-92L_Inline_Wide
+RV4,RV5;1k;2;Potentiometer_THT:Potentiometer_Bourns_3296W_Vertical
+R52,R53,R58,R59;10R;4;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R21,R23;47R;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R37,R38,R41,R113;75R;4;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R60,R63,R70,R74;100R;4;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R18,R19;361R;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R3,R6,R86,R94;470R;4;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R17;715R;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R30,R31,R32,R33,R43,R44,R46,R48,R49,R56,R57,R67,R72,R103,R104,R108,R111;1k;17;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R15;1k2;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R16;1k43;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R14;1k69;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R76,R77,R78,R79;2k;4;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R13;2k37;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R4,R12,R88,R90,R109,R110;3k3;6;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R11,R34,R35,R40,R42,R96,R98,R112,R114;4k7;9;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R10;6k8;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R36,R39,R45,R47,R68,R73,R93,R100,R101,R102,R106,R107,R115;10k;13;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R27,R28;14k;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R26,R29;20k;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R1,R2,R5,R8,R20,R24,R66,R71,R84,R89,R92,R97;22k;12;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R99,R105;47k;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R80,R81;68k;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R87,R95;68K;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R9;82k;1;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R62,R65,R69,R75,R85,R91;100k;6;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+R61,R64;220k;2;Resistor_THT:R_Axial_DIN0207_L6.3mm_D2.5mm_P7.62mm_Horizontal
+J1,J2,J3,J4,J5,J6,J7,J8,J9;TRS_Jack_6.35mm_Sw;9;SynthStuff:CUI_SJ-63083D
+J200;IDC_02x05;1;SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_BackBone
+J100;IDC_02x05;1;SynthStuff:IDC-Header_2x05_P2.54mm_Vertical_Eurorack
+RV1,RV2,RV3;B10k;3;SynthStuff:Potentiometer_Alpha_RD902F-40-00D_Dual_Vertical
+DIP socket 8 pins;DIP-8_W7.62mm_Socket;11;
+DIP socket 14 pins;DIP-14_W7.62mm_Socket;9;
+Standoff;5mm, M2.5;2;
+Standoff nut;M2.5;2;
+Standoff screw;M2.5;2;

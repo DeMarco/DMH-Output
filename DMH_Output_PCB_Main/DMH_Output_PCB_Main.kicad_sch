@@ -5,9 +5,11 @@
 	(uuid "58f4306d-5387-4983-bb08-41a2313fd315")
 	(paper "A4")
 	(title_block
+		(title "5532 Output")
+		(date "2026-07-09")
 		(rev "1")
 		(company "DMH Instruments")
-		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
+		(comment 1 "5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
 		(symbol "Connector:TestPoint"
