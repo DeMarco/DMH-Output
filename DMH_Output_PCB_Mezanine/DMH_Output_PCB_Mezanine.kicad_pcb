@@ -2828,7 +2828,7 @@
 		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
 		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "RV5"
-			(at -2.54 3.66 0)
+			(at -8.24 -0.005 270)
 			(layer "B.SilkS")
 			(uuid "b66354b1-67ea-4988-b466-3afdea87137e")
 			(effects
@@ -2889,10 +2889,9 @@
 			)
 		)
 		(property "Function" "R Bal Trim"
-			(at 0 0 180)
+			(at -2.54 3.395 0)
 			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
+			(layer "B.SilkS")
 			(uuid "4ebac35d-1782-455e-91db-487ffb14e7b7")
 			(effects
 				(font
@@ -16698,7 +16697,7 @@
 		(descr "Potentiometer, vertical, Bourns 3296W, https://www.bourns.com/pdfs/3296.pdf")
 		(tags "Potentiometer vertical Bourns 3296W")
 		(property "Reference" "RV4"
-			(at -2.54 3.66 0)
+			(at -8.24 -0.005 90)
 			(layer "B.SilkS")
 			(uuid "1e7f769d-f7a3-4a78-b386-d54ccd49922c")
 			(effects
@@ -16759,10 +16758,9 @@
 			)
 		)
 		(property "Function" "L Bal Trim"
-			(at 0 0 180)
+			(at -2.54 3.395 0)
 			(unlocked yes)
-			(layer "B.Fab")
-			(hide yes)
+			(layer "B.SilkS")
 			(uuid "c2c87516-2bfe-4dfc-b2e5-a45ba2e67ef0")
 			(effects
 				(font
@@ -24423,7 +24421,7 @@
 		(layer "User.9")
 		(uuid "00a9661b-bc4e-493a-9a57-d5b24a34753b")
 	)
-	(gr_text "Mk1.0\nMay 2026"
+	(gr_text "Mk1.1\nJuly 2026"
 		(at 75 215 0)
 		(layer "B.SilkS")
 		(uuid "a0197667-8b1a-49a2-bc42-d1a5bbe1a3f0")

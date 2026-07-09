@@ -10,6 +10,129 @@
 		(comment 1 "PCB for 5 cm Kosmo format synthesizer module")
 	)
 	(lib_symbols
+		(symbol "Connector:TestPoint"
+			(pin_numbers
+				(hide yes)
+			)
+			(pin_names
+				(offset 0.762)
+				(hide yes)
+			)
+			(exclude_from_sim no)
+			(in_bom yes)
+			(on_board yes)
+			(in_pos_files yes)
+			(duplicate_pin_numbers_are_jumpers no)
+			(property "Reference" "TP"
+				(at 0 6.858 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Value" "TestPoint"
+				(at 0 5.08 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Footprint" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Datasheet" ""
+				(at 5.08 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "Description" "test point"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_keywords" "test point tp"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(property "ki_fp_filters" "Pin* Test*"
+				(at 0 0 0)
+				(show_name no)
+				(do_not_autoplace no)
+				(hide yes)
+				(effects
+					(font
+						(size 1.27 1.27)
+					)
+				)
+			)
+			(symbol "TestPoint_0_1"
+				(circle
+					(center 0 3.302)
+					(radius 0.762)
+					(stroke
+						(width 0)
+						(type default)
+					)
+					(fill
+						(type none)
+					)
+				)
+			)
+			(symbol "TestPoint_1_1"
+				(pin passive line
+					(at 0 0 90)
+					(length 2.54)
+					(name "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+					(number "1"
+						(effects
+							(font
+								(size 1.27 1.27)
+							)
+						)
+					)
+				)
+			)
+			(embedded_fonts no)
+		)
 		(symbol "Connector_Generic:Conn_01x02"
 			(pin_names
 				(offset 1.016)
@@ -1167,10 +1290,28 @@
 		(uuid "03751bec-ad42-492b-b903-46cb89dfcc96")
 	)
 	(junction
+		(at 261.62 22.86)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "171a1f94-7ff8-4474-84ad-cb8b6529b6e3")
+	)
+	(junction
+		(at 254 45.72)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "1f4cddc8-3980-42d6-bf2d-556a79d223b7")
+	)
+	(junction
 		(at 43.18 38.1)
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "41a99c1a-161a-4039-b316-8b7bb68e6e91")
+	)
+	(junction
+		(at 245.11 48.26)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "4d360a8f-8aad-4717-b0eb-e1887a314eeb")
 	)
 	(junction
 		(at 101.6 63.5)
@@ -1201,6 +1342,12 @@
 		(diameter 0)
 		(color 0 0 0 0)
 		(uuid "c394675b-d2d3-4996-a5a1-47de9d78f2e1")
+	)
+	(junction
+		(at 245.11 30.48)
+		(diameter 0)
+		(color 0 0 0 0)
+		(uuid "d7748b94-cb09-4444-aead-5603a00bb8be")
 	)
 	(junction
 		(at 101.6 152.4)
@@ -1412,6 +1559,26 @@
 	)
 	(wire
 		(pts
+			(xy 254 45.72) (xy 254 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1bce73a6-d0fb-4185-8664-7242579c983f")
+	)
+	(wire
+		(pts
+			(xy 245.11 48.26) (xy 264.16 48.26)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "1d90b662-1c9a-4854-aa85-4739cdf6f95e")
+	)
+	(wire
+		(pts
 			(xy 83.82 109.22) (xy 76.2 109.22)
 		)
 		(stroke
@@ -1459,6 +1626,16 @@
 			(type default)
 		)
 		(uuid "2ea0e83b-9be5-4052-856f-66b8e0d35107")
+	)
+	(wire
+		(pts
+			(xy 245.11 48.26) (xy 245.11 68.58)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "2ebbfcbf-832a-45ae-bc49-f41455808729")
 	)
 	(wire
 		(pts
@@ -1652,7 +1829,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 30.48) (xy 264.16 30.48)
+			(xy 241.3 30.48) (xy 245.11 30.48)
 		)
 		(stroke
 			(width 0)
@@ -1842,6 +2019,16 @@
 	)
 	(wire
 		(pts
+			(xy 261.62 68.58) (xy 261.62 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "92d625bc-2d21-4763-9c9d-f4969ae52bdc")
+	)
+	(wire
+		(pts
 			(xy 30.48 177.8) (xy 50.8 177.8)
 		)
 		(stroke
@@ -1852,7 +2039,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 45.72) (xy 261.62 45.72)
+			(xy 241.3 45.72) (xy 254 45.72)
 		)
 		(stroke
 			(width 0)
@@ -1902,7 +2089,7 @@
 	)
 	(wire
 		(pts
-			(xy 241.3 48.26) (xy 264.16 48.26)
+			(xy 241.3 48.26) (xy 245.11 48.26)
 		)
 		(stroke
 			(width 0)
@@ -1949,6 +2136,16 @@
 			(type default)
 		)
 		(uuid "b1184673-465d-4f86-b50f-c851a18fc86d")
+	)
+	(wire
+		(pts
+			(xy 261.62 63.5) (xy 254 63.5)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "b2bc661b-5f43-48ac-8e3a-737d3f8a1640")
 	)
 	(wire
 		(pts
@@ -2122,6 +2319,16 @@
 	)
 	(wire
 		(pts
+			(xy 254 45.72) (xy 261.62 45.72)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d8c8d346-4cba-4df7-b5da-aa46f59488f1")
+	)
+	(wire
+		(pts
 			(xy 30.48 63.5) (xy 50.8 63.5)
 		)
 		(stroke
@@ -2129,6 +2336,16 @@
 			(type default)
 		)
 		(uuid "d8caf98d-26af-4a4b-9f61-2be2fa23278d")
+	)
+	(wire
+		(pts
+			(xy 245.11 20.32) (xy 245.11 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "d92c3938-89b0-4249-add5-1ce6dcba6c07")
 	)
 	(wire
 		(pts
@@ -2189,6 +2406,26 @@
 			(type default)
 		)
 		(uuid "e78eb993-4007-4c93-9ee5-97c852e474c0")
+	)
+	(wire
+		(pts
+			(xy 261.62 20.32) (xy 261.62 22.86)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f365f846-988d-4072-b8a0-a0951b6e6b4c")
+	)
+	(wire
+		(pts
+			(xy 245.11 30.48) (xy 264.16 30.48)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f5415443-a9fe-415d-b9a8-e3f6317b9efd")
 	)
 	(wire
 		(pts
@@ -2915,6 +3152,85 @@
 			(project "DMH_Output_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "J7")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 261.62 68.58 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "5772606d-f699-4235-bd44-8b9cdcdbe510")
+		(property "Reference" "TP24"
+			(at 264.16 70.6119 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 264.16 73.1519 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+			(at 256.54 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 256.54 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 261.62 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "781a1ddf-064c-4129-9d91-8c4a3e365e0a")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "TP24")
 					(unit 1)
 				)
 			)
@@ -3963,6 +4279,164 @@
 		)
 	)
 	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 245.11 68.58 180)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "a3e1c44b-491a-49d7-bcaa-afc4611716c9")
+		(property "Reference" "TP23"
+			(at 247.65 70.6119 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 247.65 73.1519 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify right)
+			)
+		)
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+			(at 240.03 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 240.03 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 245.11 68.58 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "87da1254-afda-4337-94c4-569e36397b06")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "TP23")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 245.11 20.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "a3ea8d4e-d87d-4ca4-b22e-e38334505079")
+		(property "Reference" "TP21"
+			(at 247.65 15.7479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 247.65 18.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+			(at 250.19 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 250.19 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 245.11 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "0e7a41f7-66b6-4bb4-97f2-719c743cb42f")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "TP21")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
 		(lib_id "power:GND")
 		(at 33.02 68.58 0)
 		(unit 1)
@@ -4591,6 +5065,85 @@
 			(project "DMH_Output_PCB_Main"
 				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
 					(reference "#PWR042")
+					(unit 1)
+				)
+			)
+		)
+	)
+	(symbol
+		(lib_id "Connector:TestPoint")
+		(at 261.62 20.32 0)
+		(unit 1)
+		(body_style 1)
+		(exclude_from_sim no)
+		(in_bom no)
+		(on_board yes)
+		(in_pos_files yes)
+		(dnp yes)
+		(fields_autoplaced yes)
+		(uuid "e7eaaba0-b627-4d48-86a1-36eb0b9f547f")
+		(property "Reference" "TP22"
+			(at 264.16 15.7479 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Value" "TestPoint"
+			(at 264.16 18.2879 0)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(justify left)
+			)
+		)
+		(property "Footprint" "Connector_Pin:Pin_D1.0mm_L10.0mm"
+			(at 266.7 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Datasheet" ""
+			(at 266.7 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(property "Description" "test point"
+			(at 261.62 20.32 0)
+			(hide yes)
+			(show_name no)
+			(do_not_autoplace no)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+			)
+		)
+		(pin "1"
+			(uuid "95c3326a-288a-41c2-9705-9f057a2219d5")
+		)
+		(instances
+			(project "DMH_Output_PCB_Main"
+				(path "/58f4306d-5387-4983-bb08-41a2313fd315"
+					(reference "TP22")
 					(unit 1)
 				)
 			)
