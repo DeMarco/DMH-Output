@@ -30,8 +30,8 @@ This pre-amp has been designed with line level signals in mind, like those comin
 
 ## Current consumption
 
-+12V --> 105mA
--12V --> 105mA
++12V --> 110mA
+-12V --> 110mA
 
 ## Dimensions
 
@@ -43,33 +43,17 @@ Depth: 4cm
 
 ## PCB set
 
-### Front Panel
+- Front Panel
+- Controls
+- LEDs Aligner
+- Main
+- Mezzanine
 
-<img width="446" height="867" alt="panel" src="https://github.com/user-attachments/assets/764925c6-9d72-4200-b7ff-75c81ad03acf" />
+Final Gerbers in .zip packages available in "Gerbers" folder
 
-### Controls
+## Assembly Instructions
 
-<img width="527" height="797" alt="controls_front" src="https://github.com/user-attachments/assets/bed222dd-8213-46e1-926a-9eb5f1b79a4f" />
-<img width="485" height="812" alt="controls_back" src="https://github.com/user-attachments/assets/14a6070d-344b-4c20-958c-9a2f34fc222b" />
-
-### LEDs Aligner
-
-<img width="397" height="762" alt="LED_aligner" src="https://github.com/user-attachments/assets/a042b71a-2dc3-42e8-ba62-c84637896d35" />
-
-### Main
-
-<img width="777" height="782" alt="main_front" src="https://github.com/user-attachments/assets/1dea57ee-c1fd-40f8-8990-2a275d378295" />
-<img width="500" height="842" alt="main_back" src="https://github.com/user-attachments/assets/67c615bc-0325-43b8-90a8-feeea42efab8" />
-
-### Mezzanine
-
-<img width="597" height="862" alt="mezzanine_front" src="https://github.com/user-attachments/assets/b6178ea6-a4dc-4d31-8eeb-487901b44f70" />
-<img width="537" height="840" alt="mezzanine_back" src="https://github.com/user-attachments/assets/63cd2d41-9567-4097-a709-0a4931e2038c" />
-
-
-
-Final Gerbers available in "Gerbers" folder
-
+https://github.com/DeMarco/DMH-Output/blob/main/Assembly_Instructions.md
 
 ## Font
 
