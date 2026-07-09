@@ -2875,7 +2875,7 @@
 	)
 	(hierarchical_label "R_Bal_OUT_N_M"
 		(shape output)
-		(at 177.8 215.9 0)
+		(at 177.8 165.1 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2886,7 +2886,7 @@
 	)
 	(hierarchical_label "R_Bal_OUT_P_M"
 		(shape output)
-		(at 177.8 165.1 0)
+		(at 177.8 215.9 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2897,7 +2897,7 @@
 	)
 	(hierarchical_label "L_Bal_OUT_P_M"
 		(shape output)
-		(at 177.8 50.8 0)
+		(at 177.8 101.6 0)
 		(effects
 			(font
 				(size 1.27 1.27)
@@ -2919,7 +2919,7 @@
 	)
 	(hierarchical_label "L_Bal_OUT_N_M"
 		(shape output)
-		(at 177.8 101.6 0)
+		(at 177.8 50.8 0)
 		(effects
 			(font
 				(size 1.27 1.27)

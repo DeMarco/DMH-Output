@@ -2173,7 +2173,7 @@
 			)
 		)
 		(property ki_fp_filters "Connector*:*_1x??_*")
-		(path "/824fc238-5889-4012-a2b6-493f2edfd718/6af6fef4-ef5b-4d10-a4fb-1b9a119a7c88")
+		(path "/824fc238-5889-4012-a2b6-493f2edfd718/a5dffbf7-0f8c-48d1-bf5b-c1e2a841d52e")
 		(sheetname "/Balanced Line Driver/")
 		(sheetfile "Balanced_line_driver.kicad_sch")
 		(units
