@@ -1,7 +1,13 @@
 # Output Module - Instructions
 
-## Soldering
+## Schematic and BoM
 
+https://github.com/DeMarco/DMH-Output/blob/main/DMH_Output_Schematic.pdf
+
+https://github.com/DeMarco/DMH-Output/blob/main/DMH_Output_BoM.csv
+
+
+## Soldering
 
 ### Main PCB:
 
@@ -91,7 +97,7 @@ Remove the LED Alginer PCB and the standoffs.
 
 Now finish the Controls PCB by soldering the pin sockets for PCB stacking.
 
-<img width="485" height="812" alt="controls_back" src="https://github.com/user-attachments/assets/14a6070d-344b-4c20-958c-9a2f34fc222b" />]
+<img width="485" height="812" alt="controls_back" src="https://github.com/user-attachments/assets/14a6070d-344b-4c20-958c-9a2f34fc222b" />
 
 
 
