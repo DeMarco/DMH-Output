@@ -38,7 +38,7 @@ This pre-amp has been designed with line level signals in mind, like those comin
 
 Height: 20cm
 
-Width: 10cm
+Width: 5cm
 
 Depth: 5cm
 
