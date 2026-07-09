@@ -31,6 +31,7 @@ This pre-amp has been designed with line level signals in mind, like those comin
 ## Current consumption
 
 +12V --> 110mA
+
 -12V --> 110mA
 
 ## Dimensions
